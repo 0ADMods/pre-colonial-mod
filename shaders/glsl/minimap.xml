@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<program type="glsl">
+
+    <vertex file="glsl/minimap.vs">
+        <stream name="pos"/>
+        <stream name="uv0" if="MINIMAP_BASE || MINIMAP_LOS"/>
+        <stream name="color" if="MINIMAP_POINT"/>
+        <attrib name="a_vertex" semantics="gl_Vertex"/>
+        <attrib name="a_uv0" semantics="gl_MultiTexCoord0" if="MINIMAP_BASE || MINIMAP_LOS"/>
+        <attrib name="a_color" semantics="gl_Color" if="MINIMAP_POINT"/>
+    </vertex>
+
+    <fragment file="glsl/minimap.fs"/>
+
+</program>

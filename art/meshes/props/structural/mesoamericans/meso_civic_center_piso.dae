@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Saul Rodriguez</author>
+      <authoring_tool>Blender 2.70.0 commit date:2014-03-19, commit time:05:02, hash:19e627c</authoring_tool>
+    </contributor>
+    <created>2014-05-11T16:59:50</created>
+    <modified>2014-05-11T16:59:50</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="escalones-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="antorchas-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="decoraciones-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="techo-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="templo-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="piramide-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="piso-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="escalones-material" name="escalones">
+      <instance_effect url="#escalones-effect"/>
+    </material>
+    <material id="antorchas-material" name="antorchas">
+      <instance_effect url="#antorchas-effect"/>
+    </material>
+    <material id="decoraciones-material" name="decoraciones">
+      <instance_effect url="#decoraciones-effect"/>
+    </material>
+    <material id="techo-material" name="techo">
+      <instance_effect url="#techo-effect"/>
+    </material>
+    <material id="templo-material" name="templo">
+      <instance_effect url="#templo-effect"/>
+    </material>
+    <material id="piramide-material" name="piramide">
+      <instance_effect url="#piramide-effect"/>
+    </material>
+    <material id="piso-material" name="piso">
+      <instance_effect url="#piso-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube_009-mesh" name="Cube.009">
+      <mesh>
+        <source id="Cube_009-mesh-positions">
+          <float_array id="Cube_009-mesh-positions-array" count="24">-25.52016 -10.41329 -3.573636 -25.52017 14.61854 -3.573636 1.356767 14.61855 -3.573636 1.356772 -10.41329 -3.573636 -25.52016 -10.41329 0.00610572 -25.52017 14.61854 0.00610578 1.356767 14.61855 0.00610578 1.356772 -10.41329 0.00610572</float_array>
+          <technique_common>
+            <accessor source="#Cube_009-mesh-positions-array" count="8" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_009-mesh-normals">
+          <float_array id="Cube_009-mesh-normals-array" count="30">-1 -1.52394e-7 0 0 1 0 1 1.80968e-7 0 0 -1 0 0 0 1 -1 -1.52394e-7 0 0 1 0 1 1.80968e-7 0 0 -1 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#Cube_009-mesh-normals-array" count="10" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_009-mesh-map-0">
+          <float_array id="Cube_009-mesh-map-0-array" count="60">0.9159629 0.2705826 0.2161889 0.2701705 0.215812 0.1700975 0.1088626 0.1585812 0.8602213 0.1574006 0.8603785 0.2574741 0.8556575 0.2634589 0.1558943 0.2651 0.1552237 0.1650285 0.7513595 0.266175 0 0.266175 0 0.1661013 0.6997787 0.1603363 0.6997789 0.2819336 1.59963e-7 0.2819337 0.9155859 0.1705096 0.9159629 0.2705826 0.215812 0.1700975 0.1090199 0.2586547 0.1088626 0.1585812 0.8603785 0.2574741 0.8549869 0.1633874 0.8556575 0.2634589 0.1552237 0.1650285 0.7513595 0.1661013 0.7513595 0.266175 0 0.1661013 0 0.1603365 0.6997787 0.1603363 1.59963e-7 0.2819337</float_array>
+          <technique_common>
+            <accessor source="#Cube_009-mesh-map-0-array" count="30" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_009-mesh-map-1">
+          <float_array id="Cube_009-mesh-map-1-array" count="60">0.7885401 0.547348 0.7885401 0.9020538 0.7378144 0.9020538 0.8420997 0.3589568 0.8420997 0.739808 0.7913741 0.739808 0.8956594 0.3589568 0.8956594 0.7136627 0.8449338 0.7136627 0.6960902 0.7235046 0.315239 0.7235046 0.315239 0.6727789 0.3822672 0.3561228 0.001416981 0.3561228 0.001416981 0.001416981 0.7378144 0.547348 0.7885401 0.547348 0.7378144 0.9020538 0.7913741 0.3589568 0.8420997 0.3589568 0.7913741 0.739808 0.8449338 0.3589568 0.8956594 0.3589568 0.8449338 0.7136627 0.6960902 0.6727789 0.6960902 0.7235046 0.315239 0.6727789 0.3822672 0.001416981 0.3822672 0.3561228 0.001416981 0.001416981</float_array>
+          <technique_common>
+            <accessor source="#Cube_009-mesh-map-1-array" count="30" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Cube_009-mesh-vertices">
+          <input semantic="POSITION" source="#Cube_009-mesh-positions"/>
+        </vertices>
+        <polylist material="piso-material" count="10">
+          <input semantic="VERTEX" source="#Cube_009-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_009-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_009-mesh-map-0" offset="2" set="0"/>
+          <input semantic="TEXCOORD" source="#Cube_009-mesh-map-1" offset="2" set="1"/>
+          <vcount>3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>4 0 0 5 0 1 1 0 2 5 1 3 6 1 4 2 1 5 6 2 6 7 2 7 3 2 8 7 3 9 4 3 10 0 3 11 6 4 12 5 4 13 4 4 14 0 5 15 4 5 16 1 5 17 1 6 18 5 6 19 2 6 20 2 7 21 6 7 22 3 7 23 3 8 24 7 8 25 0 8 26 7 9 27 6 9 28 4 9 29</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Cube_006" name="Cube_006" type="NODE">
+        <matrix sid="transform">-0.0021743 0.9999976 0 -2.268378 -0.9999976 -0.0021743 0 -12.39119 0 0 1 0.05776595 0 0 0 1</matrix>
+        <instance_geometry url="#Cube_009-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="escalones-material" target="#escalones-material"/>
+              <instance_material symbol="antorchas-material" target="#antorchas-material"/>
+              <instance_material symbol="decoraciones-material" target="#decoraciones-material"/>
+              <instance_material symbol="techo-material" target="#techo-material"/>
+              <instance_material symbol="templo-material" target="#templo-material"/>
+              <instance_material symbol="piramide-material" target="#piramide-material"/>
+              <instance_material symbol="piso-material" target="#piso-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

@@ -1,0 +1,97 @@
+!!ARBvp1.0
+
+PARAM cameraPos = program.local[0];
+PARAM sunDir = program.local[1];
+PARAM sunColor = program.local[2];
+PARAM losTransform = program.local[3];
+PARAM shadowTransform[4] = { program.local[4..7] };
+#if USE_INSTANCING
+  PARAM instancingTransform[4] = { program.local[8..11] };
+#endif
+
+#if USE_FP_SHADOW && USE_SHADOW_PCF
+  PARAM shadowScale = program.local[12];
+#endif
+
+TEMP temp;
+TEMP lighting;
+
+OUTPUT v_tex = result.texcoord[0];
+OUTPUT v_shadow = result.texcoord[1];
+OUTPUT v_los = result.texcoord[2];
+#if USE_SPECULAR
+  OUTPUT v_normal = result.texcoord[3];
+  OUTPUT v_half = result.texcoord[4];
+#endif
+  
+//// Compute position and normal:
+
+#if USE_INSTANCING
+  TEMP position;
+  TEMP normal;
+  DP4 position.x, instancingTransform[0], vertex.position;
+  DP4 position.y, instancingTransform[1], vertex.position;
+  DP4 position.z, instancingTransform[2], vertex.position;
+  MOV position.w, 1.0;
+  DP3 normal.x, instancingTransform[0], vertex.normal;
+  DP3 normal.y, instancingTransform[1], vertex.normal;
+  DP3 normal.z, instancingTransform[2], vertex.normal;
+#else
+  ATTRIB position = vertex.position;
+  ATTRIB normal = vertex.normal;
+#endif
+
+DP4 result.position.x, state.matrix.mvp.row[0], position;
+DP4 result.position.y, state.matrix.mvp.row[1], position;
+DP4 result.position.z, state.matrix.mvp.row[2], position;
+DP4 result.position.w, state.matrix.mvp.row[3], position;
+
+//// Compute lighting:
+
+// Diffuse factor
+DP3 lighting, normal, -sunDir;
+MAX lighting, 0.0, lighting;
+// Scale diffuse to allow overbrightness (since result.color will be clamped to [0, 1])
+MUL lighting, lighting, 0.5;
+// Apply light colour
+MUL result.color, lighting, sunColor;
+
+#if USE_SPECULAR
+  // eyeVec = normalize(cameraPos - position);
+  TEMP eyeVec;
+  SUB eyeVec.xyz, cameraPos, position;
+  DP3 eyeVec.w, eyeVec, eyeVec;
+  RSQ eyeVec.w, eyeVec.w;
+  MUL eyeVec.xyz, eyeVec, eyeVec.w;
+
+  // v_half = normalize(-sunDir + eyeVec);
+  TEMP half;
+  SUB half.xyz, eyeVec, sunDir;
+  DP3 half.w, half, half;
+  RSQ half.w, half.w;
+  MUL v_half.xyz, half, half.w;
+
+  MOV v_normal, normal;
+#endif
+
+//// Texture coordinates:
+
+MOV v_tex, vertex.texcoord[0];
+
+#if USE_SHADOW
+  #if USE_FP_SHADOW && USE_SHADOW_PCF
+    TEMP shadowtc;
+    DP4 shadowtc.x, shadowTransform[0], position;
+    DP4 shadowtc.y, shadowTransform[1], position;
+    MUL v_shadow.xy, shadowtc, shadowScale;
+  #else
+    DP4 v_shadow.x, shadowTransform[0], position;
+    DP4 v_shadow.y, shadowTransform[1], position;
+  #endif
+  DP4 v_shadow.z, shadowTransform[2], position;
+  DP4 v_shadow.w, shadowTransform[3], position;
+#endif
+
+MAD v_los, position.xzzz, losTransform.x, losTransform.y;
+
+END

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_dog">
+  <Attack>
+    <Melee>
+      <Hack>20.0</Hack>
+      <Pierce>0.0</Pierce>
+      <Crush>20.0</Crush>
+      <MaxRange>6.0</MaxRange>
+      <RepeatTime>2000</RepeatTime>
+    </Melee>
+  </Attack>
+  <Health>
+    <Max>250</Max>
+  </Health>
+  <Armour>
+    <Hack>9</Hack>
+    <Pierce>9</Pierce>
+    <Crush>1</Crush>
+  </Armour>
+  <TrainingRestrictions>
+    <Category>-WarDog</Category>
+  </TrainingRestrictions>
+  <Cost>
+    <BuildTime>40</BuildTime>
+    <Resources>
+      <water>100</water>
+	  <food>0</food>
+    </Resources>
+	<Population>1</Population>
+  </Cost>
+  <Footprint>
+    <Circle radius="1.3"/>
+    <Height>3.5</Height>
+  </Footprint>
+  <Identity>
+    <Civ>{civ}</Civ>
+	<Classes datatype="tokens">Tamed</Classes>
+    <SpecificName>Attack Bear</SpecificName>
+	<GenericName>Attack Bear</GenericName>
+    <Icon>gaia/fauna_bear.png</Icon>
+  </Identity>
+  <Position>
+    <Anchor>pitch</Anchor>
+  </Position>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/lion_select.xml</select>
+      <attack>actor/fauna/animal/lion_attack.xml</attack>
+      <death>actor/fauna/animal/lion_select.xml</death>
+	  <trained>actor/fauna/animal/sheep.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <VisualActor>
+    <Actor>fauna/bear.xml</Actor>
+  </VisualActor>
+  <Promotion disable=""/>
+</Entity>

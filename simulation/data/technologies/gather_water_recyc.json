@@ -1,0 +1,13 @@
+{
+	"genericName": "Basic Recycling",
+	"description": "Research into limestone enhances water gathering from sandpits.",
+	"cost": {"food": 100, "wood": 100, "stone": 100, "metal": 0},
+	"requirements": {"tech": "phase_town"},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "plough.png",
+	"researchTime": 40,
+	"tooltip": "Using Limestone gives +25% water Gathering.",
+	"modifications": [{"value": "ResourceGatherer/Rates/water.farm", "multiply": 1.25}],
+	"affects": ["Worker"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

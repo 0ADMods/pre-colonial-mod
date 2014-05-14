@@ -1,0 +1,12 @@
+{
+	"settings" : {
+		"Name" : "FeXoR - Hightmap",
+		"Script" : "fexor_hightmap.js",
+		"Description" : "Testmap for some functions altering the highmap.",
+		"CircularMap" : false,
+		"BaseTerrain" : "grass1_spring",
+		"BaseHeight" : 0,
+		"Keywords": ["demo"],
+		"XXXXXX" : "Optionally define other things here, like we would for a scenario"
+	}
+}

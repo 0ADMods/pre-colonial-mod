@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant>
+      <mesh>structural/mesoamericans/meso_plaza.dae</mesh>
+      <textures>
+        <texture file="structural/iber_struct.png.cached.dds" name="baseTex"/>
+        <texture file="structural/iber_struct_norm.png.cached.dds" name="normTex"/>
+        <texture file="structural/iber_struct_spec.png.cached.dds" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_ao.xml</material>
+</actor>
