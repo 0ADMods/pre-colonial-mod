@@ -46,12 +46,12 @@
   <group>
     <variant frequency="1" name="Iberian-Tunic-beige">
       <textures>
-        <texture file="skeletal/hele_alexander.dds.cached.dds" name="baseTex"/>
+        <texture file="skeletal/hele_alexander.dds" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Iberian-Tunic-brown">
       <textures>
-        <texture file="skeletal/hele_alexander.dds.cached.dds" name="baseTex"/>
+        <texture file="skeletal/hele_alexander.dds" name="baseTex"/>
       </textures>
     </variant>
   </group>

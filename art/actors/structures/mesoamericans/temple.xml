@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <actor version="1">
-  <castshadow/>
   <group>
-    <variant frequency="100" name="Temple">
-      <mesh>structural/mesoamericans/meso_civic_center_new.dae</mesh>
+    <variant>
+      <colour>0 0 255</colour>
+      <mesh>structural/mesoamericans/meso_civic_center_struct.dae</mesh>
       <props>
-        <prop actor="props/structures/mauryans/temple_struct_b.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/prop_civic_center_antorchas.xml" attachpoint="struct"/>
+        <prop actor="props/structures/mesoamericans/prop_civic_center_decor.xml" attachpoint="struct"/>
+        <prop actor="props/structures/mesoamericans/prop_civic_center_piso.xml" attachpoint="struct"/>
+        <prop actor="props/structures/mesoamericans/prop_civic_center_escalones.xml" attachpoint="struct"/>
+        <prop actor="props/structures/mesoamericans/prop_civic_center_templo.xml" attachpoint="struct"/>
+        <prop actor="props/structures/mesoamericans/prop_civic_center_techo.xml" attachpoint="struct"/>
       </props>
       <textures>
-        <texture file="structural/maur_struct.png" name="baseTex"/>
-        <texture file="structural/maur_struct_spec.png" name="specTex"/>
-        <texture file="structural/maur_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/maur_temple_ao.png" name="aoTex"/>
+        <texture file="structural/meso_struct.png" name="baseTex"/>
+        <texture file="structural/ao/meso_civic_center.png" name="aoTex"/>
+        <texture file="structural/meso_struct_norm.png" name="normTex"/>
+        <texture file="structural/meso_struct_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
   <group>
-    <variant frequency="100" name="Idle"/>
+    <variant name="ldle"/>
     <variant name="garrisoned">
       <props>
-        <prop actor="props/special/common/garrison_flag_mauryans.xml" attachpoint="garrisoned"/>
-      </props>
-    </variant>
-    <variant name="death">
-      <props>
-        <prop attachpoint="garrisoned"/>
-        <prop actor="particle/destruction_smoke_med.xml" attachpoint="root"/>
-        <prop actor="particle/destruction_dust_med.xml" attachpoint="root"/>
-        <prop actor="particle/destruction_dust_med_gray.xml" attachpoint="root"/>
-        <prop actor="props/structures/mauryans/temple_struct_b.xml" attachpoint="root"/>
+        <prop actor="particle/flame.xml" attachpoint="garrison"/>
+        <prop actor="particle/flame.xml" attachpoint="garrison_2"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="garrison"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="garrison_2"/>
       </props>
     </variant>
   </group>
-  <material>player_trans_ao_parallax_spec.xml</material>
 </actor>

@@ -48,7 +48,7 @@
         <prop actor="props/units/heads/iber_helmet_04.xml" attachpoint="helmet"/>
       </props>
       <textures>
-        <texture file="skeletal/iber_isp_a_1.dds.cached.dds" name="baseTex"/>
+        <texture file="skeletal/iber_isp_a_1.dds" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Scutarius-Body-Texture-2">
