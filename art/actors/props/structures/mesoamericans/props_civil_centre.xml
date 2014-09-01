@@ -2,12 +2,13 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant name="props_Barrack">
-      <mesh>props/structural/mesoamericans/meso_barrack_decor_2.dae</mesh>
+    <variant>
+      <mesh>props/structural/mesoamericans/props_civil_centre.dae</mesh>
       <textures>
         <texture file="structural/meso_struct.png" name="baseTex"/>
+        <texture file="structural/meso_struct_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
-  <material>player_trans.xml</material>
+  <material>playercolor_spec.xml</material>
 </actor>

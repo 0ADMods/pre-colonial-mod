@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant>
+      <mesh>props/structural/mesoamericans/decors_b_house_a.dae</mesh>
+      <textures>
+        <texture file="props/wrld_wood.dds" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>playercolor_spec.xml</material>
+</actor>

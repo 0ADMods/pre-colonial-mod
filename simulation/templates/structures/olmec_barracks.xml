@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_barracks">
+  <Cost>
+    <Resources>
+      <wood>150</wood>
+      <stone>150</stone>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="15" depth="15"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>olmec</Civ>
+    <SpecificName>Stratēgeîon</SpecificName>
+    <History>The Strategeion was the main military headquarters, where important decisions were taken and plans for battles discussed by the Hellene Generals, or "Strategoi".</History>
+  </Identity>
+  <Obstruction>
+    <Static width="15" depth="15"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/athen_infantry_spearman_b
+      units/athen_infantry_javelinist_b
+      units/athen_infantry_slinger_b
+      units/athen_cavalry_swordsman_b
+      units/athen_cavalry_javelinist_b
+    </Entities>
+    <Technologies datatype="tokens">
+	  -unlock_champion_units
+	  upgrade_rank_advanced_infantry
+	  upgrade_rank_elite_infantry
+    </Technologies>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/mesoamericans/barracks.xml</Actor>
+    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
+  </VisualActor>
+</Entity>

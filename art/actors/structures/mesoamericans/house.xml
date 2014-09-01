@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant name="House a">
+      <mesh>structural/mesoamericans/house_a_struct.dae</mesh>
+      <props>
+        <prop actor="props/structures/mesoamericans/decor_a_house_a.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/decor_b_house_a.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/prop_house_a.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/props_house_a.xml" attachpoint="root"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="smoke"/>
+      </props>
+      <textures>
+        <texture file="structural/meso_struct.png" name="baseTex"/>
+        <texture file="structural/ao/ao_house_a.png" name="aoTex"/>
+        <texture file="structural/meso_struct_norm.png" name="normTex"/>
+        <texture file="structural/meso_struct_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant name="House b">
+      <mesh>structural/mesoamericans/house_b_struct.dae</mesh>
+      <props>
+        <prop actor="props/structures/mesoamericans/decor_a_house_b.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/decor_b_house_b.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/decors_a_house_b.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/prop_b_house_b.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/prop_house_a.xml" attachpoint="root"/>
+        <prop actor="props/structures/mesoamericans/prop_house_b.xml" attachpoint="root"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="smoke"/>
+      </props>
+      <textures>
+        <texture file="structural/hele_struct.dds" name="baseTex"/>
+        <texture file="structural/ao/ao_house_b.png" name="aoTex"/>
+        <texture file="structural/hele_struct_norm.png" name="normTex"/>
+        <texture file="structural/hele_struct_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_ao_parallax_spec.xml</material>
+</actor>

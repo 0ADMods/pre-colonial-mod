@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant>
+      <mesh>props/structural/mesoamericans/props_wepondery.dae</mesh>
+      <textures>
+        <texture file="props/wrld_wood.dds" name="baseTex"/>
+        <texture file="props/ao/ao_props_wepondry.png" name="aoTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_ao_parallax_spec.xml</material>
+</actor>
