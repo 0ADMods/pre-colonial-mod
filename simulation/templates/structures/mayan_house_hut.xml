@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_house">
+  <Footprint replace="">
+    <Square width="17.5" depth="11.5"/>
+    <Height>5.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>gaul</Civ>
+    <SpecificName>Annedd</SpecificName>
+    <History>Celts generally lived in round stone or wattle and daub walled structures with thatched roof.</History>
+  </Identity>
+  <Obstruction>
+    <Static width="17.0" depth="11.0"/>
+  </Obstruction>
+  <TerritoryInfluence>
+    <Radius>16</Radius>
+    <Weight>65536</Weight>
+  </TerritoryInfluence>
+  <VisualActor>
+    <Actor>structures/mayan/mayan_house.xml</Actor>
+    <FoundationActor>structures/fndn_2x4.xml</FoundationActor>
+  </VisualActor>
+</Entity>
