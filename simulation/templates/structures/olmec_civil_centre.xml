@@ -10,24 +10,20 @@
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">
-	units/olmec_infantry_spearman_b
-	-units/{civ}_support_female_citizen
+      units/olmec_infantry_spearman_b
+      -units/{civ}_support_female_citizen
     </Entities>
     <Technologies datatype="tokens">
-      -phase_town_generic
-      phase_town_athen
-      -phase_city_generic
-      phase_city_athen
     </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/mesoamericans/civil_centre.xml</Actor>
   </VisualActor>
- 	<Footprint>
-		<Square width="45" depth="40"/>
-		<Height>8.0</Height>
-	</Footprint>
-	<Obstruction>
-		<Static width="45.0" depth="40.0"/>
-	</Obstruction>
+  <Footprint>
+    <Square width="45" depth="40"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Obstruction>
+    <Static width="45.0" depth="40.0"/>
+  </Obstruction>
 </Entity>

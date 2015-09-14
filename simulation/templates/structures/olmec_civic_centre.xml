@@ -10,14 +10,10 @@
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">
-	units/olmec_infantry_spearman_b
-	-units/{civ}_support_female_citizen
+      units/olmec_infantry_spearman_b
+      -units/{civ}_support_female_citizen
     </Entities>
     <Technologies datatype="tokens">
-      -phase_town_generic
-      phase_town_athen
-      -phase_city_generic
-      phase_city_athen
     </Technologies>
   </ProductionQueue>
   <VisualActor>

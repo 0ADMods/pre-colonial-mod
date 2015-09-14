@@ -2,7 +2,6 @@
 <actor version="1">
   <group>
     <variant>
-      <colour>0 0 255</colour>
       <mesh>structural/mesoamericans/meso_civic_center_struct.dae</mesh>
       <props>
         <prop actor="props/structures/mesoamericans/prop_civic_center_antorchas.xml" attachpoint="struct"/>
@@ -31,4 +30,5 @@
       </props>
     </variant>
   </group>
+  <material>player_trans_parallax_spec.xml</material>
 </actor>
