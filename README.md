@@ -1,15 +1,16 @@
 # Pre-colonial Mod
 
-This mod is a new and better version of my other mod
+The new version of Mesoamerican Mod
 
-##TODO List
+from 900 to 1521
 
--change the gameplay of the new civilizations
--add building set for the new civilizations
+## Civilizations
 
-##Civilizations
+- Mexicas
+- Preclasical Mayas(like the Greeks whit city-states, more that one maya civilization)
+- Tlaxcaltecas
+- Incas
+- Toltecs
+- Pipiles
+- Tarascos
 
--Mexicas
--Tlaxcalans
--Incas
--Pueblo
