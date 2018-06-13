@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant name="Shield A">
+      <mesh>props/shields/mexica_shield_a.dae</mesh>
+      <textures>
+        <texture file="props/shield/mexica_shield_a.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>playercolor_spec.xml</material>
+</actor>

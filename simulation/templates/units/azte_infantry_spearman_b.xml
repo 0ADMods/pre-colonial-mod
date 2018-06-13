@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman_hoplite">
+  <Identity>
+    <Civ>azte</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/athen_infantry_spearman_b</SelectionGroupName>
+    <GenericName>Aztec Spearman</GenericName>
+    <SpecificName>Guerrero Puma</SpecificName>
+    <Icon>units/athen_infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/azte_infantry_spearman_a</Entity>
+  </Promotion>
+  <Builder>
+    <Entities datatype="tokens">
+      structures/azte_chinampa
+    </Entities>
+  </Builder>
+  <Cost>
+    <BuildTime>50</BuildTime>
+    <Resources>
+      <food>150</food>
+      <wood>20</wood>
+    </Resources>
+  </Cost>
+  <VisualActor>
+    <Actor>units/mexica/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

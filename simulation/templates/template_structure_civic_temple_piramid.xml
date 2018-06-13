@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic">
+  <Auras datatype="tokens">
+    structures/temple_heal
+  </Auras>
+  <BuildRestrictions>
+    <Territory>own neutral</Territory>
+    <Category>Temple</Category>
+    <Distance>
+      <FromClass>CivilCentre</FromClass>
+      <MinDistance>20</MinDistance>
+    </Distance>
+  </BuildRestrictions>
+  <Cost>
+    <PopulationBonus>8</PopulationBonus>
+    <BuildTime>300</BuildTime>
+    <Resources>
+      <stone>500</stone>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="24.0" depth="24.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>20</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry Cavalry</List>
+    <BuffHeal>3</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>3000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x6</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Piramidal Temple</GenericName>
+    <Tooltip>Train healers. Garrison units to heal them at a quick rate (3 HP per second). Research healing and religious improvements.</Tooltip>
+    <VisibleClasses datatype="tokens">Town Temple</VisibleClasses>
+    <Icon>structures/temple.png</Icon>
+  </Identity>
+  <Loot>
+    <stone>60</stone>
+  </Loot>
+  <Obstruction>
+    <Static width="17.5" depth="30.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}_support_healer_b
+      units/{civ}_champion_infantry_spearman
+      units/{civ}_champion_infantry_archer
+      units/{civ}_champion_infantry_slinger
+    </Entities>
+    <Technologies datatype="tokens">
+      phase_town
+      phase_city
+      heal_range
+      heal_range_2
+      heal_rate
+      heal_rate_2
+      heal_temple
+      health_regen_units
+    </Technologies>
+  </ProductionQueue>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_temple.xml</select>
+      <constructed>interface/complete/building/complete_temple.xml</constructed>
+      <death>attack/destruction/building_collapse_large.xml</death>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>40</Radius>
+    <Weight>30000</Weight>
+  </TerritoryInfluence>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <FoundationActor>structures/fndn_4x6.xml</FoundationActor>
+  </VisualActor>
+</Entity>

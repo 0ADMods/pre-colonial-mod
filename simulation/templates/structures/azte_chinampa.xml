@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_chinampa">
+  <Identity>
+    <Civ>azte</Civ>
+    <SpecificName>Chinampa</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/mexica/mexica_fiel_chinampa.xml</Actor>
+  </VisualActor>
+</Entity>

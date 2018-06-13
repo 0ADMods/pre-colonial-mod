@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_resource_sandpit">
-  <Identity>
-    <Civ>pers</Civ>
-    <SpecificName>Kaštrya</SpecificName>
-    <History>A farmer's field.</History>
-  </Identity>
-</Entity>

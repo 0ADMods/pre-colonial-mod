@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_slave_amerindian">
+   <Builder>
+    <Entities datatype="tokens">
+      structures/azte_chinampa
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>azte</Civ>
+    <SpecificName>Esclavo</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>units/global/slave.xml</Actor>
+  </VisualActor>
+</Entity>

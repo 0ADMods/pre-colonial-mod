@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_slinger">
+  <Identity>
+    <Civ>azte</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/athen_infantry_slinger_b</SelectionGroupName>
+    <GenericName>Aztec Slinger</GenericName>
+    <SpecificName>Hondero</SpecificName>
+    <Icon>units/athen_infantry_slinger.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/azte_infantry_slinger_a</Entity>
+  </Promotion>
+  <Builder>
+    <Entities datatype="tokens">
+      structures/azte_chinampa
+    </Entities>
+  </Builder>
+  <Cost>
+    <BuildTime>40</BuildTime>
+    <Resources>
+      <food>50</food>
+      <stone>20</stone>
+      <wood>40</wood>
+    </Resources>
+  </Cost>
+  <VisualActor>
+    <Actor>units/athenians/infantry_slinger_b.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,9 +1,8 @@
 {
-	"name": "ocelotlazohteotl",
-	"version": "0.0.19",
-	"label": "0 A.D. Empires Ascendant",
-	"url": "play0ad.com",
-	"description": "A free mesoamerican mod made by Trinketos.",
-	"dependencies": [],
-	"type": "game"
+	"name": "precolonial",
+	"version": "0.0.23",
+	"label": "Precolonial Mod",
+	"url": "universosaul@hotmail.com",
+	"description": "add the aztecs",
+	"dependencies": ["0ad"]
 }

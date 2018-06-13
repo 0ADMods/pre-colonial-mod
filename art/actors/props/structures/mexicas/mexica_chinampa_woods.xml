@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <float />
+  <group>
+    <variant frequency="1" name="Chinampa Woods">
+      <mesh>structures/buildings/chinampa_woods.dae</mesh>
+      <textures>
+        <texture file="structural/chinampa.png" name="baseTex" />
+        <texture file="structural/chinampa_spec.png" name="specTex" />
+        <texture file="structural/chinampa_normal.png" name="normTex" />
+        <texture file="structural/ao/chinapa_ao.png" name="aoTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_parallax_spec.xml</material>
+</actor>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_civil_centre">
+  <Footprint>
+    <Square width="45.0" depth="45.0"/>
+  </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_hele_cc</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>azte</Civ>
+    <GenericName>Ceremonial Center</GenericName>
+    <SpecificName>Centro Ceremonial</SpecificName>
+  </Identity>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_infantry_spearman_b
+      units/{civ}_infantry_slinger_b
+      units/{civ}_javelinist_b
+      units/{civ}_support_healer_b
+      units/{civ}_support_slave
+    </Entities>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/mexica/mexica_civil_centre_structure.xml</Actor>
+  </VisualActor>
+</Entity>

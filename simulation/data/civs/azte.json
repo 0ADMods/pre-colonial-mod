@@ -1,0 +1,77 @@
+{
+    "Code":"azte",
+    "Culture":"nahua",
+    "Name":"Mexicas",
+    "Emblem": "session/portraits/emblems/emblem_mexica.png",
+    "History": "",
+    "Music":[],
+    "Factions":
+	[],
+    "CivBonuses":[],
+    "TeamBonuses":[],
+	"Structures":
+	[
+		{
+			"Name":"Chinampa",
+			"Class":"SB",
+			"Emblem":"",
+			"History":"",
+			"Requirements":".",
+			"Phase":"City",
+			"Special":"."
+		}
+	],
+    "WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/azte_wallset_stone"
+    ],
+    "StartEntities":
+	[
+		{
+			"Template": "structures/azte_civil_centre"
+		},
+		{
+			"Template": "units/azte_support_female_citizen",
+			"Count": 5
+		},
+		{
+			"Template": "units/azte_infantry_spearman_b",
+			"Count": 5
+		}
+    ],
+    "Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+		"Acamapichtli",
+		"Huitzilíhuitl",
+		"Chimalpopoca",
+		"Itzcóatl",
+		"Moctezuma I",
+		"Axayácatl",
+		"Tízoc",
+        "Ahuízotl",
+        "Moctezuma II",
+        "Cuitláhuac",
+        "Cuauhtémoc"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_infantry_melee_b": "units/azte_spearman_swordsman_b",
+		"skirmish/units/default_infantry_melee_a": "units/azte_infantry_swordsman_b",
+		"skirmish/structures/default_house_5": "structures/{civ}_house"
+	},
+	"SelectableInGameSetup": true
+}
