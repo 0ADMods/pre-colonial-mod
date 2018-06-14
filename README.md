@@ -7,7 +7,7 @@ from 900 to 1521
 ## Civilizations
 
 - Mexicas
-- Preclasical Mayas(like the Greeks whit city-states, more that one maya civilization)
+- Clasical Mayas(like the Greeks whit city-states, more that one maya civilization)
 - Tlaxcaltecas
 - Incas
 - Toltecs
