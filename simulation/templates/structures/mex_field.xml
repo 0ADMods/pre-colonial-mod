@@ -3,7 +3,7 @@
   <Identity>
     <Civ>azte</Civ>
     <GenericName>Land Field</GenericName>
-    <SpecificName>Cultivos de Tierra</SpecificName>
+    <SpecificName>?</SpecificName>
   </Identity>
   <ResourceSupply>
     <KillBeforeGather>false</KillBeforeGather>

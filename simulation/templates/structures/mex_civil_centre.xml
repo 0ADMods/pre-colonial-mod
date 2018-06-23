@@ -8,15 +8,11 @@
   </Health>
   <Identity>
     <Civ>azte</Civ>
-    <GenericName>Ceremonial Center</GenericName>
-    <SpecificName>Centro Ceremonial</SpecificName>
+    <GenericName>City Center</GenericName>
+    <SpecificName>?</SpecificName>
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_infantry_spearman_b
-      units/{civ}_infantry_slinger_b
-      units/{civ}_javelinist_b
-      units/{civ}_support_healer_b
       units/{civ}_support_slave
     </Entities>
   </ProductionQueue>

@@ -22,7 +22,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x4</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <GenericName>Water Field</GenericName>
+    <GenericName>Floating Garden</GenericName>
     <Tooltip>Build upon a shoreline for food</Tooltip>
     <Classes datatype="tokens">Naval Field</Classes>
     <VisibleClasses datatype="tokens">Economic Village Dock</VisibleClasses>

@@ -2,8 +2,8 @@
 <Entity parent="template_structure_military_armory">
   <Identity>
     <Civ>azte</Civ>
-    <GenericName>Wepon Storehouse</GenericName>
-    <SpecificName>Almacen de Armas</SpecificName>
+    <GenericName>Weapon Storehouse</GenericName>
+    <SpecificName>?</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/blacksmith.xml</Actor>

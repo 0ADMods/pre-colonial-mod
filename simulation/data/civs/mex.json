@@ -1,9 +1,9 @@
 {
-    "Code":"azte",
+    "Code":"mex",
     "Culture":"nahua",
     "Name":"Mexicas",
     "Emblem": "session/portraits/emblems/emblem_mexica.png",
-    "History": "",
+    "History": "the Mexicas were the inhabitants of the city-state of Tenochtitlan, it was part of the triple alliance (Aztecs).",
     "Music":[],
     "Factions":
 	[],
@@ -23,22 +23,17 @@
 	],
     "WallSets":
 	[
-		"other/wallset_palisade",
-		"structures/azte_wallset_stone"
+		"other/wallset_palisade"
     ],
     "StartEntities":
 	[
 		{
-			"Template": "structures/azte_civil_centre"
+			"Template": "structures/mex_civil_centre"
 		},
 		{
-			"Template": "units/azte_support_female_citizen",
-			"Count": 5
+			"Template": "units/mex_support_female_citizen",
+			"Count": 15
 		},
-		{
-			"Template": "units/azte_infantry_spearman_b",
-			"Count": 5
-		}
     ],
     "Formations":
 	[
@@ -69,8 +64,8 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_infantry_melee_b": "units/azte_spearman_swordsman_b",
-		"skirmish/units/default_infantry_melee_a": "units/azte_infantry_swordsman_b",
+		"skirmish/units/default_infantry_melee_b": "units/mex_spearman_swordsman_b",
+		"skirmish/units/default_infantry_melee_a": "units/mex_infantry_swordsman_b",
 		"skirmish/structures/default_house_5": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true

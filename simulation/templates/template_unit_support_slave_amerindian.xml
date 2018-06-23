@@ -17,7 +17,6 @@
       structures/{civ}_defense_tower
       structures/{civ}_wallset_stone
       structures/{civ}_civil_centre
-      structures/{civ}_fortress
     </Entities>
   </Builder>
   <Cost>

@@ -2,7 +2,7 @@
 <Entity parent="template_structure_civic_house_big_amerindian">
   <Identity>
     <Civ>azte</Civ>
-    <SpecificName>Casa Mexica</SpecificName>
+    <SpecificName>?</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/mexica/house.xml</Actor>

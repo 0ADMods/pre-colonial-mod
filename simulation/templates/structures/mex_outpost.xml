@@ -3,7 +3,6 @@
   <Identity>
     <Civ>azte</Civ>
     <GenericName>Mexica Outpost</GenericName>
-    <SpecificName>Puesto de Observacion</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/outpost.xml</Actor>

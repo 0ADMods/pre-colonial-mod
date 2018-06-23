@@ -6,10 +6,6 @@
   <BuildRestrictions>
     <Territory>own neutral</Territory>
     <Category>Temple</Category>
-    <Distance>
-      <FromClass>CivilCentre</FromClass>
-      <MinDistance>20</MinDistance>
-    </Distance>
   </BuildRestrictions>
   <Cost>
     <PopulationBonus>8</PopulationBonus>

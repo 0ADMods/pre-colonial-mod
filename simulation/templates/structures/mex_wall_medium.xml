@@ -7,7 +7,7 @@
   <Identity>
     <Civ>azte</Civ>
     <SelectionGroupName>structures/athen_wallset_stone</SelectionGroupName>
-    <SpecificName>Muro Medio</SpecificName>
+    <SpecificName>?</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="24.0" depth="6.0"/>

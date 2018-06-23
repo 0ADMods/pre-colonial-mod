@@ -2,7 +2,7 @@
 <Entity parent="template_structure_resource_corral">
   <Identity>
     <Civ>azte</Civ>
-    <SpecificName>Corral</SpecificName>
+	<GenericName>?</GenericName>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/corral.xml</Actor>
