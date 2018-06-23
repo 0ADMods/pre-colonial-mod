@@ -15,7 +15,7 @@
     <Civ>mex</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/mex_infantry_javelinist_b</SelectionGroupName>
-    <GenericName>Aztec Javelinist</GenericName>
+    <GenericName>Mexica Javelinist</GenericName>
     <SpecificName>?</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <Icon>units/hele_infantry_javelinist.png</Icon>

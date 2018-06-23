@@ -1,41 +1,130 @@
 {
-    "Code":"mex",
-    "Culture":"nahua",
-    "Name":"Mexicas",
-    "Emblem": "session/portraits/emblems/emblem_mexica.png",
-    "History": "the Mexicas were the inhabitants of the city-state of Tenochtitlan, it was part of the triple alliance (Aztecs).",
-    "Music":[],
-    "Factions":
-	[],
-    "CivBonuses":[],
-    "TeamBonuses":[],
+	"Code":"mex",
+	"Culture":"nahua",
+	"Name":"Mexicas",
+	"Emblem":"session/portraits/emblems/emblem_mexica.png",
+	"History":".",
+	"Music":[],
+	"Factions":
+	[
+		{
+			"Name":"",
+			"Description":"",
+			"Technologies":
+			[
+				{
+					"Name":"",
+					"History":"",
+					"Description":""
+				},
+				{
+					"Name":"",
+					"History":"",
+					"Description":""
+				},
+				{
+					"Name":"",
+					"History":"",
+					"Description":""
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name":"",
+					"Class":"",
+					"Armament":"",
+					"Emblem":"",
+					"History":""
+				},
+				{
+					"Name":"",
+					"Class":"",
+					"Armament":"",
+					"Emblem":"",
+					"History":""
+				},
+				{
+					"Name":"",
+					"Class":"",
+					"Armament":"",
+					"Emblem":"",
+					"History":"."
+				}
+			]
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name":"",
+			"History":"",
+			"Description":""
+		},
+		{
+			"Name":"",
+			"History":"",
+			"Description":""
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name":"",
+			"History":"",
+			"Description":""
+		}
+	],
 	"Structures":
 	[
 		{
-			"Name":"Chinampa",
-			"Class":"SB",
+			"Name":"",
+			"Class":"",
+			"Emblem":"",
+			"History":".",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":""
+		},
+		{
+			"Name":"",
+			"Class":"",
 			"Emblem":"",
 			"History":"",
-			"Requirements":".",
+			"Requirements":"",
 			"Phase":"City",
-			"Special":"."
+			"Special":""
+		},
+		{
+			"Name":"",
+			"Class":"",
+			"Emblem":"",
+			"History":"",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":""
 		}
 	],
-    "WallSets":
+	"WallSets":
 	[
-		"other/wallset_palisade"
-    ],
-    "StartEntities":
+		"other/wallset_palisade",
+		"structures/mex_wallset_stone"
+	],
+	"StartEntities":
 	[
 		{
 			"Template": "structures/mex_civil_centre"
 		},
 		{
 			"Template": "units/mex_support_female_citizen",
-			"Count": 15
+			"Count": 5
 		},
-    ],
-    "Formations":
+		{
+			"Template": "units/mex_support_slave",
+			"Count": 5
+		}
+	],
+	"Formations":
 	[
 		"special/formations/null",
 		"special/formations/box",
@@ -46,7 +135,8 @@
 		"special/formations/flank",
 		"special/formations/skirmish",
 		"special/formations/wedge",
-		"special/formations/battle_line"
+		"special/formations/battle_line",
+		"special/formations/phalanx"
 	],
 	"AINames":
 	[
@@ -57,16 +147,15 @@
 		"Moctezuma I",
 		"Axayácatl",
 		"Tízoc",
-        "Ahuízotl",
-        "Moctezuma II",
-        "Cuitláhuac",
-        "Cuauhtémoc"
+		"Ahuízotl",
+		"Moctezuma II",
+		"Cuitláhuac",
+		"Cuauhtémoc"
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_infantry_melee_b": "units/mex_spearman_swordsman_b",
-		"skirmish/units/default_infantry_melee_a": "units/mex_infantry_swordsman_b",
-		"skirmish/structures/default_house_5": "structures/{civ}_house"
+		"skirmish/units/default_infantry_ranged_b": "units/athen_infantry_archer_b",
+		"skirmish/structures/default_house_10": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true
 }

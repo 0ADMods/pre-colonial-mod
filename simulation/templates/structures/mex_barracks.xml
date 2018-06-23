@@ -2,7 +2,7 @@
 <Entity parent="template_structure_military_barracks">
   <Cost>
     <Resources>
-      <stone>340</stone>
+      <stone>240</stone>
     </Resources>
   </Cost>
   <Footprint>
