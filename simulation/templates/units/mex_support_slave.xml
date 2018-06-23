@@ -2,12 +2,12 @@
 <Entity parent="template_unit_support_slave_amerindian">
    <Builder>
     <Entities datatype="tokens">
-      structures/azte_chinampa
+      structures/mex_chinampa
     </Entities>
   </Builder>
   <Identity>
-    <Civ>azte</Civ>
-    <SpecificName>Esclavo</SpecificName>
+    <Civ>mex</Civ>
+    <SpecificName>?</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>units/global/slave.xml</Actor>

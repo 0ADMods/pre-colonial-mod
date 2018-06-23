@@ -13,7 +13,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <GenericName>War Temple</GenericName>
     <SpecificName>?</SpecificName>
   </Identity>

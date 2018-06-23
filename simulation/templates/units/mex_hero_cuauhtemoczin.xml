@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_infantry_javelinist">
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <Lang>greek</Lang>
     <GenericName>Cuauhtemoc</GenericName>
     <SpecificName>Cuauhtemoczin</SpecificName>

@@ -8,7 +8,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_hele_dock</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <GenericName>Cannoe Builder</GenericName>
     <SpecificName>?</SpecificName>
   </Identity>

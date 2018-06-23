@@ -5,8 +5,8 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Civ>azte</Civ>
-    <SpecificName>Canoa mercante</SpecificName>
+    <Civ>mex</Civ>
+    <SpecificName>?</SpecificName>
     <Icon>units/hele_ship_merchant.png</Icon>
   </Identity>
   <VisualActor>

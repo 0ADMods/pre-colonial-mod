@@ -7,7 +7,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_hele_cc</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <GenericName>City Center</GenericName>
     <SpecificName>?</SpecificName>
   </Identity>

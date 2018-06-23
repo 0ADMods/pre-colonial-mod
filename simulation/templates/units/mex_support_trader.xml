@@ -5,9 +5,9 @@
     <Height>3.0</Height>
   </Footprint>
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <Lang>greek</Lang>
-    <SpecificName>Comerciante</SpecificName>
+    <SpecificName>?</SpecificName>
     <Icon>units/hele_support_trader.png</Icon>
   </Identity>
   <VisualActor>

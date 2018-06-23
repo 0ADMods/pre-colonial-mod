@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_slinger">
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/athen_infantry_slinger_b</SelectionGroupName>
-    <GenericName>Aztec Slinger</GenericName>
-    <SpecificName>Hondero</SpecificName>
+    <GenericName>Mexica Slinger</GenericName>
+    <SpecificName>?</SpecificName>
     <Icon>units/athen_infantry_slinger.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/azte_infantry_slinger_a</Entity>
+    <Entity>units/mex_infantry_slinger_a</Entity>
   </Promotion>
   <Builder>
     <Entities datatype="tokens">
-      structures/azte_chinampa
+      structures/mex_chinampa
     </Entities>
   </Builder>
   <Cost>

@@ -2,12 +2,12 @@
 <Entity parent="template_unit_support_female_citizen">
    <Builder>
     <Entities datatype="tokens">
-      structures/azte_chinampa
+      structures/mex_chinampa
     </Entities>
   </Builder>
   <Identity>
     <Civ>azte</Civ>
-    <SpecificName>Comadrona</SpecificName>
+    <SpecificName>?</SpecificName>
     <GenericName>Mexica Woman</GenericName>
     <Icon>units/hele_support_female_citizen.png</Icon>
     <SelectionGroupName>units/athen_support_female_citizen</SelectionGroupName>

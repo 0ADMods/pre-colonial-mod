@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/azte_infantry_slinger_a">
+<Entity parent="units/mex_infantry_slinger_a">
   <Identity>
     <Rank>Elite</Rank>
   </Identity>

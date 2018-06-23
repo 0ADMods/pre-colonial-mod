@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_spearman_hoplite">
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/athen_infantry_spearman_b</SelectionGroupName>
-    <GenericName>Aztec Spearman</GenericName>
-    <SpecificName>Guerrero Puma</SpecificName>
+    <GenericName>Mexica Spearman</GenericName>
+    <SpecificName>?</SpecificName>
     <Icon>units/athen_infantry_spearman.png</Icon>
   </Identity>
   <Promotion>

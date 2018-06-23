@@ -7,7 +7,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x2</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <SpecificName>?</SpecificName>
   </Identity>
   <Obstruction>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/azte_infantry_spearman_b">
+<Entity parent="units/mex_infantry_spearman_b">
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/azte_infantry_spearman_e</Entity>
+    <Entity>units/mex_infantry_spearman_e</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/athenians/infantry_spearman_a.xml</Actor>
