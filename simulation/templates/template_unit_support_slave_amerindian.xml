@@ -3,20 +3,7 @@
   <Builder>
     <Rate>0.5</Rate>
     <Entities datatype="tokens">
-      structures/{civ}_house
-      structures/{civ}_storehouse
-      structures/{civ}_farmstead
-      structures/{civ}_corral
-      structures/{civ}_outpost
-      other/wallset_palisade
-      structures/{civ}_dock
-      structures/{civ}_barracks
-      structures/{civ}_blacksmith
-      structures/{civ}_temple
-      structures/{civ}_market
-      structures/{civ}_defense_tower
-      structures/{civ}_wallset_stone
-      structures/{civ}_civil_centre
+      structures/{civ}_mining_camp
     </Entities>
   </Builder>
   <Cost>
@@ -37,7 +24,7 @@
     <VisibleClasses datatype="tokens">Slave Worker</VisibleClasses>
     <GenericName>Slave</GenericName>
     <Icon>units/global_slave.png</Icon>
-    <Tooltip>Gatherer with a finite life span. Bonused at mining and lumbering.</Tooltip>
+    <Tooltip>Gatherer with a finite life span. Bonused at mining.</Tooltip>
   </Identity>
   <Loot>
     <xp>1</xp>
@@ -50,15 +37,15 @@
     <MaxDistance>2.0</MaxDistance>
     <BaseSpeed>1.0</BaseSpeed>
     <Rates>
-      <food.fish>0.5</food.fish>
-      <food.fruit>0.5</food.fruit>
-      <food.grain>0.35</food.grain>
-      <food.meat>1</food.meat>
-      <wood.tree>1.0</wood.tree>
-      <wood.ruins>5</wood.ruins>
-      <stone.rock>1.0</stone.rock>
-      <stone.ruins>5</stone.ruins>
-      <metal.ore>1.0</metal.ore>
+      <food.fish>0.1</food.fish>
+      <food.fruit>0.1</food.fruit>
+      <food.grain>0.1</food.grain>
+      <food.meat>1.55</food.meat>
+      <wood.tree>0.5</wood.tree>
+      <wood.ruins>6.75</wood.ruins>
+      <stone.rock>6.75</stone.rock>
+      <stone.ruins>7.75</stone.ruins>
+      <metal.ore>6.755</metal.ore>
       <treasure disable=""/>
     </Rates>
   </ResourceGatherer>

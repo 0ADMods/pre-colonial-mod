@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_civil_centre">
   <Footprint>
-    <Square width="45.0" depth="45.0"/>
+    <Square width="47.0" depth="47.0"/>
   </Footprint>
   <Health>
     <SpawnEntityOnDeath>decay|rubble/rubble_hele_cc</SpawnEntityOnDeath>
@@ -12,11 +12,14 @@
     <SpecificName>?</SpecificName>
   </Identity>
   <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}_support_slave
+      units/{civ}_infantry_spearman_b
+      units/{civ}_infantry_archer_b
+      units/{civ}_infantry_swordsman_b
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/mexica/mexica_civil_centre_structure.xml</Actor>
+    <Actor>structures/mexica/civil_centre.xml</Actor>
   </VisualActor>
 </Entity>

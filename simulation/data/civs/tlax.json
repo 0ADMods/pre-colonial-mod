@@ -1,0 +1,77 @@
+{
+    "Code":"tlax",
+    "Culture":"nahua",
+    "Name":"Tlaxcalans",
+    "Emblem":"session/portraits/emblems/emblem_mexica.png",
+    "History":"T.",
+    "Music":[],
+    "Factions":
+    [
+        {
+            "Name":"Tlaxcalans",
+            "Description":".",
+            "Technologies":[{}],
+            "Heroes":[{}]
+        }
+    ],
+    "CivBonuses":[{}],
+    "TeamBonuses":[{}],
+    "Structures":[{}],
+    "WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/tlax_wallset_stone"
+    ],
+    "StartEntities":
+	[
+		{
+			"Template": "structures/tlax_civil_centre"
+		},
+		{
+			"Template": "units/tlax_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/tlax_support_slave",
+			"Count": 2
+		},
+		{
+			"Template": "units/tlax_infantry_archer_b",
+			"Count": 3
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line",
+		"special/formations/phalanx"
+	],
+	"AINames":
+	[
+		"Acamapichtli",
+		"Huitzilíhuitl",
+		"Chimalpopoca",
+		"Itzcóatl",
+		"Moctezuma I",
+		"Axayácatl",
+		"Tízoc",
+		"Ahuízotl",
+		"Moctezuma II",
+		"Cuitláhuac",
+		"Cuauhtémoc"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_infantry_ranged_b": "units/tlax_infantry_archer_b",
+		"skirmish/structures/default_house_10": "structures/{civ}_house"
+	},
+	"SelectableInGameSetup": false
+}

@@ -21,6 +21,6 @@
   </Obstruction>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/mexica/mexica_wonder_structure.xml</Actor>
+    <Actor>structures/mexica/wonder.xml</Actor>
   </VisualActor>
 </Entity>

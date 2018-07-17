@@ -10,11 +10,16 @@
     <Civ>mex</Civ>
     <SpecificName>?</SpecificName>
   </Identity>
+  <ProductionQueue>
+    <Technologies datatype="tokens">
+      mexicas/chinampa_enamble
+    </Technologies>
+  </ProductionQueue>
   <Obstruction>
     <Static width="16.0" depth="11.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/hellenes/farmstead.xml</Actor>
+    <Actor>structures/mexica/farmstead.xml</Actor>
     <FoundationActor>structures/fndn_4x2.xml</FoundationActor>
   </VisualActor>
 </Entity>

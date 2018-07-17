@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="base">
+      <mesh>props/shield/mexica_shield.dae</mesh>
+      <props>
+        <prop actor="props/units/shields/back.xml" attachpoint="root" />
+        <prop actor="props/units/shields/shield_decoration.xml" attachpoint="decoration"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Shield A">
+      <textures>
+        <texture file="props/shield/mexica_shield_a.png" name="baseTex" />
+        <texture file="props/shield/aspis_smooth_a_norm.png" name="normTex" />
+        <texture file="props/shield/aspis_smooth_a_spec.png" name="specTex" />
+      </textures>
+    </variant>
+    <variant frequency="1" name="Shield B">
+      <textures>
+        <texture file="props/shield/mexica_shield_b.png" name="baseTex" />
+        <texture file="props/shield/aspis_smooth_a_norm.png" name="normTex" />
+        <texture file="props/shield/aspis_smooth_a_spec.png" name="specTex" />
+      </textures>
+    </variant>
+    <variant frequency="1" name="Shield C">
+      <textures>
+        <texture file="props/shield/mexica_shield_c.png" name="baseTex" />
+        <texture file="props/shield/aspis_smooth_a_norm.png" name="normTex" />
+        <texture file="props/shield/aspis_smooth_a_spec.png" name="specTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_parallax_spec.xml</material>
+</actor>

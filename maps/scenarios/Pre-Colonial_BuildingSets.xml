@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scenario version="6">
+	<Environment>
+		<SkySet>default</SkySet>
+		<SunColor r="0.74902" g="0.74902" b="0.74902"/>
+		<SunElevation angle="0.785398"/>
+		<SunRotation angle="5.49779"/>
+		<TerrainAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
+		<UnitsAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
+		<Fog>
+			<FogFactor>0</FogFactor>
+			<FogThickness>0.5</FogThickness>
+			<FogColor r="0.8" g="0.8" b="0.898039"/>
+		</Fog>
+		<Water>
+			<WaterBody>
+				<Type>ocean</Type>
+				<Color r="0.3" g="0.35" b="0.7"/>
+				<Tint r="0.28" g="0.3" b="0.59"/>
+				<Height>5</Height>
+				<Waviness>4</Waviness>
+				<Murkiness>0.45</Murkiness>
+				<WindAngle>0</WindAngle>
+			</WaterBody>
+		</Water>
+		<Postproc>
+			<Brightness>0</Brightness>
+			<Contrast>1</Contrast>
+			<Saturation>0.99</Saturation>
+			<Bloom>0.1999</Bloom>
+			<PostEffect>default</PostEffect>
+		</Postproc>
+	</Environment>
+	<Camera>
+		<Position x="381.334" y="238.996" z="23.3401"/>
+		<Rotation angle="-0.0910213"/>
+		<Declination angle="0.492909"/>
+	</Camera>
+	<ScriptSettings><![CDATA[
+{
+  "AISeed": 0,
+  "CircularMap": true,
+  "Description": "Pre-Colonial Civ Buildingsets.",
+  "Keywords": [
+    "demo"
+  ],
+  "LockTeams": false,
+  "Name": "Pre-Colonial Mod Buidings",
+  "PlayerData": [
+    "",
+    {
+      "Civ": "athen"
+    },
+    {
+      "Civ": "cart"
+    },
+    {
+      "Civ": "gaul"
+    },
+    {
+      "Civ": "iber"
+    },
+    {
+      "Civ": "mace"
+    },
+    {
+      "Civ": "pers"
+    },
+    {
+      "Civ": "rome"
+    },
+    {
+      "Civ": "spart"
+    }
+  ],
+  "Preview": "nopreview.png",
+  "RevealMap": true,
+  "VictoryConditions": []
+}
+]]></ScriptSettings>
+	<Entities>
+		<Entity uid="11">
+			<Template>structures/mex_barracks</Template>
+			<Player>1</Player>
+			<Position x="325.79136" z="187.37281"/>
+			<Orientation y="-2.54859"/>
+			<Actor seed="36550"/>
+		</Entity>
+		<Entity uid="12">
+			<Template>structures/mex_chinampa</Template>
+			<Player>1</Player>
+			<Position x="296.67765" z="196.4694"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7828"/>
+		</Entity>
+		<Entity uid="13">
+			<Template>structures/mex_civil_centre</Template>
+			<Player>1</Player>
+			<Position x="366.31559" z="193.4015"/>
+			<Orientation y="-2.9254"/>
+			<Actor seed="59818"/>
+		</Entity>
+		<Entity uid="14">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="405.60718" z="173.26853"/>
+			<Orientation y="-2.31763"/>
+			<Actor seed="57200"/>
+		</Entity>
+		<Entity uid="15">
+			<Template>structures/mex_field</Template>
+			<Player>1</Player>
+			<Position x="311.37708" z="160.20908"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11212"/>
+		</Entity>
+		<Entity uid="18">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="338.17112" z="140.00342"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57034"/>
+		</Entity>
+		<Entity uid="22">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="359.5829" z="148.21317"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48326"/>
+		</Entity>
+		<Entity uid="26">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="379.84858" z="137.94474"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7374"/>
+		</Entity>
+		<Entity uid="27">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="403.9828" z="208.71528"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14290"/>
+		</Entity>
+		<Entity uid="28">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>1</Player>
+			<Position x="402.63352" z="143.92151"/>
+			<Orientation y="-2.45275"/>
+			<Actor seed="23926"/>
+		</Entity>
+		<Entity uid="29">
+			<Template>structures/mex_town_center</Template>
+			<Player>1</Player>
+			<Position x="440.0973" z="143.92151"/>
+			<Orientation y="-2.2736"/>
+			<Actor seed="52160"/>
+		</Entity>
+		<Entity uid="30">
+			<Template>structures/mex_wonder</Template>
+			<Player>1</Player>
+			<Position x="467.74094" z="201.05826"/>
+			<Orientation y="-2.38776"/>
+			<Actor seed="53252"/>
+		</Entity>
+		<Entity uid="31">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="384.94843" z="230.71393"/>
+			<Orientation y="-2.26572"/>
+			<Actor seed="38414"/>
+		</Entity>
+		<Entity uid="32">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="400.04294" z="242.19236"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23478"/>
+		</Entity>
+		<Entity uid="33">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="387.69626" z="253.08039"/>
+			<Orientation y="-0.89037"/>
+			<Actor seed="43340"/>
+		</Entity>
+		<Entity uid="34">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="376.98157" z="243.0553"/>
+			<Orientation y="0.83079"/>
+			<Actor seed="22840"/>
+		</Entity>
+		<Entity uid="35">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="394.84467" z="111.52637"/>
+			<Orientation y="-1.82261"/>
+			<Actor seed="21236"/>
+		</Entity>
+		<Entity uid="36">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="402.36481" z="71.96"/>
+			<Orientation y="1.86858"/>
+			<Actor seed="27938"/>
+		</Entity>
+		<Entity uid="37">
+			<Template>structures/mex_outpost</Template>
+			<Player>1</Player>
+			<Position x="327.81852" z="124.87748"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10310"/>
+		</Entity>
+		<Entity uid="38">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="506.01734" z="168.53034"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59268"/>
+		</Entity>
+		<Entity uid="39">
+			<Template>structures/mex_farmstead</Template>
+			<Player>1</Player>
+			<Position x="363.14914" z="120.93912"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58742"/>
+		</Entity>
+		<Entity uid="40">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="473.03794" z="123.58242"/>
+			<Orientation y="-2.3269"/>
+			<Actor seed="6656"/>
+		</Entity>
+		<Entity uid="41">
+			<Template>structures/mex_corral</Template>
+			<Player>1</Player>
+			<Position x="348.84797" z="106.83681"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46998"/>
+		</Entity>
+	</Entities>
+	<Paths/>
+</Scenario>

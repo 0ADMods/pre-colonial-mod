@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry">
+  <Armour>
+    <Hack op="add">9</Hack>
+    <Pierce op="add">9</Pierce>
+  </Armour>
+  <Attack>
+    <Melee>
+      <Hack>4.0</Hack>
+      <Pierce>20.0</Pierce>
+      <Crush>0.0</Crush>
+      <MaxRange>7</MaxRange>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>3.0</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Identity>
+    <VisibleClasses datatype="tokens">Melee Spear Pike</VisibleClasses>
+    <GenericName>Hero Pikeman</GenericName>
+    <Tooltip>Counters: 3x vs. Cavalry.</Tooltip>
+    <Formations datatype="tokens">
+      special/formations/testudo
+    </Formations>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.95</WalkSpeed>
+    <Run>
+      <Speed op="mul">0.95</Speed>
+    </Run>
+  </UnitMotion>
+</Entity>

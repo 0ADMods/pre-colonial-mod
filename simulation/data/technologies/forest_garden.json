@@ -1,0 +1,11 @@
+{
+	"genericName": "Forest Garden",
+	"description": "Gadering Wood are more faster.",
+	"cost": { "food": 70, "wood": 0, "stone": 100, "metal": 0 },
+	"requirements": { "tech": "phase_village" },
+	"icon": "chinampa.png",
+	"researchTime": 30,
+    "tooltip": "Civilians gader 20 % wood.",
+    "affects": ["infantry","Worker"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

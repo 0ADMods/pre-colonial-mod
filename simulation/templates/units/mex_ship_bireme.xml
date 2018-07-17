@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_mechanical_ship_bireme">
   <Identity>
-    <Civ>azte</Civ>
+    <Civ>mex</Civ>
     <GenericName>War Canoe</GenericName>
     <SpecificName>?</SpecificName>
     <Icon>units/hele_ship_bireme.png</Icon>

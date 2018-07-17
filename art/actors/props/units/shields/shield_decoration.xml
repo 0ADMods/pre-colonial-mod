@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="100" name="Back">
+      <mesh>props/shield/mexica_shield_decoration.dae</mesh>
+      <props>
+        <prop />
+        <prop />
+      </props>
+      <textures>
+        <texture file="props/shield/shield_decoration.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

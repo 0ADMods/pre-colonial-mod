@@ -3,21 +3,21 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Base">
-      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <mesh>skeletal/new/m_armor_pants.dae</mesh>
       <props>
-        <prop actor="props/units/shields/mexica_round_shield.xml" attachpoint="shield_arm"/>
-        <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/mex_round_b.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/weapons/obsidianan_spear.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>
   <group>
-    <variant frequency="3" name="Helmet-Corinthian-Varieties">
+    <variant frequency="3" name="Head 1">
       <props>
         <prop actor="props/units/heads/hele_hoplite_e.xml" attachpoint="helmet"/>
         <prop actor="props/units/heads/new/head_corinthian.xml" attachpoint="head"/>
       </props>
     </variant>
-    <variant frequency="1" name="Helmets-Illyrian-Chalcidean-Varieties">
+    <variant frequency="1" name="Head 2">
       <props>
         <prop actor="props/units/helmets/hele_hoplite_e2.xml" attachpoint="helmet"/>
         <prop actor="props/units/heads/new/head_hele_e.xml" attachpoint="head"/>
@@ -25,14 +25,9 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="cuirass 1">
+    <variant frequency="1" name="Aztec Suit">
       <textures>
-        <texture file="skeletal/hele_isp_e_1.dds" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="scale mail 1">
-      <textures>
-        <texture file="skeletal/hele_linothorax_scale.dds" name="baseTex"/>
+        <texture file="skeletal/aztec_suit_1a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

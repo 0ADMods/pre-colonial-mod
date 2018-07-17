@@ -51,8 +51,6 @@
       units/{civ}_champion_infantry_slinger
     </Entities>
     <Technologies datatype="tokens">
-      phase_town
-      phase_city
       heal_range
       heal_range_2
       heal_rate

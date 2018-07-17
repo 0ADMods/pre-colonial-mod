@@ -1,0 +1,9 @@
+{
+	"Name": "My house is borring",
+	"Data": {
+		"Action": "addresource",
+		"Type": "wood",
+		"DefaultParameter": 1000,
+		"isNumeric": true
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Name": "I see a mine!",
+	"Data": {
+		"Action": "addresource",
+		"Type": "metal",
+		"DefaultParameter": 1000,
+		"isNumeric": true
+	}
+}

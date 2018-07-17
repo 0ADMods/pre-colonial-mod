@@ -26,7 +26,8 @@
     <Tooltip>Build upon a shoreline for food</Tooltip>
     <Classes datatype="tokens">Naval Field</Classes>
     <VisibleClasses datatype="tokens">Economic Village Dock</VisibleClasses>
-    <Icon>structures/field.png</Icon>
+    <Icon>structures/chinampa.png</Icon>
+    <RequiredTechnology>mexicas/chinampa_enamble</RequiredTechnology>
   </Identity>
   <Loot>
     <food>30</food>

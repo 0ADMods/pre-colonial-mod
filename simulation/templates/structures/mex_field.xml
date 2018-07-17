@@ -5,14 +5,18 @@
     <GenericName>Land Field</GenericName>
     <SpecificName>?</SpecificName>
   </Identity>
-  <ResourceSupply>
-    <KillBeforeGather>false</KillBeforeGather>
-    <Amount>150</Amount>
-    <Type>food.grain</Type>
-    <MaxGatherers>1</MaxGatherers>
-    <DiminishingReturns>0.90</DiminishingReturns>
-  </ResourceSupply>
+  <Upgrade>
+    <Chinampa>
+      <Entity>structures/{civ}_wood_field</Entity>
+      <Tooltip>Wood Field.</Tooltip>
+      <RequiredTechnology>phase_village</RequiredTechnology>
+      <Cost>
+        <food>100</food>
+      </Cost>
+      <Time>150</Time>
+    </Chinampa>
+  </Upgrade>
   <VisualActor>
-    <Actor>structures/plot_field_medit.xml</Actor>
+    <Actor>structures/plot_field_plantation.xml</Actor>
   </VisualActor>
 </Entity>

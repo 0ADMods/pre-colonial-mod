@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_slave">
+  <Identity>
+    <Civ>tlax</Civ>
+    <SpecificName>?</SpecificName>
+    <GenericName>Capture Worion</GenericName>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexica/slave.xml</Actor>
+  </VisualActor>
+</Entity>

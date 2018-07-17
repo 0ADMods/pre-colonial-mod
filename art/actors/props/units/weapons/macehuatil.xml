@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="Base">
+      <mesh>props/weapons/macehuatil.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Macehuatil A">
+      <textures>
+        <texture file="props/weapons/macehuatil.png" name="baseTex" />
+      </textures>
+    </variant>
+    <variant frequency="1" name="Macehuatil B">
+      <textures>
+        <texture file="props/weapons/macehuatil_a.png" name="baseTex" />
+      </textures>
+    </variant>
+    <variant frequency="1" name="Macehuatil C">
+      <textures>
+        <texture file="props/weapons/macehuatil_b.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

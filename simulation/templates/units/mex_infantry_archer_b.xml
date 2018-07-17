@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_ranged_archer">
+<Entity parent="template_unit_infantry_ranged_archer_amerindian">
   <Identity>
     <Civ>mex</Civ>
     <Lang>greek</Lang>
@@ -11,11 +11,6 @@
   <Promotion>
     <Entity>units/mex_infantry_archer_a</Entity>
   </Promotion>
-  <Builder>
-    <Entities datatype="tokens">
-      structures/mex_chinampa
-    </Entities>
-  </Builder>
   <Cost>
     <BuildTime>30</BuildTime>
     <Resources>
@@ -24,6 +19,6 @@
     </Resources>
   </Cost>
   <VisualActor>
-    <Actor>units/athenians/infantry_archer_b.xml</Actor>
+    <Actor>units/mexica/infantry_archer_b.xml</Actor>
   </VisualActor>
 </Entity>

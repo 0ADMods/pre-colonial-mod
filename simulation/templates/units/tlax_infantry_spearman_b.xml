@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman_amerindian">
+  <Identity>
+    <Civ>tlax</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/tlax_infantry_spearman_b</SelectionGroupName>
+    <GenericName>Mexica Spearman</GenericName>
+    <SpecificName>?</SpecificName>
+    <Icon>units/athen_infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/tlax_infantry_spearman_a</Entity>
+  </Promotion>
+  <Cost>
+    <BuildTime>50</BuildTime>
+    <Resources>
+      <food>150</food>
+      <wood>20</wood>
+    </Resources>
+  </Cost>
+  <VisualActor>
+    <Actor>units/mexica/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

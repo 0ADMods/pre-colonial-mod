@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_melee_spearman_hoplite">
+<Entity parent="template_unit_infantry_melee_spearman_amerindian">
   <Identity>
     <Civ>mex</Civ>
     <Lang>greek</Lang>
-    <SelectionGroupName>units/athen_infantry_spearman_b</SelectionGroupName>
+    <SelectionGroupName>units/mex_infantry_spearman_b</SelectionGroupName>
     <GenericName>Mexica Spearman</GenericName>
-    <SpecificName>?</SpecificName>
+    <SpecificName>Quachicqueh</SpecificName>
     <Icon>units/athen_infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/azte_infantry_spearman_a</Entity>
   </Promotion>
-  <Builder>
-    <Entities datatype="tokens">
-      structures/azte_chinampa
-    </Entities>
-  </Builder>
   <Cost>
     <BuildTime>50</BuildTime>
     <Resources>

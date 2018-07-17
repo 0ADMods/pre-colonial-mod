@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Textures>
+  <File pattern="ribbon_bg.png" format="rgba"/>
+  <File pattern="map_bg.png" format="rgba"/>
+  <File pattern="minimap_circle.png" format="rgba"/>
+
+</Textures>

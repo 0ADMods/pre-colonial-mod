@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_female_citizen">
+<Entity parent="template_unit_support_female_citizen_amerindian">
    <Builder>
     <Entities datatype="tokens">
       structures/mex_chinampa
@@ -9,10 +9,10 @@
     <Civ>mex</Civ>
     <SpecificName>?</SpecificName>
     <GenericName>Mexica Woman</GenericName>
-    <Icon>units/hele_support_female_citizen.png</Icon>
-    <SelectionGroupName>units/athen_support_female_citizen</SelectionGroupName>
+    <Icon>units/ptol_support_female_citizen.png</Icon>
+    <SelectionGroupName>units/mex_support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/female_citizen.xml</Actor>
+    <Actor>units/ptolemies/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>

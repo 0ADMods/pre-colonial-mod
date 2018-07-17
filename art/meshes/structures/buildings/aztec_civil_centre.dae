@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9d68b</authoring_tool>
     </contributor>
-    <created>2018-06-11T18:53:26</created>
-    <modified>2018-06-11T18:53:26</modified>
+    <created>2018-07-03T19:27:21</created>
+    <modified>2018-07-03T19:27:21</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -69,19 +69,19 @@
   <library_visual_scenes>
     <visual_scene id="Scene" name="Scene">
       <node id="structure" name="structure" type="NODE">
-        <matrix sid="transform">1 0 0 2.090389 0 1 0 0.2842205 0 0 1 0.5914197 0 0 0 1</matrix>
+        <matrix sid="transform">-1 1.50996e-7 0 2.090389 -1.50996e-7 -1 0 0.2842205 0 0 1 0.5914197 0 0 0 1</matrix>
         <instance_geometry url="#structure_001-mesh" name="structure"/>
         <node id="prop-root" name="prop-root" type="NODE">
-          <matrix sid="transform">1 0 0 -2.090389 0 1 0 -0.2842206 0 0 1 -0.59142 0 0 0 1</matrix>
+          <matrix sid="transform">1 0 0 -2.090389 1.98419e-9 1 0 -0.2842206 0 -3.55271e-15 1 -0.59142 0 0 0 1</matrix>
         </node>
         <node id="prop-loaded-projectile" name="prop-loaded-projectile" type="NODE">
-          <matrix sid="transform">1 0 0 -2.090389 0 1 0 -0.2842206 0 0 1 11.94972 0 0 0 1</matrix>
+          <matrix sid="transform">1 0 0 -2.090389 1.98419e-9 1 0 -0.2842206 0 -3.55271e-15 1 11.94972 0 0 0 1</matrix>
         </node>
         <node id="prop-projectile" name="prop-projectile" type="NODE">
-          <matrix sid="transform">1 0 0 -2.090389 0 1 0 -0.2842206 0 0 1 10.07551 0 0 0 1</matrix>
+          <matrix sid="transform">1 0 0 -2.090389 1.98419e-9 1 0 -0.2842206 0 -3.55271e-15 1 10.07551 0 0 0 1</matrix>
         </node>
         <node id="prop-garrisoned" name="prop-garrisoned" type="NODE">
-          <matrix sid="transform">1 0 0 -9.837618 0 1 0 11.58689 0 0 1 13.12762 0 0 0 1</matrix>
+          <matrix sid="transform">1 0 0 -9.837618 1.98419e-9 1 0 11.58689 0 -3.55271e-15 1 13.12762 0 0 0 1</matrix>
         </node>
       </node>
     </visual_scene>

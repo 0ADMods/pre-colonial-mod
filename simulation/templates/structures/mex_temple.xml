@@ -8,7 +8,7 @@
     <Static width="22.0" depth="26.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/mexica/mexica_temple_structure.xml</Actor>
-    <FoundationActor>props/special/eyecandy/greek_temple_unfinished.xml</FoundationActor>
+    <Actor>structures/mexica/temple.xml</Actor>
+    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
   </VisualActor>
 </Entity>
