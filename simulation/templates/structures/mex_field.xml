@@ -2,21 +2,9 @@
 <Entity parent="template_structure_resource_field">
   <Identity>
     <Civ>mex</Civ>
-    <GenericName>Land Field</GenericName>
-    <SpecificName>?</SpecificName>
+    <SpecificName>Tlalpixkayotl</SpecificName>
   </Identity>
-  <Upgrade>
-    <Chinampa>
-      <Entity>structures/{civ}_wood_field</Entity>
-      <Tooltip>Wood Field.</Tooltip>
-      <RequiredTechnology>phase_village</RequiredTechnology>
-      <Cost>
-        <food>100</food>
-      </Cost>
-      <Time>150</Time>
-    </Chinampa>
-  </Upgrade>
   <VisualActor>
-    <Actor>structures/plot_field_plantation.xml</Actor>
+    <Actor>structures/plot_field_mesoamerica.xml</Actor>
   </VisualActor>
 </Entity>

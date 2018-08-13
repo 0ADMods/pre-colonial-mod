@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="Mexica Decoration">
+      <mesh>props/backpacks/mexica_decoration_a.dae</mesh>
+      <textures>
+        <texture file="props/backpacks/mexica_decoration_a.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

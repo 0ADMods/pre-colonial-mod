@@ -1,0 +1,15 @@
+{
+    "type": "range",
+    "radius": 30,
+    "affects":["Soldier"],
+    "modifications":[
+        {"value":"UnitMotion/WalkSpeed", "multiply":1.1},
+        { "value": "UnitMotion/Run/Speed", "multiply": 1.1 },
+        {"value": "Attack/Melee/Hack", "multiply":1.40},
+        {"value": "Attack/Melee/Pierce", "multiply":1.40},
+        {"value": "Attack/Melee/Crush", "multiply":1.40},
+        {"value": "Attack/Capture/Value", "add": 2}
+    ],
+    "auraName": "War call",
+    "auraDescription": "+40% attack and +2 capture all sodiers"
+}

@@ -1,41 +1,36 @@
 {
 	"Code":"mex",
-	"Culture":"nahua",
+	"Culture":"nahua-mexica",
 	"Name":"Mexicas",
 	"Emblem":"session/portraits/emblems/emblem_mexica.png",
-	"History":"The Peapole of the center of the Aztec Empire.",
+	"History":".",
 	"Music":[],
 	"Factions":
 	[
 		{
 			"Name":"Mexicas",
-			"Description":"The peapole living in the center of Mexico",
+			"Description":"",
 			"Technologies":
 			[
 				{
 					"Name":"Chinampa",
-					"History":"",
-					"Description":"Enamble the Floting Garden(Mix of a field and a dock), cant build fishing cannoes"
+					"History":"Al no tener tierras cultivables en su ciudad-estado usaban jardines flotantes para cultivar sus alimentos.",
+					"Description":"Desbloquea la chinampa."
 				},
 				{
-					"Name":"Floring War",
-					"History":"",
-					"Description":"Mexica Worions get 40% of atack"
-				},
-				{
-					"Name":"Triple Alliance",
-					"History":"",
-					"Description":"Enamble the Aztec Embassy"
+					"Name":"Guerras Floridas",
+					"History":"Las guerras floridas era un ritual.",
+					"Description":"Las tropas son 20% mas fuertes."
 				}
 			],
 			"Heroes":
 			[
 				{
-					"Name":"Cuauhtémoc",
-					"Class":"Infantry",
-					"Armament":"Macehuatli and a shild",
-					"Emblem":"Mexica",
-					"History":"The last Huey Tlatuani of Aztec Empire"
+					"Name":"Cuactemoc",
+					"Class":"Jaguar Worrion",
+					"Armament":"Macahuitle and a wood shield",
+					"Emblem":"",
+					"History":"El ultimo gran orador de México-Tenochtitlan."
 				}
 			]
 		}
@@ -43,22 +38,17 @@
 	"CivBonuses":
 	[
 		{
-			"Name":"Light Cannoes",
-			"History":"",
-			"Description":"Ship get 20% of speed"
-		},
-		{
-			"Name":"Texcoco Lake",
-			"History":"",
-			"Description":"Farmstead gen food"
+			"Name":"Patriotismo",
+			"History":".",
+			"Description":"Los soldados mexicas pelean mejor cerca de un templo o centro civico."
 		}
 	],
 	"TeamBonuses":
 	[
-		{
-			"Name":"Triple Alliance",
-			"History":"",
-			"Description":"All in the team get Mexica Worions"
+        {
+			"Name":"Patriotismo",
+			"History":".",
+			"Description":"Los soldados aliados pelean mejor cerca de un templo o centro civico."
 		}
 	],
 	"Structures":
@@ -67,25 +57,24 @@
 			"Name":"Chinampa",
 			"Class":"",
 			"Emblem":"",
-			"History":".",
-			"Requirements":"",
-			"Phase":"Town",
-			"Special":"Field and dock in one"
-		},
-		{
-			"Name":"Aztec Embassy",
-			"Class":"",
-			"Emblem":"",
-			"History":"",
+			"History":"Un jardin flotante que da alimento a la ciudad.",
 			"Requirements":"",
 			"Phase":"City",
-			"Special":"Aztec Worions from the Triple Alliace"
+			"Special":"puede construirse serca de las costas."
+		},
+		{
+			"Name":"Syssition",
+			"Class":"",
+			"Emblem":"",
+			"History":"The Syssition was the Mess Hall for full-blooded Spartiates. Every Spartan peer, even kings, belonged to one.",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"Train heroes and Spartiates and research technologies related to them."
 		}
 	],
 	"WallSets":
 	[
-		"other/wallset_palisade",
-		"structures/mex_wallset_stone"
+		"other/wallset_palisade"
 	],
 	"StartEntities":
 	[
@@ -97,12 +86,15 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/mex_support_slave",
+			"Template": "units/mex_infantry_spearman_b",
 			"Count": 2
 		},
 		{
 			"Template": "units/mex_infantry_archer_b",
-			"Count": 3
+			"Count": 2
+		},
+		{
+			"Template": "units/mex_infantry_spearman_c"
 		}
 	],
 	"Formations":
@@ -121,22 +113,36 @@
 	],
 	"AINames":
 	[
-		"Acamapichtli",
-		"Huitzilíhuitl",
-		"Chimalpopoca",
-		"Itzcóatl",
-		"Moctezuma I",
-		"Axayácatl",
-		"Tízoc",
+		"Mexi",
+		"Huitziliton",
+		"Cuauhtlequetzqui",
+		"Acacihtli",
+		"Citlalitzin",
+		"Tzimpantzin",
+		"Tlazohtzin",
+		"Iztacmixcoatzin",
+		"Tozcuecuextli",
+		"Huēhueh Huītzilihuitl",
+		"Ilancuēitl",
+		"Tenōch",
+		"Ācamāpīchtli",
+		"Huītzilihuitl",
+		"Chīmalpopōca",
+		"Ītzcóātl",
+		"Motēcuhzōmā Ilhuicamīna",
+		"Āxāyacatl",
+		"Tizoc",
 		"Ahuízotl",
-		"Moctezuma II",
-		"Cuitláhuac",
-		"Cuauhtémoc"
+		"Motēcuhzōmā Xocoyotzīn"
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_infantry_ranged_b": "units/athen_infantry_archer_b",
-		"skirmish/structures/default_house_10": "structures/{civ}_house"
+		"skirmish/structures/default_house_10" : "structures/{civ}_house",
+		"skirmish/structures/default_wall_tower": "other/palisades_rocks_tower",
+		"skirmish/structures/default_wall_gate": "other/palisades_rocks_gate",
+		"skirmish/structures/default_wall_short": "other/palisades_rocks_short",
+		"skirmish/structures/default_wall_medium": "other/palisades_rocks_medium",
+		"skirmish/structures/default_wall_long": "other/palisades_rocks_long"
 	},
 	"SelectableInGameSetup": true
 }

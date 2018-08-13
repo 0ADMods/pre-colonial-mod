@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_female_citizen_amerindian">
-   <Builder>
-    <Entities datatype="tokens">
-      structures/mex_chinampa
-    </Entities>
-  </Builder>
+<Entity parent="template_unit_support_female_citizen">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>?</SpecificName>
+    <SpecificName>Mexicalt Ilamatli</SpecificName>
     <GenericName>Mexica Woman</GenericName>
     <Icon>units/ptol_support_female_citizen.png</Icon>
     <SelectionGroupName>units/mex_support_female_citizen</SelectionGroupName>

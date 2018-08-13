@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_ranged_javelinist_amerindian">
+<Entity parent="template_unit_infantry_ranged_javelinist">
+  <Builder>
+    <Entities datatype="tokens">
+      -structures/{civ}_wallset_stone
+      structures/{civ}_village_centre
+    </Entities>
+  </Builder>
   <Cost>
     <Resources>
-      <food op="add">-25</food>
-      <stone op="add">25</stone>
+      <food op="add">35</food>
     </Resources>
   </Cost>
   <Identity>
     <Civ>tlax</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/tlax_infantry_javelinist_b</SelectionGroupName>
-    <GenericName>Mexica Javelinist</GenericName>
-    <SpecificName>?</SpecificName>
+    <GenericName>Tlaxcalan Javelinist</GenericName>
+    <SpecificName>Tlaxcallan Atlat</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <Icon>units/hele_infantry_javelinist.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
-    <Entity>units/tlax_infantry_javelinist_a</Entity>
+    <Entity>units/mex_infantry_javelinist_a</Entity>
   </Promotion>
-  <Cost>
-    <BuildTime>50</BuildTime>
-    <Resources>
-      <food>150</food>
-      <wood>20</wood>
-      <stone>20</stone>
-    </Resources>
-  </Cost>
   <VisualActor>
-    <Actor>units/mexica/infantry_javelinist_b.xml</Actor>
+    <Actor>units/mexicas/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

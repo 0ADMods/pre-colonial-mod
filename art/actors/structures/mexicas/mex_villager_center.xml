@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+<castshadow/>
+  <group>
+    <variant>
+	  <mesh>structural/generic/villager_root.dae</mesh>
+	  <props>
+	    <prop actor="structures/mexicas/house.xml" attachpoint="house_a" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_b" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_c" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_d" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_f" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_g" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_h" minheight="-20" maxheight="20"/>
+		<prop actor="structures/mexicas/house.xml" attachpoint="house_i" minheight="-20" maxheight="20"/>
+	  </props>
+	  <textures>
+	    <texture file="structural/zapo_struct.png" name="baseTex" />
+	  </textures>
+	</variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

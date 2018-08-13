@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9d68b</authoring_tool>
     </contributor>
-    <created>2018-07-15T14:09:58</created>
-    <modified>2018-07-15T14:09:58</modified>
+    <created>2018-07-24T01:56:05</created>
+    <modified>2018-07-24T01:56:05</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -59,10 +59,10 @@
   <library_visual_scenes>
     <visual_scene id="Scene" name="Scene">
       <node id="Atlat" name="Atlat" type="NODE">
-        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 -0.1856811 0 0 0 1</matrix>
+        <matrix sid="transform">-4.37114e-8 -1 0 0 1 -4.37114e-8 0 0 0 0 1 -0.1856811 0 0 0 1</matrix>
         <instance_geometry url="#Atlat-mesh" name="Atlat"/>
         <node id="prop-arrow" name="prop-arrow" type="NODE">
-          <matrix sid="transform">-0.01163485 1.34347e-7 -0.9999323 0.02900436 -1.3435e-7 1 1.3592e-7 -4.12177e-16 0.9999323 1.35922e-7 -0.01163485 1.532811 0 0 0 1</matrix>
+          <matrix sid="transform">0.01163497 -9.55736e-6 0.9999323 0.4633852 8.69181e-9 -1 -9.55811e-6 -1.89874e-8 0.9999323 1.19899e-7 -0.01163497 1.532811 0 0 0 1</matrix>
         </node>
       </node>
     </visual_scene>

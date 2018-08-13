@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="Eagle Worion Helmet">
+      <mesh>props/helmet/eagle_helmet.dae</mesh>
+      <props>
+        <prop actor="props/units/helmets/helmet_decoration.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="props/helmet/eagle_worion_a.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

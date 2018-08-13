@@ -1,28 +1,44 @@
 {
-    "Code":"tlax",
-    "Culture":"nahua",
-    "Name":"Tlaxcalans",
-    "Emblem":"session/portraits/emblems/emblem_mexica.png",
-    "History":"T.",
-    "Music":[],
-    "Factions":
-    [
-        {
-            "Name":"Tlaxcalans",
-            "Description":".",
-            "Technologies":[{}],
-            "Heroes":[{}]
-        }
-    ],
-    "CivBonuses":[{}],
-    "TeamBonuses":[{}],
-    "Structures":[{}],
-    "WallSets":
+	"Code":"tlax",
+	"Culture":"nahua-tlaxcaltecan",
+	"Name":"Tlaxcaltecans",
+	"Emblem":"session/portraits/emblems/emblem_tlaxcallan.png",
+	"History":".",
+	"Music":[],
+	"Factions":
 	[
-		"other/wallset_palisade",
-		"structures/tlax_wallset_stone"
-    ],
-    "StartEntities":
+		{
+			"Name":"Tlaxcaltecans",
+			"Description":"",
+			"Technologies":
+			[],
+			"Heroes":
+			[]
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name":"Patriotismo",
+			"History":".",
+			"Description":"Los soldados tlaxcaltecas pelean mejor cerca de un templo o centro civico."
+		}
+	],
+	"TeamBonuses":
+	[
+        {
+			"Name":"Patriotismo",
+			"History":".",
+			"Description":"Los soldados aliados pelean mejor cerca de un templo o centro civico."
+		}
+	],
+	"Structures":
+	[],
+	"WallSets":
+	[
+		"other/wallset_palisade"
+	],
+	"StartEntities":
 	[
 		{
 			"Template": "structures/tlax_civil_centre"
@@ -32,12 +48,12 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/tlax_support_slave",
+			"Template": "units/tlax_infantry_spearman_b",
 			"Count": 2
 		},
 		{
 			"Template": "units/tlax_infantry_archer_b",
-			"Count": 3
+			"Count": 2
 		}
 	],
 	"Formations":
@@ -56,22 +72,19 @@
 	],
 	"AINames":
 	[
-		"Acamapichtli",
-		"Huitzilíhuitl",
-		"Chimalpopoca",
-		"Itzcóatl",
-		"Moctezuma I",
-		"Axayácatl",
-		"Tízoc",
-		"Ahuízotl",
-		"Moctezuma II",
-		"Cuitláhuac",
-		"Cuauhtémoc"
+		"Tlehuexolotzin",
+		"Xicohténcatl",
+		"Mixixcatzin",
+		"Citlalpopocatzín"
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_infantry_ranged_b": "units/tlax_infantry_archer_b",
-		"skirmish/structures/default_house_10": "structures/{civ}_house"
+		"skirmish/structures/default_house_10" : "structures/{civ}_house",
+		"skirmish/structures/default_wall_tower": "other/palisades_rocks_tower",
+		"skirmish/structures/default_wall_gate": "other/palisades_rocks_gate",
+		"skirmish/structures/default_wall_short": "other/palisades_rocks_short",
+		"skirmish/structures/default_wall_medium": "other/palisades_rocks_medium",
+		"skirmish/structures/default_wall_long": "other/palisades_rocks_long"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }

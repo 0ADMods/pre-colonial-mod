@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="Jaguar Worion Helmet">
+      <mesh>props/helmet/jaguar_helmet.dae</mesh>
+      <textures>
+        <texture file="props/helmet/jaguar_hat.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

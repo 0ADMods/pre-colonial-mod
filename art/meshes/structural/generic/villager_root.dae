@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9d68b</authoring_tool>
+    </contributor>
+    <created>2018-08-06T02:06:14</created>
+    <modified>2018-08-06T02:06:14</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_geometries>
+    <geometry id="Plane-mesh" name="Plane">
+      <mesh>
+        <source id="Plane-mesh-positions">
+          <float_array id="Plane-mesh-positions-array" count="9">0.1619443 -0.1619443 -2.893458 -0.1619443 0.1619443 -2.893458 0.1619443 0.1619443 -2.893458</float_array>
+          <technique_common>
+            <accessor source="#Plane-mesh-positions-array" count="3" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane-mesh-normals">
+          <float_array id="Plane-mesh-normals-array" count="3">0 0 -1</float_array>
+          <technique_common>
+            <accessor source="#Plane-mesh-normals-array" count="1" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane-mesh-map-0">
+          <float_array id="Plane-mesh-map-0-array" count="6">0.9999 0.999899 9.998e-5 0.9998995 1.005e-4 9.998e-5</float_array>
+          <technique_common>
+            <accessor source="#Plane-mesh-map-0-array" count="3" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Plane-mesh-vertices">
+          <input semantic="POSITION" source="#Plane-mesh-positions"/>
+        </vertices>
+        <triangles count="1">
+          <input semantic="VERTEX" source="#Plane-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Plane-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Plane-mesh-map-0" offset="2" set="0"/>
+          <p>1 0 0 2 0 1 0 0 2</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="villager_pivot" name="villager_pivot" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Plane-mesh" name="villager_pivot"/>
+        <node id="prop-root" name="prop-root" type="NODE">
+          <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_a" name="prop-house_a" type="NODE">
+          <matrix sid="transform">1 0 0 1.344448 0 1 0 15.64437 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_b" name="prop-house_b" type="NODE">
+          <matrix sid="transform">-1.62921e-7 -1 0 -14.3721 1 -1.62921e-7 0 -1.681797 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_c" name="prop-house_c" type="NODE">
+          <matrix sid="transform">1 0 0 -1.026669 0 1 0 -13.62671 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_d" name="prop-house_d" type="NODE">
+          <matrix sid="transform">-1.62921e-7 1 0 15.99025 -1 -1.62921e-7 0 6.178864 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_e" name="prop-house_e" type="NODE">
+          <matrix sid="transform">-1.62921e-7 1 0 11.40725 -1 -1.62921e-7 0 11.68093 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_f" name="prop-house_f" type="NODE">
+          <matrix sid="transform">-1.62921e-7 -1 0 -14.05703 1 -1.62921e-7 0 12.86839 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_g" name="prop-house_g" type="NODE">
+          <matrix sid="transform">1 0 0 -7.235535 0 1 0 14.47803 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_h" name="prop-house_h" type="NODE">
+          <matrix sid="transform">-1.62921e-7 1 0 14.95136 -1 -1.62921e-7 0 -7.202878 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_i" name="prop-house_i" type="NODE">
+          <matrix sid="transform">-1.62921e-7 1 0 8.644676 -1 -1.62921e-7 0 -12.23845 0 0 1 0 0 0 0 1</matrix>
+        </node>
+        <node id="prop-house_j" name="prop-house_j" type="NODE">
+          <matrix sid="transform">1 0 0 -10.17156 0 1 0 -10.22156 0 0 1 0 0 0 0 1</matrix>
+        </node>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

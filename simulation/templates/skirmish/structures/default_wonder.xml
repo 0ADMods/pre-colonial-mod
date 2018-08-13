@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_wonder">
+  <Identity>
+    <Civ>skirm</Civ>
+  </Identity>
+  <ProductionQueue disable=""/>
+  <SkirmishReplacer>
+    <general>structures/{civ}_wonder</general>
+  </SkirmishReplacer>
+  <VisualActor>
+    <Actor>structures/mexicas/wonder.xml</Actor>
+  </VisualActor>
+</Entity>

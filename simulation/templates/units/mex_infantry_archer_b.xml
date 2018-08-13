@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_ranged_archer_amerindian">
+<Entity parent="template_unit_infantry_ranged_archer">
+  <Builder>
+    <Entities datatype="tokens">
+      -structures/{civ}_wallset_stone
+      structures/{civ}_village_centre
+    </Entities>
+  </Builder>
+  <Cost>
+    <Resources>
+      <food op="add">35</food>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>mex</Civ>
     <Lang>greek</Lang>
-    <SelectionGroupName>units/athen_infantry_archer_b</SelectionGroupName>
-    <GenericName>Mexica Archer</GenericName>
-    <SpecificName>Tequihua</SpecificName>
-    <Icon>units/athen_infantry_slinger.png</Icon>
+    <SelectionGroupName>units/mex_infantry_marine_archer_b</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
+    <GenericName>Mexica Arow Worrion</GenericName>
+    <SpecificName>Mexicalt Yolcamini</SpecificName>
+    <Icon>units/hele_infantry_archer.png</Icon>
+    <RequiredTechnology>attack_infantry_ranged_meso_01</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_archer_a</Entity>
   </Promotion>
-  <Cost>
-    <BuildTime>30</BuildTime>
-    <Resources>
-      <food>50</food>
-      <wood>40</wood>
-    </Resources>
-  </Cost>
   <VisualActor>
-    <Actor>units/mexica/infantry_archer_b.xml</Actor>
+    <Actor>units/mexicas/infantry_archer_b.xml</Actor>
   </VisualActor>
 </Entity>

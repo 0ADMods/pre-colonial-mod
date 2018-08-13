@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Auras datatype="tokens">
+    units/mexica_champion_1
+  </Auras>
+  <Identity>
+    <Civ>mex</Civ>
+    <GenericName>Mexica Guerrero Rapado</GenericName>
+    <SpecificName>Quachicqueh</SpecificName>
+    <Icon>units/cart_champion_infantry.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_lancer_champion.xml</Actor>
+  </VisualActor>
+</Entity>

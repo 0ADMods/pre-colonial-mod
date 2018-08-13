@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="Mexica Helmet A">
+      <mesh>props/helmet/mexica_helmet_a.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <textures>
+      <texture file="props/helmet/mexica_hat_a.png" name="baseTex" />
+    </textures>
+  </group>
+  <group>
+    <textures>
+      <texture file="props/helmet/mexica_hat_b.png" name="baseTex" />
+    </textures>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

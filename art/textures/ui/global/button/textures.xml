@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Textures>
-  <!-- Use RGBA for some small files that have ugly DXT artifacts -->
-  <File pattern="button_wood.*" format="rgba"/>
-  <File pattern="button_stone.*" format="rgba"/>
-</Textures>

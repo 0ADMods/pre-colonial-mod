@@ -1,8 +1,0 @@
-{
-	"Name": "Euro Invaders",
-	"Data": {
-		"Action": "defeatplayer",
-		"DefaultParameter": 2,
-		"isNumeric": true
-	}
-}

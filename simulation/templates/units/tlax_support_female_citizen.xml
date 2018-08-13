@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_female_citizen_amerindian">
-   <Builder>
-    <Entities datatype="tokens">
-      structures/mex_chinampa
-    </Entities>
-  </Builder>
+<Entity parent="template_unit_support_female_citizen">
   <Identity>
     <Civ>tlax</Civ>
-    <SpecificName>?</SpecificName>
-    <GenericName>Mexica Woman</GenericName>
+    <SpecificName>Tlaxcallan Ilamatli</SpecificName>
+    <GenericName>Tlaxcalan Woman</GenericName>
     <Icon>units/ptol_support_female_citizen.png</Icon>
-    <SelectionGroupName>units/tlax_support_female_citizen</SelectionGroupName>
+    <SelectionGroupName>units/mex_support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
     <Actor>units/ptolemies/female_citizen.xml</Actor>

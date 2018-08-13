@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_house">
+  <Footprint>
+    <Square width="15.0" depth="14.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>skirm</Civ>
+    <Tooltip>Changes in a 5-pop house for civilisations with those houses, is deleted for other civs</Tooltip>
+  </Identity>
+  <Obstruction>
+    <Static width="13.0" depth="12.0"/>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <SkirmishReplacer/>
+  <VisualActor>
+    <Actor>structures/ptolemies/house.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_civil_centre_military_colony">
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_brit_cc</SpawnEntityOnDeath>
+  </Health>
+  <Footprint>
+    <Square width="40.0" depth="40.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>mex</Civ>
+    <SpecificName>?</SpecificName>
+    <GenericName>Villager Center</GenericName>
+  </Identity>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_infantry_spearman_b
+      units/{civ}_infantry_archer_b
+      units/{civ}_infantry_javelinist_b
+    </Entities>
+  </ProductionQueue>
+  <Obstruction>
+    <Static width="40.0" depth="40.0"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/mexicas/mex_villager_center.xml</Actor>
+  </VisualActor>
+</Entity>

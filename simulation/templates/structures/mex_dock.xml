@@ -1,36 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_military_dock">
   <Cost>
-    <Resources>
-      <wood>150</wood>
-    </Resources>
+    <PopulationBonus>2</PopulationBonus>
   </Cost>
   <Footprint>
-    <Square width="34.0" depth="23.0"/>
+    <Square width="24.0" depth="14.0"/>
     <Height>8.0</Height>
   </Footprint>
   <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_kart_dock</SpawnEntityOnDeath>
+    <SpawnEntityOnDeath>decay|rubble/rubble_celt_dock</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>mex</Civ>
-    <GenericName>City Port</GenericName>
-    <SpecificName>?</SpecificName>
-    <Tooltip>Construct fishing boats to gather meat and merchant ships to trade with other docks.</Tooltip>
+    <SpecificName>Akaktekoyan</SpecificName>
   </Identity>
-  <Market>
-    <InternationalBonus op="add">0.1</InternationalBonus>
-  </Market>
   <Obstruction>
-    <Static width="30.0" depth="19.0"/>
+    <Static width="22.0" depth="10.0"/>
   </Obstruction>
   <ProductionQueue>
-    <Technologies datatype="tokens">
-      -training_naval_architects
-    </Technologies>
+    <Entities datatype="tokens">
+      units/{civ}_ship_city_cannoe
+    </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/mexica/dock.xml</Actor>
-    <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
+    <FoundationActor>structures/mexicas/fndn_mexica_dock.xml</FoundationActor>
+    <Actor>structures/mexicas/dock.xml</Actor>
   </VisualActor>
 </Entity>

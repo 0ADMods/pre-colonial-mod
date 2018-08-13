@@ -2,10 +2,10 @@
 <Entity parent="template_unit_mechanical_ship_fishing">
   <Identity>
     <Civ>tlax</Civ>
-    <SpecificName>?</SpecificName>
-    <Icon>units/hele_ship_fishing.png</Icon>
+    <SpecificName>Tlaxcallan Michoani Akalpechtli</SpecificName>
+    <Icon>units/fishing_cannoe.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/hellenes/fishing_boat.xml</Actor>
+    <Actor>structures/tlaxcaltecs/fishing_boat.xml</Actor>
   </VisualActor>
 </Entity>

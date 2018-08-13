@@ -7,6 +7,6 @@
     <Entity>units/tlax_infantry_javelinist_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/mexica/infantry_javelinist_a.xml</Actor>
+    <Actor>units/tlaxcaltecs/infantry_javelinist_a.xml</Actor>
   </VisualActor>
 </Entity>

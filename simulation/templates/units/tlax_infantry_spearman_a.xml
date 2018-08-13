@@ -7,6 +7,6 @@
     <Entity>units/tlax_infantry_spearman_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/mexica/infantry_spearman_a.xml</Actor>
+    <Actor>units/tlaxcaltecs/infantry_spearman_a.xml</Actor>
   </VisualActor>
 </Entity>

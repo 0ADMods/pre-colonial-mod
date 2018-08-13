@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_wonder">
-  <Auras datatype="tokens">
-    structures/epic_temple_heal
-  </Auras>
   <Footprint>
-    <Square width="57.0" depth="57.0"/>
-    <Height>12.0</Height>
+    <Square width="43.0" depth="43.0"/>
+    <Height>14.0</Height>
   </Footprint>
-  <GarrisonHolder>
-    <BuffHeal>8</BuffHeal>
-  </GarrisonHolder>
   <Identity>
     <Civ>mex</Civ>
-    <GenericName>Greate Temple</GenericName>
-    <SpecificName>Huey Teuccalli</SpecificName>
-    <Tooltip>Bring glory to your civilization and add large tracts of land to your empire. Garrison units to heal them at an extremely quick rate.</Tooltip>
+    <SpecificName>Great Piramid</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="57.0" depth="57.0"/>
+    <Static width="41.0" depth="41.0"/>
   </Obstruction>
   <VisualActor>
-    <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/mexica/wonder.xml</Actor>
+    <FoundationActor>structures/fndn_theatron.xml</FoundationActor>
+    <Actor>structures/mexicas/wonder.xml</Actor>
   </VisualActor>
 </Entity>

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_economic_storehouse">
+  <Cost>
+    <PopulationBonus>2</PopulationBonus>
+  </Cost>
   <Footprint>
-    <Square width="15.0" depth="16.0"/>
+    <Square width="18.0" depth="18.0"/>
   </Footprint>
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>?</SpecificName>
+    <SpecificName>Tlapiakali</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="13.0" depth="14.0"/>
+    <Static width="16.0" depth="16.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/storehouse.xml</Actor>
+    <Actor>structures/mexicas/storehouse.xml</Actor>
   </VisualActor>
 </Entity>
