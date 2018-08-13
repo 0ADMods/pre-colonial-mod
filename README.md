@@ -7,7 +7,6 @@ from 900 to 1521
 ## Civilizations
 
 - Mexicas
-- Clasical Mayas(like the Greeks whit city-states, more that one maya civilization)
 - Tlaxcaltecas
 - Incas
 - Toltecs
@@ -16,7 +15,6 @@ from 900 to 1521
 - Purepechans
 - Tupis
 - Mapuches
-- El Dorado(only in map editor)
 
 ## Gameplay Changes (TODO List):
 - The Civi Center cost  is 500 of wood and 600 of stone
