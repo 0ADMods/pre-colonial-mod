@@ -5,7 +5,7 @@
     <variant frequency="1" name="Jaguar Worion Helmet">
       <mesh>props/helmet/jaguar_helmet.dae</mesh>
       <textures>
-        <texture file="props/helmet/jaguar_hat.png" name="baseTex"/>
+        <texture file="props/helmet/jaguar_hat.png" name="baseTex" />
       </textures>
     </variant>
   </group>
