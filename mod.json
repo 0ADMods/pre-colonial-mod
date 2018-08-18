@@ -1,8 +1,9 @@
 {
 	"name": "precolonial",
-	"version": "0.0.23",
 	"label": "Precolonial Mod",
-	"url": "universosaul@hotmail.com",
-	"description": "add the aztecs",
-	"dependencies": ["0ad"]
+	"version": "1.0.0",
+	"url": "https://github.com/0ADMods/pre-colonial-mod",
+	"description": "Adds american civilizations to 0 A.D.",
+	"dependencies": ["0ad=0.0.23"],
+	"type": "Factions"
 }
