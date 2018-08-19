@@ -46,14 +46,14 @@ There is only one download option for every version, because the same mod can wo
 
     Main menu -> Configuration -> Mods -> Download -> doubleclick
 ### Zip installation:
-1.Unzip the download but leave the inner archive intact.
-2.Place the unzipped folder into /binaries/data/mods. You'll see another folder there called 'public'.
-3.Launch the game and enable the mod in Options>Mod Selection. Press 'Start Mods'.
-4.Enjoy the mod!
+- First unzip the download but leave the inner archive intact.
+- Second place the unzipped folder into /binaries/data/mods. You'll see another folder there called 'public'.
+- Third launch the game and enable the mod in Options>Mod Selection. Press 'Start Mods'.
+- Enjoy the mod!
 
 ## Contributing
 
-We could always use another helping hand with this project. There are several ways to help and contribute to the Terra Magna mod:
+We could always use another helping hand with this project. There are several ways to help and contribute to the Pre-colonial mod:
 
 - Download, install and play the mod.
 - Promote the Terra Magna mod by telling friends about it, create game play videos or write a blog article about it.
