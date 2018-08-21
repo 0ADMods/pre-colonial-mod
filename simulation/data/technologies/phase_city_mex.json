@@ -1,7 +1,7 @@
 {
-	"genericName": "Mexica City Phase",
+	"genericName": "Tenochtitlan City Phase",
 	"description": "Advances from a bustling town to a veritable metropolis.",
-	"cost": { "food": 0, "wood": 0, "stone": 750, "metal": 750 },
+	"cost": { "food": 1000, "wood": 0, "stone": 750, "metal": 0 },
 	"requirements": { "entity": { "class": "Town", "number": 4 } },
 	"requirementsTooltip": "Requires 4 new Town Phase structures (except Walls and Civic Centers).",
 	"supersedes": "phase_town_mex",

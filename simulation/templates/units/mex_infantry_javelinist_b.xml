@@ -18,7 +18,7 @@
     <GenericName>Mexica Javelinist</GenericName>
     <SpecificName>Mexicalt Atlat</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/hele_infantry_javelinist.png</Icon>
+    <Icon>units/mexica_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_javelinist_a</Entity>

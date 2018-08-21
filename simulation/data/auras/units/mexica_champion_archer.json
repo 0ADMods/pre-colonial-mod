@@ -1,0 +1,12 @@
+{
+    "type": "range",
+    "radius": 30,
+    "affects":["Soldier"],
+    "modifications":[
+        {"value":"UnitMotion/WalkSpeed", "multiply":2},
+        { "value": "UnitMotion/Run/Speed", "multiply": 2}
+    ],
+    "auraName": "Commands",
+    "auraDescription": "+2 of speed",
+    "overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

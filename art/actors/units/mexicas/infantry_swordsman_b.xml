@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Base">
+    <variant file="biped/base_swordsman_shield_fast.xml">
       <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
@@ -13,7 +13,7 @@
     </variant>
   </group>
   <group>
-    <variant frequency="2" name="Aztec Loincloth">
+    <variant frequency="100" name="Base">
       <textures><texture file="skeletal/aztec_loincloth_1a.png" name="baseTex"/></textures>
     </variant>
   </group>

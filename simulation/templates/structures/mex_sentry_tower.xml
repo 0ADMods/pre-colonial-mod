@@ -4,6 +4,6 @@
     <Civ>mex</Civ>
   </Identity>
   <VisualActor>
-    <Actor>structures/hellenes/wooden_tower.xml</Actor>
+    <Actor>structures/mexicas/wooden_tower.xml</Actor>
   </VisualActor>
 </Entity>

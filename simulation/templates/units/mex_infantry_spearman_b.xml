@@ -12,7 +12,7 @@
     <SelectionGroupName>units/mex_infantry_spearman_b</SelectionGroupName>
     <GenericName>Mexica Spearman</GenericName>
     <SpecificName>Mexicalt Yakaktlimeseuali</SpecificName>
-    <Icon>units/athen_infantry_spearman.png</Icon>
+    <Icon>units/mexica_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_spearman_a</Entity>

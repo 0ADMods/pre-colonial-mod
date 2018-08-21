@@ -4,12 +4,10 @@
   <float />
   <group>
     <variant frequency="100" name="aztec trade cannoe">
-      <mesh>structural/zapotec/zapo_trader_cannoe.dae</mesh>
+      <mesh>structural/mexicas/trade_canoe.dae</mesh>
       <props>
-        <prop actor="units/ptolemies/fisherman.xml" attachpoint="trader_a" />
-        <prop actor="units/ptolemies/fisherman.xml" attachpoint="trader_b" />
-        <prop actor="units/ptolemies/fisherman.xml" attachpoint="trader_c" />
-        <prop actor="units/ptolemies/fisherman.xml" attachpoint="trader_d" />
+        <prop actor="units/mexicas/canoe_navigator.xml" attachpoint="navigator_a" />
+        <prop actor="units/mexicas/canoe_navigator.xml" attachpoint="navigator_b" />
       </props>
       <textures>
         <texture file="structural/zapo_struct.png" name="baseTex" />

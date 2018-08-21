@@ -2,10 +2,10 @@
 <Entity parent="template_unit_mechanical_ship_fishing">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Mexicalt Michoani Akalpechtli</SpecificName>
+    <SpecificName>Mexicatl Michoani Akalpechtli</SpecificName>
     <Icon>units/fishing_cannoe.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/mexicas/fishing_boat.xml</Actor>
+    <Actor>structures/ptolemies/fishing_boat.xml</Actor>
   </VisualActor>
 </Entity>

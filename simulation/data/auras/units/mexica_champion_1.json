@@ -11,5 +11,6 @@
         {"value": "Attack/Capture/Value", "add": 2}
     ],
     "auraName": "War call",
-    "auraDescription": "+40% attack and +2 capture all sodiers"
+    "auraDescription": "+40% attack and +2 capture all sodiers",
+    "overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }

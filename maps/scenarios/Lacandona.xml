@@ -1,0 +1,5254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scenario version="6">
+	<Environment>
+		<SkySet>default</SkySet>
+		<SunColor r="0.74902" g="0.74902" b="0.74902"/>
+		<SunElevation angle="0.785398"/>
+		<SunRotation angle="-0.785396"/>
+		<TerrainAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
+		<UnitsAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
+		<Fog>
+			<FogFactor>0</FogFactor>
+			<FogThickness>0.5</FogThickness>
+			<FogColor r="0.8" g="0.8" b="0.8"/>
+		</Fog>
+		<Water>
+			<WaterBody>
+				<Type>lake</Type>
+				<Color r="0.294118" g="0.34902" b="0.694118"/>
+				<Tint r="0.27451" g="0.294118" b="0.584314"/>
+				<Height>31.7217</Height>
+				<Waviness>8</Waviness>
+				<Murkiness>0.45</Murkiness>
+				<WindAngle>0</WindAngle>
+			</WaterBody>
+		</Water>
+		<Postproc>
+			<Brightness>0</Brightness>
+			<Contrast>1</Contrast>
+			<Saturation>1</Saturation>
+			<Bloom>0.2</Bloom>
+			<PostEffect>default</PostEffect>
+		</Postproc>
+	</Environment>
+	<Camera>
+		<Position x="665.406" y="334.969" z="1216.66"/>
+		<Rotation angle="2.36757"/>
+		<Declination angle="0.610865"/>
+	</Camera>
+	<ScriptSettings><![CDATA[
+{
+  "AISeed": 0,
+  "CircularMap": true,
+  "Description": "A  big jungle whit hills and animas, metal and stone\nare rare here.",
+  "Keywords": [
+    "demo"
+  ],
+  "LockTeams": false,
+  "Name": "Jungle Lacandona(TODO)",
+  "Nomad": false,
+  "PlayerData": [
+    "",
+    {
+      "Civ": "athen"
+    },
+    {
+      "Civ": "cart"
+    },
+    {
+      "Civ": "gaul"
+    },
+    {
+      "Civ": "iber"
+    },
+    {
+      "Civ": "mace"
+    },
+    {
+      "Civ": "pers"
+    },
+    {
+      "Civ": "rome"
+    },
+    {
+      "Civ": "spart"
+    }
+  ],
+  "Preview": "",
+  "RevealMap": false,
+  "Script": "",
+  "Seed": 0,
+  "Size": 320,
+  "TriggerScripts": [],
+  "VictoryConditions": [],
+  "mapType": "random"
+}
+]]></ScriptSettings>
+	<Entities>
+		<Entity uid="11">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1023.95075" z="904.66602"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19558"/>
+		</Entity>
+		<Entity uid="12">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="999.80756" z="878.77076"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21978"/>
+		</Entity>
+		<Entity uid="13">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1015.63898" z="865.53492"/>
+			<Orientation y="2.28057"/>
+			<Actor seed="7592"/>
+		</Entity>
+		<Entity uid="14">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1039.02088" z="860.93354"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42268"/>
+		</Entity>
+		<Entity uid="15">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1051.40857" z="871.0553"/>
+			<Orientation y="-0.67162"/>
+			<Actor seed="20482"/>
+		</Entity>
+		<Entity uid="16">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1029.03577" z="892.38086"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29152"/>
+		</Entity>
+		<Entity uid="17">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1025.9651" z="856.93165"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29052"/>
+		</Entity>
+		<Entity uid="18">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1035.46985" z="842.20777"/>
+			<Orientation y="2.37758"/>
+			<Actor seed="23652"/>
+		</Entity>
+		<Entity uid="19">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1047.29041" z="830.099"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4696"/>
+		</Entity>
+		<Entity uid="20">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1037.62525" z="820.28925"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28886"/>
+		</Entity>
+		<Entity uid="21">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1022.49256" z="811.36701"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42806"/>
+		</Entity>
+		<Entity uid="22">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1004.70826" z="805.28321"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5608"/>
+		</Entity>
+		<Entity uid="23">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="989.93744" z="811.37262"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65086"/>
+		</Entity>
+		<Entity uid="24">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1001.27503" z="837.45716"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59988"/>
+		</Entity>
+		<Entity uid="25">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1016.74634" z="835.4043"/>
+			<Orientation y="3.1141"/>
+			<Actor seed="61352"/>
+		</Entity>
+		<Entity uid="26">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="992.54657" z="844.6424"/>
+			<Orientation y="-0.98092"/>
+			<Actor seed="55370"/>
+		</Entity>
+		<Entity uid="27">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="975.25904" z="864.53327"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46182"/>
+		</Entity>
+		<Entity uid="28">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="990.34681" z="867.24354"/>
+			<Orientation y="1.57081"/>
+			<Actor seed="24164"/>
+		</Entity>
+		<Entity uid="29">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1011.9538" z="878.76948"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9302"/>
+		</Entity>
+		<Entity uid="30">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1030.40918" z="880.87348"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35366"/>
+		</Entity>
+		<Entity uid="31">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1032.65162" z="869.12024"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42918"/>
+		</Entity>
+		<Entity uid="32">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1047.8783" z="904.00904"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32938"/>
+		</Entity>
+		<Entity uid="33">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="1004.90381" z="860.78193"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34294"/>
+		</Entity>
+		<Entity uid="34">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="981.23011" z="841.43049"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4030"/>
+		</Entity>
+		<Entity uid="35">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="997.46467" z="832.41236"/>
+			<Orientation y="2.5576"/>
+			<Actor seed="32774"/>
+		</Entity>
+		<Entity uid="36">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1009.34485" z="826.31006"/>
+			<Orientation y="0.5426"/>
+			<Actor seed="34178"/>
+		</Entity>
+		<Entity uid="37">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1018.61103" z="840.36738"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61796"/>
+		</Entity>
+		<Entity uid="38">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="999.46332" z="845.78864"/>
+			<Orientation y="-0.08611"/>
+			<Actor seed="15002"/>
+		</Entity>
+		<Entity uid="39">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1012.77619" z="857.46711"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12998"/>
+		</Entity>
+		<Entity uid="40">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1015.45923" z="845.37208"/>
+			<Orientation y="3.00437"/>
+			<Actor seed="57272"/>
+		</Entity>
+		<Entity uid="41">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1019.91236" z="826.7212"/>
+			<Orientation y="-2.53283"/>
+			<Actor seed="26088"/>
+		</Entity>
+		<Entity uid="42">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1005.95972" z="812.74311"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50220"/>
+		</Entity>
+		<Entity uid="43">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1014.81635" z="804.07258"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36676"/>
+		</Entity>
+		<Entity uid="44">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1018.60944" z="805.7602"/>
+			<Orientation y="1.14411"/>
+			<Actor seed="54050"/>
+		</Entity>
+		<Entity uid="45">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1034.39673" z="813.81891"/>
+			<Orientation y="-0.14356"/>
+			<Actor seed="37748"/>
+		</Entity>
+		<Entity uid="46">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1032.2212" z="861.57618"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48288"/>
+		</Entity>
+		<Entity uid="47">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1024.49158" z="873.2696"/>
+			<Orientation y="-0.38703"/>
+			<Actor seed="22808"/>
+		</Entity>
+		<Entity uid="48">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1028.8014" z="898.54828"/>
+			<Orientation y="1.71142"/>
+			<Actor seed="47268"/>
+		</Entity>
+		<Entity uid="49">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="1039.24744" z="898.80701"/>
+			<Orientation y="-2.78386"/>
+			<Actor seed="1156"/>
+		</Entity>
+		<Entity uid="50">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="931.7422" z="827.07111"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27314"/>
+		</Entity>
+		<Entity uid="51">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="952.29578" z="807.4018"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50816"/>
+		</Entity>
+		<Entity uid="52">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="948.00855" z="838.03388"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17778"/>
+		</Entity>
+		<Entity uid="53">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="947.71131" z="855.06098"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43876"/>
+		</Entity>
+		<Entity uid="54">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="959.47883" z="812.67273"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33682"/>
+		</Entity>
+		<Entity uid="55">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="972.05561" z="774.28888"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17884"/>
+		</Entity>
+		<Entity uid="56">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1000.2696" z="763.52607"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25576"/>
+		</Entity>
+		<Entity uid="57">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="996.51911" z="773.83875"/>
+			<Orientation y="-1.26513"/>
+			<Actor seed="35560"/>
+		</Entity>
+		<Entity uid="58">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="980.16419" z="781.39802"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="742"/>
+		</Entity>
+		<Entity uid="59">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1007.77948" z="759.68903"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="720"/>
+		</Entity>
+		<Entity uid="60">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1026.7389" z="765.40699"/>
+			<Orientation y="0.63778"/>
+			<Actor seed="48832"/>
+		</Entity>
+		<Entity uid="61">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1038.20337" z="781.55884"/>
+			<Orientation y="-1.31038"/>
+			<Actor seed="64958"/>
+		</Entity>
+		<Entity uid="62">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1029.82117" z="785.28882"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30386"/>
+		</Entity>
+		<Entity uid="63">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1061.89222" z="772.58838"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16104"/>
+		</Entity>
+		<Entity uid="64">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1062.08362" z="774.47632"/>
+			<Orientation y="0.21018"/>
+			<Actor seed="20088"/>
+		</Entity>
+		<Entity uid="65">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1069.17676" z="805.95533"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25376"/>
+		</Entity>
+		<Entity uid="66">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1066.1084" z="810.9994"/>
+			<Orientation y="1.60576"/>
+			<Actor seed="26498"/>
+		</Entity>
+		<Entity uid="67">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1095.20215" z="809.61622"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60974"/>
+		</Entity>
+		<Entity uid="68">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1092.03516" z="842.59607"/>
+			<Orientation y="-0.53695"/>
+			<Actor seed="3594"/>
+		</Entity>
+		<Entity uid="69">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1089.6609" z="872.22571"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50350"/>
+		</Entity>
+		<Entity uid="70">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="1105.40906" z="914.81147"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18560"/>
+		</Entity>
+		<Entity uid="71">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="925.50544" z="868.37415"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44132"/>
+		</Entity>
+		<Entity uid="72">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="947.13349" z="799.37256"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25162"/>
+		</Entity>
+		<Entity uid="73">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="966.16535" z="798.92237"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62512"/>
+		</Entity>
+		<Entity uid="74">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1004.80011" z="779.92322"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10912"/>
+		</Entity>
+		<Entity uid="75">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1022.19568" z="789.7923"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11844"/>
+		</Entity>
+		<Entity uid="76">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1040.92408" z="801.64625"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27734"/>
+		</Entity>
+		<Entity uid="77">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1061.04822" z="791.52472"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40328"/>
+		</Entity>
+		<Entity uid="78">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1081.8423" z="811.49738"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29858"/>
+		</Entity>
+		<Entity uid="79">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1116.49244" z="854.54908"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43174"/>
+		</Entity>
+		<Entity uid="80">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1085.99134" z="943.02497"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29824"/>
+		</Entity>
+		<Entity uid="81">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1078.11878" z="897.43848"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40352"/>
+		</Entity>
+		<Entity uid="82">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="1103.90857" z="962.94043"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44816"/>
+		</Entity>
+		<Entity uid="83">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="956.0329" z="901.1933"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40198"/>
+		</Entity>
+		<Entity uid="84">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="943.93232" z="878.17872"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1500"/>
+		</Entity>
+		<Entity uid="85">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="974.21717" z="896.38172"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48490"/>
+		</Entity>
+		<Entity uid="86">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="969.89466" z="906.97516"/>
+			<Orientation y="0.78869"/>
+			<Actor seed="62970"/>
+		</Entity>
+		<Entity uid="87">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="994.61854" z="915.2334"/>
+			<Orientation y="1.92597"/>
+			<Actor seed="3716"/>
+		</Entity>
+		<Entity uid="88">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1013.58887" z="911.86915"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24206"/>
+		</Entity>
+		<Entity uid="89">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1025.06482" z="933.95368"/>
+			<Orientation y="0.53441"/>
+			<Actor seed="32852"/>
+		</Entity>
+		<Entity uid="90">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1048.57215" z="952.9922"/>
+			<Orientation y="3.05958"/>
+			<Actor seed="51386"/>
+		</Entity>
+		<Entity uid="91">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1052.82679" z="914.20582"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48182"/>
+		</Entity>
+		<Entity uid="92">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1072.06043" z="913.40845"/>
+			<Orientation y="2.33564"/>
+			<Actor seed="31262"/>
+		</Entity>
+		<Entity uid="93">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1080.17908" z="908.70093"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64564"/>
+		</Entity>
+		<Entity uid="94">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1082.5763" z="837.53534"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13288"/>
+		</Entity>
+		<Entity uid="95">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1096.82984" z="801.06446"/>
+			<Orientation y="-3.09792"/>
+			<Actor seed="65218"/>
+		</Entity>
+		<Entity uid="96">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1079.37867" z="783.50947"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50360"/>
+		</Entity>
+		<Entity uid="97">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1086.99561" z="772.77576"/>
+			<Orientation y="1.63892"/>
+			<Actor seed="2600"/>
+		</Entity>
+		<Entity uid="98">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1101.79883" z="778.22974"/>
+			<Orientation y="0.80613"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="99">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1105.50489" z="788.69642"/>
+			<Orientation y="0.18212"/>
+			<Actor seed="3460"/>
+		</Entity>
+		<Entity uid="100">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="1108.19703" z="802.98731"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63600"/>
+		</Entity>
+		<Entity uid="101">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1041.60828" z="778.25214"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29632"/>
+		</Entity>
+		<Entity uid="102">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1046.53931" z="765.63929"/>
+			<Orientation y="1.74933"/>
+			<Actor seed="56908"/>
+		</Entity>
+		<Entity uid="103">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1079.2931" z="766.24323"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40424"/>
+		</Entity>
+		<Entity uid="104">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1085.62464" z="767.51313"/>
+			<Orientation y="-1.6124"/>
+			<Actor seed="6192"/>
+		</Entity>
+		<Entity uid="105">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1081.7173" z="784.15711"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55644"/>
+		</Entity>
+		<Entity uid="106">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1093.7898" z="814.90271"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29618"/>
+		</Entity>
+		<Entity uid="107">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1106.84144" z="813.46265"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16768"/>
+		</Entity>
+		<Entity uid="108">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1111.58484" z="856.87476"/>
+			<Orientation y="-0.10685"/>
+			<Actor seed="56964"/>
+		</Entity>
+		<Entity uid="109">
+			<Template>gaia/flora_tree_oak_dead</Template>
+			<Player>0</Player>
+			<Position x="1113.76502" z="898.35883"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56728"/>
+		</Entity>
+		<Entity uid="110">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="999.61353" z="757.25239"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50418"/>
+		</Entity>
+		<Entity uid="111">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1027.17786" z="744.14625"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28408"/>
+		</Entity>
+		<Entity uid="112">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1038.53064" z="753.41749"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36442"/>
+		</Entity>
+		<Entity uid="113">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1054.6731" z="745.0495"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53684"/>
+		</Entity>
+		<Entity uid="114">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1063.02112" z="737.01001"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46468"/>
+		</Entity>
+		<Entity uid="115">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1073.70423" z="754.26447"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51550"/>
+		</Entity>
+		<Entity uid="116">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1091.01111" z="751.61567"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30034"/>
+		</Entity>
+		<Entity uid="117">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1094.27369" z="748.28516"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51920"/>
+		</Entity>
+		<Entity uid="118">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1109.21973" z="761.95594"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3756"/>
+		</Entity>
+		<Entity uid="119">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="1117.20179" z="762.67682"/>
+			<Orientation y="-3.095"/>
+			<Actor seed="1268"/>
+		</Entity>
+		<Entity uid="120">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="746.13788" z="942.25623"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2974"/>
+		</Entity>
+		<Entity uid="121">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="833.23743" z="880.62653"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20794"/>
+		</Entity>
+		<Entity uid="122">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="820.53602" z="876.49683"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43760"/>
+		</Entity>
+		<Entity uid="123">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="845.12513" z="895.29773"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65426"/>
+		</Entity>
+		<Entity uid="124">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="859.91547" z="920.60474"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47160"/>
+		</Entity>
+		<Entity uid="125">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="850.39563" z="940.01832"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22266"/>
+		</Entity>
+		<Entity uid="126">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="837.18415" z="961.2256"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56194"/>
+		</Entity>
+		<Entity uid="127">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="830.41443" z="964.92591"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31460"/>
+		</Entity>
+		<Entity uid="128">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="814.456" z="974.00599"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42924"/>
+		</Entity>
+		<Entity uid="129">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="779.20337" z="880.6139"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34150"/>
+		</Entity>
+		<Entity uid="130">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="801.78565" z="869.09272"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1738"/>
+		</Entity>
+		<Entity uid="131">
+			<Template>gaia/flora_tree_medit_fan_palm</Template>
+			<Player>0</Player>
+			<Position x="808.04322" z="868.88703"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38852"/>
+		</Entity>
+		<Entity uid="132">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="788.5431" z="872.61683"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30692"/>
+		</Entity>
+		<Entity uid="133">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="798.16272" z="865.693"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16524"/>
+		</Entity>
+		<Entity uid="134">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="782.90198" z="873.8177"/>
+			<Orientation y="-1.11663"/>
+			<Actor seed="3912"/>
+		</Entity>
+		<Entity uid="135">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="773.12543" z="884.12592"/>
+			<Orientation y="0.7802"/>
+			<Actor seed="53074"/>
+		</Entity>
+		<Entity uid="136">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="769.94117" z="898.39496"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38746"/>
+		</Entity>
+		<Entity uid="137">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="761.87995" z="907.46387"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46"/>
+		</Entity>
+		<Entity uid="138">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="760.10676" z="923.9698"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30414"/>
+		</Entity>
+		<Entity uid="139">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="761.55683" z="931.65406"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41976"/>
+		</Entity>
+		<Entity uid="140">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="762.16126" z="945.34974"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64582"/>
+		</Entity>
+		<Entity uid="141">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="769.9734" z="957.85492"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7002"/>
+		</Entity>
+		<Entity uid="142">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="777.62732" z="963.46802"/>
+			<Orientation y="1.2951"/>
+			<Actor seed="28670"/>
+		</Entity>
+		<Entity uid="143">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="789.04609" z="969.61054"/>
+			<Orientation y="0.90014"/>
+			<Actor seed="24282"/>
+		</Entity>
+		<Entity uid="144">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="801.26862" z="975.3982"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17612"/>
+		</Entity>
+		<Entity uid="145">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="762.25446" z="954.71387"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37056"/>
+		</Entity>
+		<Entity uid="146">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="754.91633" z="956.18976"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62296"/>
+		</Entity>
+		<Entity uid="147">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="754.23469" z="945.2334"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47250"/>
+		</Entity>
+		<Entity uid="148">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="755.04743" z="936.35267"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57534"/>
+		</Entity>
+		<Entity uid="149">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="753.04944" z="926.05384"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50190"/>
+		</Entity>
+		<Entity uid="150">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="748.18958" z="921.3625"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15492"/>
+		</Entity>
+		<Entity uid="151">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="754.82532" z="908.86664"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19030"/>
+		</Entity>
+		<Entity uid="152">
+			<Template>gaia/flora_tree_oak</Template>
+			<Player>0</Player>
+			<Position x="760.43494" z="887.87812"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40998"/>
+		</Entity>
+		<Entity uid="153">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="761.8307" z="878.70936"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3342"/>
+		</Entity>
+		<Entity uid="154">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="748.0713" z="892.14643"/>
+			<Orientation y="0.69431"/>
+			<Actor seed="58774"/>
+		</Entity>
+		<Entity uid="155">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="745.24372" z="917.04316"/>
+			<Orientation y="-1.05329"/>
+			<Actor seed="19528"/>
+		</Entity>
+		<Entity uid="156">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="728.20618" z="940.54011"/>
+			<Orientation y="-0.05967"/>
+			<Actor seed="34486"/>
+		</Entity>
+		<Entity uid="157">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="729.35743" z="969.01258"/>
+			<Orientation y="1.55611"/>
+			<Actor seed="19898"/>
+		</Entity>
+		<Entity uid="158">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="739.55372" z="977.86084"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53294"/>
+		</Entity>
+		<Entity uid="159">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="748.6125" z="998.45057"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37686"/>
+		</Entity>
+		<Entity uid="160">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="768.45649" z="997.59491"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30802"/>
+		</Entity>
+		<Entity uid="161">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="785.15418" z="988.74982"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38466"/>
+		</Entity>
+		<Entity uid="162">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="796.31202" z="993.47657"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19722"/>
+		</Entity>
+		<Entity uid="163">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="822.43696" z="985.67804"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3528"/>
+		</Entity>
+		<Entity uid="164">
+			<Template>gaia/flora_tree_oak_aut_new</Template>
+			<Player>0</Player>
+			<Position x="847.57178" z="968.94123"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22436"/>
+		</Entity>
+		<Entity uid="165">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="768.2674" z="876.141"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17644"/>
+		</Entity>
+		<Entity uid="166">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="773.03937" z="874.12293"/>
+			<Orientation y="2.34508"/>
+			<Actor seed="1536"/>
+		</Entity>
+		<Entity uid="167">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="777.45813" z="870.76001"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13580"/>
+		</Entity>
+		<Entity uid="168">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="856.00355" z="900.3036"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2164"/>
+		</Entity>
+		<Entity uid="169">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="853.88282" z="912.93354"/>
+			<Orientation y="-1.20575"/>
+			<Actor seed="50802"/>
+		</Entity>
+		<Entity uid="170">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="853.7743" z="920.54682"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22060"/>
+		</Entity>
+		<Entity uid="171">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="857.40351" z="931.95289"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29380"/>
+		</Entity>
+		<Entity uid="172">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="860.2975" z="946.00373"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48918"/>
+		</Entity>
+		<Entity uid="173">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="855.51752" z="954.24628"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25520"/>
+		</Entity>
+		<Entity uid="174">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="850.75385" z="956.6178"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2448"/>
+		</Entity>
+		<Entity uid="175">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="847.30408" z="953.3332"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19396"/>
+		</Entity>
+		<Entity uid="176">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="845.5362" z="957.11176"/>
+			<Orientation y="0.06089"/>
+			<Actor seed="40200"/>
+		</Entity>
+		<Entity uid="177">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="845.83661" z="968.53675"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51066"/>
+		</Entity>
+		<Entity uid="178">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="850.95704" z="974.64136"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15300"/>
+		</Entity>
+		<Entity uid="179">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="840.81763" z="980.86762"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39146"/>
+		</Entity>
+		<Entity uid="180">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="835.5879" z="983.34784"/>
+			<Orientation y="-1.69904"/>
+			<Actor seed="5334"/>
+		</Entity>
+		<Entity uid="181">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="825.37855" z="981.72162"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8920"/>
+		</Entity>
+		<Entity uid="182">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="829.10499" z="975.20417"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16350"/>
+		</Entity>
+		<Entity uid="183">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="832.26502" z="972.98566"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11920"/>
+		</Entity>
+		<Entity uid="184">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="824.7845" z="974.78687"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49292"/>
+		</Entity>
+		<Entity uid="185">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="821.69263" z="979.63086"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57914"/>
+		</Entity>
+		<Entity uid="186">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="814.826" z="990.65613"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41116"/>
+		</Entity>
+		<Entity uid="187">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="812.07001" z="991.46662"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31766"/>
+		</Entity>
+		<Entity uid="188">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="807.70112" z="990.32435"/>
+			<Orientation y="-2.69904"/>
+			<Actor seed="41768"/>
+		</Entity>
+		<Entity uid="189">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="763.57087" z="989.93476"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35156"/>
+		</Entity>
+		<Entity uid="190">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="764.80317" z="986.84742"/>
+			<Orientation y="2.00902"/>
+			<Actor seed="44304"/>
+		</Entity>
+		<Entity uid="191">
+			<Template>gaia/flora_tree_cypress</Template>
+			<Player>0</Player>
+			<Position x="777.17841" z="979.612"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34290"/>
+		</Entity>
+		<Entity uid="192">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="741.77735" z="911.89948"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48472"/>
+		</Entity>
+		<Entity uid="193">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="748.38062" z="901.1894"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31170"/>
+		</Entity>
+		<Entity uid="194">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="751.11963" z="904.73554"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33316"/>
+		</Entity>
+		<Entity uid="195">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="738.0099" z="912.7547"/>
+			<Orientation y="-1.40352"/>
+			<Actor seed="27008"/>
+		</Entity>
+		<Entity uid="196">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="727.62055" z="915.86207"/>
+			<Orientation y="0.44654"/>
+			<Actor seed="1474"/>
+		</Entity>
+		<Entity uid="197">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="724.29834" z="961.22608"/>
+			<Orientation y="1.23501"/>
+			<Actor seed="48730"/>
+		</Entity>
+		<Entity uid="198">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="849.92396" z="884.14936"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57174"/>
+		</Entity>
+		<Entity uid="199">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="846.97303" z="879.36731"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17274"/>
+		</Entity>
+		<Entity uid="200">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="842.75959" z="875.38086"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19364"/>
+		</Entity>
+		<Entity uid="201">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="838.53736" z="874.11323"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30666"/>
+		</Entity>
+		<Entity uid="202">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="831.16871" z="860.39924"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16160"/>
+		</Entity>
+		<Entity uid="203">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="825.59736" z="853.87513"/>
+			<Orientation y="-2.44362"/>
+			<Actor seed="40804"/>
+		</Entity>
+		<Entity uid="204">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="814.96692" z="847.45344"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46836"/>
+		</Entity>
+		<Entity uid="205">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="818.04462" z="858.53394"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26132"/>
+		</Entity>
+		<Entity uid="206">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="825.4463" z="865.3755"/>
+			<Orientation y="-0.952"/>
+			<Actor seed="6818"/>
+		</Entity>
+		<Entity uid="207">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="818.74402" z="868.99964"/>
+			<Orientation y="-2.2391"/>
+			<Actor seed="19728"/>
+		</Entity>
+		<Entity uid="208">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="799.64246" z="852.95148"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33746"/>
+		</Entity>
+		<Entity uid="209">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="804.51203" z="852.04133"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47690"/>
+		</Entity>
+		<Entity uid="210">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="805.76612" z="855.73041"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14352"/>
+		</Entity>
+		<Entity uid="211">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="788.93818" z="854.00715"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50978"/>
+		</Entity>
+		<Entity uid="212">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="771.90485" z="862.53705"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15648"/>
+		</Entity>
+		<Entity uid="213">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="843.69574" z="855.10126"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15460"/>
+		</Entity>
+		<Entity uid="214">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="851.05549" z="859.44764"/>
+			<Orientation y="1.55611"/>
+			<Actor seed="14904"/>
+		</Entity>
+		<Entity uid="215">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="861.27283" z="859.64338"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28606"/>
+		</Entity>
+		<Entity uid="216">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="865.36774" z="861.02393"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23680"/>
+		</Entity>
+		<Entity uid="217">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="864.08954" z="879.69123"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7960"/>
+		</Entity>
+		<Entity uid="218">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="858.83515" z="877.56318"/>
+			<Orientation y="-2.29786"/>
+			<Actor seed="10780"/>
+		</Entity>
+		<Entity uid="219">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="841.21802" z="860.27826"/>
+			<Orientation y="-2.26337"/>
+			<Actor seed="51342"/>
+		</Entity>
+		<Entity uid="220">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="832.7989" z="852.8653"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1830"/>
+		</Entity>
+		<Entity uid="221">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="860.34473" z="869.42963"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29804"/>
+		</Entity>
+		<Entity uid="222">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="848.8462" z="868.46998"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52428"/>
+		</Entity>
+		<Entity uid="223">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="864.37635" z="897.70142"/>
+			<Orientation y="0.45522"/>
+			<Actor seed="4340"/>
+		</Entity>
+		<Entity uid="224">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="869.95344" z="908.79346"/>
+			<Orientation y="2.89313"/>
+			<Actor seed="21248"/>
+		</Entity>
+		<Entity uid="225">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="873.92493" z="891.14289"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65080"/>
+		</Entity>
+		<Entity uid="226">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="877.52137" z="889.91456"/>
+			<Orientation y="0.10865"/>
+			<Actor seed="20956"/>
+		</Entity>
+		<Entity uid="227">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="878.61725" z="906.1731"/>
+			<Orientation y="-0.08115"/>
+			<Actor seed="56036"/>
+		</Entity>
+		<Entity uid="228">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="877.49573" z="921.63917"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43096"/>
+		</Entity>
+		<Entity uid="229">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="871.04627" z="928.71436"/>
+			<Orientation y="-1.35131"/>
+			<Actor seed="43320"/>
+		</Entity>
+		<Entity uid="230">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="867.83283" z="947.50129"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="574"/>
+		</Entity>
+		<Entity uid="231">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="868.57795" z="959.89795"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40480"/>
+		</Entity>
+		<Entity uid="232">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="862.2295" z="967.48157"/>
+			<Orientation y="-1.72956"/>
+			<Actor seed="10246"/>
+		</Entity>
+		<Entity uid="233">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="857.19367" z="967.18244"/>
+			<Orientation y="0.95694"/>
+			<Actor seed="64138"/>
+		</Entity>
+		<Entity uid="234">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="871.96656" z="945.99164"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6066"/>
+		</Entity>
+		<Entity uid="235">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="873.02112" z="938.85645"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53766"/>
+		</Entity>
+		<Entity uid="236">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="868.0423" z="920.85523"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32272"/>
+		</Entity>
+		<Entity uid="237">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="866.73737" z="916.52533"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14270"/>
+		</Entity>
+		<Entity uid="238">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="826.55408" z="999.77271"/>
+			<Orientation y="-0.97265"/>
+			<Actor seed="25774"/>
+		</Entity>
+		<Entity uid="239">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="819.25379" z="1008.0276"/>
+			<Orientation y="-0.15563"/>
+			<Actor seed="38358"/>
+		</Entity>
+		<Entity uid="240">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="818.04328" z="1014.85358"/>
+			<Orientation y="1.87855"/>
+			<Actor seed="2258"/>
+		</Entity>
+		<Entity uid="241">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="840.79438" z="1009.28913"/>
+			<Orientation y="2.86309"/>
+			<Actor seed="37206"/>
+		</Entity>
+		<Entity uid="242">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="837.08173" z="997.42463"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62658"/>
+		</Entity>
+		<Entity uid="243">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="850.73591" z="994.86512"/>
+			<Orientation y="1.31643"/>
+			<Actor seed="28540"/>
+		</Entity>
+		<Entity uid="244">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="860.82044" z="994.74701"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48302"/>
+		</Entity>
+		<Entity uid="245">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="861.63764" z="987.20557"/>
+			<Orientation y="0.37455"/>
+			<Actor seed="6104"/>
+		</Entity>
+		<Entity uid="246">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="864.39954" z="1002.38465"/>
+			<Orientation y="-0.56194"/>
+			<Actor seed="19846"/>
+		</Entity>
+		<Entity uid="247">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="848.59174" z="1012.48505"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10454"/>
+		</Entity>
+		<Entity uid="248">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="825.16181" z="1018.71998"/>
+			<Orientation y="-1.02988"/>
+			<Actor seed="44072"/>
+		</Entity>
+		<Entity uid="249">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="801.4889" z="1024.35706"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49994"/>
+		</Entity>
+		<Entity uid="250">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="787.98957" z="1018.63196"/>
+			<Orientation y="2.22538"/>
+			<Actor seed="30718"/>
+		</Entity>
+		<Entity uid="251">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="798.02479" z="1013.80286"/>
+			<Orientation y="2.76612"/>
+			<Actor seed="21372"/>
+		</Entity>
+		<Entity uid="252">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="800.31611" z="1007.60157"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40092"/>
+		</Entity>
+		<Entity uid="253">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="780.498" z="1007.78852"/>
+			<Orientation y="-0.97265"/>
+			<Actor seed="21834"/>
+		</Entity>
+		<Entity uid="254">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="769.37916" z="1014.99518"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31358"/>
+		</Entity>
+		<Entity uid="255">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="768.1905" z="1020.13819"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31496"/>
+		</Entity>
+		<Entity uid="256">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="731.91407" z="968.96021"/>
+			<Orientation y="2.89502"/>
+			<Actor seed="36694"/>
+		</Entity>
+		<Entity uid="257">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="738.2411" z="956.95655"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23938"/>
+		</Entity>
+		<Entity uid="258">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="739.04438" z="954.65326"/>
+			<Orientation y="0.53742"/>
+			<Actor seed="27418"/>
+		</Entity>
+		<Entity uid="259">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="747.35914" z="977.69806"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36318"/>
+		</Entity>
+		<Entity uid="260">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="755.31525" z="979.92554"/>
+			<Orientation y="1.5739"/>
+			<Actor seed="42826"/>
+		</Entity>
+		<Entity uid="261">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="769.1468" z="982.2162"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10434"/>
+		</Entity>
+		<Entity uid="262">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="750.65143" z="966.56116"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49804"/>
+		</Entity>
+		<Entity uid="263">
+			<Template>gaia/flora_tree_pine</Template>
+			<Player>0</Player>
+			<Position x="746.99518" z="962.67475"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33912"/>
+		</Entity>
+		<Entity uid="264">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="885.90229" z="981.89234"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57980"/>
+		</Entity>
+		<Entity uid="265">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="876.25477" z="1001.39771"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6040"/>
+		</Entity>
+		<Entity uid="266">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="876.49292" z="982.26386"/>
+			<Orientation y="-3.04091"/>
+			<Actor seed="53028"/>
+		</Entity>
+		<Entity uid="267">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="874.32856" z="968.58552"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9266"/>
+		</Entity>
+		<Entity uid="268">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="889.28083" z="961.48761"/>
+			<Orientation y="2.83808"/>
+			<Actor seed="45266"/>
+		</Entity>
+		<Entity uid="269">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="895.2884" z="940.26539"/>
+			<Orientation y="-2.45592"/>
+			<Actor seed="60152"/>
+		</Entity>
+		<Entity uid="270">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="884.45441" z="932.4709"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37468"/>
+		</Entity>
+		<Entity uid="271">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="900.27686" z="919.05976"/>
+			<Orientation y="0.33385"/>
+			<Actor seed="14612"/>
+		</Entity>
+		<Entity uid="272">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="903.08704" z="950.7599"/>
+			<Orientation y="-0.17948"/>
+			<Actor seed="4896"/>
+		</Entity>
+		<Entity uid="273">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="885.8086" z="975.70337"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43968"/>
+		</Entity>
+		<Entity uid="274">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="883.0254" z="959.69501"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14714"/>
+		</Entity>
+		<Entity uid="275">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="889.96442" z="958.9917"/>
+			<Orientation y="2.67362"/>
+			<Actor seed="42454"/>
+		</Entity>
+		<Entity uid="276">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="886.98084" z="959.01038"/>
+			<Orientation y="-0.42093"/>
+			<Actor seed="19194"/>
+		</Entity>
+		<Entity uid="277">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="878.43171" z="987.02735"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40010"/>
+		</Entity>
+		<Entity uid="278">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="873.29462" z="995.48267"/>
+			<Orientation y="-0.97265"/>
+			<Actor seed="26642"/>
+		</Entity>
+		<Entity uid="279">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="869.81678" z="997.89173"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49126"/>
+		</Entity>
+		<Entity uid="280">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="858.35602" z="1017.94196"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6078"/>
+		</Entity>
+		<Entity uid="281">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="849.49933" z="1019.51966"/>
+			<Orientation y="-0.88517"/>
+			<Actor seed="49054"/>
+		</Entity>
+		<Entity uid="282">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="831.20002" z="1032.7953"/>
+			<Orientation y="-2.14785"/>
+			<Actor seed="53680"/>
+		</Entity>
+		<Entity uid="283">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="824.06452" z="1028.60242"/>
+			<Orientation y="2.22024"/>
+			<Actor seed="46784"/>
+		</Entity>
+		<Entity uid="284">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="831.07764" z="1024.27613"/>
+			<Orientation y="-0.97265"/>
+			<Actor seed="35994"/>
+		</Entity>
+		<Entity uid="285">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="804.4203" z="1036.33912"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30550"/>
+		</Entity>
+		<Entity uid="286">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="795.91523" z="1029.48096"/>
+			<Orientation y="2.29798"/>
+			<Actor seed="34"/>
+		</Entity>
+		<Entity uid="287">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="802.82831" z="1024.4198"/>
+			<Orientation y="-1.18706"/>
+			<Actor seed="24854"/>
+		</Entity>
+		<Entity uid="288">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="714.54267" z="960.90668"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18704"/>
+		</Entity>
+		<Entity uid="289">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="712.79224" z="963.63752"/>
+			<Orientation y="-2.93427"/>
+			<Actor seed="64010"/>
+		</Entity>
+		<Entity uid="290">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="704.01532" z="940.10047"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36930"/>
+		</Entity>
+		<Entity uid="291">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="711.73108" z="939.35346"/>
+			<Orientation y="0.2899"/>
+			<Actor seed="42622"/>
+		</Entity>
+		<Entity uid="292">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="710.00251" z="932.72236"/>
+			<Orientation y="2.71915"/>
+			<Actor seed="56320"/>
+		</Entity>
+		<Entity uid="293">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="729.31543" z="917.91498"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19000"/>
+		</Entity>
+		<Entity uid="294">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="723.75348" z="907.92353"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60730"/>
+		</Entity>
+		<Entity uid="295">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="730.16437" z="901.10676"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28054"/>
+		</Entity>
+		<Entity uid="296">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="736.01258" z="893.24567"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39220"/>
+		</Entity>
+		<Entity uid="297">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="753.71381" z="860.17377"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54694"/>
+		</Entity>
+		<Entity uid="298">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="749.83771" z="868.29316"/>
+			<Orientation y="-0.94947"/>
+			<Actor seed="4690"/>
+		</Entity>
+		<Entity uid="299">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="735.81116" z="877.55079"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30380"/>
+		</Entity>
+		<Entity uid="300">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="734.61451" z="878.02314"/>
+			<Orientation y="2.24947"/>
+			<Actor seed="43362"/>
+		</Entity>
+		<Entity uid="301">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="752.27063" z="862.40381"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25938"/>
+		</Entity>
+		<Entity uid="302">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="759.29053" z="855.86255"/>
+			<Orientation y="2.25855"/>
+			<Actor seed="23344"/>
+		</Entity>
+		<Entity uid="303">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="781.21631" z="846.94343"/>
+			<Orientation y="1.36638"/>
+			<Actor seed="2790"/>
+		</Entity>
+		<Entity uid="304">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="797.86664" z="848.52076"/>
+			<Orientation y="2.29024"/>
+			<Actor seed="40118"/>
+		</Entity>
+		<Entity uid="305">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="806.06653" z="840.14136"/>
+			<Orientation y="1.61812"/>
+			<Actor seed="34262"/>
+		</Entity>
+		<Entity uid="306">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="831.73407" z="842.42042"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60074"/>
+		</Entity>
+		<Entity uid="307">
+			<Template>gaia/flora_tree_palm_tropic</Template>
+			<Player>0</Player>
+			<Position x="855.18165" z="848.80518"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59372"/>
+		</Entity>
+		<Entity uid="312">
+			<Template>other/palisades_rocks_gate</Template>
+			<Player>0</Player>
+			<Position x="653.2024" z="795.61438"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="342" group2="343"/>
+			<Actor seed="7974"/>
+		</Entity>
+		<Entity uid="313">
+			<Template>other/palisades_rocks_gate</Template>
+			<Player>0</Player>
+			<Position x="750.27631" z="699.15687"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="338" group2="339"/>
+			<Actor seed="52438"/>
+		</Entity>
+		<Entity uid="314">
+			<Template>other/palisades_rocks_gate</Template>
+			<Player>0</Player>
+			<Position x="748.71167" z="785.83722"/>
+			<Orientation y="-2.47869"/>
+			<Obstruction group="336" group2="337"/>
+			<Actor seed="33424"/>
+		</Entity>
+		<Entity uid="315">
+			<Template>other/palisades_rocks_gate</Template>
+			<Player>0</Player>
+			<Position x="618.6515" z="688.47211"/>
+			<Orientation y="0.74546"/>
+			<Obstruction group="340" group2="341"/>
+			<Actor seed="53746"/>
+		</Entity>
+		<Entity uid="316">
+			<Template>other/palisades_rocks_outpost</Template>
+			<Player>0</Player>
+			<Position x="629.56592" z="685.48163"/>
+			<Orientation y="0.66358"/>
+			<Actor seed="64416"/>
+		</Entity>
+		<Entity uid="317">
+			<Template>other/palisades_rocks_outpost</Template>
+			<Player>0</Player>
+			<Position x="616.1073" z="699.28565"/>
+			<Orientation y="0.7655"/>
+			<Obstruction group="396"/>
+			<Actor seed="39238"/>
+		</Entity>
+		<Entity uid="320">
+			<Template>other/palisades_rocks_outpost</Template>
+			<Player>0</Player>
+			<Position x="749.61762" z="710.86805"/>
+			<Orientation y="-0.99328"/>
+			<Actor seed="61178"/>
+		</Entity>
+		<Entity uid="321">
+			<Template>other/palisades_rocks_outpost</Template>
+			<Player>0</Player>
+			<Position x="739.3028" z="701.8379"/>
+			<Orientation y="-0.85363"/>
+			<Actor seed="34310"/>
+		</Entity>
+		<Entity uid="322">
+			<Template>other/palisades_rocks_outpost</Template>
+			<Player>0</Player>
+			<Position x="736.4911" z="789.67066"/>
+			<Orientation y="-2.53443"/>
+			<Actor seed="9346"/>
+		</Entity>
+		<Entity uid="323">
+			<Template>other/palisades_rocks_outpost</Template>
+			<Player>0</Player>
+			<Position x="753.0929" z="773.97474"/>
+			<Orientation y="-2.37328"/>
+			<Obstruction group="375"/>
+			<Actor seed="15078"/>
+		</Entity>
+		<Entity uid="324">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="740.92151" z="791.76185"/>
+			<Orientation y="0.59812"/>
+			<Obstruction group="336"/>
+			<Actor seed="36296"/>
+		</Entity>
+		<Entity uid="325">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="737.16254" z="794.78614"/>
+			<Orientation y="-2.59498"/>
+			<Actor seed="38330"/>
+		</Entity>
+		<Entity uid="332">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="733.14332" z="798.0041"/>
+			<Orientation y="0.40905"/>
+			<Actor seed="6956"/>
+		</Entity>
+		<Entity uid="333">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="725.60413" z="803.54792"/>
+			<Orientation y="0.35787"/>
+			<Obstruction group="335"/>
+			<Actor seed="43260"/>
+		</Entity>
+		<Entity uid="334">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="729.41724" z="800.72773"/>
+			<Orientation y="0.6712"/>
+			<Actor seed="20574"/>
+		</Entity>
+		<Entity uid="335">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="722.91224" z="805.39435"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64730"/>
+		</Entity>
+		<Entity uid="336">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="743.48975" z="789.84314"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4484"/>
+		</Entity>
+		<Entity uid="337">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="753.80958" z="780.37592"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="404"/>
+		</Entity>
+		<Entity uid="338">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="755.37671" z="704.07941"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15002"/>
+		</Entity>
+		<Entity uid="339">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="745.74769" z="693.58497"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14782"/>
+		</Entity>
+		<Entity uid="340">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="623.52741" z="683.52497"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27662"/>
+		</Entity>
+		<Entity uid="341">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="613.71204" z="692.0279"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15060"/>
+		</Entity>
+		<Entity uid="342">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="647.87519" z="790.3714"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16054"/>
+		</Entity>
+		<Entity uid="343">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="658.55292" z="801.4596"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32338"/>
+		</Entity>
+		<Entity uid="344">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="664.56763" z="804.82392"/>
+			<Orientation y="-2.10447"/>
+			<Obstruction group="342" group2="343"/>
+			<Actor seed="33210"/>
+		</Entity>
+		<Entity uid="345">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="673.79914" z="809.13154"/>
+			<Orientation y="-1.80198"/>
+			<Obstruction group="353" group2="352"/>
+			<Actor seed="32760"/>
+		</Entity>
+		<Entity uid="346">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="679.97584" z="811.12134"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="352"/>
+			<Actor seed="41760"/>
+		</Entity>
+		<Entity uid="347">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="684.26783" z="813.43311"/>
+			<Orientation y="3.04677"/>
+			<Obstruction group="352"/>
+			<Actor seed="56516"/>
+		</Entity>
+		<Entity uid="348">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="691.69617" z="814.1996"/>
+			<Orientation y="-1.63794"/>
+			<Obstruction group="352" group2="351"/>
+			<Actor seed="10538"/>
+		</Entity>
+		<Entity uid="349">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="701.60175" z="814.01404"/>
+			<Orientation y="-1.41463"/>
+			<Obstruction group="351"/>
+			<Actor seed="51048"/>
+		</Entity>
+		<Entity uid="350">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="719.38984" z="807.59156"/>
+			<Orientation y="-2.58284"/>
+			<Obstruction group="335" group2="354"/>
+			<Actor seed="7688"/>
+		</Entity>
+		<Entity uid="351">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="706.2049" z="812.50947"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54928"/>
+		</Entity>
+		<Entity uid="352">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="681.37879" z="812.91657"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28304"/>
+		</Entity>
+		<Entity uid="353">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="668.0896" z="807.28406"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8218"/>
+		</Entity>
+		<Entity uid="354">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="716.38929" z="809.13868"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24886"/>
+		</Entity>
+		<Entity uid="355">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="711.0694" z="811.37464"/>
+			<Orientation y="-1.1711"/>
+			<Obstruction group="351" group2="354"/>
+			<Actor seed="42666"/>
+		</Entity>
+		<Entity uid="356">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="627.89563" z="678.62891"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="340" group2="341"/>
+			<Actor seed="43168"/>
+		</Entity>
+		<Entity uid="357">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="635.15882" z="672.46589"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="365"/>
+			<Actor seed="50100"/>
+		</Entity>
+		<Entity uid="358">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="642.60987" z="666.0782"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="365" group2="364"/>
+			<Actor seed="3710"/>
+		</Entity>
+		<Entity uid="359">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="649.76325" z="660.16822"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="364"/>
+			<Actor seed="56676"/>
+		</Entity>
+		<Entity uid="360">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="656.86164" z="655.08088"/>
+			<Orientation y="2.38794"/>
+			<Obstruction group="364" group2="363"/>
+			<Actor seed="22728"/>
+		</Entity>
+		<Entity uid="363">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="660.25605" z="652.12824"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14570"/>
+		</Entity>
+		<Entity uid="364">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="653.37708" z="657.4549"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23840"/>
+		</Entity>
+		<Entity uid="365">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="638.81861" z="670.1131"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57836"/>
+		</Entity>
+		<Entity uid="366">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="678.51514" z="650.56507"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34848"/>
+		</Entity>
+		<Entity uid="367">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="692.91492" z="651.27326"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23834"/>
+		</Entity>
+		<Entity uid="368">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="708.90284" z="654.59015"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55126"/>
+		</Entity>
+		<Entity uid="369">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="719.0431" z="660.6277"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3462"/>
+		</Entity>
+		<Entity uid="370">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="729.82502" z="673.05036"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19236"/>
+		</Entity>
+		<Entity uid="371">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="737.66755" z="685.51557"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1314"/>
+		</Entity>
+		<Entity uid="372">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="758.46015" z="720.39362"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50306"/>
+		</Entity>
+		<Entity uid="373">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="760.66248" z="735.94245"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27834"/>
+		</Entity>
+		<Entity uid="374">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="762.1084" z="752.6089"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13800"/>
+		</Entity>
+		<Entity uid="375">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="760.29706" z="768.43323"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46646"/>
+		</Entity>
+		<Entity uid="376">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="757.30542" z="775.67951"/>
+			<Orientation y="-2.13941"/>
+			<Obstruction group="336" group2="337"/>
+			<Actor seed="29066"/>
+		</Entity>
+		<Entity uid="377">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="762.02546" z="761.0821"/>
+			<Orientation y="-1.72646"/>
+			<Obstruction group="374" group2="375"/>
+			<Actor seed="39380"/>
+		</Entity>
+		<Entity uid="378">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="669.44745" z="651.09223"/>
+			<Orientation y="-3.05483"/>
+			<Obstruction group="363" group2="366"/>
+			<Actor seed="24004"/>
+		</Entity>
+		<Entity uid="379">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="686.19294" z="650.08777"/>
+			<Orientation y="3.06399"/>
+			<Obstruction group="366" group2="367"/>
+			<Actor seed="4530"/>
+		</Entity>
+		<Entity uid="380">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="701.22413" z="651.88886"/>
+			<Orientation y="2.90761"/>
+			<Obstruction group="367" group2="368"/>
+			<Actor seed="13156"/>
+		</Entity>
+		<Entity uid="381">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="713.46625" z="657.40845"/>
+			<Orientation y="-2.26931"/>
+			<Obstruction group="368" group2="369"/>
+			<Actor seed="49348"/>
+		</Entity>
+		<Entity uid="382">
+			<Template>other/palisades_rocks_fort</Template>
+			<Player>0</Player>
+			<Position x="721.30304" z="664.94672"/>
+			<Orientation y="-0.7582"/>
+			<Obstruction group="369"/>
+			<Actor seed="5072"/>
+		</Entity>
+		<Entity uid="383">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="725.9903" z="668.32258"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="370"/>
+			<Actor seed="54800"/>
+		</Entity>
+		<Entity uid="384">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="734.38898" z="679.0503"/>
+			<Orientation y="2.1039"/>
+			<Obstruction group="370" group2="371"/>
+			<Actor seed="63820"/>
+		</Entity>
+		<Entity uid="385">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="741.63465" z="689.3711"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="339" group2="371"/>
+			<Actor seed="13022"/>
+		</Entity>
+		<Entity uid="386">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="757.69855" z="709.02234"/>
+			<Orientation y="-1.2508"/>
+			<Obstruction group="338"/>
+			<Actor seed="1758"/>
+		</Entity>
+		<Entity uid="387">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="758.51319" z="716.92811"/>
+			<Orientation y="-1.6823"/>
+			<Obstruction group="372"/>
+			<Actor seed="18010"/>
+		</Entity>
+		<Entity uid="388">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="759.93757" z="727.28113"/>
+			<Orientation y="1.74833"/>
+			<Obstruction group="372" group2="373"/>
+			<Actor seed="30544"/>
+		</Entity>
+		<Entity uid="389">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="761.24024" z="742.31238"/>
+			<Orientation y="-1.49927"/>
+			<Obstruction group="373"/>
+			<Actor seed="7346"/>
+		</Entity>
+		<Entity uid="390">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="762.5998" z="749.09565"/>
+			<Orientation y="-1.46221"/>
+			<Obstruction group="374"/>
+			<Actor seed="7552"/>
+		</Entity>
+		<Entity uid="391">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="645.82905" z="787.77173"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="342"/>
+			<Actor seed="37978"/>
+		</Entity>
+		<Entity uid="392">
+			<Template>other/palisades_rocks_short</Template>
+			<Player>0</Player>
+			<Position x="642.39283" z="785.24769"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="401"/>
+			<Actor seed="53480"/>
+		</Entity>
+		<Entity uid="393">
+			<Template>other/palisades_rocks_straight</Template>
+			<Player>0</Player>
+			<Position x="638.24567" z="779.52424"/>
+			<Orientation y="-2.4347"/>
+			<Obstruction group="401"/>
+			<Actor seed="22996"/>
+		</Entity>
+		<Entity uid="394">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="612.47834" z="697.9178"/>
+			<Orientation y="1.32773"/>
+			<Obstruction group="340" group2="341"/>
+			<Actor seed="52110"/>
+		</Entity>
+		<Entity uid="395">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="608.78492" z="709.00593"/>
+			<Orientation y="1.51261"/>
+			<Obstruction group="396" group2="397"/>
+			<Actor seed="32398"/>
+		</Entity>
+		<Entity uid="396">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="610.03364" z="702.96784"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40670"/>
+		</Entity>
+		<Entity uid="397">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="607.76185" z="713.97474"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18324"/>
+		</Entity>
+		<Entity uid="398">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="605.92359" z="730.73456"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28846"/>
+		</Entity>
+		<Entity uid="399">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="609.94446" z="743.29737"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2194"/>
+		</Entity>
+		<Entity uid="400">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="617.72498" z="758.11335"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4266"/>
+		</Entity>
+		<Entity uid="401">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="635.51514" z="776.21595"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60654"/>
+		</Entity>
+		<Entity uid="402">
+			<Template>other/palisades_rocks_tower</Template>
+			<Player>0</Player>
+			<Position x="626.33783" z="770.14606"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52962"/>
+		</Entity>
+		<Entity uid="403">
+			<Template>other/palisades_rocks_medium</Template>
+			<Player>0</Player>
+			<Position x="630.50782" z="773.48945"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="401" group2="402"/>
+			<Actor seed="30976"/>
+		</Entity>
+		<Entity uid="404">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="622.6631" z="764.32074"/>
+			<Orientation y="-0.89905"/>
+			<Obstruction group="400" group2="402"/>
+			<Actor seed="28776"/>
+		</Entity>
+		<Entity uid="405">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="613.79944" z="751.28534"/>
+			<Orientation y="-0.949"/>
+			<Obstruction group="399" group2="400"/>
+			<Actor seed="29708"/>
+		</Entity>
+		<Entity uid="406">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="609.09632" z="737.99231"/>
+			<Orientation y="-1.25127"/>
+			<Obstruction group="398" group2="399"/>
+			<Actor seed="47944"/>
+		</Entity>
+		<Entity uid="407">
+			<Template>other/palisades_rocks_long</Template>
+			<Player>0</Player>
+			<Position x="606.57111" z="722.79029"/>
+			<Orientation y="-1.63967"/>
+			<Obstruction group="397" group2="398"/>
+			<Actor seed="40692"/>
+		</Entity>
+		<Entity uid="408">
+			<Template>structures/mex_village_centre</Template>
+			<Player>0</Player>
+			<Position x="685.65375" z="749.30976"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64206"/>
+		</Entity>
+		<Entity uid="409">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="702.2129" z="664.17365"/>
+			<Orientation y="0.07647"/>
+			<Actor seed="35272"/>
+		</Entity>
+		<Entity uid="410">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="661.46186" z="661.31836"/>
+			<Orientation y="-0.0394"/>
+			<Actor seed="62916"/>
+		</Entity>
+		<Entity uid="411">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="644.84278" z="690.1355"/>
+			<Orientation y="0.58297"/>
+			<Actor seed="38250"/>
+		</Entity>
+		<Entity uid="412">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="626.25495" z="717.87165"/>
+			<Orientation y="1.06987"/>
+			<Actor seed="6160"/>
+		</Entity>
+		<Entity uid="413">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="631.96412" z="753.87598"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50738"/>
+		</Entity>
+		<Entity uid="414">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="653.6955" z="783.66742"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35054"/>
+		</Entity>
+		<Entity uid="415">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="684.80408" z="803.02161"/>
+			<Orientation y="2.6858"/>
+			<Actor seed="2864"/>
+		</Entity>
+		<Entity uid="416">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="717.03858" z="794.0724"/>
+			<Orientation y="-2.4683"/>
+			<Actor seed="3940"/>
+		</Entity>
+		<Entity uid="417">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="742.72901" z="764.94214"/>
+			<Orientation y="-1.83407"/>
+			<Actor seed="8890"/>
+		</Entity>
+		<Entity uid="418">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="749.51746" z="728.14386"/>
+			<Orientation y="-1.60262"/>
+			<Actor seed="50764"/>
+		</Entity>
+		<Entity uid="419">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="725.01728" z="683.45105"/>
+			<Orientation y="-0.91082"/>
+			<Actor seed="2754"/>
+		</Entity>
+		<Entity uid="420">
+			<Template>structures/mex_market</Template>
+			<Player>0</Player>
+			<Position x="652.80018" z="723.7245"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42558"/>
+		</Entity>
+		<Entity uid="421">
+			<Template>structures/mex_house</Template>
+			<Player>0</Player>
+			<Position x="713.14362" z="736.52747"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53054"/>
+		</Entity>
+		<Entity uid="422">
+			<Template>structures/mex_house</Template>
+			<Player>0</Player>
+			<Position x="699.7693" z="721.43244"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34106"/>
+		</Entity>
+		<Entity uid="423">
+			<Template>structures/mex_house</Template>
+			<Player>0</Player>
+			<Position x="687.01258" z="708.0199"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19510"/>
+		</Entity>
+		<Entity uid="424">
+			<Template>structures/mex_house</Template>
+			<Player>0</Player>
+			<Position x="699.95826" z="701.58924"/>
+			<Orientation y="0.81249"/>
+			<Actor seed="13784"/>
+		</Entity>
+		<Entity uid="425">
+			<Template>structures/mex_house</Template>
+			<Player>0</Player>
+			<Position x="714.08027" z="714.94861"/>
+			<Orientation y="0.85016"/>
+			<Actor seed="20758"/>
+		</Entity>
+		<Entity uid="426">
+			<Template>structures/mex_house</Template>
+			<Player>0</Player>
+			<Position x="726.79102" z="726.40522"/>
+			<Orientation y="-0.18346"/>
+			<Actor seed="15182"/>
+		</Entity>
+		<Entity uid="427">
+			<Template>structures/mex_temple</Template>
+			<Player>0</Player>
+			<Position x="717.27912" z="767.79712"/>
+			<Orientation y="-2.24447"/>
+			<Actor seed="9380"/>
+		</Entity>
+		<Entity uid="428">
+			<Template>structures/mex_fortress</Template>
+			<Player>0</Player>
+			<Position x="673.08039" z="686.72156"/>
+			<Orientation y="-0.79499"/>
+			<Actor seed="33680"/>
+		</Entity>
+		<Entity uid="429">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="518.20118" z="824.32953"/>
+			<Orientation y="-2.16619"/>
+			<Actor seed="65162"/>
+		</Entity>
+		<Entity uid="430">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="519.26838" z="851.56843"/>
+			<Orientation y="-0.13907"/>
+			<Actor seed="30806"/>
+		</Entity>
+		<Entity uid="431">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="489.22602" z="832.04023"/>
+			<Orientation y="-1.55692"/>
+			<Actor seed="38938"/>
+		</Entity>
+		<Entity uid="432">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="489.46412" z="862.46625"/>
+			<Orientation y="0.05433"/>
+			<Actor seed="59960"/>
+		</Entity>
+		<Entity uid="433">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="516.65357" z="882.88575"/>
+			<Orientation y="-0.10448"/>
+			<Actor seed="17974"/>
+		</Entity>
+		<Entity uid="434">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="513.49115" z="913.80475"/>
+			<Orientation y="-0.19651"/>
+			<Actor seed="50042"/>
+		</Entity>
+		<Entity uid="435">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="510.1818" z="944.6399"/>
+			<Orientation y="-0.0389"/>
+			<Actor seed="53270"/>
+		</Entity>
+		<Entity uid="436">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="511.8136" z="974.74085"/>
+			<Orientation y="0.04467"/>
+			<Actor seed="21200"/>
+		</Entity>
+		<Entity uid="437">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="482.17234" z="978.20777"/>
+			<Orientation y="-0.25438"/>
+			<Actor seed="62182"/>
+		</Entity>
+		<Entity uid="438">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="453.89625" z="971.19898"/>
+			<Orientation y="-0.39419"/>
+			<Actor seed="43366"/>
+		</Entity>
+		<Entity uid="439">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="427.93641" z="961.87458"/>
+			<Orientation y="-0.57461"/>
+			<Actor seed="11156"/>
+		</Entity>
+		<Entity uid="440">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="400.19605" z="954.62519"/>
+			<Orientation y="-0.32255"/>
+			<Actor seed="32004"/>
+		</Entity>
+		<Entity uid="441">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="373.05695" z="944.04938"/>
+			<Orientation y="-0.47518"/>
+			<Actor seed="32190"/>
+		</Entity>
+		<Entity uid="442">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="496.23942" z="804.39765"/>
+			<Orientation y="2.83391"/>
+			<Actor seed="50250"/>
+		</Entity>
+		<Entity uid="443">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="467.39863" z="799.35444"/>
+			<Orientation y="2.93813"/>
+			<Actor seed="64282"/>
+		</Entity>
+		<Entity uid="444">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="442.20191" z="795.2735"/>
+			<Orientation y="2.96438"/>
+			<Actor seed="52310"/>
+		</Entity>
+		<Entity uid="445">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="414.72718" z="793.22663"/>
+			<Orientation y="-3.0459"/>
+			<Actor seed="28164"/>
+		</Entity>
+		<Entity uid="446">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="382.26966" z="797.77363"/>
+			<Orientation y="-1.46932"/>
+			<Actor seed="22466"/>
+		</Entity>
+		<Entity uid="447">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="368.71158" z="821.193"/>
+			<Orientation y="-1.28183"/>
+			<Actor seed="56196"/>
+		</Entity>
+		<Entity uid="448">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="378.7533" z="851.20441"/>
+			<Orientation y="-1.48662"/>
+			<Actor seed="19860"/>
+		</Entity>
+		<Entity uid="449">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="385.06968" z="882.12653"/>
+			<Orientation y="-1.63347"/>
+			<Actor seed="34766"/>
+		</Entity>
+		<Entity uid="450">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="381.04374" z="914.15241"/>
+			<Orientation y="-1.71695"/>
+			<Actor seed="12476"/>
+		</Entity>
+		<Entity uid="451">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="410.35145" z="920.89783"/>
+			<Orientation y="-1.90101"/>
+			<Actor seed="30436"/>
+		</Entity>
+		<Entity uid="452">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="418.42136" z="888.66712"/>
+			<Orientation y="-1.74727"/>
+			<Actor seed="56648"/>
+		</Entity>
+		<Entity uid="453">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="411.05442" z="855.48627"/>
+			<Orientation y="-1.59301"/>
+			<Actor seed="58356"/>
+		</Entity>
+		<Entity uid="454">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="440.6876" z="933.50464"/>
+			<Orientation y="-1.90882"/>
+			<Actor seed="31844"/>
+		</Entity>
+		<Entity uid="455">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="452.02875" z="904.64832"/>
+			<Orientation y="-1.95067"/>
+			<Actor seed="7166"/>
+		</Entity>
+		<Entity uid="456">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="484.3047" z="944.4867"/>
+			<Orientation y="-1.79421"/>
+			<Actor seed="57492"/>
+		</Entity>
+		<Entity uid="457">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="484.85175" z="908.38038"/>
+			<Orientation y="-1.82851"/>
+			<Actor seed="54546"/>
+		</Entity>
+		<Entity uid="458">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="458.69877" z="877.30054"/>
+			<Orientation y="-1.63195"/>
+			<Actor seed="11188"/>
+		</Entity>
+		<Entity uid="459">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="441.04218" z="852.3802"/>
+			<Orientation y="-1.61458"/>
+			<Actor seed="6872"/>
+		</Entity>
+		<Entity uid="460">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="407.31455" z="822.3329"/>
+			<Orientation y="-1.55652"/>
+			<Actor seed="2656"/>
+		</Entity>
+		<Entity uid="461">
+			<Template>structures/mex_field</Template>
+			<Player>0</Player>
+			<Position x="438.76001" z="826.17365"/>
+			<Orientation y="-1.7284"/>
+			<Actor seed="62502"/>
+		</Entity>
+		<Entity uid="462">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="582.09437" z="954.67011"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4950"/>
+		</Entity>
+		<Entity uid="463">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="568.6247" z="967.20398"/>
+			<Orientation y="-1.48697"/>
+			<Actor seed="15136"/>
+		</Entity>
+		<Entity uid="464">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="557.53559" z="967.60395"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2784"/>
+		</Entity>
+		<Entity uid="465">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="553.71106" z="962.98804"/>
+			<Orientation y="3.1036"/>
+			<Actor seed="42026"/>
+		</Entity>
+		<Entity uid="466">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="561.15992" z="942.9079"/>
+			<Orientation y="2.46872"/>
+			<Actor seed="42264"/>
+		</Entity>
+		<Entity uid="467">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="570.01496" z="930.93226"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2246"/>
+		</Entity>
+		<Entity uid="468">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="557.40021" z="911.9881"/>
+			<Orientation y="-2.38123"/>
+			<Actor seed="50104"/>
+		</Entity>
+		<Entity uid="469">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="555.52973" z="877.28437"/>
+			<Orientation y="2.73978"/>
+			<Actor seed="5326"/>
+		</Entity>
+		<Entity uid="470">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="583.18769" z="833.52503"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32804"/>
+		</Entity>
+		<Entity uid="471">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="590.33313" z="865.19996"/>
+			<Orientation y="0.26455"/>
+			<Actor seed="62778"/>
+		</Entity>
+		<Entity uid="472">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="600.28382" z="888.31397"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30728"/>
+		</Entity>
+		<Entity uid="473">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="586.76984" z="908.42212"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45902"/>
+		</Entity>
+		<Entity uid="474">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="574.62146" z="914.9643"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63702"/>
+		</Entity>
+		<Entity uid="475">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="570.34003" z="875.71943"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64276"/>
+		</Entity>
+		<Entity uid="476">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="573.37586" z="863.24445"/>
+			<Orientation y="0.4776"/>
+			<Actor seed="53556"/>
+		</Entity>
+		<Entity uid="477">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="595.19031" z="915.36902"/>
+			<Orientation y="0.13291"/>
+			<Actor seed="14364"/>
+		</Entity>
+		<Entity uid="478">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="599.75861" z="931.44141"/>
+			<Orientation y="-0.53606"/>
+			<Actor seed="18420"/>
+		</Entity>
+		<Entity uid="479">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="596.76697" z="945.83411"/>
+			<Orientation y="-0.28689"/>
+			<Actor seed="51606"/>
+		</Entity>
+		<Entity uid="480">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="593.34998" z="958.87592"/>
+			<Orientation y="-0.86799"/>
+			<Actor seed="13460"/>
+		</Entity>
+		<Entity uid="481">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="580.79493" z="965.8943"/>
+			<Orientation y="-1.26546"/>
+			<Actor seed="39374"/>
+		</Entity>
+		<Entity uid="482">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="563.80427" z="972.37116"/>
+			<Orientation y="-1.25216"/>
+			<Actor seed="38372"/>
+		</Entity>
+		<Entity uid="483">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="542.62604" z="967.34235"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17208"/>
+		</Entity>
+		<Entity uid="484">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="538.80176" z="957.63807"/>
+			<Orientation y="2.87768"/>
+			<Actor seed="26592"/>
+		</Entity>
+		<Entity uid="485">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="543.92835" z="945.33533"/>
+			<Orientation y="-3.00327"/>
+			<Actor seed="49122"/>
+		</Entity>
+		<Entity uid="486">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="541.74646" z="933.4029"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="584"/>
+		</Entity>
+		<Entity uid="487">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="542.88013" z="927.35694"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1712"/>
+		</Entity>
+		<Entity uid="488">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="541.33191" z="916.83136"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5648"/>
+		</Entity>
+		<Entity uid="489">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="546.81012" z="872.94697"/>
+			<Orientation y="2.9064"/>
+			<Actor seed="37898"/>
+		</Entity>
+		<Entity uid="490">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="557.20972" z="852.60907"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36906"/>
+		</Entity>
+		<Entity uid="491">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="560.66291" z="853.67121"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19068"/>
+		</Entity>
+		<Entity uid="492">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="587.82282" z="839.35157"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23754"/>
+		</Entity>
+		<Entity uid="493">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="586.36304" z="871.48133"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63984"/>
+		</Entity>
+		<Entity uid="494">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="580.77088" z="911.95575"/>
+			<Orientation y="0.10578"/>
+			<Actor seed="24232"/>
+		</Entity>
+		<Entity uid="495">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="579.33088" z="935.7475"/>
+			<Orientation y="-0.96938"/>
+			<Actor seed="53994"/>
+		</Entity>
+		<Entity uid="496">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="571.86835" z="938.84296"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2638"/>
+		</Entity>
+		<Entity uid="497">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="565.25715" z="949.08497"/>
+			<Orientation y="-0.85244"/>
+			<Actor seed="46470"/>
+		</Entity>
+		<Entity uid="498">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="547.94568" z="940.17994"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5652"/>
+		</Entity>
+		<Entity uid="499">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="553.18055" z="933.96808"/>
+			<Orientation y="2.68697"/>
+			<Actor seed="19100"/>
+		</Entity>
+		<Entity uid="500">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="557.29743" z="919.67725"/>
+			<Orientation y="-2.57638"/>
+			<Actor seed="46030"/>
+		</Entity>
+		<Entity uid="501">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="553.03425" z="867.30542"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51138"/>
+		</Entity>
+		<Entity uid="502">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="570.43696" z="872.16175"/>
+			<Orientation y="0.793"/>
+			<Actor seed="61862"/>
+		</Entity>
+		<Entity uid="503">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="588.44697" z="890.50416"/>
+			<Orientation y="0.45041"/>
+			<Actor seed="50580"/>
+		</Entity>
+		<Entity uid="504">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="605.30799" z="912.89838"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19560"/>
+		</Entity>
+		<Entity uid="505">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="598.54761" z="920.1117"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18930"/>
+		</Entity>
+		<Entity uid="506">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="594.57782" z="948.2096"/>
+			<Orientation y="-0.79068"/>
+			<Actor seed="19864"/>
+		</Entity>
+		<Entity uid="507">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="579.76844" z="963.77515"/>
+			<Orientation y="-0.88305"/>
+			<Actor seed="46776"/>
+		</Entity>
+		<Entity uid="508">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="557.23938" z="974.20398"/>
+			<Orientation y="-1.1719"/>
+			<Actor seed="25734"/>
+		</Entity>
+		<Entity uid="509">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="546.10389" z="981.08851"/>
+			<Orientation y="-1.3141"/>
+			<Actor seed="20346"/>
+		</Entity>
+		<Entity uid="510">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="538.224" z="986.31586"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8668"/>
+		</Entity>
+		<Entity uid="511">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="558.06269" z="986.94654"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8158"/>
+		</Entity>
+		<Entity uid="512">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="559.13025" z="984.3122"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47556"/>
+		</Entity>
+		<Entity uid="513">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="555.0196" z="951.07966"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54820"/>
+		</Entity>
+		<Entity uid="514">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="554.87031" z="948.34638"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20788"/>
+		</Entity>
+		<Entity uid="515">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="554.54206" z="880.93531"/>
+			<Orientation y="1.13923"/>
+			<Actor seed="17494"/>
+		</Entity>
+		<Entity uid="516">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="584.73255" z="889.50281"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16220"/>
+		</Entity>
+		<Entity uid="517">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="582.20948" z="887.20215"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19682"/>
+		</Entity>
+		<Entity uid="518">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="586.67432" z="837.82441"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13544"/>
+		</Entity>
+		<Entity uid="519">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="595.56086" z="857.6435"/>
+			<Orientation y="-0.05831"/>
+			<Actor seed="42472"/>
+		</Entity>
+		<Entity uid="520">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="567.86255" z="891.93311"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18188"/>
+		</Entity>
+		<Entity uid="521">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="562.51661" z="875.33643"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47386"/>
+		</Entity>
+		<Entity uid="522">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="648.84943" z="755.3647"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19690"/>
+		</Entity>
+		<Entity uid="523">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="736.53107" z="748.06293"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37992"/>
+		</Entity>
+		<Entity uid="524">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="678.59327" z="787.21241"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62078"/>
+		</Entity>
+		<Entity uid="525">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="685.83808" z="849.90137"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="620"/>
+		</Entity>
+		<Entity uid="526">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="689.98395" z="864.28742"/>
+			<Orientation y="0.18837"/>
+			<Actor seed="31864"/>
+		</Entity>
+		<Entity uid="527">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="693.77411" z="881.57752"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6070"/>
+		</Entity>
+		<Entity uid="528">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="691.0293" z="886.47333"/>
+			<Orientation y="0.26363"/>
+			<Actor seed="38194"/>
+		</Entity>
+		<Entity uid="529">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="696.57935" z="891.3125"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27898"/>
+		</Entity>
+		<Entity uid="530">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="715.84083" z="884.25855"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47946"/>
+		</Entity>
+		<Entity uid="531">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="728.4192" z="883.2281"/>
+			<Orientation y="-1.14077"/>
+			<Actor seed="31816"/>
+		</Entity>
+		<Entity uid="532">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="705.30695" z="875.63544"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12004"/>
+		</Entity>
+		<Entity uid="533">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="718.75336" z="872.53974"/>
+			<Orientation y="-3.13721"/>
+			<Actor seed="51762"/>
+		</Entity>
+		<Entity uid="534">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="714.412" z="861.89472"/>
+			<Orientation y="-2.36248"/>
+			<Actor seed="41786"/>
+		</Entity>
+		<Entity uid="535">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="712.01923" z="852.83704"/>
+			<Orientation y="1.78324"/>
+			<Actor seed="18994"/>
+		</Entity>
+		<Entity uid="536">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="732.02045" z="849.68372"/>
+			<Orientation y="1.11725"/>
+			<Actor seed="42612"/>
+		</Entity>
+		<Entity uid="537">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="747.01941" z="854.82538"/>
+			<Orientation y="-3.02439"/>
+			<Actor seed="26642"/>
+		</Entity>
+		<Entity uid="538">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="744.18067" z="837.19105"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49770"/>
+		</Entity>
+		<Entity uid="539">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="749.65125" z="830.96692"/>
+			<Orientation y="2.23345"/>
+			<Actor seed="61106"/>
+		</Entity>
+		<Entity uid="540">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="763.28345" z="819.32264"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60750"/>
+		</Entity>
+		<Entity uid="541">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="784.01941" z="816.94007"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18166"/>
+		</Entity>
+		<Entity uid="542">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="771.81031" z="830.54297"/>
+			<Orientation y="-1.02427"/>
+			<Actor seed="6634"/>
+		</Entity>
+		<Entity uid="543">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="748.18024" z="849.55884"/>
+			<Orientation y="-1.3914"/>
+			<Actor seed="57394"/>
+		</Entity>
+		<Entity uid="544">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="740.56568" z="851.58283"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45908"/>
+		</Entity>
+		<Entity uid="545">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="802.69105" z="831.78974"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54082"/>
+		</Entity>
+		<Entity uid="546">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="790.09223" z="837.8288"/>
+			<Orientation y="-2.74523"/>
+			<Actor seed="13604"/>
+		</Entity>
+		<Entity uid="547">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="793.62635" z="814.11438"/>
+			<Orientation y="2.89917"/>
+			<Actor seed="42052"/>
+		</Entity>
+		<Entity uid="548">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="795.5575" z="799.82929"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41840"/>
+		</Entity>
+		<Entity uid="549">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="792.61933" z="779.39112"/>
+			<Orientation y="2.94603"/>
+			<Actor seed="8092"/>
+		</Entity>
+		<Entity uid="550">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="797.84986" z="745.2483"/>
+			<Orientation y="-2.69544"/>
+			<Actor seed="40942"/>
+		</Entity>
+		<Entity uid="551">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="786.73084" z="729.97657"/>
+			<Orientation y="-2.261"/>
+			<Actor seed="39648"/>
+		</Entity>
+		<Entity uid="552">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="786.948" z="718.81836"/>
+			<Orientation y="1.31444"/>
+			<Actor seed="42806"/>
+		</Entity>
+		<Entity uid="553">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="825.04023" z="729.54865"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47120"/>
+		</Entity>
+		<Entity uid="554">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="845.48108" z="739.77161"/>
+			<Orientation y="0.98868"/>
+			<Actor seed="56268"/>
+		</Entity>
+		<Entity uid="555">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="877.30231" z="757.64875"/>
+			<Orientation y="1.19092"/>
+			<Actor seed="1560"/>
+		</Entity>
+		<Entity uid="556">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="897.29969" z="781.07435"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32148"/>
+		</Entity>
+		<Entity uid="557">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="863.94581" z="806.37488"/>
+			<Orientation y="-0.66602"/>
+			<Actor seed="36704"/>
+		</Entity>
+		<Entity uid="558">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="852.95167" z="830.01917"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24342"/>
+		</Entity>
+		<Entity uid="559">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="853.75904" z="834.90162"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5898"/>
+		</Entity>
+		<Entity uid="560">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="839.30884" z="816.21271"/>
+			<Orientation y="-2.05747"/>
+			<Actor seed="22230"/>
+		</Entity>
+		<Entity uid="561">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="819.36103" z="805.28223"/>
+			<Orientation y="-2.85883"/>
+			<Actor seed="18894"/>
+		</Entity>
+		<Entity uid="562">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="822.23841" z="783.66736"/>
+			<Orientation y="2.57435"/>
+			<Actor seed="7594"/>
+		</Entity>
+		<Entity uid="563">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="847.08594" z="757.03614"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53298"/>
+		</Entity>
+		<Entity uid="564">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="836.32715" z="773.70966"/>
+			<Orientation y="-0.79995"/>
+			<Actor seed="4392"/>
+		</Entity>
+		<Entity uid="565">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="809.18873" z="799.85236"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7164"/>
+		</Entity>
+		<Entity uid="566">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="800.66663" z="804.72651"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35902"/>
+		</Entity>
+		<Entity uid="567">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="802.26734" z="815.94214"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7064"/>
+		</Entity>
+		<Entity uid="568">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="800.1709" z="819.95563"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38422"/>
+		</Entity>
+		<Entity uid="569">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="785.67273" z="803.89966"/>
+			<Orientation y="-1.98162"/>
+			<Actor seed="53852"/>
+		</Entity>
+		<Entity uid="570">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="776.44495" z="799.09186"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10784"/>
+		</Entity>
+		<Entity uid="571">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="787.28046" z="776.56098"/>
+			<Orientation y="2.4666"/>
+			<Actor seed="19822"/>
+		</Entity>
+		<Entity uid="572">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="807.06952" z="748.96137"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62112"/>
+		</Entity>
+		<Entity uid="573">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="815.61231" z="754.25129"/>
+			<Orientation y="0.1132"/>
+			<Actor seed="43284"/>
+		</Entity>
+		<Entity uid="574">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="803.11677" z="809.83704"/>
+			<Orientation y="-0.61374"/>
+			<Actor seed="39294"/>
+		</Entity>
+		<Entity uid="575">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="785.0746" z="831.53644"/>
+			<Orientation y="-0.76989"/>
+			<Actor seed="64326"/>
+		</Entity>
+		<Entity uid="576">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="778.07898" z="839.98505"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29114"/>
+		</Entity>
+		<Entity uid="577">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="824.04462" z="826.51484"/>
+			<Orientation y="2.18197"/>
+			<Actor seed="7266"/>
+		</Entity>
+		<Entity uid="578">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="843.69501" z="806.12421"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52790"/>
+		</Entity>
+		<Entity uid="579">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="859.09668" z="790.63184"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36780"/>
+		</Entity>
+		<Entity uid="580">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="889.35505" z="776.24073"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33112"/>
+		</Entity>
+		<Entity uid="581">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="850.55933" z="818.54285"/>
+			<Orientation y="-0.69062"/>
+			<Actor seed="22928"/>
+		</Entity>
+		<Entity uid="582">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="843.3125" z="830.45344"/>
+			<Orientation y="-0.03393"/>
+			<Actor seed="23318"/>
+		</Entity>
+		<Entity uid="583">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="831.78504" z="841.71772"/>
+			<Orientation y="-1.63834"/>
+			<Actor seed="33370"/>
+		</Entity>
+		<Entity uid="584">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="817.60834" z="839.25544"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43508"/>
+		</Entity>
+		<Entity uid="585">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="821.10456" z="764.65534"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30800"/>
+		</Entity>
+		<Entity uid="586">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="830.88654" z="740.2469"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26018"/>
+		</Entity>
+		<Entity uid="587">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="831.63538" z="755.14893"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40150"/>
+		</Entity>
+		<Entity uid="588">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="554.25098" z="836.21949"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24726"/>
+		</Entity>
+		<Entity uid="589">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="551.15223" z="833.77485"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9382"/>
+		</Entity>
+		<Entity uid="590">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="537.63062" z="842.50104"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18536"/>
+		</Entity>
+		<Entity uid="591">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="552.55378" z="903.91626"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13218"/>
+		</Entity>
+		<Entity uid="592">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="542.66272" z="902.59961"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64348"/>
+		</Entity>
+		<Entity uid="593">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="545.74427" z="902.62995"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57690"/>
+		</Entity>
+		<Entity uid="594">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="566.36182" z="902.30677"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27580"/>
+		</Entity>
+		<Entity uid="595">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="581.0063" z="903.79505"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48094"/>
+		</Entity>
+		<Entity uid="596">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="582.44208" z="898.55597"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36996"/>
+		</Entity>
+		<Entity uid="597">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="554.08979" z="896.9054"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35538"/>
+		</Entity>
+		<Entity uid="598">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="543.56623" z="1013.45411"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23814"/>
+		</Entity>
+		<Entity uid="599">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="545.16248" z="1027.63038"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42354"/>
+		</Entity>
+		<Entity uid="600">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="553.45167" z="1046.63416"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2034"/>
+		</Entity>
+		<Entity uid="601">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="547.43494" z="1045.1587"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17026"/>
+		</Entity>
+		<Entity uid="602">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="563.31507" z="1061.26612"/>
+			<Orientation y="0.84162"/>
+			<Actor seed="44166"/>
+		</Entity>
+		<Entity uid="603">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="574.52015" z="1066.79993"/>
+			<Orientation y="2.77602"/>
+			<Actor seed="57786"/>
+		</Entity>
+		<Entity uid="604">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="581.11316" z="1045.61365"/>
+			<Orientation y="3.00138"/>
+			<Actor seed="10040"/>
+		</Entity>
+		<Entity uid="605">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="587.40107" z="1025.08057"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27348"/>
+		</Entity>
+		<Entity uid="606">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="581.80848" z="1043.29554"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39332"/>
+		</Entity>
+		<Entity uid="607">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="581.09321" z="1009.7527"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65192"/>
+		</Entity>
+		<Entity uid="608">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="579.36597" z="1004.71021"/>
+			<Orientation y="-1.70493"/>
+			<Actor seed="57374"/>
+		</Entity>
+		<Entity uid="609">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="586.47522" z="994.03553"/>
+			<Orientation y="2.16465"/>
+			<Actor seed="56206"/>
+		</Entity>
+		<Entity uid="610">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="607.91468" z="978.0849"/>
+			<Orientation y="2.40654"/>
+			<Actor seed="5548"/>
+		</Entity>
+		<Entity uid="611">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="630.66578" z="953.83277"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15982"/>
+		</Entity>
+		<Entity uid="612">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="631.8584" z="935.20008"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43438"/>
+		</Entity>
+		<Entity uid="613">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="646.89765" z="924.04401"/>
+			<Orientation y="0.97889"/>
+			<Actor seed="63162"/>
+		</Entity>
+		<Entity uid="614">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="683.0984" z="945.74115"/>
+			<Orientation y="-0.72535"/>
+			<Actor seed="9504"/>
+		</Entity>
+		<Entity uid="615">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="652.167" z="976.80762"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37802"/>
+		</Entity>
+		<Entity uid="616">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="643.36878" z="984.15278"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11186"/>
+		</Entity>
+		<Entity uid="617">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="624.6631" z="979.10584"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50702"/>
+		</Entity>
+		<Entity uid="618">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="621.26478" z="1000.3321"/>
+			<Orientation y="0.33959"/>
+			<Actor seed="10110"/>
+		</Entity>
+		<Entity uid="619">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="632.84394" z="1023.34296"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59908"/>
+		</Entity>
+		<Entity uid="620">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="663.1056" z="991.10547"/>
+			<Orientation y="0.84162"/>
+			<Actor seed="1224"/>
+		</Entity>
+		<Entity uid="621">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="687.78864" z="1007.70643"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51412"/>
+		</Entity>
+		<Entity uid="622">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="659.64344" z="1029.09607"/>
+			<Orientation y="-0.77294"/>
+			<Actor seed="3458"/>
+		</Entity>
+		<Entity uid="623">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="616.555" z="1070.2876"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41828"/>
+		</Entity>
+		<Entity uid="624">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="606.37372" z="1068.14881"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62180"/>
+		</Entity>
+		<Entity uid="625">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="589.48957" z="1071.38184"/>
+			<Orientation y="-1.63503"/>
+			<Actor seed="39512"/>
+		</Entity>
+		<Entity uid="626">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="579.70594" z="1071.73292"/>
+			<Orientation y="0.64187"/>
+			<Actor seed="1528"/>
+		</Entity>
+		<Entity uid="627">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="596.05781" z="1066.2273"/>
+			<Orientation y="2.95421"/>
+			<Actor seed="45452"/>
+		</Entity>
+		<Entity uid="628">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="611.20643" z="1044.0542"/>
+			<Orientation y="1.16587"/>
+			<Actor seed="9814"/>
+		</Entity>
+		<Entity uid="629">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="630.08191" z="1048.22071"/>
+			<Orientation y="-1.82966"/>
+			<Actor seed="6338"/>
+		</Entity>
+		<Entity uid="630">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="612.75361" z="1048.00013"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43256"/>
+		</Entity>
+		<Entity uid="631">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="552.57703" z="1033.76038"/>
+			<Orientation y="2.95112"/>
+			<Actor seed="13386"/>
+		</Entity>
+		<Entity uid="632">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="562.97535" z="1016.25928"/>
+			<Orientation y="2.56261"/>
+			<Actor seed="1878"/>
+		</Entity>
+		<Entity uid="633">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="595.82313" z="965.68726"/>
+			<Orientation y="1.80248"/>
+			<Actor seed="13452"/>
+		</Entity>
+		<Entity uid="634">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="634.53779" z="948.46271"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10682"/>
+		</Entity>
+		<Entity uid="635">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="672.42383" z="939.73865"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1054"/>
+		</Entity>
+		<Entity uid="636">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="675.64783" z="931.24836"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13834"/>
+		</Entity>
+		<Entity uid="637">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="646.44654" z="967.37995"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4196"/>
+		</Entity>
+		<Entity uid="638">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="622.58533" z="975.74372"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38616"/>
+		</Entity>
+		<Entity uid="639">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="616.43946" z="982.25416"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4444"/>
+		</Entity>
+		<Entity uid="640">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="641.63978" z="902.69782"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3344"/>
+		</Entity>
+		<Entity uid="641">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="652.60261" z="872.91688"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39314"/>
+		</Entity>
+		<Entity uid="642">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="663.25532" z="851.68506"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45330"/>
+		</Entity>
+		<Entity uid="643">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="655.22901" z="851.41114"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65501"/>
+		</Entity>
+		<Entity uid="644">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="644.6714" z="891.01624"/>
+			<Orientation y="0.29764"/>
+			<Actor seed="28290"/>
+		</Entity>
+		<Entity uid="645">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="727.09095" z="993.23676"/>
+			<Orientation y="-0.67003"/>
+			<Actor seed="16614"/>
+		</Entity>
+		<Entity uid="646">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="678.46595" z="1046.63477"/>
+			<Orientation y="-1.07778"/>
+			<Actor seed="24736"/>
+		</Entity>
+		<Entity uid="647">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="653.16999" z="1062.44678"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59166"/>
+		</Entity>
+		<Entity uid="648">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="650.86957" z="1081.71387"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9088"/>
+		</Entity>
+		<Entity uid="649">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="635.93714" z="1087.27149"/>
+			<Orientation y="-1.7032"/>
+			<Actor seed="64538"/>
+		</Entity>
+		<Entity uid="650">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="613.08338" z="1085.52356"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20720"/>
+		</Entity>
+		<Entity uid="651">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="618.7389" z="1098.3805"/>
+			<Orientation y="0.59037"/>
+			<Actor seed="40690"/>
+		</Entity>
+		<Entity uid="652">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="633.98572" z="1110.12818"/>
+			<Orientation y="0.54372"/>
+			<Actor seed="38462"/>
+		</Entity>
+		<Entity uid="653">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="644.58704" z="1120.46973"/>
+			<Orientation y="0.15532"/>
+			<Actor seed="14268"/>
+		</Entity>
+		<Entity uid="654">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="649.66498" z="1130.35682"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47860"/>
+		</Entity>
+		<Entity uid="655">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="657.23798" z="1136.48304"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32926"/>
+		</Entity>
+		<Entity uid="656">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="667.43049" z="1136.448"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11906"/>
+		</Entity>
+		<Entity uid="657">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="694.48926" z="1111.47974"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57752"/>
+		</Entity>
+		<Entity uid="658">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="697.70331" z="1107.11097"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58860"/>
+		</Entity>
+		<Entity uid="659">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="687.90595" z="1105.94776"/>
+			<Orientation y="-1.9018"/>
+			<Actor seed="1164"/>
+		</Entity>
+		<Entity uid="660">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="671.28675" z="1085.99842"/>
+			<Orientation y="2.61812"/>
+			<Actor seed="6320"/>
+		</Entity>
+		<Entity uid="661">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="691.81019" z="1059.88721"/>
+			<Orientation y="2.7716"/>
+			<Actor seed="13214"/>
+		</Entity>
+		<Entity uid="662">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="715.66126" z="1040.51343"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26278"/>
+		</Entity>
+		<Entity uid="663">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="729.37256" z="1020.16883"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9328"/>
+		</Entity>
+		<Entity uid="664">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="717.31281" z="1018.70527"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48980"/>
+		</Entity>
+		<Entity uid="665">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="680.1352" z="1045.35401"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26446"/>
+		</Entity>
+		<Entity uid="666">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="665.38807" z="1043.31739"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42318"/>
+		</Entity>
+		<Entity uid="667">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="716.38001" z="1115.84607"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59880"/>
+		</Entity>
+		<Entity uid="668">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="698.72046" z="1136.07203"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48936"/>
+		</Entity>
+		<Entity uid="669">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="712.53638" z="1102.17554"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63892"/>
+		</Entity>
+		<Entity uid="670">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="702.24543" z="1094.26612"/>
+			<Orientation y="-1.14924"/>
+			<Actor seed="45484"/>
+		</Entity>
+		<Entity uid="671">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="677.39393" z="1102.76319"/>
+			<Orientation y="2.53631"/>
+			<Actor seed="4530"/>
+		</Entity>
+		<Entity uid="672">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="700.28736" z="1077.31763"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40350"/>
+		</Entity>
+		<Entity uid="673">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="723.23719" z="1065.8866"/>
+			<Orientation y="-2.95856"/>
+			<Actor seed="42818"/>
+		</Entity>
+		<Entity uid="674">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="720.23261" z="1050.6067"/>
+			<Orientation y="2.17022"/>
+			<Actor seed="60922"/>
+		</Entity>
+		<Entity uid="675">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="751.68287" z="1031.80481"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11078"/>
+		</Entity>
+		<Entity uid="676">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="772.69782" z="1041.95423"/>
+			<Orientation y="0.72681"/>
+			<Actor seed="2532"/>
+		</Entity>
+		<Entity uid="677">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="789.39063" z="1044.15943"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51686"/>
+		</Entity>
+		<Entity uid="678">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="745.69837" z="1091.46473"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38946"/>
+		</Entity>
+		<Entity uid="679">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="743.61622" z="1064.59888"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7432"/>
+		</Entity>
+		<Entity uid="680">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="732.96485" z="1090.97254"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61552"/>
+		</Entity>
+		<Entity uid="681">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="747.55756" z="1075.23755"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15684"/>
+		</Entity>
+		<Entity uid="682">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="745.46424" z="1071.91028"/>
+			<Orientation y="-0.56727"/>
+			<Actor seed="47494"/>
+		</Entity>
+		<Entity uid="683">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="770.32581" z="1076.63697"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29934"/>
+		</Entity>
+		<Entity uid="684">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="782.30335" z="1071.95972"/>
+			<Orientation y="-0.67997"/>
+			<Actor seed="10504"/>
+		</Entity>
+		<Entity uid="685">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="757.49958" z="1095.75074"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29994"/>
+		</Entity>
+		<Entity uid="686">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="746.69636" z="1101.735"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34126"/>
+		</Entity>
+		<Entity uid="687">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="744.90827" z="1109.65333"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28066"/>
+		</Entity>
+		<Entity uid="688">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="733.0843" z="1113.05628"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1860"/>
+		</Entity>
+		<Entity uid="689">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="698.69678" z="1076.25403"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60394"/>
+		</Entity>
+		<Entity uid="690">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="674.1355" z="1079.11988"/>
+			<Orientation y="-1.16543"/>
+			<Actor seed="44332"/>
+		</Entity>
+		<Entity uid="691">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="655.63001" z="1094.46631"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4144"/>
+		</Entity>
+		<Entity uid="692">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="672.425" z="988.14161"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38304"/>
+		</Entity>
+		<Entity uid="693">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="691.15857" z="964.18665"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37176"/>
+		</Entity>
+		<Entity uid="694">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="683.33509" z="948.1725"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46242"/>
+		</Entity>
+		<Entity uid="695">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="681.51368" z="938.8241"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23090"/>
+		</Entity>
+		<Entity uid="696">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="677.07654" z="926.75397"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49914"/>
+		</Entity>
+		<Entity uid="697">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="639.32374" z="907.92554"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24980"/>
+		</Entity>
+		<Entity uid="698">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="624.68879" z="869.9773"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51916"/>
+		</Entity>
+		<Entity uid="699">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="626.14106" z="843.98646"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53354"/>
+		</Entity>
+		<Entity uid="700">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="627.94819" z="819.99085"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19104"/>
+		</Entity>
+		<Entity uid="701">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="633.81043" z="825.17273"/>
+			<Orientation y="0.03135"/>
+			<Actor seed="52788"/>
+		</Entity>
+		<Entity uid="702">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="633.56153" z="892.30896"/>
+			<Orientation y="-0.38128"/>
+			<Actor seed="12976"/>
+		</Entity>
+		<Entity uid="703">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="616.03315" z="934.318"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26104"/>
+		</Entity>
+		<Entity uid="704">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="607.66901" z="958.5597"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40664"/>
+		</Entity>
+		<Entity uid="705">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="601.43049" z="970.99433"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7530"/>
+		</Entity>
+		<Entity uid="706">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="589.49512" z="997.40937"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49652"/>
+		</Entity>
+		<Entity uid="707">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="583.38447" z="1002.45411"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8186"/>
+		</Entity>
+		<Entity uid="708">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="616.8542" z="819.19867"/>
+			<Orientation y="-2.3"/>
+			<Actor seed="40422"/>
+		</Entity>
+		<Entity uid="709">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="604.12323" z="802.28016"/>
+			<Orientation y="-2.46734"/>
+			<Actor seed="27532"/>
+		</Entity>
+		<Entity uid="710">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="594.20136" z="789.76136"/>
+			<Orientation y="-2.29998"/>
+			<Actor seed="32312"/>
+		</Entity>
+		<Entity uid="711">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="585.97767" z="784.87397"/>
+			<Orientation y="-1.83246"/>
+			<Actor seed="23990"/>
+		</Entity>
+		<Entity uid="712">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="575.49903" z="786.50348"/>
+			<Orientation y="-1.43938"/>
+			<Actor seed="22928"/>
+		</Entity>
+		<Entity uid="713">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="558.76752" z="792.28528"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29788"/>
+		</Entity>
+		<Entity uid="714">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="549.37421" z="787.7771"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57554"/>
+		</Entity>
+		<Entity uid="715">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="544.54218" z="794.33741"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11592"/>
+		</Entity>
+		<Entity uid="716">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="539.15522" z="769.72168"/>
+			<Orientation y="2.89257"/>
+			<Actor seed="47412"/>
+		</Entity>
+		<Entity uid="717">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="553.11255" z="742.27918"/>
+			<Orientation y="1.48125"/>
+			<Actor seed="52464"/>
+		</Entity>
+		<Entity uid="718">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="572.65131" z="738.57374"/>
+			<Orientation y="0.0508"/>
+			<Actor seed="51488"/>
+		</Entity>
+		<Entity uid="719">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="572.56623" z="772.37391"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38078"/>
+		</Entity>
+		<Entity uid="720">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="569.80768" z="800.7422"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15932"/>
+		</Entity>
+		<Entity uid="721">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="573.62586" z="810.06135"/>
+			<Orientation y="0.7094"/>
+			<Actor seed="46622"/>
+		</Entity>
+		<Entity uid="722">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="662.84662" z="890.82593"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42308"/>
+		</Entity>
+		<Entity uid="723">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="666.48023" z="905.86518"/>
+			<Orientation y="-0.02544"/>
+			<Actor seed="14280"/>
+		</Entity>
+		<Entity uid="724">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="670.75342" z="918.34382"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45878"/>
+		</Entity>
+		<Entity uid="725">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="686.76673" z="916.30738"/>
+			<Orientation y="1.54816"/>
+			<Actor seed="12124"/>
+		</Entity>
+		<Entity uid="726">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="712.70533" z="912.25745"/>
+			<Orientation y="-1.142"/>
+			<Actor seed="55670"/>
+		</Entity>
+		<Entity uid="727">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="667.30036" z="947.68213"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16866"/>
+		</Entity>
+		<Entity uid="728">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="676.15577" z="959.94513"/>
+			<Orientation y="0.24984"/>
+			<Actor seed="3416"/>
+		</Entity>
+		<Entity uid="729">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="685.88648" z="975.13611"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29234"/>
+		</Entity>
+		<Entity uid="730">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="683.167" z="979.05958"/>
+			<Orientation y="-2.3"/>
+			<Actor seed="60874"/>
+		</Entity>
+		<Entity uid="731">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="636.9444" z="920.11823"/>
+			<Orientation y="-1.53098"/>
+			<Actor seed="64754"/>
+		</Entity>
+		<Entity uid="732">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="611.23896" z="923.9828"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18564"/>
+		</Entity>
+		<Entity uid="733">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="617.26398" z="917.10859"/>
+			<Orientation y="2.42191"/>
+			<Actor seed="32278"/>
+		</Entity>
+		<Entity uid="734">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="635.34778" z="892.72895"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35442"/>
+		</Entity>
+		<Entity uid="735">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="632.80115" z="880.26026"/>
+			<Orientation y="2.19103"/>
+			<Actor seed="64638"/>
+		</Entity>
+		<Entity uid="736">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="657.15046" z="875.66785"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34256"/>
+		</Entity>
+		<Entity uid="737">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="654.59876" z="1012.08777"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56542"/>
+		</Entity>
+		<Entity uid="738">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="667.78205" z="1004.29041"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51856"/>
+		</Entity>
+		<Entity uid="739">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="659.91834" z="1002.2967"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17736"/>
+		</Entity>
+		<Entity uid="740">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="733.77747" z="1044.21924"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13462"/>
+		</Entity>
+		<Entity uid="741">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="758.85279" z="1033.39478"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18340"/>
+		</Entity>
+		<Entity uid="742">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="771.73621" z="1037.84803"/>
+			<Orientation y="-1.19712"/>
+			<Actor seed="60786"/>
+		</Entity>
+		<Entity uid="743">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="724.48255" z="1054.13147"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22906"/>
+		</Entity>
+		<Entity uid="744">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="709.67554" z="1060.5243"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36338"/>
+		</Entity>
+		<Entity uid="745">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="718.04542" z="1068.88978"/>
+			<Orientation y="1.84829"/>
+			<Actor seed="21554"/>
+		</Entity>
+		<Entity uid="746">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="775.17347" z="1055.26197"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61030"/>
+		</Entity>
+		<Entity uid="747">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="792.81214" z="1058.12403"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37202"/>
+		</Entity>
+		<Entity uid="748">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="770.76038" z="1067.5918"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10962"/>
+		</Entity>
+		<Entity uid="749">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="641.42194" z="1067.96351"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53982"/>
+		</Entity>
+		<Entity uid="750">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="641.1266" z="1075.79859"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2810"/>
+		</Entity>
+		<Entity uid="751">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="642.64222" z="1084.14417"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43076"/>
+		</Entity>
+		<Entity uid="752">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="602.95948" z="1089.3158"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64632"/>
+		</Entity>
+		<Entity uid="753">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="595.86854" z="1085.01087"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1284"/>
+		</Entity>
+		<Entity uid="754">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="589.74494" z="1083.51954"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49094"/>
+		</Entity>
+		<Entity uid="755">
+			<Template>gaia/flora_tree_palm_tropical</Template>
+			<Player>0</Player>
+			<Position x="582.61768" z="1084.14893"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59042"/>
+		</Entity>
+	</Entities>
+	<Paths/>
+</Scenario>

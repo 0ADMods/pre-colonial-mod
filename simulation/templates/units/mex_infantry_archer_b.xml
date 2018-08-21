@@ -16,9 +16,9 @@
     <Lang>greek</Lang>
     <SelectionGroupName>units/mex_infantry_marine_archer_b</SelectionGroupName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <GenericName>Mexica Arow Worrion</GenericName>
+    <GenericName>Mexica Archer</GenericName>
     <SpecificName>Mexicalt Yolcamini</SpecificName>
-    <Icon>units/hele_infantry_archer.png</Icon>
+    <Icon>units/mexica_archer.png</Icon>
     <RequiredTechnology>attack_infantry_ranged_meso_01</RequiredTechnology>
   </Identity>
   <Promotion>

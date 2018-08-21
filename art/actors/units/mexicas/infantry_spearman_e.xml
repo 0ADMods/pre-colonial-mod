@@ -2,8 +2,8 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Base">
-      <mesh>skeletal/new/m_armor_pants.dae</mesh>
+    <variant file="biped/base_spearman_ready_fast.xml">
+      <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
@@ -13,7 +13,7 @@
     </variant>
   </group>
   <group>
-    <variant frequency="3" name="Aztec Padded">
+    <variant frequency="100" name="Base">
       <textures>
         <texture file="skeletal/aztec_padded_1a.png" name="baseTex"/>
       </textures>
