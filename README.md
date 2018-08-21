@@ -1,4 +1,4 @@
-# Pre-colonial Mod
+# Americas Ancient Empires
 
 The Pre-colonial mod (Mesoamerican Mod), developed by Council of Modders (CoM),adds new american civilizations from 900 to 1521 with new gameplay(TODO) to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) The following civilizations are added by the mod:
 
@@ -9,7 +9,7 @@ The Pre-colonial mod (Mesoamerican Mod), developed by Council of Modders (CoM),a
 ## Civilizations
 
 - Mexicas
-- Tlaxcaltecas
+- Tlaxcaltecas(In progress)
 - Incas
 - Toltecs
 - Pipiles
