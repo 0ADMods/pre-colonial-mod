@@ -7,6 +7,7 @@
       <props>
         <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
+        <prop actor="props/units/backpacks/mexica_decoration.xml" attachpoint="back"/>
         <prop actor="props/units/shields/mex_round_b.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/obsidianan_spear.xml" attachpoint="weapon_R"/>
       </props>

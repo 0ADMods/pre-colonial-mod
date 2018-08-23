@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_mechanical_ship_bireme">
-  <Auras datatype="tokens">
-    units/mexica_city_canoe
-  </Auras>
   <Cost>
     <Resources>
-      <wood op="add">500</wood>
+      <wood op="add">50</wood>
     </Resources>
   </Cost>
   <Footprint>

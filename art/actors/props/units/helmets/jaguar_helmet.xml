@@ -2,12 +2,12 @@
 <actor version="0">
   <castshadow />
   <group>
-    <variant frequency="1" name="Jaguar Worion Helmet">
+    <variant frequency="100" name="Jaguar Worrion Helmet">
       <mesh>props/helmet/jaguar_helmet.dae</mesh>
       <textures>
         <texture file="props/helmet/jaguar_hat.png" name="baseTex" />
       </textures>
     </variant>
   </group>
-  <material>player_trans.xml</material>
+  <material>basic_trans.xml</material>
 </actor>

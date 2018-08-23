@@ -2,7 +2,7 @@
 <actor version="0">
   <castshadow />
   <group>
-    <variant frequency="1" name="Eagle Worion Helmet">
+    <variant frequency="1" name="Eagle Worrion Helmet">
       <mesh>props/helmet/eagle_helmet.dae</mesh>
       <props>
         <prop actor="props/units/helmets/helmet_decoration.xml" attachpoint="root"/>

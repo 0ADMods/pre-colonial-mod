@@ -3,52 +3,24 @@
 	"Culture":"nahua-mexica",
 	"Name":"Mexicas",
 	"Emblem":"session/portraits/emblems/emblem_mexica.png",
-	"History":".",
-	"Music":[],
+	"History":"No Info for now.",
+	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
-	[
-		{
-			"Name":"Mexicas",
-			"Description":"",
-			"Technologies":
-			[
-				{
-					"Name":"Chinampa",
-					"History":"Al no tener tierras cultivables en su ciudad-estado usaban jardines flotantes para cultivar sus alimentos.",
-					"Description":"Desbloquea la chinampa."
-				},
-				{
-					"Name":"Guerras Floridas",
-					"History":"Las guerras floridas era un ritual.",
-					"Description":"Las tropas son 20% mas fuertes."
-				}
-			],
-			"Heroes":
-			[
-				{
-					"Name":"Cuactemoc",
-					"Class":"Jaguar Worrion",
-					"Armament":"Macahuitle and a wood shield",
-					"Emblem":"",
-					"History":"El ultimo gran orador de México-Tenochtitlan."
-				}
-			]
-		}
-	],
+	[],
 	"CivBonuses":
 	[
 		{
-			"Name":"Patriotismo",
+			"Name":"Advance Fields",
 			"History":".",
-			"Description":"Los soldados mexicas pelean mejor cerca de un templo o centro civico."
+			"Description":"All wokers gather food 20% faster."
 		}
 	],
 	"TeamBonuses":
 	[
         {
-			"Name":"Patriotismo",
+			"Name":"Mexica Allys",
 			"History":".",
-			"Description":"Los soldados aliados pelean mejor cerca de un templo o centro civico."
+			"Description":"Your ally now train mexica spearman and atlat worrions in barracks."
 		}
 	],
 	"Structures":
@@ -57,19 +29,10 @@
 			"Name":"Chinampa",
 			"Class":"",
 			"Emblem":"",
-			"History":"Un jardin flotante que da alimento a la ciudad.",
+			"History":"A floating garden.",
 			"Requirements":"",
 			"Phase":"City",
-			"Special":"puede construirse serca de las costas."
-		},
-		{
-			"Name":"Syssition",
-			"Class":"",
-			"Emblem":"",
-			"History":"The Syssition was the Mess Hall for full-blooded Spartiates. Every Spartan peer, even kings, belonged to one.",
-			"Requirements":"",
-			"Phase":"City",
-			"Special":"Train heroes and Spartiates and research technologies related to them."
+			"Special":"You cant build in the shoreline like a dock."
 		}
 	],
 	"WallSets":

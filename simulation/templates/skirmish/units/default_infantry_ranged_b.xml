@@ -8,6 +8,6 @@
     <general>units/{civ}_infantry_javelinist_b</general>
   </SkirmishReplacer>
   <VisualActor>
-    <Actor>units/nahuas/infantry_javelinist_b.xml</Actor>
+    <Actor>units/mexicas/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

@@ -7,6 +7,6 @@
     <general>units/{civ}_support_female_citizen</general>
   </SkirmishReplacer>
   <VisualActor>
-    <Actor>units/athenians/female_citizen.xml</Actor>
+    <Actor>units/mexicas/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>

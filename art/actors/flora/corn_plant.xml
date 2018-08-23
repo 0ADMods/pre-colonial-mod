@@ -2,12 +2,12 @@
 <actor version="0">
   <castshadow />
   <group>
-    <variant frequency="1" name="Corn">
+    <variant frequency="100" name="Corn">
       <mesh>flora/corn_plant.dae</mesh>
       <textures>
         <texture file="flora/corn.png" name="baseTex" />
       </textures>
     </variant>
   </group>
-  <material>basic_trans.xml</material>
+  <material>basic_glow_wind.xml</material>
 </actor>

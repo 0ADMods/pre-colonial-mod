@@ -2,7 +2,7 @@
 <actor version="0">
   <castshadow />
   <group>
-    <variant frequency="1" name="Mexica Helmet A">
+    <variant frequency="100" name="Mexica Helmet A">
       <mesh>props/helmet/mexica_helmet_a.dae</mesh>
       <textures>
         <texture file="props/helmet/healer_hat_a.png" name="baseTex" />

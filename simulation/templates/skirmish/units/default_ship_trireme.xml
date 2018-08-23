@@ -7,6 +7,6 @@
     <general>units/{civ}_ship_trireme</general>
   </SkirmishReplacer>
   <VisualActor>
-    <Actor>structures/nahuas/trireme.xml</Actor>
+    <Actor>structures/mexicas/special_cannoe.xml</Actor>
   </VisualActor>
 </Entity>

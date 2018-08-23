@@ -1,0 +1,14 @@
+{
+    "genericName":"Tupi Villager",
+    "autoResearch": true,
+    "description":"Tupi tribes don't have phase technologies.",
+    "supersedes": "phase_town_tupi",
+    "replaces": ["phase_city"],
+    "icon": "city_phase.png",
+    "tooltip": "Tupi tribes don't have phase technologies.",
+    "requirements": { "all": [{ "entity": { "class": "Villager", "number": 15 } }] },
+    "requirementsTooltip": "Requires 15 Village Phase structures.",
+    "modifications": [
+		{"value": "Capturable/GarrisonRegenRate", "add": 2.0, "affects": "Structure"}
+	]
+}
