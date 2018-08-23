@@ -1,6 +1,6 @@
 # Americas Ancient Empires
 
-The Pre-colonial mod (Mesoamerican Mod), developed by Council of Modders (CoM),adds new american civilizations from 900 to 1521 with new gameplay(TODO) to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) The following civilizations are added by the mod:
+Americas Ancient Empires (Mesoamerican Mod), developed by Council of Modders (CoM),adds new american civilizations from 900 to 1521 with new gameplay(TODO) to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) The following civilizations are added by the mod:
 
 - Mexicas 
 
@@ -53,7 +53,7 @@ There is only one download option for every version, because the same mod can wo
 
 ## Contributing
 
-We could always use another helping hand with this project. There are several ways to help and contribute to the Terra Magna mod:
+We could always use another helping hand with this project. There are several ways to help and contribute to the Americas Ancient Empires mod:
 
 - Download, install and play the mod.
 - Promote the Terra Magna mod by telling friends about it, create game play videos or write a blog article about it.
