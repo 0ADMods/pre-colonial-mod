@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant frequency="1" name="Hut">
+      <mesh>structural/mayan/mayan_hut_b.dae</mesh>
+      <textures> <texture file="structural/mayan_house2_b.png" name="baseTex"/> </textures>
+    </variant>
+  </group>
+
+</actor>
