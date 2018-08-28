@@ -46,17 +46,17 @@ There is only one download option for every version, because the same mod can wo
 
     Main menu -> Configuration -> Mods -> Download -> doubleclick
 ### Zip installation:
-1.Unzip the download but leave the inner archive intact.
-2.Place the unzipped folder into /binaries/data/mods. You'll see another folder there called 'public'.
-3.Launch the game and enable the mod in Options>Mod Selection. Press 'Start Mods'.
-4.Enjoy the mod!
+- Unzip the download but leave the inner archive intact.
+- Place the unzipped folder into /binaries/data/mods. You'll see another folder there called 'public'.
+- Launch the game and enable the mod in Options>Mod Selection. Press 'Start Mods'.
+- Enjoy the mod!
 
 ## Contributing
 
 We could always use another helping hand with this project. There are several ways to help and contribute to the Americas Ancient Empires mod:
 
 - Download, install and play the mod.
-- Promote the Terra Magna mod by telling friends about it, create game play videos or write a blog article about it.
+- Promote the Americas Ancient Empires mod by telling friends about it, create game play videos or write a blog article about it.
 - Report problems and bugs.
 - Help to translate the mod in different languages.
 - Be a community manager and help others.
