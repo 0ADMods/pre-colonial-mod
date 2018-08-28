@@ -3,7 +3,6 @@
   <Builder>
     <Entities datatype="tokens">
       -structures/{civ}_wallset_stone
-      structures/{civ}_village_centre
     </Entities>
   </Builder>
   <Cost>

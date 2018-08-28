@@ -4,7 +4,7 @@
 	"Name":"Tlaxcaltecans",
 	"Emblem":"session/portraits/emblems/emblem_tlaxcallan.png",
 	"History":"No Info for now.",
-	"Music":[],
+	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
 	[
 		{
@@ -42,10 +42,6 @@
 		{
 			"Template": "units/tlax_infantry_archer_b",
 			"Count": 2
-		},
-		{
-			"Template": "units/tlax_infantry_spearman_c",
-			"Count": 2
 		}
 	],
 	"Formations":
@@ -78,5 +74,5 @@
 		"skirmish/structures/default_wall_medium": "other/palisades_rocks_medium",
 		"skirmish/structures/default_wall_long": "other/palisades_rocks_long"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }

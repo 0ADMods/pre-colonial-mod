@@ -5,6 +5,6 @@
     <SpecificName>Mexica Outpost</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/mexicas/outpost.xml</Actor>
+    <Actor>structures/generic/outpost_america.xml</Actor>
   </VisualActor>
 </Entity>
