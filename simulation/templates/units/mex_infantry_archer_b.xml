@@ -18,7 +18,6 @@
     <GenericName>Mexica Archer</GenericName>
     <SpecificName>Mexicalt Yolcamini</SpecificName>
     <Icon>units/mexica_archer.png</Icon>
-    <RequiredTechnology>attack_infantry_ranged_meso_01</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_archer_a</Entity>

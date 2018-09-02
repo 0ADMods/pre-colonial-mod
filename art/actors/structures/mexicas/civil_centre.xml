@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Hellenes_Civic_Centre">
+    <variant frequency="1" name="Mexica Civic Centre">
       <animations>
         <animation event="0.5" load="0.0" name="attack_ranged" speed="100"/>
       </animations>

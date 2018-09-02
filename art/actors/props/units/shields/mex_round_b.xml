@@ -10,21 +10,21 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Shield A">
+    <variant frequency="2" name="Shield A">
       <textures>
         <texture file="props/shield/mexica_shield_a.png" name="baseTex" />
         <texture file="props/shield/aspis_smooth_a_norm.png" name="normTex" />
         <texture file="props/shield/aspis_smooth_a_spec.png" name="specTex" />
       </textures>
     </variant>
-    <variant frequency="1" name="Shield B">
+    <variant frequency="3" name="Shield B">
       <textures>
         <texture file="props/shield/mexica_shield_b.png" name="baseTex" />
         <texture file="props/shield/aspis_smooth_a_norm.png" name="normTex" />
         <texture file="props/shield/aspis_smooth_a_spec.png" name="specTex" />
       </textures>
     </variant>
-    <variant frequency="1" name="Shield C">
+    <variant frequency="4" name="Shield C">
       <textures>
         <texture file="props/shield/mexica_shield_c.png" name="baseTex" />
         <texture file="props/shield/aspis_smooth_a_norm.png" name="normTex" />

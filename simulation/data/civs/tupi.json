@@ -1,0 +1,87 @@
+{
+	"Code":"tupi",
+	"Culture":"tupi",
+	"Name":"Tupis",
+	"Emblem":"session/portraits/emblems/emblem_inca.png",
+	"History":"No Info for now.",
+	"Music":[],
+	"Factions":
+	[
+		{
+			"Name":"Tupi",
+			"Description":"",
+			"Technologies":
+			[],
+			"Heroes":
+			[]
+		}
+	],
+	"CivBonuses":
+	[],
+	"TeamBonuses":
+	[],
+	"Structures":
+	[],
+	"WallSets":
+	[
+		"other/wallset_palisade"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/tupi_civil_centre"
+		},
+		{
+			"Template": "units/tupi_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/tupi_infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/tupi_infantry_archer_b",
+			"Count": 2
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line",
+		"special/formations/phalanx"
+	],
+	"AINames":
+	[
+		"Manco Cápac",
+		"Sinchi Roca",
+		"Lloque Yupanqui",
+        "Mayta Cápac",
+        "Cápac Yupanqui",
+        "Inca Roca",
+        "Yahuar Huácac",
+        "Huiracocha Inca",
+        "Pachacútec Inca Yupanqui",
+        "Amaru Inca Yupanqui",
+        "Túpac Inca Yupanqui",
+        "Huayna Cápac",
+        "Túpac Yupanqui",
+        "Huayna Cápac"
+	],
+	"SkirmishReplacements":
+	{
+        "skirmish/structures/default_house_10" : "structures/inca_house",
+        "skirmish/structures/default_house_5" : "structures/inca_villager_house",
+        "skirmish/structures/default_farmstead" : "structures/inca_communal_storehouse",
+        "skirmish/structures/default_storehouse" : "structures/inca_communal_storehouse",
+        "skirmish/structures/defaoult_corral" : "structures/inca_farm"
+	},
+    "SelectableInGameSetup": false
+}

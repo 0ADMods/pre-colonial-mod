@@ -2,12 +2,8 @@
 <actor version="0">
   <castshadow />
   <group>
-    <variant frequency="100" name="Back">
+    <variant frequency="1" name="Shield Decoration">
       <mesh>props/shield/mexica_shield_decoration.dae</mesh>
-      <props>
-        <prop />
-        <prop />
-      </props>
       <textures>
         <texture file="props/shield/shield_decoration.png" name="baseTex" />
       </textures>

@@ -11,9 +11,9 @@
     <Category>Field</Category>
   </BuildRestrictions>
   <Cost>
-    <BuildTime>50</BuildTime>
+    <BuildTime>80</BuildTime>
     <Resources>
-      <wood>100</wood>
+      <wood>200</wood>
     </Resources>
   </Cost>
   <Footprint>

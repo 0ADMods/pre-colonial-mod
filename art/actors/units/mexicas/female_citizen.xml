@@ -9,6 +9,7 @@
       </props>
       <textures>
         <texture file="skeletal/nahua_fem_1.png" name="baseTex"/>
+        <texture file="skeletal/hele_fem_f_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>

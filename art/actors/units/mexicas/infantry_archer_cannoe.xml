@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Base">
+    <variant file="biped/base_archer_chariot_ready.xml">
       <mesh>skeletal/new/m_armor_pants.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
@@ -18,7 +18,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/base_archer_ready.xml"/>
+    <variant file="biped/base_archer_chariot_ready.xml"/>
   </group>
   <group>
     <variant frequency="1" name="Idle"/>
