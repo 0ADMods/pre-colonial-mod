@@ -14,7 +14,11 @@
   </group>
   <group>
     <variant frequency="100" name="Base">
-      <textures><texture file="skeletal/aztec_loincloth_1a.png" name="baseTex"/></textures>
+      <textures>
+        <texture file="skeletal/aztec_loincloth_1a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_loincloth_spec.png" name="specTex"/>
+        <texture file="skeletal/aztec_loincloth_norm.png" name="specTex"/>
+      </textures>
     </variant>
   </group>
   <group>

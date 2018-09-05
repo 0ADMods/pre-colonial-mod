@@ -33,15 +33,15 @@
 		},
 		{
 			"Template": "units/tlax_support_female_citizen",
-			"Count": 4
+			"Count": 5
 		},
 		{
 			"Template": "units/tlax_infantry_spearman_b",
-			"Count": 2
+			"Count": 4
 		},
 		{
 			"Template": "units/tlax_infantry_archer_b",
-			"Count": 2
+			"Count": 4
 		}
 	],
 	"Formations":

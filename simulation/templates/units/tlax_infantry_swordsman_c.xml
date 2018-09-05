@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Auras datatype="tokens">
+    units/mexica_champion_1
+    units/mexica_champion_2
+  </Auras>
+  <Identity>
+    <Civ>tlax</Civ>
+    <GenericName>Tlaxcaltecan Coyote Champion</GenericName>
+    <SelectionGroupName>units/tlax_champion_swordsman</SelectionGroupName>
+    <Icon>units/mexica_jaguar_worrion.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_swordsman_champion.xml</Actor>
+  </VisualActor>
+</Entity>

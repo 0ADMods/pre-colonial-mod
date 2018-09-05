@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="415.211" y="152.911" z="-64.1787"/>
+		<Position x="662.38" y="125.566" z="605.597"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -47,6 +47,7 @@
   "Name": "Jungle Lacandona",
   "Nomad": false,
   "PlayerData": [
+    null,
     {
       "Civ": "mex",
       "Name": "Settlement 1",
@@ -5322,13 +5323,6 @@
 			<Position x="727.21552" z="730.4856"/>
 			<Orientation y="-2.40201"/>
 			<Actor seed="47264"/>
-		</Entity>
-		<Entity uid="770">
-			<Template>structures/mex_village_centre</Template>
-			<Player>0</Player>
-			<Position x="678.17725" z="717.53296"/>
-			<Orientation y="2.15258"/>
-			<Actor seed="22400"/>
 		</Entity>
 		<Entity uid="771">
 			<Template>actor|flora/trees/grass_1.xml</Template>

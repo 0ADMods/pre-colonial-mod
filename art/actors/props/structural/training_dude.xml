@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="100" name="Back Flag">
+      <mesh>props/trainig_dude.dae</mesh>
+      <textures>
+        <texture file="props/trainig_dude.png" name="baseTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

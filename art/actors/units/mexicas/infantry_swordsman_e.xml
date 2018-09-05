@@ -10,8 +10,10 @@
         <prop actor="props/units/weapons/macehuatil.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
       </props>
-      <textures>
-        <texture file="skeletal/aztec_padded_1a.png" name="baseTex"/>
+     <textures>
+        <texture file="skeletal/aztec_loincloth_1a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_loincloth_spec.png" name="specTex"/>
+        <texture file="skeletal/aztec_loincloth_norm.png" name="specTex"/>
       </textures>
     </variant>
   </group>

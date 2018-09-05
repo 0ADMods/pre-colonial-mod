@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="809.032" y="159.496" z="326.076"/>
-		<Rotation angle="-0.13253"/>
+		<Position x="688.111" y="168.541" z="1020.35"/>
+		<Rotation angle="-0.933259"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -49,6 +49,7 @@
   "Name": "Coast of Veracruz(4)",
   "Nomad": false,
   "PlayerData": [
+    null,
     {
       "Civ": "mex",
       "Color": {
@@ -106,13 +107,13 @@
       "Team": 0
     },
     {
-      "Civ": "mex",
+      "Civ": "tlax",
       "Color": {
         "b": 0,
         "g": 0,
         "r": 255
       },
-      "Name": "Nahua Revels",
+      "Name": "Tlaxcalans",
       "Resources": {
         "food": 5000,
         "metal": 5000,
@@ -134,7 +135,7 @@
       "Team": 1
     },
     {
-      "Civ": "mex",
+      "Civ": "tlax",
       "Color": {
         "b": 64,
         "g": 0,
@@ -163,11 +164,14 @@
     }
   ],
   "Preview": "costa_de_veracruz.png",
-  "RevealMap": false,
+  "RevealMap": true,
   "Script": "",
   "Seed": 0,
   "Size": 320,
-  "TriggerScripts": [],
+  "TriggerScripts": [
+    "scripts/TriggerHelper.js",
+    "scenarios/trigger_map.js"
+  ],
   "VictoryConditions": [],
   "mapType": "scenario"
 }
@@ -3235,76 +3239,6 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="10804"/>
 		</Entity>
-		<Entity uid="455">
-			<Template>units/mex_infantry_lancer_c</Template>
-			<Player>0</Player>
-			<Position x="525.43476" z="1012.74634"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="22892"/>
-		</Entity>
-		<Entity uid="456">
-			<Template>units/mex_infantry_lancer_c</Template>
-			<Player>0</Player>
-			<Position x="527.05195" z="1013.0099"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="5422"/>
-		</Entity>
-		<Entity uid="457">
-			<Template>units/mex_infantry_lancer_c</Template>
-			<Player>0</Player>
-			<Position x="528.82691" z="1013.51667"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="150"/>
-		</Entity>
-		<Entity uid="458">
-			<Template>units/mex_infantry_lancer_c</Template>
-			<Player>0</Player>
-			<Position x="530.15986" z="1013.83387"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="40232"/>
-		</Entity>
-		<Entity uid="459">
-			<Template>units/mex_infantry_lancer_c</Template>
-			<Player>0</Player>
-			<Position x="532.10047" z="1014.46705"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="64110"/>
-		</Entity>
-		<Entity uid="460">
-			<Template>units/mex_infantry_spearman_c</Template>
-			<Player>0</Player>
-			<Position x="519.2323" z="1020.27717"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="6084"/>
-		</Entity>
-		<Entity uid="461">
-			<Template>units/mex_infantry_spearman_c</Template>
-			<Player>0</Player>
-			<Position x="520.53663" z="1020.9897"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="58694"/>
-		</Entity>
-		<Entity uid="462">
-			<Template>units/mex_infantry_spearman_c</Template>
-			<Player>0</Player>
-			<Position x="522.18104" z="1021.67035"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="5030"/>
-		</Entity>
-		<Entity uid="463">
-			<Template>units/mex_infantry_spearman_c</Template>
-			<Player>0</Player>
-			<Position x="523.94361" z="1022.37354"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="60334"/>
-		</Entity>
-		<Entity uid="464">
-			<Template>units/mex_infantry_spearman_c</Template>
-			<Player>0</Player>
-			<Position x="525.6999" z="1022.87983"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="17028"/>
-		</Entity>
 		<Entity uid="465">
 			<Template>units/mex_infantry_spearman_b</Template>
 			<Player>0</Player>
@@ -3318,34 +3252,6 @@
 			<Position x="533.80146" z="1022.47675"/>
 			<Orientation y="-2.77947"/>
 			<Actor seed="49814"/>
-		</Entity>
-		<Entity uid="467">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="521.82154" z="1012.8224"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="34448"/>
-		</Entity>
-		<Entity uid="468">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="533.37433" z="1016.40247"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="28204"/>
-		</Entity>
-		<Entity uid="469">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="514.86695" z="1017.3357"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="7772"/>
-		</Entity>
-		<Entity uid="470">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="531.59644" z="1024.06458"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="27542"/>
 		</Entity>
 		<Entity uid="471">
 			<Template>units/mex_ship_city_cannoe</Template>
@@ -3402,13 +3308,6 @@
 			<Position x="295.06324" z="274.84357"/>
 			<Orientation y="2.99798"/>
 			<Actor seed="41724"/>
-		</Entity>
-		<Entity uid="479">
-			<Template>structures/mex_village_centre</Template>
-			<Player>0</Player>
-			<Position x="503.31031" z="1043.80628"/>
-			<Orientation y="-0.53573"/>
-			<Actor seed="64898"/>
 		</Entity>
 		<Entity uid="480">
 			<Template>gaia/flora_tree_medit_fan_palm</Template>
@@ -22804,89 +22703,166 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="51148"/>
 		</Entity>
-		<Entity uid="3291">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="299.25077" z="1073.62598"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59690"/>
-		</Entity>
-		<Entity uid="3292">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="313.03553" z="1084.17762"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="31172"/>
-		</Entity>
-		<Entity uid="3293">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="316.41053" z="1071.10291"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="24416"/>
-		</Entity>
-		<Entity uid="3294">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="269.04548" z="1042.0105"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="54442"/>
-		</Entity>
-		<Entity uid="3295">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="447.12537" z="1063.75635"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="50196"/>
-		</Entity>
-		<Entity uid="3296">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="465.42191" z="1070.90955"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="16728"/>
-		</Entity>
-		<Entity uid="3297">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="492.58356" z="1101.9131"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25710"/>
-		</Entity>
-		<Entity uid="3298">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="524.78156" z="1116.33082"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="12906"/>
-		</Entity>
-		<Entity uid="3299">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="358.8625" z="892.40113"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35608"/>
-		</Entity>
-		<Entity uid="3300">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="297.89869" z="903.32813"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="32772"/>
-		</Entity>
-		<Entity uid="3301">
-			<Template>units/mex_infantry_swordsman_c</Template>
-			<Player>0</Player>
-			<Position x="400.25565" z="593.62873"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20418"/>
-		</Entity>
 		<Entity uid="3302">
 			<Template>units/mex_infantry_swordsman_c</Template>
 			<Player>0</Player>
 			<Position x="810.49634" z="430.70771"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="21206"/>
+		</Entity>
+		<Entity uid="3303">
+			<Template>structures/tlax_civil_centre</Template>
+			<Player>0</Player>
+			<Position x="511.54877" z="1032.05945"/>
+			<Orientation y="2.52674"/>
+			<Actor seed="14004"/>
+		</Entity>
+		<Entity uid="3304">
+			<Template>structures/tlax_barracks</Template>
+			<Player>0</Player>
+			<Position x="332.78382" z="1144.46302"/>
+			<Orientation y="3.08788"/>
+			<Actor seed="50342"/>
+		</Entity>
+		<Entity uid="3305">
+			<Template>structures/tlax_barracks</Template>
+			<Player>0</Player>
+			<Position x="434.08176" z="1175.1996"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31690"/>
+		</Entity>
+		<Entity uid="3306">
+			<Template>structures/tlax_barracks</Template>
+			<Player>0</Player>
+			<Position x="708.47852" z="1141.78455"/>
+			<Orientation y="-2.53968"/>
+			<Actor seed="61152"/>
+		</Entity>
+		<Entity uid="3307">
+			<Template>structures/tlax_defense_tower</Template>
+			<Player>0</Player>
+			<Position x="495.83246" z="1002.04487"/>
+			<Orientation y="0.16671"/>
+			<Actor seed="55214"/>
+		</Entity>
+		<Entity uid="3308">
+			<Template>structures/tlax_defense_tower</Template>
+			<Player>0</Player>
+			<Position x="557.69593" z="1026.9773"/>
+			<Orientation y="-0.45984"/>
+			<Actor seed="7020"/>
+		</Entity>
+		<Entity uid="3309">
+			<Template>structures/tlax_defense_tower</Template>
+			<Player>0</Player>
+			<Position x="360.69715" z="1024.21937"/>
+			<Orientation y="0.07761"/>
+			<Actor seed="20778"/>
+		</Entity>
+		<Entity uid="3310">
+			<Template>structures/tlax_defense_tower</Template>
+			<Player>0</Player>
+			<Position x="91.14477" z="903.33741"/>
+			<Orientation y="1.12754"/>
+			<Actor seed="20070"/>
+		</Entity>
+		<Entity uid="3311">
+			<Template>structures/tlax_defense_tower</Template>
+			<Player>0</Player>
+			<Position x="159.09482" z="925.15381"/>
+			<Orientation y="-2.44672"/>
+			<Actor seed="5934"/>
+		</Entity>
+		<Entity uid="3312">
+			<Template>structures/tlax_storehouse</Template>
+			<Player>0</Player>
+			<Position x="205.94205" z="893.38428"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30496"/>
+		</Entity>
+		<Entity uid="3313">
+			<Template>structures/tlax_temple</Template>
+			<Player>0</Player>
+			<Position x="462.68195" z="795.09528"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47820"/>
+		</Entity>
+		<Entity uid="3314">
+			<Template>structures/tlax_temple</Template>
+			<Player>0</Player>
+			<Position x="517.34632" z="381.41355"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62212"/>
+		</Entity>
+		<Entity uid="3315">
+			<Template>structures/tlax_temple</Template>
+			<Player>0</Player>
+			<Position x="711.26532" z="505.33466"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22004"/>
+		</Entity>
+		<Entity uid="3316">
+			<Template>structures/tlax_temple</Template>
+			<Player>0</Player>
+			<Position x="928.01783" z="623.51117"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62012"/>
+		</Entity>
+		<Entity uid="3317">
+			<Template>structures/tlax_temple</Template>
+			<Player>0</Player>
+			<Position x="861.83045" z="396.98285"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38526"/>
+		</Entity>
+		<Entity uid="3318">
+			<Template>structures/tlax_sentry_tower</Template>
+			<Player>0</Player>
+			<Position x="702.81708" z="485.39161"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53688"/>
+		</Entity>
+		<Entity uid="3319">
+			<Template>structures/tlax_fortress</Template>
+			<Player>0</Player>
+			<Position x="701.03003" z="535.55201"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41122"/>
+		</Entity>
+		<Entity uid="3320">
+			<Template>structures/tlax_fortress</Template>
+			<Player>0</Player>
+			<Position x="458.33558" z="760.23255"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26944"/>
+		</Entity>
+		<Entity uid="3321">
+			<Template>structures/tlax_fortress</Template>
+			<Player>0</Player>
+			<Position x="545.38343" z="333.09122"/>
+			<Orientation y="-0.05945"/>
+			<Actor seed="2306"/>
+		</Entity>
+		<Entity uid="3322">
+			<Template>structures/tlax_fortress</Template>
+			<Player>0</Player>
+			<Position x="1008.16334" z="1106.2063"/>
+			<Orientation y="-2.5256"/>
+			<Actor seed="61642"/>
+		</Entity>
+		<Entity uid="3323">
+			<Template>structures/tlax_fortress</Template>
+			<Player>0</Player>
+			<Position x="388.21796" z="1189.5597"/>
+			<Orientation y="2.96067"/>
+			<Actor seed="18598"/>
+		</Entity>
+		<Entity uid="3324">
+			<Template>structures/tlax_civil_centre</Template>
+			<Player>0</Player>
+			<Position x="718.18445" z="1236.47669"/>
+			<Orientation y="-3.06046"/>
+			<Actor seed="35750"/>
 		</Entity>
 	</Entities>
 	<Paths/>

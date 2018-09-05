@@ -16,6 +16,8 @@
     <variant frequency="100" name="Base">
       <textures>
         <texture file="skeletal/aztec_healer_c1.png" name="baseTex"/>
+        <texture file="skeletal/aztec_suit_spec.png" name="specTex"/>
+        <texture file="skeletal/aztec_suit_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>

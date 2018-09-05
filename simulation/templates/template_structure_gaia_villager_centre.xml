@@ -71,9 +71,9 @@
     <GenericName>Civic Center</GenericName>
     <Tooltip>Build to found new settlements. Train citizens. Garrison: 20.</Tooltip>
     <Classes datatype="tokens">
-      Defensive
+    Defensive
 	  Ranged
-      CivCentre
+    CivCentre
 	  CivilCentre
 	</Classes>
     <VisibleClasses datatype="tokens">Dropsite City CivicCenter</VisibleClasses>

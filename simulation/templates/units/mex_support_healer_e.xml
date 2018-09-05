@@ -3,5 +3,16 @@
   <Identity>
     <Rank>Elite</Rank>
   </Identity>
+  <Upgrade>
+    <Healer>
+      <Entity>units/{civ}_support_healer_c</Entity>
+      <Tooltip>This healer can attack like a regular unit. This unit get a spiritual aura.</Tooltip>
+      <Cost>
+        <food>50</food>
+        <wood>50</wood>
+      </Cost>
+      <Time>100</Time>
+    </Healer>
+  </Upgrade>
   <Promotion disable=""/>
 </Entity>

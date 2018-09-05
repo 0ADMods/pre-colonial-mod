@@ -15,8 +15,10 @@
   </group>
   <group>
     <variant frequency="100" name="Base">
-      <textures>
-        <texture file="skeletal/aztec_suit_1a.png" name="baseTex"/>
+     <textures>
+        <texture file="skeletal/aztec_suit_3a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_suit_spec.png" name="specTex"/>
+        <texture file="skeletal/aztec_suit_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_javelinist">
+  <Identity>
+    <Civ>tlax</Civ>
+    <GenericName>Tlaxcaltecan Atlat Champion</GenericName>
+    <Icon>units/mexica_archer_champion.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_javelinist_e.xml</Actor>
+  </VisualActor>
+</Entity>

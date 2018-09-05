@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="0">
+  <castshadow />
+  <group>
+    <variant frequency="1" name="Base">
+      <mesh>flora/nopal_a.dae</mesh>
+      <textures>
+        <texture file="flora/nopal.png" name="baseTex" />
+        <texture file="flora/nopal_norm.png" name="normTex" />
+        <texture file="flora/nopal_spec.png" name="specTex" />
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

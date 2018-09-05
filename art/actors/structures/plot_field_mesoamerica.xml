@@ -5,7 +5,7 @@
     <variant>
 	<mesh>structural/field_propped_8x8.dae</mesh>
 	  	  <props>
-        <prop actor="flora/corn_plant.xml" attachpoint="patch" minheight="-20" maxheight="20"/>
+            <prop actor="flora/corn_plant.xml" attachpoint="patch" minheight="-20" maxheight="20"/>
 		    <prop actor="flora/corn_plant.xml" attachpoint="patch_001" minheight="-20" maxheight="20"/>
 		    <prop actor="flora/corn_plant.xml" attachpoint="patch_002" minheight="-20" maxheight="20"/>
 		    <prop actor="flora/corn_plant.xml" attachpoint="patch_003" minheight="-20" maxheight="20"/>

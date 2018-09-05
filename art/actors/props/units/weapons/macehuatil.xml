@@ -12,12 +12,12 @@
         <texture file="props/weapons/macehuatil.png" name="baseTex" />
       </textures>
     </variant>
-    <variant frequency="2" name="Macehuatil B">
+    <variant frequency="1" name="Macehuatil B">
       <textures>
         <texture file="props/weapons/macehuatil_a.png" name="baseTex" />
       </textures>
     </variant>
-    <variant frequency="3" name="Macehuatil C">
+    <variant frequency="1" name="Macehuatil C">
       <textures>
         <texture file="props/weapons/macehuatil_b.png" name="baseTex" />
       </textures>

@@ -11,7 +11,9 @@
         <prop actor="props/units/weapons/spear_bamboo.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/aztec_suit_1a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_suit_4a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_suit_spec.png" name="specTex"/>
+        <texture file="skeletal/aztec_suit_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>

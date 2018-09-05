@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow />
   <group>
-    <variant frequency="100" name="Mexica Temple">
+    <variant frequency="100" name="Tlaxcaltecan Temple">
       <mesh>structural/tlaxcalan/temple.dae</mesh>
       <props>
         <prop actor="props/structures/decals/gravel_5x5.xml" attachpoint="root" />

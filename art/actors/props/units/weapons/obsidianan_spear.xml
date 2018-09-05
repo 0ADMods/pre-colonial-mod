@@ -5,7 +5,7 @@
     <variant frequency="1" name="Mexica Spear">
       <mesh>props/weapons/obsidianan_spear.dae</mesh>
       <textures>
-        <texture file="props/weapons/weapons_mesoamerica.png" name="baseTex"/>
+        <texture file="props/weapons/weapons_mesoamerica.png" name="baseTex" />
       </textures>
     </variant>
   </group>
