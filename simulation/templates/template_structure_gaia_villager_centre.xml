@@ -40,14 +40,10 @@
   </BuildingAI>
   <BuildRestrictions>
     <Territory>own neutral ally</Territory>
-    <Category>CivicCenter</Category>
-    <Distance>
-      <FromClass>CivicCenter</FromClass>
-      <MinDistance>280</MinDistance>
-    </Distance>
+    <Category>Villager</Category>
   </BuildRestrictions>
   <Capturable>
-    <CapturePoints>3000</CapturePoints>
+    <CapturePoints>300</CapturePoints>
     <RegenRate>0</RegenRate>
     <GarrisonRegenRate>3</GarrisonRegenRate>
   </Capturable>
@@ -64,19 +60,19 @@
     <LoadingRange>1</LoadingRange>
   </GarrisonHolder>
   <Health>
-    <Max>1500</Max>
+    <Max>2000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_6x6</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <GenericName>Civic Center</GenericName>
-    <Tooltip>Build to found new settlements. Train citizens. Garrison: 20.</Tooltip>
+    <GenericName>Villager</GenericName>
+    <Tooltip>Coquer for new trops. Train citizens. Garrison: 20.</Tooltip>
     <Classes datatype="tokens">
     Defensive
 	  Ranged
     CivCentre
 	  CivilCentre
 	</Classes>
-    <VisibleClasses datatype="tokens">Dropsite City CivicCenter</VisibleClasses>
+    <VisibleClasses datatype="tokens">Dropsite City CivicCenter Villager</VisibleClasses>
     <Icon>structures/civic_centre.png</Icon>
     <Undeletable>true</Undeletable>
   </Identity>
@@ -106,11 +102,9 @@
 	  <alert2>interface/alarm/alarm_alert_2.xml</alert2>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>0</Radius>
-    <Weight>0</Weight>
-  </TerritoryInfluence>
+  <TerritoryDecay>
+    <DecayRate>1</DecayRate>
+  </TerritoryDecay>
   <Vision>
     <Range>40</Range>
   </Vision>

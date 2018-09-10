@@ -11,16 +11,16 @@
     <Civ>gaia</Civ>
     <SpecificName>Nahua Villager</SpecificName>
     <GenericName>Native Villager</GenericName>
+    <Undeletable>true</Undeletable>
   </Identity>
   <Obstruction>
     <Static width="36.0" depth="30.0"/>
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/nahua_infantry_spearman_b
+      units/nahua_infantry_swordsman_b
       units/nahua_infantry_archer_b
       units/nahua_infantry_javelinist_b
-      units/nahua_infantry_warcheft
     </Entities>
   </ProductionQueue>
   <VisualActor>

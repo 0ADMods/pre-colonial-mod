@@ -3,8 +3,8 @@
 	"Culture":"inca",
 	"Name":"Incas",
 	"Emblem":"session/portraits/emblems/emblem_inca.png",
-	"History":"No Info for now.",
-	"Music":[],
+	"History":"El Imperio Inca conformado por varias ednias, Era la civilización más fuerte de America antes de la llegada de los españoles.",
+	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
 	[
 		{

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Identity>
+    <Civ>gaia</Civ>
+    <GenericName>Skull Worrion</GenericName>
+    <SelectionGroupName>units/tlax_champion_swordsman</SelectionGroupName>
+    <Icon>units/mexica_jaguar_worrion.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_skull_worrion.xml</Actor>
+  </VisualActor>
+</Entity>

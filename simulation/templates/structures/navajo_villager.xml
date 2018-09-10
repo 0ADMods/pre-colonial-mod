@@ -11,6 +11,7 @@
     <Civ>gaia</Civ>
     <SpecificName>Navajo Villager</SpecificName>
     <GenericName>Native Villager</GenericName>
+    <Undeletable>true</Undeletable>
   </Identity>
   <Obstruction>
     <Static width="36.0" depth="30.0"/>

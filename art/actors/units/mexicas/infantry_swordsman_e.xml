@@ -11,9 +11,9 @@
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
       </props>
      <textures>
-        <texture file="skeletal/aztec_loincloth_1a.png" name="baseTex"/>
-        <texture file="skeletal/aztec_loincloth_spec.png" name="specTex"/>
-        <texture file="skeletal/aztec_loincloth_norm.png" name="specTex"/>
+        <texture file="skeletal/aztec_padded_1a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_padded_spec.png" name="specTex"/>
+        <texture file="skeletal/aztec_padded_norm.png" name="specTex"/>
       </textures>
     </variant>
   </group>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_barracks">
+  <Identity>
+    <Civ>skirm</Civ>
+  </Identity>
+  <ProductionQueue disable=""/>
+  <SkirmishReplacer>
+    <general>structures/{civ}_contra_barracks</general>
+  </SkirmishReplacer>
+  <VisualActor>
+    <Actor>structures/mexicas/barracks.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_mechanical_ship_trireme">
+  <Identity>
+    <Civ>skirm</Civ>
+  </Identity>
+  <SkirmishReplacer>
+    <general>units/{civ}_ship_canoe</general>
+  </SkirmishReplacer>
+  <VisualActor>
+    <Actor>structures/mexicas/war_boat.xml</Actor>
+  </VisualActor>
+</Entity>

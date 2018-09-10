@@ -6,6 +6,7 @@
   </Auras>
   <Identity>
     <Civ>tlax</Civ>
+    <SpecificName>Xiuhcoyotl</SpecificName>
     <GenericName>Tlaxcaltecan Coyote Champion</GenericName>
     <SelectionGroupName>units/tlax_champion_swordsman</SelectionGroupName>
     <Icon>units/mexica_jaguar_worrion.png</Icon>

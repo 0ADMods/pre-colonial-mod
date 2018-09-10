@@ -2,6 +2,7 @@
 <Entity parent="template_unit_champion_infantry_javelinist">
   <Identity>
     <Civ>tlax</Civ>
+    <SpecificName>Tlapalcoyotl</SpecificName>
     <GenericName>Tlaxcaltecan Atlat Champion</GenericName>
     <Icon>units/mexica_archer_champion.png</Icon>
   </Identity>
