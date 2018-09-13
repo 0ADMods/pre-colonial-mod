@@ -2,11 +2,8 @@
 <actor version="0">
   <castshadow />
   <group>
-    <variant frequency="1" name="Eagle Worrion Helmet">
+    <variant frequency="1" name="Garza Worrion Helmet">
       <mesh>props/helmet/garza_helmet.dae</mesh>
-      <props>
-        <prop actor="props/units/helmets/helmet_decoration.xml" attachpoint="decoration"/>
-      </props>
       <textures>
         <texture file="props/helmet/garza_worrion.png" name="baseTex" />
       </textures>

@@ -6,12 +6,12 @@
     </Resources>
   </Cost>
   <Identity>
-    <Civ>mex</Civ>
+    <Civ>tlax</Civ>
     <GenericName>Tlaxcalan Arow Worrion</GenericName>
     <SpecificName>Tequihua</SpecificName>
     <Icon>units/mexica_archer_champion.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/mexicas/infantry_archer_champion.xml</Actor>
+    <Actor>units/tlaxcaltecs/infantry_archer_champion.xml</Actor>
   </VisualActor>
 </Entity>

@@ -3,10 +3,7 @@
   <castshadow />
   <group>
     <variant frequency="1" name="Eagle Worrion Helmet">
-      <mesh>props/helmet/eagle_helmet.dae</mesh>
-      <props>
-        <prop actor="props/units/helmets/helmet_decoration.xml" attachpoint="root"/>
-      </props>
+      <mesh>props/helmet/garza_helmet.dae</mesh>
       <textures>
         <texture file="props/helmet/eagle_worion_a.png" name="baseTex" />
       </textures>

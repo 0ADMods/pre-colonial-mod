@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_archer">
+  <Identity>
+    <Civ>inca</Civ>
+    <GenericName>Inca Archer</GenericName>
+    <Icon>units/mexica_archer_champion.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_archer_champion.xml</Actor>
+  </VisualActor>
+</Entity>

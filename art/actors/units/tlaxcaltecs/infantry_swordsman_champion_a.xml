@@ -6,7 +6,7 @@
       <mesh>skeletal/new/m_armor_pants.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
-        <prop actor="props/units/helmets/coyote_helmet.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/coyote_helmet_b.xml" attachpoint="helmet"/>
         <prop actor="props/units/backpacks/back_flag.xml" attachpoint="back"/>
         <prop actor="props/units/shields/mex_round_b.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/macehuatil.xml" attachpoint="weapon_R"/>
@@ -16,7 +16,7 @@
   <group>
     <variant frequency="100" name="Base">
       <textures>
-        <texture file="skeletal/aztec_suit_jaguar_1a.png" name="baseTex"/>
+        <texture file="skeletal/aztec_suit_5a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

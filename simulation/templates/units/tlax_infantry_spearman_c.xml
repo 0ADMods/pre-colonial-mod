@@ -6,9 +6,9 @@
   <Identity>
     <Civ>tlax</Civ>
     <GenericName>Tlaxcaltecan Garza Champion</GenericName>
-    <Icon>units/mexica_eagle_worion.png</Icon>
+    <Icon>units/tlaxcaltecan_garza_worrion.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/mexicas/infantry_spearman_champion</Actor>
+    <Actor>units/tlaxcaltecs/infantry_spearman_champion</Actor>
   </VisualActor>
 </Entity>

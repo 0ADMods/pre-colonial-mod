@@ -1,14 +1,14 @@
 {
-	"Code":"tupi",
-	"Culture":"amazonian-tupi",
-	"Name":"Tupis",
+	"Code":"mapu",
+	"Culture":"patagonian",
+	"Name":"Mapuche",
 	"Emblem":"session/portraits/emblems/emblem_inca.png",
 	"History":"No Info for now.",
 	"Music":[],
 	"Factions":
 	[
 		{
-			"Name":"Tupi",
+			"Name":"Mapuche",
 			"Description":"",
 			"Technologies":
 			[],

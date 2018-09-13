@@ -3,10 +3,10 @@
   <Identity>
     <Civ>tlax</Civ>
     <SpecificName>Tlapalcoyotl</SpecificName>
-    <GenericName>Tlaxcaltecan Atlat Champion</GenericName>
-    <Icon>units/mexica_archer_champion.png</Icon>
+    <GenericName>Red Coyote</GenericName>
+    <Icon>units/tlaxcaltecan_red_coyote.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/mexicas/infantry_javelinist_e.xml</Actor>
+    <Actor>units/tlaxcaltecs/infantry_javelinist_champion.xml</Actor>
   </VisualActor>
 </Entity>

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_spearman">
-  <Auras datatype="tokens">
-    units/mexica_champion_1
-  </Auras>
   <Identity>
     <Civ>tlax</Civ>
     <SpecificName>Tlilticoyotl</SpecificName>
     <GenericName>Black Coyote</GenericName>
-    <Icon>units/mexica_eagle_worion.png</Icon>
+    <Icon>units/tlaxcaltecan_black_coyote.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/mexicas/infantry_spearman_champion</Actor>
+    <Actor>units/tlaxcaltecs/infantry_spearman_champion_b</Actor>
   </VisualActor>
 </Entity>
