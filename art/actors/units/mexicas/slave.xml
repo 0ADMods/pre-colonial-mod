@@ -5,7 +5,7 @@
     <variant frequency="1" name="Base">
       <mesh>skeletal/new/m_armor_pants.dae</mesh>
       <props>
-        <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_native_basic.xml" attachpoint="head"/>
       </props>
       <textures>
         <texture file="skeletal/aztec_padded_1a.png" name="baseTex"/>

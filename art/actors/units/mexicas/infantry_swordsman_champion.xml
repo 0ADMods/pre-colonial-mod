@@ -5,7 +5,7 @@
     <variant file="biped/base_swordsman_shield_fast.xml">
       <mesh>skeletal/new/m_armor_pants.dae</mesh>
       <props>
-        <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_nahua.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/jaguar_helmet.xml" attachpoint="helmet"/>
         <prop actor="props/units/backpacks/back_flag.xml" attachpoint="back"/>
         <prop actor="props/units/shields/mex_round_b.xml" attachpoint="shield"/>

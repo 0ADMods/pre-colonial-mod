@@ -5,8 +5,8 @@
     <variant file="biped/base_spearman_ready_fast.xml">
       <mesh>skeletal/new/m_tunic_long.dae</mesh>
       <props>
-        <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
-        <prop actor="props/units/weapons/obsidianan_spear.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/heads/new/head_nahua.xml" attachpoint="head"/>
+        <prop actor="props/units/weapons/spear.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
       </props>
     </variant>

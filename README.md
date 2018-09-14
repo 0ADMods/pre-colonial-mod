@@ -3,36 +3,34 @@
 Americas Ancient Empires (Mesoamerican Mod), developed by Council of Modders (CoM),adds new american civilizations from 900 to 1521 with new gameplay(TODO) to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) The following civilizations are added by the mod:
 
 - Mexicas 
-
+- Tlaxcaltecans
 
 
 ## Civilizations
 
 - Mexicas
-- Tlaxcaltecas(In progress)
+- Tlaxcaltecas(1 building missing)
 - Incas
+- Mayan Kekchí
 - Toltecs
 - Pipiles
 - Tarascos
 - Purepechans
+- Hopis
 - Tupis
 - Mapuches
 
-## Gameplay Changes (TODO List):
-- The Civi Center cost  is 500 of wood and 600 of stone
-- The Temple can be converted into a Fortress or barracks and cost 700 of stone and 100 of wood
-- The Civi Center and the Temple cant build in Sacred Places
-- The metal is more harder to obtain
+## 
 
-## Notes:
+## Gameplay Changes (TODO)
 
 - The Civilizations of 0 A.D. will not be in the mod (when I have at least 5 civilizations i remove the civs  of 0 ad)
-- The temple have more options
 
 ## TODO:
 - Design document of all civilizations of the mod
 - Buildings set
 - UI Textures
+- Maps(Random and scenario maps)
 
 ## Download
 

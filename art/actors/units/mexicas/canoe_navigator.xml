@@ -9,7 +9,7 @@
       </animations>
       <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
-        <prop actor="props/units/heads/head_nahua.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_native_basic.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/native_oar.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
