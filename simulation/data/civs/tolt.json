@@ -1,40 +1,18 @@
 {
 	"Code":"tolt",
-	"Culture":"nahua-tolteca",
+	"Culture":"nahua-mexica",
 	"Name":"Toltecs",
 	"Emblem":"session/portraits/emblems/emblem_mexica.png",
-	"History":"The mexica are the peapole living in Tenochtitlan. The Mexica are part of the Triple Alliance(Mexica, Acuila and Texcoco).",
+	"History":".",
 	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
 	[],
 	"CivBonuses":
-	[
-		{
-			"Name":"Advance Fields",
-			"History":".",
-			"Description":"All wokers gather food 20% faster."
-		}
-	],
+	[],
 	"TeamBonuses":
-	[
-        {
-			"Name":"Mexica Allys",
-			"History":".",
-			"Description":"Your ally now train mexica spearman and atlat worrions in barracks."
-		}
-	],
+	[],
 	"Structures":
-	[
-		{
-			"Name":"Chinampa",
-			"Class":"",
-			"Emblem":"",
-			"History":"A floating garden.",
-			"Requirements":"",
-			"Phase":"City",
-			"Special":"You cant build in the shoreline like a dock."
-		}
-	],
+	[],
 	"WallSets":
 	[
 		"other/wallset_palisade"
@@ -42,22 +20,22 @@
 	"StartEntities":
 	[
 		{
-			"Template": "structures/mex_civil_centre"
+			"Template": "structures/tolt_civil_centre"
 		},
 		{
-			"Template": "units/mex_support_female_citizen",
+			"Template": "units/tolt_support_female_citizen",
 			"Count": 4
 		},
 		{
-			"Template": "units/mex_infantry_spearman_b",
+			"Template": "units/tolt_infantry_spearman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/mex_infantry_archer_b",
+			"Template": "units/tolt_infantry_archer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/mex_infantry_spearman_c"
+			"Template": "units/tolt_infantry_swordsman_b"
 		}
 	],
 	"Formations":
@@ -76,7 +54,7 @@
 	],
 	"AINames":
 	[
-        "Nacaxoc",
+		"Nacaxoc",
         "Mitl",
         "Xiuhtzatzin",
         "Tecpancaltzin",

@@ -5,6 +5,7 @@
     <variant frequency="100" name="Base">
       <mesh>structural/mexicas/storehouse.dae</mesh>
       <props>
+        <prop actor="props/structural/decal_meso_small.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/zapo_struct.png" name="baseTex" />

@@ -2,6 +2,13 @@
 <actor version="1">
   <castshadow />
   <group>
+    <variant frequency="100" name="base">
+      <props>
+        <prop actor="props/structural/decal_meso_small.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <group>
     <variant frequency="1" name="mexica house a">
       <mesh>structural/tlaxcalan/house_a.dae</mesh>
       <textures>

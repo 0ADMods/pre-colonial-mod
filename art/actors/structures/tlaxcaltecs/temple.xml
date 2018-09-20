@@ -5,7 +5,7 @@
     <variant frequency="100" name="Tlaxcaltecan Temple">
       <mesh>structural/tlaxcalan/temple.dae</mesh>
       <props>
-        <prop actor="props/structures/decals/gravel_5x5.xml" attachpoint="root" />
+        <prop actor="props/structural/decal_meso_normal.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/zapo_struct.png" name="baseTex" />

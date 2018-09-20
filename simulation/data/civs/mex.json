@@ -3,7 +3,7 @@
 	"Culture":"nahua-mexica",
 	"Name":"Mexicas",
 	"Emblem":"session/portraits/emblems/emblem_mexica_2.png",
-	"History":"The mexica are the peapole living in Tenochtitlan. The Mexica are part of the Triple Alliance(Mexica, Acuila and Texcoco).",
+	"History":".",
 	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
 	[],

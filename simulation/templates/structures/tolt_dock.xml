@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_dock">
+  <Cost>
+    <PopulationBonus>2</PopulationBonus>
+  </Cost>
+  <Footprint>
+    <Square width="24.0" depth="14.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_celt_dock</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>tolt</Civ>
+    <SpecificName>Akaktekoyan</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="22.0" depth="10.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_ship_city_cannoe
+    </Entities>
+    <Technologies datatype="tokens">
+      mexicas/city_canoes
+    </Technologies>
+  </ProductionQueue>
+  <VisualActor>
+    <FoundationActor>structures/mexicas/fndn_mexica_dock.xml</FoundationActor>
+    <Actor>structures/mexicas/dock.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -5,7 +5,7 @@
     <variant frequency="100" name="Aztec Fortress">
       <mesh>structural/mexicas/fortress.dae</mesh>
       <props>
-        <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile" />
+        <prop actor="props/structural/decal_meso_large.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/zapo_struct.png" name="baseTex" />
