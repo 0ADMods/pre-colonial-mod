@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic">
+  <BuildRestrictions>
+    <Category>House</Category>
+  </BuildRestrictions>
+  <Capturable>
+    <CapturePoints>300</CapturePoints>
+  </Capturable>
+  <Cost>
+    <PopulationBonus>5</PopulationBonus>
+    <BuildTime>30</BuildTime>
+    <Resources>
+      <wood>75</wood>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="18.0" depth="18.0"/>
+    <Height>5.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>3</Max>
+    <BuffHeal>0</BuffHeal>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support+!Elephant</List>
+    <LoadingRange>1</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>800</Max>
+    <SpawnEntityOnDeath>rubble/rubble_stone_3x3</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>House</GenericName>
+    <Tooltip>Increase the population limit.</Tooltip>
+    <Classes datatype="tokens">-ConquestCritical</Classes>
+    <VisibleClasses datatype="tokens">Village House</VisibleClasses>
+    <Icon>structures/house.png</Icon>
+  </Identity>
+  <Obstruction>
+    <Static width="14.0" depth="14.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>1.0</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}_support_female_citizen_house
+    </Entities>
+    <Technologies datatype="tokens">
+      health_females_01
+      pop_house_01
+      unlock_females_house
+    </Technologies>
+  </ProductionQueue>
+  <ResourceTrickle>
+    <Rates>
+      <food>0</food>
+      <wood>0</wood>
+      <stone>0</stone>
+      <metal>0</metal>
+    </Rates>
+    <Interval>60000</Interval>
+  </ResourceTrickle>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_house.xml</select>
+      <constructed>interface/complete/building/complete_house.xml</constructed>
+      <death>attack/destruction/building_collapse_large.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <BarWidth>6.0</BarWidth>
+    <BarHeight>0.6</BarHeight>
+    <HeightOffset>8.0</HeightOffset>
+  </StatusBars>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>20</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+  <Vision>
+    <Range>20</Range>
+  </Vision>
+  <VisualActor>
+    <FoundationActor>structures/fndn_3x3.xml</FoundationActor>
+  </VisualActor>
+</Entity>

@@ -65,7 +65,7 @@
   </Health>
   <Identity>
     <GenericName>Villager</GenericName>
-    <Tooltip>Coquer for new trops. Train citizens. Garrison: 20.</Tooltip>
+    <Tooltip>Coquer for new trops. Train citizens.You get tributes from this villager. Garrison: 20.</Tooltip>
     <Classes datatype="tokens">
     Defensive
 	  Ranged
@@ -92,6 +92,15 @@
       phase_town_{civ}
     </Technologies>
   </ProductionQueue>
+  <ResourceTrickle>
+    <Rates>
+      <food>10</food>
+      <wood>10</wood>
+      <stone>10</stone>
+      <metal>10</metal>
+    </Rates>
+    <Interval>60000</Interval>
+  </ResourceTrickle>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_civ_center.xml</select>

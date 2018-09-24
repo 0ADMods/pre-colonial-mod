@@ -5,7 +5,7 @@
     <variant>
 	  <mesh>structural/generic/villager_root.dae</mesh>
 	  <props>
-	    <prop actor="structures/tupis/tupi_big_hun.xml" attachpoint="root" minheight="-20" maxheight="20"/>
+	    <prop actor="structures/tupis/big_hun.xml" attachpoint="root" minheight="-20" maxheight="20"/>
 	  </props>
 	  <textures>
 	    <texture file="structural/zapo_struct.png" name="baseTex" />

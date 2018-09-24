@@ -69,5 +69,5 @@
 		"skirmish/structures/default_wall_medium": "other/palisades_rocks_medium",
 		"skirmish/structures/default_wall_long": "other/palisades_rocks_long"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }

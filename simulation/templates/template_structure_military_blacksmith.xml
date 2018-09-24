@@ -43,12 +43,12 @@
   <ProductionQueue>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Technologies datatype="tokens">
-      attack_infantry_melee_01
-      attack_infantry_melee_02
-      attack_infantry_ranged_01
-      attack_infantry_ranged_02
-      armor_infantry_01
-      armor_infantry_02
+      attack_melee_01
+      attack_melee_02
+      attack_ranged_01
+      attack_ranged_02
+      armor_01
+      armor_02
       armor_hero_01
     </Technologies>
   </ProductionQueue>
