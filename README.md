@@ -14,8 +14,7 @@ Americas Ancient Empires (Mesoamerican Mod), developed by Council of Modders (Co
 - Mayan Kekchí
 - Toltecs
 - Pipiles
-- Tarascos
-- Purepechans
+- Purepechans/Tarascans
 - Hopis
 - Tupis
 - Mapuches
