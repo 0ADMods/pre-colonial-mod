@@ -1,7 +1,7 @@
 {
 	"genericName": "Tenochtitlan water paths system",
 	"autoResearch": false,
-	"cost": {"food": 0, "wood": 0, "stone": 0, "metal": 0},
+	"cost": {"food": 0, "wood": 300, "stone": 0, "metal": 0},
 	"description": "The Mexica canoes are more fast now.",
 	"requirements": {"all": [{"tech": "phase_town"}, {"civ": "mex"}]},
 	"requirementsTooltip": "Unlocked in Town Phase.",

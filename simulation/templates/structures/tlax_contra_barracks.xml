@@ -38,7 +38,7 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/tlaxcaltecs/barracks.xml</Actor>
+    <Actor>structures/tlaxcaltecs/spc_barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
   </VisualActor>
 </Entity>

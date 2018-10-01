@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant name="Celtic Barracks">
+    <variant name="Mexica Barracks">
       <mesh>structural/mexicas/barracks.dae</mesh>
       <props>
         <prop actor="props/structural/decal_meso_normal.xml" attachpoint="root"/>

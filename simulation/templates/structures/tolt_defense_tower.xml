@@ -11,6 +11,6 @@
     <HeightOffset>21.0</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <Actor>structures/mexicas/scout_tower.xml</Actor>
+    <Actor>structures/toltecs/scout_tower.xml</Actor>
   </VisualActor>
 </Entity>

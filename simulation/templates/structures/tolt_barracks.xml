@@ -18,7 +18,7 @@
     <Static width="20.0" depth="20.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/mexicas/barracks.xml</Actor>
+    <Actor>structures/toltecs/barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
   </VisualActor>
 </Entity>

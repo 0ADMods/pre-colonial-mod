@@ -17,7 +17,7 @@
     <Static width="10.0" depth="10.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/mexicas/farmstead.xml</Actor>
+    <Actor>structures/toltecs/farmstead.xml</Actor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>
   </VisualActor>
 </Entity>

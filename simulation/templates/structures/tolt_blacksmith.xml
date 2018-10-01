@@ -9,6 +9,6 @@
     <GenericName>Workshop</GenericName>
   </Identity>
   <VisualActor>
-    <Actor>structures/mexicas/blacksmith.xml</Actor>
+    <Actor>structures/toltecs/blacksmith.xml</Actor>
   </VisualActor>
 </Entity>

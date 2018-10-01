@@ -2,7 +2,7 @@
 <Entity parent="template_unit_mechanical_ship_fishing">
   <Identity>
     <Civ>tlax</Civ>
-    <SpecificName>Tlaxcallan Michoani Akalpechtli</SpecificName>
+    <SpecificName>Tlaxcallan Michoani Acali</SpecificName>
     <Icon>units/fishing_cannoe.png</Icon>
   </Identity>
   <VisualActor>

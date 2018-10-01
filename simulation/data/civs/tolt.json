@@ -2,7 +2,7 @@
 	"Code":"tolt",
 	"Culture":"nahua-mexica",
 	"Name":"Toltecs",
-	"Emblem":"session/portraits/emblems/emblem_mexica.png",
+	"Emblem":"session/portraits/emblems/generic_emblem.png",
 	"History":".",
 	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":

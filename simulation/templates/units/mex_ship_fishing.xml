@@ -2,7 +2,7 @@
 <Entity parent="template_unit_mechanical_ship_fishing">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Mexicatl Michoani Akalpechtli</SpecificName>
+    <SpecificName>Mexicatl Michoani Acali</SpecificName>
     <Icon>units/fishing_cannoe.png</Icon>
   </Identity>
   <VisualActor>

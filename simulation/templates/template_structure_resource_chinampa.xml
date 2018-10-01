@@ -27,13 +27,18 @@
   <Identity>
     <GenericName>Field</GenericName>
     <VisibleClasses datatype="tokens">Field</VisibleClasses>
-    <Tooltip>Harvest vegetables for food. Max gatherers: 5.</Tooltip>
-    <Icon>structures/field.png</Icon>
+    <Tooltip>Unique building for the Mexicas,Tlaxcaltecans and Toltecs.Harvest vegetables for food. Max gatherers: 5.Works like a store for food</Tooltip>
+    <RequiredTechnology>chinampa</RequiredTechnology>
+    <Icon>structures/chinampa.png</Icon>
   </Identity>
   <Loot>
     <food>50</food>
     <wood>0</wood>
   </Loot>
+  <ResourceDropsite>
+    <Types>food</Types>
+    <Sharable>true</Sharable>
+  </ResourceDropsite>
   <Minimap>
     <Color r="119" g="82" b="46"/>
   </Minimap>
@@ -47,7 +52,7 @@
   <ResourceSupply>
     <KillBeforeGather>false</KillBeforeGather>
     <Amount>Infinity</Amount>
-    <Type>food.corn</Type>
+    <Type>food.grain</Type>
     <MaxGatherers>5</MaxGatherers>
     <DiminishingReturns>0.90</DiminishingReturns>
   </ResourceSupply>

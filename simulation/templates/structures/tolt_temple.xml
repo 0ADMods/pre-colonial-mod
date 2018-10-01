@@ -22,7 +22,7 @@
     <Static width="21" depth="22"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/tlaxcaltecs/temple.xml</Actor>
+    <Actor>structures/toltecs/temple.xml</Actor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
   </VisualActor>
 </Entity>

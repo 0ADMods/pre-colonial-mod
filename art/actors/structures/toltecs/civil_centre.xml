@@ -23,12 +23,7 @@
     <variant name="ungarrisoned" frequency="1"/>
     <variant name="garrisoned">
       <props>
-        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrison_1"/>
-        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrison_2"/>
-        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrison_3"/>
-        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrison_4"/>
-        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrison_5"/>
-        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrison_6"/>
+        <prop actor="props/special/common/garrison_flag_hele.xml" attachpoint="garrisoned"/>
       </props>
     </variant>
   </group>
