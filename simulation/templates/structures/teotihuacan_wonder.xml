@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_super_wonder">
+  <Footprint>
+    <Square width="172.0" depth="172.0"/>
+    <Height>30.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>tolt</Civ>
+    <SpecificName>Pyramid of the Sun</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="172.0" depth="172.0"/>
+  </Obstruction>
+  <VisualActor>
+    <FoundationActor>structures/fndn_theatron.xml</FoundationActor>
+    <Actor>structures/toltecs/wonder.xml</Actor>
+  </VisualActor>
+</Entity>

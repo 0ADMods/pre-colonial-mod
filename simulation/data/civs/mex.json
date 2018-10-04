@@ -6,7 +6,42 @@
 	"History":".",
 	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
-	[],
+	[
+		{
+			"Name": "Mexicas",
+			"Description": ".",
+			"Technologies":
+			[
+				{
+					"Name": "Fertilize",
+					"History": ".",
+					"Description": "+10 Ghader Speed for food in chinampas and +5 in fields."
+				},
+				{
+					"Name": "Mexican Cipres",
+					"History":"",
+					"Description": "+20 Ghade Speed for food in chinampas and +10 in fields."
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "Huey Tlatuani Āxāyacatl",
+					"Class": "",
+					"Armament": "",
+					"Emblem": "",
+					"History": "A Mexica Conquer."
+				},
+				{
+					"Name": "Cuactemoc",
+					"Class": "",
+					"Armament":"",
+					"Emblem":"",
+					"History": "The last Huey Tlatuani of Mexico-Tenochtitlan."
+				}
+			]
+		}
+	],
 	"CivBonuses":
 	[
 		{
@@ -18,21 +53,39 @@
 	"TeamBonuses":
 	[
         {
-			"Name":"Mexica Allys",
+			"Name":"Guerras Floridas(TODO)",
 			"History":".",
-			"Description":"Your ally now train mexica spearman and atlat worrions in barracks."
+			"Description":"Your soliders loot food in battles."
 		}
 	],
 	"Structures":
 	[
 		{
-			"Name":"Chinampa",
+			"Name":"Texcoco Chinampa(TODO)",
 			"Class":"",
 			"Emblem":"",
-			"History":"A floating garden.",
+			"History":"A floating garden of Tenochtitlan.",
 			"Requirements":"",
 			"Phase":"City",
-			"Special":"You cant build in the shoreline like a dock."
+			"Special":"You cant build in the shoreline like a dock. use has store for food to"
+		},
+		{
+			"Name":"Casa de la Fuerza(TODO)",
+			"Class":"SB1",
+			"Emblem":"",
+			"History":"The Mexicas use this building to train the population in the arts of combat.",
+			"Requirements":"",
+			"Phase":"Town",
+			"Special":"Special Technologies for your soliders."
+		},
+		{
+			"Name":"Casa de Modales(TODO)",
+			"Class":"SB2",
+			"Emblem":"",
+			"History":".",
+			"Requirements":"Civic Center",
+			"Phase":"Town",
+			"Special":"Economic Technologies for your city."
 		}
 	],
 	"WallSets":

@@ -1,0 +1,13 @@
+{
+	"genericName": "Advance Fields",
+	"autoResearch": true,
+	"description": "Fast gathering in fields",
+	"requirements": {"civ" : "mex"},
+    "modifications": 
+    [
+        {"value": "ResourceGatherer/Rates/food.grain", "multiply": 2},
+        {"value": "ResourceGatherer/Rates/food.corn", "multiply":2},
+        {"value": "ResourceGatherer/Rates/food.friut", "multiply":2}
+	],
+	"affects": ["Worker"]
+}

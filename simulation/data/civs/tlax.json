@@ -11,17 +11,50 @@
 			"Name":"Tlaxcaltecans",
 			"Description":"",
 			"Technologies":
-			[],
+			[
+				{
+					"Name": "Bad Times",
+					"History": ".",
+					"Description": "+5 Ghader Speed for food in chinampas and +5 in fields."
+				},
+				{
+					"Name": "Mexican Cipres",
+					"History":"",
+					"Description": "+25 Ghade Speed for food in chinampas and +15 in fields."
+				}
+			],
 			"Heroes":
 			[]
 		}
 	],
 	"CivBonuses":
-	[],
+	[
+		{
+			"Name": "Homeland.",
+			"History": "",
+			"Description": "The principal structures +25 Health."
+		}
+	],
 	"TeamBonuses":
-	[],
+	[
+		{
+			"Name":"Advance Sage.",
+			"History":"",
+			"Description":"Your Arches +20 agains stuctures."
+		}
+	],
 	"Structures":
-	[],
+	[
+		{
+			"Name":"Nobles Hut",
+			"Class":"SB1",
+			"Emblem":"",
+			"History":".",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"A Special Fortress for the Tlaxcalan.You can train all tlaxcalan units.Build Limit: Only 1 may be built per map"
+		}
+	],
 	"WallSets":
 	[
 		"other/wallset_palisade"

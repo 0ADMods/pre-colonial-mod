@@ -1,9 +1,9 @@
 {
 	"name": "precolonial",
+	"version": "1.1.0",
 	"label": "Americas Ancient Empires",
-	"version": "1.0.0",
-	"url": "https://github.com/0ADMods/pre-colonial-mod",
-	"description": "Adds american civilizations to 0 A.D.",
-	"dependencies": ["0ad=0.0.23"],
-	"type": "Factions"
+	"url": "https://github.com/0ADMods/precolonialmod",
+	"description": "adds 12 civilizations to 0 A.D. and maps from the americas",
+	"dependencies": ["0ad=0.0.23","building-sockets=1.0.0"],
+	"type": ["Factions","Remplace Factions"]
 }
