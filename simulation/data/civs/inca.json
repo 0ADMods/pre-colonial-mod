@@ -3,7 +3,7 @@
 	"Culture":"inca",
 	"Name":"Incas",
 	"Emblem":"session/portraits/emblems/emblem_inca.png",
-	"History":"El Imperio Inca conformado por varias ednias, Era la civilización más fuerte de America antes de la llegada de los españoles.",
+	"History":".",
 	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
 	"Factions":
 	[
@@ -42,9 +42,6 @@
 		{
 			"Template": "units/inca_infantry_archer_b",
 			"Count": 2
-		},
-		{
-			"Template": "units/inca_support_llama"
 		}
 	],
 	"Formations":
@@ -86,5 +83,5 @@
         "skirmish/structures/default_storehouse" : "structures/inca_communal_storehouse",
         "skirmish/structures/defaoult_corral" : "structures/inca_farm"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }

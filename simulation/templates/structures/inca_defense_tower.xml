@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defense_tower_stone">
+  <Cost>
+    <BuildTime>200</BuildTime>
+    <Resources>
+      <stone>200</stone>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>1900</Max>
+  </Health>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Hark'apa</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="7.5" depth="7.5"/>
+  </Obstruction>
+  <StatusBars>
+    <HeightOffset>21.0</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>structures/incas/scout_tower.xml</Actor>
+  </VisualActor>
+</Entity>

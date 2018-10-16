@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Cost>
+    <BuildingTime>400</BuildingTime>
+    <Resources>
+      <stone>700</stone>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>75000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Pucara</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="30.0" depth="30.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_trader
+      units/{civ}_infantry_spearman_b
+      units/{civ}_infantry_archer_b
+    </Entities>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/mexicas/fortress.xml</Actor>
+    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
+  </VisualActor>
+  <WallPiece>
+    <Length>28</Length>
+  </WallPiece>
+</Entity>

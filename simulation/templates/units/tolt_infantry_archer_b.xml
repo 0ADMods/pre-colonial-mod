@@ -9,7 +9,6 @@
   </Builder>
   <Identity>
     <Civ>tolt</Civ>
-    <Lang>greek</Lang>
     <SelectionGroupName>units/tolt_infantry_marine_archer_b</SelectionGroupName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <GenericName>Toltec Archer</GenericName>

@@ -1,0 +1,18 @@
+{
+    "genericName":"Town Phase",
+    "cost":{"food":0,"wood":0,"stone":570,"metal":570},
+    "requirements": { "all": [{ "entity": { "class": "Town", "number": 4 } }, { "civ": "inca" }] },
+    "requirementsTooltip": "Requires five town structures",
+    "supersedes": "phase_villager",
+    "replaces":["phase_town"],
+    "icon":"town_phase.png",
+    "researchTime": 30,
+    "tooltip": "Advance to Inca Town Phase, which unlocks more structures and units. Territory radius for Civic Centers increased by +30%. Citizen soldiers max health increased by +20%. All structures +7 garrisoned regeneration rate.",
+    "modifications": [
+        { "value": "TerritoryInfluence/Radius", "multiply": 1.30, "affects": "CivCentre" },
+        { "value": "Health/Max", "multiply": 1.2, "affects": "CitizenSoldier" },
+        { "value": "Capturable/GarrisonRegenRate", "add": 7.0, "affects": "Structure" },
+        { "value": "Health/Max", "multiply":1.2, "affects":"Structure"}
+    ],
+    "soundComplete": "interface/alarm/alarm_phase.xml"
+}

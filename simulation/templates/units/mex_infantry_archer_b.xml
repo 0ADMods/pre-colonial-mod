@@ -14,7 +14,6 @@
   </Cost>
   <Identity>
     <Civ>mex</Civ>
-    <Lang>greek</Lang>
     <SelectionGroupName>units/mex_infantry_marine_archer_b</SelectionGroupName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <GenericName>Mexica Archer</GenericName>
