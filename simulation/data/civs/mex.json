@@ -90,7 +90,8 @@
 	],
 	"WallSets":
 	[
-		"other/wallset_palisade"
+		"other/wallset_palisade",
+		"structures/mex_wallset_stone"
 	],
 	"StartEntities":
 	[

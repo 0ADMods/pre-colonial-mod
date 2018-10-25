@@ -24,7 +24,8 @@
 	[],
 	"WallSets":
 	[
-		"other/wallset_palisade"
+		"other/wallset_palisade",
+		"structures/inca_wallset_stone"
 	],
 	"StartEntities":
 	[
@@ -33,14 +34,10 @@
 		},
 		{
 			"Template": "units/inca_support_female_citizen",
-			"Count": 4
+			"Count": 7
 		},
 		{
-			"Template": "units/inca_infantry_spearman_b",
-			"Count": 2
-		},
-		{
-			"Template": "units/inca_infantry_archer_b",
+			"Template": "units/inca_support_llama",
 			"Count": 2
 		}
 	],

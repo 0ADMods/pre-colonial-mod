@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<actor version="0">
-  <castshadow />
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
   <group>
-    <variant frequency="1" name="Mexica Spear">
-      <mesh>props/weapons/obsidianan_spear.dae</mesh>
-      <textures>
-        <texture file="props/weapons/weapons_mesoamerica.png" name="baseTex" />
-      </textures>
+    <variant name="Base">
+      <mesh>props/weapons/inca_pike.dae</mesh>
+      <textures><texture file="props/weapons/weapons_mesoamerica.png" name="baseTex"/></textures>
     </variant>
   </group>
-  <material>player_trans.xml</material>
+
 </actor>

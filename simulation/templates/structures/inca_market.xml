@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_economic_market">
-  <Cost>
-    <PopulationBonus>10</PopulationBonus>
-    <BuildingTime>300</BuildingTime>
-    <Resources>
-      <stone>300</stone>
-    </Resources>
-  </Cost>
   <Footprint>
     <Square width="17.0" depth="17.0"/>
     <Height>8.0</Height>

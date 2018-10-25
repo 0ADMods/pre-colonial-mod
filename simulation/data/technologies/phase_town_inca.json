@@ -1,9 +1,9 @@
 {
     "genericName":"Town Phase",
     "cost":{"food":0,"wood":0,"stone":570,"metal":570},
-    "requirements": { "all": [{ "entity": { "class": "Town", "number": 4 } }, { "civ": "inca" }] },
+    "requirements": { "all": [{ "entity": { "class": "Village", "number": 4 } }, { "civ": "inca" }] },
     "requirementsTooltip": "Requires five town structures",
-    "supersedes": "phase_villager",
+    "supersedes": "phase_village",
     "replaces":["phase_town"],
     "icon":"town_phase.png",
     "researchTime": 30,

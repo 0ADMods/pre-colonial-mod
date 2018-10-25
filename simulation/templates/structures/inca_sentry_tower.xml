@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defense_tower_sentry">
-  <Cost>
-    <BuildingTime>250</BuildingTime>
-    <Resources>
-      <stone>200</stone>
-    <Resources>
-  </Cost>
   <Identity>
     <Civ>inca</Civ>
   </Identity>

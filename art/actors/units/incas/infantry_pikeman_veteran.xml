@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant file="biped/pikeman_base.xml">
+      <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
+      <props>
+        <prop actor="props/units/heads/new/head_inca.xml" attachpoint="head"/>
+        <prop actor="props/units/weapons/inca_pike.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/helmets/inca_hat_a.xml" attachpoint="helmet"/>
+        <prop actor="props/units/capes/pikeman.xml" attachpoint="root"/>
+        <prop actor="props/units/shields/inca_shield.xml" attachpoint="shield"/>
+        <prop actor="props/units/heads/maur_earrings_2.xml" attachpoint="head"/>
+      </props>
+       <textures>
+        <texture file="skeletal/inca_suit_5a.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant file="biped/pikeman_base.xml"/>
+  </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant file="biped/attack_capture.xml"/>
+    <variant file="biped/attack_slaughter.xml"/>
+    <variant file="biped/death_infantry.xml">
+      <props>
+        <prop actor="props/units/capes/pikeman.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

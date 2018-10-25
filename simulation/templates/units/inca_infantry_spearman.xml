@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>inca</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/inca_infantry_spearman</SelectionGroupName>
+    <SpecificName>Huamica</SpecificName>
+    <GenericName>Inca Spearman</GenericName>
+    <Icon>units/athen_infantry_spearman.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <VisualActor>
+    <Actor>units/incas/infantry_spearman_reclut.xml</Actor>
+  </VisualActor>
+</Entity>

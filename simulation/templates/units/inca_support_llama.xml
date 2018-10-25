@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support">
+  <Armour>
+    <Hack>5</Hack>
+    <Pierce>8</Pierce>
+    <Crush>10</Crush>
+  </Armour>
+  <Builder>
+    <Rate>2.0</Rate>
+    <Entities datatype="tokens"/>
+  </Builder>
+  <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <food>150</food>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Circle radius="2.0"/>
+    <Height>3.0</Height>
+  </Footprint>
+  <Health>
+    <Max>300</Max>
+  </Health>
+  <Identity>
+    <Civ>inca</Civ>
+    <VisibleClasses datatype="tokens">Llama</VisibleClasses>
+    <GenericName>Worker Llama</GenericName>
+    <SpecificName>Llama</SpecificName>
+    <Icon>units/maur_support_elephant.png</Icon>
+    <Tooltip>Mobile dropsite. Can also assist in constructing buildings.</Tooltip>
+    <Formations disable=""/>
+  </Identity>
+  <Loot>
+    <xp>50</xp>
+    <food>25</food>
+    <wood>10</wood>
+    <stone>10</stone>
+    <metal>10</metal>
+  </Loot>
+  <Position>
+    <Anchor>pitch</Anchor>
+  </Position>
+  <ResourceDropsite>
+    <Types>food wood stone metal</Types>
+    <Sharable>false</Sharable>
+  </ResourceDropsite>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>circle/256x256.png</MainTexture>
+        <MainTextureMask>circle/256x256_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/camel_select.xml</select>
+      <order_attack>actor/fauna/animal/camel_order.xml</order_attack>
+      <order_walk>actor/fauna/animal/camel_order.xml</order_walk>
+      <attack_melee>actor/fauna/animal/camel_attack.xml</attack_melee>
+      <death>actor/fauna/animal/death_camel.xml</death>
+      <trained>actor/fauna/animal/camel.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <UnitAI>
+    <CanPatrol>false</CanPatrol>
+  </UnitAI>
+  <UnitMotion>
+    <PassabilityClass>large</PassabilityClass>
+    <WalkSpeed op="mul">0.6</WalkSpeed>
+    <Run>
+      <Speed op="mul">0.6</Speed>
+    </Run>
+  </UnitMotion>
+  <Vision>
+    <Range>50</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>fauna/llama_domestic.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_military_barracks">
-  <Cost>
-    <BuildTime>300</BuildTime>
-    <Resources>
-      <stone>200</stone>
-      <metal>100</metal>
-    </Resources>
-  </Cost>
   <Footprint>
     <Square width="22.0" depth="22.0"/>
   </Footprint>
@@ -22,6 +15,22 @@
   <Obstruction>
     <Static width="20.0" depth="20.0"/>
   </Obstruction>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_infantry_spearman
+      units/{civ}_infantry_maceman
+      units/{civ}_infantry_pikeman
+      units/{civ}_infantry_archer
+      units/{civ}_infantry_slinger
+    </Entities>
+    <Technologies datatype="tokens">
+      inca/upgrade_rank_veteran_spearman
+      inca/upgrade_rank_veteran_maceman
+      inca/upgrade_rank_veteran_pikeman
+      inca/upgrade_rank_veteran_archer
+      inca/upgrade_rank_veteran_slinger
+    </Technologies>
+  </ProductionQueue>
   <VisualActor>
     <Actor>structures/incas/barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>

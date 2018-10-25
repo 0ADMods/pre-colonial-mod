@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_civil_centre">
-  <Cost>
-    <BuildTime>300</BuildTime>
-    <Resources>
-      <wood>600</wood>
-      <stone>700</stone>
-      <metal>700</metal>
-    </Resources>
-  </Cost>
   <Footprint>
-    <Square width="40.0" depth="34.0"/>
+    <Square width="28.0" depth="19.0"/>
     <Height>8.0</Height>
   </Footprint>
   <Health>
@@ -22,14 +14,16 @@
     <SpecificName>Qhapax Wasi</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="36.0" depth="30.0"/>
+    <Static width="26.0" depth="17.0"/>
   </Obstruction>
   <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}_infantry_spearman_b
-      units/{civ}_infantry_archer_b
-      units/{civ}_infantry_javelinist_b
+      units/inca_support_llama
     </Entities>
+    <Technologies datatype="tokens">
+      inca/taxes
+    </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/incas/civil_centre.xml</Actor>

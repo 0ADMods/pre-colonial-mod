@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor version="0">
+<actor version="1">
   <castshadow />
   <group>
-    <variant frequency="1" name="Oar">
+    <variant name="Oar">
       <mesh>props/weapons/native_oar.dae</mesh>
       <textures>
         <texture file="structural/zapo_struct.png" name="baseTex" />

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_economic_storehouse">
-  <Cost>
-    <BuildingTime>200<BuildingTime>
-    <Resources>
-      <stone>60</stone>
-      <wood>40</wood>
-    </Resources>
-  </Cost>
+<Entity parent="template_structure_economic_communal_storehouse">
   <Health>
     <Max>1000</Max>
   </Health>

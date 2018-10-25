@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant name="Mexica Barracks">
+    <variant name="Inca Barracks">
       <mesh>structural/incas/barracks.dae</mesh>
       <textures>
         <texture file="structural/inca_struct.png" name="baseTex"/>

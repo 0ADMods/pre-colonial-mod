@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_temple">
-  <Cost>
-    <BuildingTime>450</BuildingTime>
-    <Resources>
-      <stone>570</stone>
-      <metal>100</metal>
-    </Resources>
-  </Cost>
   <Footprint>
     <Square width="22" depth="23"/>
     <Height>12.0</Height>

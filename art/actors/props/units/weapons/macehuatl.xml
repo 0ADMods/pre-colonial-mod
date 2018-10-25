@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant name="Base">
+      <mesh>props/weapons/macehuatil.dae</mesh>
+      <textures><texture file="props/weapons/macehuatil.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+
+</actor>

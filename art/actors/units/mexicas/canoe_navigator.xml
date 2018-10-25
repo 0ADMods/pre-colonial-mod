@@ -4,10 +4,10 @@
   <group>
     <variant>
       <animations>
-        <animation file="biped/zapo_navigator.dae" name="walk" speed="10"/>
-        <animation file="biped/zapo_navigator.dae" name="idle" speed="1"/>
+        <animation file="biped/zapo_navigator.dae" name="walk" speed="5"/>
+        <animation file="biped/zapo_navigator.dae" name="idle" speed="10"/>
       </animations>
-      <mesh>skeletal/new/m_naked.dae</mesh>
+      <mesh>skeletal/new/m_pants_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_native_basic.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/native_oar.xml" attachpoint="weapon_R"/>
@@ -15,9 +15,9 @@
     </variant>
   </group>
   <group>
-    <variant frequency="100" name="Base">
+    <variant frequency="1" name="Base">
       <textures>
-        <texture file="skeletal/aztec_loincloth_1a.png" name="baseTex"/>
+        <texture file="skeletal/iber_trader_1.dds" name="baseTex"/>
       </textures>
     </variant>
   </group>

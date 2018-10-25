@@ -10,8 +10,8 @@
     "modifications": [
         {"value": "ResourceTrickle/Rates/food", "add": 1},
         {"value": "ResourceTrickle/Rates/wood", "add": 1},
-        {"value": "ResourceTrickle/Rates/stone", "add": 1},
-        {"value": "ResourceTrickle/Rates/metal", "add": 1}
+        {"value": "ResourceTrickle/Rates/stone", "add": 2},
+        {"value": "ResourceTrickle/Rates/metal", "add": 2}
     ],
     "affects": ["House"],
     "soundComplete": "interface/alarm/alarm_upgradearmory.xml"

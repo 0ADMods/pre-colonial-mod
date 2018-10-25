@@ -57,7 +57,8 @@
 	],
 	"WallSets":
 	[
-		"other/wallset_palisade"
+		"other/wallset_palisade",
+		"structures/tlax_wallset_stone"
 	],
 	"StartEntities":
 	[
