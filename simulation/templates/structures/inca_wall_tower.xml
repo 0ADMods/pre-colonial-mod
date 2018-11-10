@@ -13,7 +13,7 @@
     <Static width="7.5" depth="7.5"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/wall_tower.xml</Actor>
+    <Actor>structures/incas/wall_tower.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>7.5</Length>

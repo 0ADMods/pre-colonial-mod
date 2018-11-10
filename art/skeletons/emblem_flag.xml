@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skeletons>
+  <standard_skeleton id="FlagPoint" title="FlagPoint">
+    <bone name="P_1_a">
+      <bone name="P_1_b">
+        <bone name="P_1_c" />
+      </bone>
+    </bone>
+    <bone name="P_2_a">
+      <bone name="P_2_b">
+        <bone name="P_2_c" />
+      </bone>
+    </bone>
+    <bone name="P_3_a">
+      <bone name="P_3_b">
+        <bone name="P_3_c" />
+      </bone>
+    </bone>
+    <bone name="P_4_a">
+      <bone name="P_4_b">
+        <bone name="P_4_c" />
+      </bone>
+    </bone>
+    <bone name="P_5_a">
+      <bone name="P_5_b">
+        <bone name="P_5_c" />
+      </bone>
+    </bone>
+    <bone name="Bone" />
+  </standard_skeleton>
+  <skeleton target="FlagPoint" title="FlagPoint">
+    <identifier>
+      <root>P_1_a</root>
+    </identifier>
+    <bone name="P_1_a">
+      <target>P_1_a</target>
+      <bone name="P_1_b">
+        <target>P_1_b</target>
+        <bone name="P_1_c">
+          <target>P_1_c</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="P_2_a">
+      <target>P_2_a</target>
+      <bone name="P_2_b">
+        <target>P_2_b</target>
+        <bone name="P_2_c">
+          <target>P_2_c</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="P_3_a">
+      <target>P_3_a</target>
+      <bone name="P_3_b">
+        <target>P_3_b</target>
+        <bone name="P_3_c">
+          <target>P_3_c</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="P_4_a">
+      <target>P_4_a</target>
+      <bone name="P_4_b">
+        <target>P_4_b</target>
+        <bone name="P_4_c">
+          <target>P_4_c</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="P_5_a">
+      <target>P_5_a</target>
+      <bone name="P_5_b">
+        <target>P_5_b</target>
+        <bone name="P_5_c">
+          <target>P_5_c</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Bone">
+      <target>Bone</target>
+    </bone>
+  </skeleton>
+</skeletons>

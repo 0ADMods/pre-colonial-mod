@@ -3,6 +3,9 @@
   <castshadow/>
   <group>
     <variant>
+      <animations>
+        <animation file="quadraped/llama_idle.dae" name="Idle" speed="100"/>
+      </animations>
       <mesh>skeletal/llama.dae</mesh>
     </variant>
   </group>

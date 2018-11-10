@@ -18,11 +18,12 @@
   </Attack>
   <Cost>
     <Resources>
-      <wood>100</wood>
+      <food>75</food>
+      </stone>10</stone>
     </Resources>
   </Cost>
   <Health>
-    <Max>120</Max>
+    <Max>160</Max>
   </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Ranged Slinger</VisibleClasses>

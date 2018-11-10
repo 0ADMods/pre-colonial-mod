@@ -19,7 +19,7 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/mexicas/fortress.xml</Actor>
+    <Actor>structures/incas/fortress.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
   </VisualActor>
   <WallPiece>

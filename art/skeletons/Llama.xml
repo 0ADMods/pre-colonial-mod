@@ -2,49 +2,56 @@
 <skeletons>
   <standard_skeleton id="Llama" title="Llama">
     <bone name="Root" />
-    <bone name="Tail">
-      <bone name="Spine1">
-        <bone name="Spine2">
-          <bone name="Spine3">
-            <bone name="Spine4">
-              <bone name="Spine5">
-                <bone name="Spine6">
-                  <bone name="Head">
-                    <bone name="Head_down_a" />
-                    <bone name="Head_down_b" />
+    <bone name="Spine1">
+      <bone name="Spine2">
+        <bone name="Spine3">
+          <bone name="Spine4">
+            <bone name="Spine5">
+              <bone name="Spine6">
+                <bone name="Spine7">
+                  <bone name="Spine8">
+                    <bone name="Face1" />
                   </bone>
-                </bone>
-              </bone>
-            </bone>
-            <bone name="R_f_Leg_Uper">
-              <bone name="R_f_Leg_Down">
-                <bone name="R_f_Leg_foot_Up">
-                  <bone name="R_f_Leg_foot_Down" />
-                </bone>
-              </bone>
-            </bone>
-            <bone name="L_f_Leg_Uper">
-              <bone name="L_f_Leg_Down">
-                <bone name="L_f_Leg_foot_Up">
-                  <bone name="L_f_Leg_foot_Down" />
+                  <bone name="Face2" />
                 </bone>
               </bone>
             </bone>
           </bone>
         </bone>
-      </bone>
-      <bone name="R_b_Leg_Uper">
-        <bone name="R_b_Leg_Union">
-          <bone name="R_b_Leg_Down">
-            <bone name="R_b_Leg_foot" />
+        <bone name="R_Leg_uper">
+          <bone name="R_Leg_down">
+            <bone name="R_Foot_up">
+              <bone name="R_foot_down" />
+            </bone>
+          </bone>
+        </bone>
+        <bone name="L_Leg_uper">
+          <bone name="L_Leg_down">
+            <bone name="L_Foot_up">
+              <bone name="L_foot_down" />
+            </bone>
           </bone>
         </bone>
       </bone>
-      <bone name="L_b_Leg_Uper">
-        <bone name="L_b_Leg_Union">
-          <bone name="L_b_Leg_Down">
-            <bone name="L_b_Leg_foot" />
-          </bone>
+    </bone>
+    <bone name="R_leg_back_uper">
+      <bone name="R_Leg_back_center">
+        <bone name="R_Leg_back_down">
+          <bone name="R_Foot" />
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Tail1">
+      <bone name="Tail2">
+        <bone name="Tail3">
+          <bone name="Tail4" />
+        </bone>
+      </bone>
+    </bone>
+    <bone name="L_leg_back_uper">
+      <bone name="L_Leg_back_center">
+        <bone name="L_Leg_back_down">
+          <bone name="L_Foot" />
         </bone>
       </bone>
     </bone>
@@ -56,80 +63,92 @@
     <bone name="Root">
       <target>Root</target>
     </bone>
-    <bone name="Tail">
-      <target>Tail</target>
-      <bone name="Spine1">
-        <target>Spine1</target>
-        <bone name="Spine2">
-          <target>Spine2</target>
-          <bone name="Spine3">
-            <target>Spine3</target>
-            <bone name="Spine4">
-              <target>Spine4</target>
-              <bone name="Spine5">
-                <target>Spine5</target>
-                <bone name="Spine6">
-                  <target>Spine6</target>
-                  <bone name="Head">
-                    <target>Head</target>
-                    <bone name="Head_down_a">
-                      <target>Head_down_a</target>
-                    </bone>
-                    <bone name="Head_down_b">
-                      <target>Head_down_b</target>
+    <bone name="Spine1">
+      <target>Spine1</target>
+      <bone name="Spine2">
+        <target>Spine2</target>
+        <bone name="Spine3">
+          <target>Spine3</target>
+          <bone name="Spine4">
+            <target>Spine4</target>
+            <bone name="Spine5">
+              <target>Spine5</target>
+              <bone name="Spine6">
+                <target>Spine6</target>
+                <bone name="Spine7">
+                  <target>Spine7</target>
+                  <bone name="Spine8">
+                    <target>Spine8</target>
+                    <bone name="Face1">
+                      <target>Face1</target>
                     </bone>
                   </bone>
-                </bone>
-              </bone>
-            </bone>
-            <bone name="R_f_Leg_Uper">
-              <target>R_f_Leg_Uper</target>
-              <bone name="R_f_Leg_Down">
-                <target>R_f_Leg_Down</target>
-                <bone name="R_f_Leg_foot_Up">
-                  <target>R_f_Leg_foot_Up</target>
-                  <bone name="R_f_Leg_foot_Down">
-                    <target>R_f_Leg_foot_Down</target>
-                  </bone>
-                </bone>
-              </bone>
-            </bone>
-            <bone name="L_f_Leg_Uper">
-              <target>L_f_Leg_Uper</target>
-              <bone name="L_f_Leg_Down">
-                <target>L_f_Leg_Down</target>
-                <bone name="L_f_Leg_foot_Up">
-                  <target>L_f_Leg_foot_Up</target>
-                  <bone name="L_f_Leg_foot_Down">
-                    <target>L_f_Leg_foot_Down</target>
+                  <bone name="Face2">
+                    <target>Face2</target>
                   </bone>
                 </bone>
               </bone>
             </bone>
           </bone>
         </bone>
-      </bone>
-      <bone name="R_b_Leg_Uper">
-        <target>R_b_Leg_Uper</target>
-        <bone name="R_b_Leg_Union">
-          <target>R_b_Leg_Union</target>
-          <bone name="R_b_Leg_Down">
-            <target>R_b_Leg_Down</target>
-            <bone name="R_b_Leg_foot">
-              <target>R_b_Leg_foot</target>
+        <bone name="R_Leg_uper">
+          <target>R_Leg_uper</target>
+          <bone name="R_Leg_down">
+            <target>R_Leg_down</target>
+            <bone name="R_Foot_up">
+              <target>R_Foot_up</target>
+              <bone name="R_foot_down">
+                <target>R_foot_down</target>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="L_Leg_uper">
+          <target>L_Leg_uper</target>
+          <bone name="L_Leg_down">
+            <target>L_Leg_down</target>
+            <bone name="L_Foot_up">
+              <target>L_Foot_up</target>
+              <bone name="L_foot_down">
+                <target>L_foot_down</target>
+              </bone>
             </bone>
           </bone>
         </bone>
       </bone>
-      <bone name="L_b_Leg_Uper">
-        <target>L_b_Leg_Uper</target>
-        <bone name="L_b_Leg_Union">
-          <target>L_b_Leg_Union</target>
-          <bone name="L_b_Leg_Down">
-            <target>L_b_Leg_Down</target>
-            <bone name="L_b_Leg_foot">
-              <target>L_b_Leg_foot</target>
-            </bone>
+    </bone>
+    <bone name="R_leg_back_uper">
+      <target>R_leg_back_uper</target>
+      <bone name="R_Leg_back_center">
+        <target>R_Leg_back_center</target>
+        <bone name="R_Leg_back_down">
+          <target>R_Leg_back_down</target>
+          <bone name="R_Foot">
+            <target>R_Foot</target>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Tail1">
+      <target>Tail1</target>
+      <bone name="Tail2">
+        <target>Tail2</target>
+        <bone name="Tail3">
+          <target>Tail3</target>
+          <bone name="Tail4">
+            <target>Tail4</target>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="L_leg_back_uper">
+      <target>L_leg_back_uper</target>
+      <bone name="L_Leg_back_center">
+        <target>L_Leg_back_center</target>
+        <bone name="L_Leg_back_down">
+          <target>L_Leg_back_down</target>
+          <bone name="L_Foot">
+            <target>L_Foot</target>
           </bone>
         </bone>
       </bone>

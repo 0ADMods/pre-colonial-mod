@@ -14,7 +14,7 @@
     <Static width="24.0" depth="6.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/wall_med.xml</Actor>
+    <Actor>structures/incas/wall_med.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>24.6</Length>

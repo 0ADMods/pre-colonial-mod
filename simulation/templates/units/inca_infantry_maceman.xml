@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_maceman">
+  <Cost>
+    <Resources>
+      <wood>75</wood>
+      <metal>100</metal>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>300</Max>
+  </Health>
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/mex_infantry_swordsman</SelectionGroupName>
