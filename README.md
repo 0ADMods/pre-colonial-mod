@@ -4,6 +4,8 @@ Americas Ancient Empires (Mesoamerican Mod), developed by Council of Modders (Co
 
 - Mexicas 
 - Tlaxcaltecans
+- Toltecs
+- Incas
 
 
 ## Civilizations
