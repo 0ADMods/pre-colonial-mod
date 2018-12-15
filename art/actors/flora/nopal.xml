@@ -2,14 +2,14 @@
 <actor version="1">
   <castshadow />
   <group>
-    <variant frequency="1" name="Base">
+    <variant frequency="1" name="Nopal">
       <mesh>flora/nopal_a.dae</mesh>
       <textures>
         <texture file="flora/nopal.png" name="baseTex" />
-        <texture file="flora/nopal_norm.png" name="normTex" />
         <texture file="flora/nopal_spec.png" name="specTex" />
+        <texture file="flora/nopal_norm.png" name="normTex" />
       </textures>
     </variant>
   </group>
-  <material>player_trans.xml</material>
+  <material>basic_glow_wind.xml</material>
 </actor>

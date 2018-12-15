@@ -19,10 +19,10 @@
     <variant name="ungarrisoned" frequency="1"/>
     <variant name="garrisoned">
       <props>
-        <prop actor="props/special/common/garrison_flag_celt.xml" attachpoint="garrisoned_flag_1"/>
-        <prop actor="props/special/common/garrison_flag_celt.xml" attachpoint="garrisoned_flag_2"/>
-        <prop actor="props/special/common/garrison_flag_celt.xml" attachpoint="garrisoned_flag_3"/>
-        <prop actor="props/special/common/garrison_flag_celt.xml" attachpoint="garrisoned_flag_4"/>
+        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="prop-garrisoned_flag_1"/>
+        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="prop-garrisoned_flag_2"/>
+        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="prop-garrisoned_flag_3"/>
+        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="prop-garrisoned_flag_4"/>
       </props>
     </variant>
   </group>

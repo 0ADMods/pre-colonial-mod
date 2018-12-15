@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant frequency="1" name="trunk-a">
+      <mesh>flora/tree_amazon_a.dae</mesh>
+    </variant>
+	
+    <variant frequency="1" name="trunk-b">
+      <mesh>flora/tree_amazon_b.dae</mesh>
+    </variant>
+	
+    <variant frequency="1" name="trunk-c">
+      <mesh>flora/tree_amazon_c.dae</mesh>
+    </variant>
+	
+  </group>
+
+  <group>
+    <variant name="tree-texture">
+      <textures><texture file="flora/amazonian_tree.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+  
+  <material>basic_trans_wind.xml</material>
+
+</actor>

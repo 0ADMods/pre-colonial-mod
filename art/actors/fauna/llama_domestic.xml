@@ -5,6 +5,7 @@
     <variant>
       <animations>
         <animation file="quadraped/llama_idle.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/llama_walk.dae" name="Walk" speed="30"/>
       </animations>
       <mesh>skeletal/llama.dae</mesh>
     </variant>

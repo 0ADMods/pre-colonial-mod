@@ -27,7 +27,7 @@
   </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Ranged Slinger</VisibleClasses>
-    <GenericName>Champion Archer</GenericName>
+    <GenericName>Champion Slinger</GenericName>
     <Formations datatype="tokens">
       special/formations/skirmish
     </Formations>
