@@ -19,3 +19,11 @@ Americas Acient Empires (Ex Mesoamerican Mod), developed by Council of Modders (
 - Hopis(TODO)
 - Raramuris(TODO)
 
+#Download
+ not avaliable for now.
+
+##Credits
+Stanislas69
+Trinketoss
+Tomasmatys
+And all members from 0 A.D. Council of Modders 
