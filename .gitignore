@@ -218,3 +218,13 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Blender
+.blend
+
+#Gimp2
+.xcf
+
+#Krita
+.kra
+.kra~
