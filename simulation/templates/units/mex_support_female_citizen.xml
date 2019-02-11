@@ -2,9 +2,9 @@
 <Entity parent="template_unit_support_female_citizen">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Mexicatl Ilamatli</SpecificName>
-    <GenericName>Mexica Woman</GenericName>
-    <Icon>units/ptol_support_female_citizen.png</Icon>
+    <SpecificName>Ichpokatl</SpecificName>
+    <GenericName>Nahua Woman</GenericName>
+    <Icon>units/iber_support_female_citizen.png</Icon>
     <SelectionGroupName>units/mex_support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>

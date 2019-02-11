@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_civic_house">
+<Entity parent="template_structure_civic_house_big">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Kalli</SpecificName>
+    <SpecificName>Calli</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/mexicas/house.xml</Actor>

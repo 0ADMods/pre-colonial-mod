@@ -1,9 +1,0 @@
-{
-	"Name": "¿money que es eso?",
-	"Data": {
-		"Action": "addresource",
-		"Type": "metal",
-		"DefaultParameter": 1000,
-		"isNumeric": true
-	}
-}

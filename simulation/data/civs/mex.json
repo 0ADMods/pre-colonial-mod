@@ -1,43 +1,50 @@
 {
 	"Code":"mex",
-	"Culture":"nahua-mexica",
+	"Culture":"Aztec",
 	"Name":"Mexicas",
-	"Emblem":"session/portraits/emblems/emblem_mexica_2.png",
-	"History":".",
-	"Music":[{"File":"Old New World.ogg", "Type":"peace"},{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},{"File":"Tradition.ogg", "Type":"peace"}],
+	"Emblem":"session/portraits/emblems/emblem_mexica.png",
+	"History":"Nahua people from the current south of USA, founded their city state Mexico-Tenochtitlan in 1325. They dominated a large part of central and southern Mexico until the arrival of the Spanish in 1521 that together with the subject peoples ended the Mexica Empire in 1521.",
+	"Music":[
+			{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},
+			{"File":"Cloud_People.ogg", "Type":"peace"},
+			{"File":"Old_New_World.ogg", "Type":"peace"},
+			{"File":"Tradition.ogg", "Type":"peace"}
+		],
 	"Factions":
 	[
 		{
-			"Name": "Mexicas",
-			"Description": ".",
+			"Name":"Mexicas",
+			"Description":"A Nahua people of the center of México.",
 			"Technologies":
 			[
 				{
-					"Name": "Fertilize",
-					"History": ".",
-					"Description": "+10 Ghader Speed for food in chinampas and +5 in fields."
-				},
-				{
-					"Name": "Mexican Cipres",
+					"Name":"Chinampa",
 					"History":"",
-					"Description": "+20 Ghade Speed for food in chinampas and +10 in fields."
+					"Description":"Enables the chinampa."
 				}
 			],
 			"Heroes":
 			[
 				{
-					"Name": "Huey Tlatuani Āxāyacatl",
-					"Class": "",
-					"Armament": "",
-					"Emblem": "",
-					"History": "A Mexica Conquer."
-				},
-				{
-					"Name": "Cuactemoc",
-					"Class": "",
+					"Name":"Tīzoc Chālchiuhtlatona",
+					"Class":"",
 					"Armament":"",
 					"Emblem":"",
-					"History": "The last Huey Tlatuani of Mexico-Tenochtitlan."
+					"History":"The seventh Huey Tlatoani successor of his brother Axayácatl, dedicated in the religious life, with a short mandate (1436-1486)."
+				},
+				{
+					"Name":"Ahuízotl",
+					"Class":"",
+					"Armament":"",
+					"Emblem":"",
+					"History":"The eighth Huey Tlatoani.Good against infantry."
+				},
+				{
+					"Name":"Acamapichtli",
+					"Class":"",
+					"Armament":"",
+					"Emblem":"",
+					"History":"First Huey Tlatoani.Give moral to your troops"
 				}
 			]
 		}
@@ -45,47 +52,38 @@
 	"CivBonuses":
 	[
 		{
-			"Name":"Advance Fields",
-			"History":".",
-			"Description":"All wokers gather food 20% faster."
+			"Name":"Mexica Empire",
+			"History":"all villagers loot more faster.",
+			"Description":"Metal mining gathering rates increased by +10% for each passing age."
 		}
 	],
 	"TeamBonuses":
 	[
-        {
-			"Name":"Guerras Floridas(TODO)",
-			"History":".",
-			"Description":"Your soliders loot food in battles."
+		{
+			"Name":"Tiangis",
+			"History":"The merchants and traders are faster.",
+			"Description":"The merchants and traders are 25% faster."
 		}
 	],
 	"Structures":
 	[
 		{
-			"Name":"Texcoco Chinampa(TODO)",
-			"Class":"",
+			"Name":"Calmécac",
+			"Class":"SB",
 			"Emblem":"",
-			"History":"A floating garden of Tenochtitlan.",
+			"History":"It was the school of the Mexica nobles.",
 			"Requirements":"",
 			"Phase":"City",
-			"Special":"You cant build in the shoreline like a dock. use has store for food to"
+			"Special":"Technologies for champion units."
 		},
 		{
-			"Name":"Casa de la Fuerza(TODO)",
-			"Class":"SB1",
+			"Name":"Telpochcalli",
+			"Class":"SB",
 			"Emblem":"",
-			"History":"The Mexicas use this building to train the population in the arts of combat.",
+			"History":"It was the school for ordinary people.",
 			"Requirements":"",
-			"Phase":"Town",
-			"Special":"Special Technologies for your soliders."
-		},
-		{
-			"Name":"Casa de Modales(TODO)",
-			"Class":"SB2",
-			"Emblem":"",
-			"History":".",
-			"Requirements":"Civic Center",
-			"Phase":"Town",
-			"Special":"Economic Technologies for your city."
+			"Phase":"City",
+			"Special":"Economic technologies."
 		}
 	],
 	"WallSets":
@@ -104,14 +102,11 @@
 		},
 		{
 			"Template": "units/mex_infantry_spearman_b",
-			"Count": 2
+			"Count": 3
 		},
 		{
-			"Template": "units/mex_infantry_archer_b",
+			"Template": "units/mex_infantry_slinger_b",
 			"Count": 2
-		},
-		{
-			"Template": "units/mex_infantry_spearman_c"
 		}
 	],
 	"Formations":
@@ -130,36 +125,23 @@
 	],
 	"AINames":
 	[
-		"Mexi",
-		"Huitziliton",
-		"Cuauhtlequetzqui",
-		"Acacihtli",
-		"Citlalitzin",
-		"Tzimpantzin",
-		"Tlazohtzin",
-		"Iztacmixcoatzin",
-		"Tozcuecuextli",
-		"Huēhueh Huītzilihuitl",
-		"Ilancuēitl",
-		"Tenōch",
-		"Ācamāpīchtli",
-		"Huītzilihuitl",
-		"Chīmalpopōca",
-		"Ītzcóātl",
-		"Motēcuhzōmā Ilhuicamīna",
-		"Āxāyacatl",
-		"Tizoc",
+		"Ténoch",
+		"Acamapichtli",
+		"Huitzilíhuitl",
+		"Chimalpopoca",
+		"Irzcóatl",
+		"Moctezuma I",
+		"Axayácatl",
+		"Tízoc",
 		"Ahuízotl",
-		"Motēcuhzōmā Xocoyotzīn"
+		"Moctezuma II",
+		"Cuitláhuac",
+		"Cuauhtémoc"
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/structures/default_house_10" : "structures/{civ}_house",
-		"skirmish/structures/default_wall_tower": "other/palisades_rocks_tower",
-		"skirmish/structures/default_wall_gate": "other/palisades_rocks_gate",
-		"skirmish/structures/default_wall_short": "other/palisades_rocks_short",
-		"skirmish/structures/default_wall_medium": "other/palisades_rocks_medium",
-		"skirmish/structures/default_wall_long": "other/palisades_rocks_long"
+		"skirmish/units/default_infantry_ranged_b": "units/mex_infantry_slinger_b",
+		"skirmish/structures/default_house_10": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true
 }

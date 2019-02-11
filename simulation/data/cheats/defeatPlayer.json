@@ -1,8 +1,0 @@
-{
-	"Name": "pandemic",
-	"Data": {
-		"Action": "defeatplayer",
-		"DefaultParameter": 2,
-		"isNumeric": true
-	}
-}

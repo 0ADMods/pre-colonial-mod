@@ -2,7 +2,7 @@
 <Entity parent="template_structure_defense_tower_outpost">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Mexica Outpost</SpecificName>
+    <GenericName>Mexican Outpost</GenericName>
   </Identity>
   <VisualActor>
     <Actor>structures/generic/outpost_america.xml</Actor>

@@ -1,15 +1,14 @@
 {
-    "code":"food",
-    "name":"Food",
-    "description": "Harvest from animals, berry bushes, fish, chinampas, or fields.",
-    "order":1,
-    "subtypes":{
-        "fish": "Fish",
-        "fruit": "Fruit",
-        "grain": "Grain",
-        "meat": "Meat",
-        "corn": "Corn"
-    },
-    "truePrice": 100,
-    "aiAnalysisInfluenceGroup": "ignore"
+	"code": "food",
+	"name": "Food",
+	"description": "Harvest from animals, berry bushes, fish, or fields.",
+	"order": 1,
+	"subtypes": {
+		"fish": "Fish",
+		"fruit": "Fruit",
+		"grain": "Grain",
+		"meat": "Meat"
+	},
+	"truePrice": 100,
+	"aiAnalysisInfluenceGroup": "ignore"
 }

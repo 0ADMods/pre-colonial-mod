@@ -1,7 +1,0 @@
-{
-    "name": "Test Bot",
-    "description": "Test Bot",
-    "moduleName" : "TESTBOT",
-    "constructor": "TestBot",
-    "useShared": true
-  }

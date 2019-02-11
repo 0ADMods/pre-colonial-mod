@@ -1,0 +1,15 @@
+Centro Civico = Tiamicoyan(Plaza)
+Casa = Calli
+Almacén = Kueskomatl
+Alquería = Achkali(Granero)
+Puerto = Acaltecoya(Embarcadero)
+Templo = Teocalli
+Taller(Armeria) = Kuauxunki(No muy seguro de esto estupido google)
+Corral = Tetzacuilli
+Cuartel = Nayaoquizcatecaliztli
+Fuerte = Yaocalli
+Cultivo = Tlatocaliz
+Mercado = Tlanamicoyan
+Torre de Defenza = Uëjkapantik Yaocalli
+
+Templo Mayor = Uey Teokali

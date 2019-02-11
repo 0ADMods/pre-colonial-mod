@@ -33,7 +33,7 @@
   </Identity>
   <Loot>
     <food>50</food>
-    <wood>0</wood>
+    <wood>5</wood>
   </Loot>
   <ResourceDropsite>
     <Types>food</Types>

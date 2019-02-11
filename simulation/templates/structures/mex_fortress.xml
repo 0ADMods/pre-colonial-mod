@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_military_fortress">
-  <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
-  </Health>
+  <Footprint>
+    <Square width="26.0" depth="28.0"/>
+    <Height>8.0</Height>
+  </Footprint>
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Chikautok</SpecificName>
+    <SpecificName>Neyaotlatiloyan</SpecificName>
+    <Tooltip>Defence Building. Garrison soldiers inside for stout defense.</Tooltip>
   </Identity>
-  <Obstruction>
-    <Static width="30.0" depth="30.0"/>
-  </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_infantry_swordsman_c
-      units/{civ}_infantry_spearman_c
-      units/{civ}_infantry_lancer_c
-      units/{civ}_infantry_archer_c
+      units/{civ}_champion_fanatic
+      units/{civ}_champion_infantry
+      units/{civ}_champion_pikeman
     </Entities>
   </ProductionQueue>
+  <Obstruction>
+    <Static width="24.0" depth="26.0"/>
+  </Obstruction>
   <VisualActor>
     <Actor>structures/mexicas/fortress.xml</Actor>
-    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
   </VisualActor>
   <WallPiece>
-    <Length>28</Length>
+    <Length>24.0</Length>
+    <Indent>7.6</Indent>
   </WallPiece>
 </Entity>

@@ -1,12 +1,11 @@
 {
 	"code": "wood",
 	"name": "Wood",
-	"description": "Cut down from trees,groves or abandoned houses.",
+	"description": "Cut down from trees or groves.",
 	"order": 2,
 	"subtypes": {
-        "tree": "Tree",
-		"ruins": "Ruins",
-		"house": "Abandoned House"
+		"tree": "Tree",
+		"ruins": "Ruins"
 	},
 	"truePrice": 100,
 	"aiAnalysisInfluenceGroup": "abundant"

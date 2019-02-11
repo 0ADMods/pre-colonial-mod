@@ -2,10 +2,10 @@
 <Entity parent="template_unit_mechanical_ship_fishing">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Mexicatl Michoani Acali</SpecificName>
-    <Icon>units/fishing_cannoe.png</Icon>
+    <SpecificName>Arrantza Ontzi</SpecificName>
+    <Icon>units/iber_ship_fishing.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/ptolemies/fishing_boat.xml</Actor>
+    <Actor>structures/mexicas/fishing_canoe.xml</Actor>
   </VisualActor>
 </Entity>

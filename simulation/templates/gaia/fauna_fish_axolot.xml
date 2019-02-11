@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_fish">
+  <Identity>
+    <GenericName>Axolotl</GenericName>
+    <SpecificName>Ambystoma Mexicanum</SpecificName>
+    <Icon>gaia/fauna_fish.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>fauna/fish_axolot.xml</Actor>
+  </VisualActor>
+</Entity>

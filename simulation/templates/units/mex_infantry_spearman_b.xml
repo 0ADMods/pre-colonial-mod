@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_melee_spearman_hoplite">
-  <Builder>
-    <Entities datatype="tokens">
-      structures/{civ}_special_temple
-      structures/{civ}_chinampa
-    </Entities>
-  </Builder>
+<Entity parent="template_unit_infantry_melee_spearman">
   <Identity>
     <Civ>mex</Civ>
+    <Lang>greek</Lang>
     <SelectionGroupName>units/mex_infantry_spearman_b</SelectionGroupName>
     <GenericName>Mexica Spearman</GenericName>
-    <SpecificName>Mexicalt Yakaktlimeseuali</SpecificName>
-    <Icon>units/mexica_spearman.png</Icon>
+    <SpecificName>Cuextecatl</SpecificName>
+    <Icon>units/athen_infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_spearman_a</Entity>

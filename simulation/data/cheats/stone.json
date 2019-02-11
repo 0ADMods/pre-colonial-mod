@@ -1,9 +1,0 @@
-{
-	"Name": "i see a mountain here",
-	"Data": {
-		"Action": "addresource",
-		"Type": "stone",
-		"DefaultParameter": 1000,
-		"isNumeric": true
-	}
-}

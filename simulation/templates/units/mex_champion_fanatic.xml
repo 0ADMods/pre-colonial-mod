@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Armour>
+    <Hack op="add">-4</Hack>
+    <Pierce op="add">-4</Pierce>
+  </Armour>
+  <Cost>
+    <BuildTime op="mul">0.75</BuildTime>
+    <Resources>
+      <food>0</food>
+      <metal op="mul">2</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>mex</Civ>
+    <GenericName>Shaven Worrion</GenericName>
+    <SpecificName>Quachic</SpecificName>
+    <Icon>units/celt_fanatic.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.4</WalkSpeed>
+    <Run>
+      <Speed op="mul">1.4</Speed>
+    </Run>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_lancer_c.xml</Actor>
+  </VisualActor>
+</Entity>

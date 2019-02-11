@@ -9,10 +9,7 @@
   </Identity>
   <Promotion disable=""/>
   <SkirmishReplacer/>
-  <UnitMotion>
-    <PassabilityClass>large</PassabilityClass>
-  </UnitMotion>
   <VisualActor>
-    <Actor>units/mauryans/support_elephant.xml</Actor>
+    <Actor>fauna/llama_domestic.xml</Actor>
   </VisualActor>
 </Entity>

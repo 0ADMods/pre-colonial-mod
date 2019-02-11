@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/tolt_infantry_javelinist_b">
+<Entity parent="units/mex_infantry_javelinist_b">
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/tolt_infantry_javelinist_e</Entity>
-  </Promotion>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/mexicas/infantry_javelinist_a.xml</Actor>
   </VisualActor>

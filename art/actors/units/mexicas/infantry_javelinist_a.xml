@@ -15,7 +15,7 @@
   </group>
   <group>
     <variant frequency="1" name="Aztec Suit">
-      <mesh>skeletal/new/m_naked.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <textures>
         <texture file="skeletal/aztec_padded_1a.png" name="baseTex"/>
         <texture file="skeletal/aztec_padded_spec.png" name="specTex"/>

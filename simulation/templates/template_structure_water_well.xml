@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_resource">
+  <Armour>
+    <Hack>5</Hack>
+    <Pierce>5</Pierce>
+    <Crush>5</Crush>
+  </Armour>
+  <BuildRestrictions>
+    <Territory>own neutral</Territory>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>80</BuildTime>
+    <Resources>
+      <wood>100</wood>
+	  <stone>200</stone>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="5.0" depth="5.0"/>
+    <Height>2.0</Height>
+  </Footprint>
+  <Health>
+    <Max>150</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_field</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Water Well</GenericName>
+    <VisibleClasses datatype="tokens">Well</VisibleClasses>
+    <Tooltip>Gather fresh water from this</Tooltip>
+    <Icon>structures/water_well.png</Icon>
+  </Identity>
+  <Loot>
+    <water>50</water>
+  </Loot>
+  <Minimap>
+    <Color r="25" g="158" b="218"/>
+  </Minimap>
+  <Obstruction>
+    <Static width="22.0" depth="22.0"/>
+    <BlockMovement>false</BlockMovement>
+    <BlockPathfinding>false</BlockPathfinding>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <RallyPoint disable=""/>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Amount>Infinity</Amount>
+    <Type>water.fresh</Type>
+    <MaxGatherers>1</MaxGatherers>
+    <DiminishingReturns>0.90</DiminishingReturns>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_field.xml</select>
+      <constructed>interface/complete/building/complete_field.xml</constructed>
+      <death>attack/destruction/building_collapse_large.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>8.0</HeightOffset>
+  </StatusBars>
+  <TerritoryDecay>
+    <DecayRate>500.0</DecayRate>
+  </TerritoryDecay>
+  <Vision>
+    <Range>0</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/water_well.xml</Actor>
+    <FoundationActor>structures/water_well_found.xml</FoundationActor>
+    <SelectionShape>
+      <Footprint/>
+    </SelectionShape>
+  </VisualActor>
+</Entity>

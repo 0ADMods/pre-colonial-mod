@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="100" name="fish mesh">
+      <animations>
+        <animation file="other/axolot_idle.dae" name="Idle" speed="40"/>
+      </animations>
+      <mesh>skeletal/fish_axolot.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="generic texture">
+      <textures><texture file="skeletal/axolot_generic.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+  <material>basic_spec.xml</material>
+</actor>

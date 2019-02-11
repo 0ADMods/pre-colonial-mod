@@ -2,7 +2,7 @@
 <Entity parent="template_structure_resource_field">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Tlalpixkayotl</SpecificName>
+    <SpecificName>Cuauhtla</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/plot_field_mesoamerica.xml</Actor>

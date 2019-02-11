@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_temple">
   <Footprint>
-    <Square width="22" depth="23"/>
-    <Height>12.0</Height>
+    <Square width="36.0" depth="36.0"/>
+    <Height>8.0</Height>
   </Footprint>
-  <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x4</SpawnEntityOnDeath>
-  </Health>
   <Identity>
     <Civ>mex</Civ>
-    <GenericName>Temple</GenericName>
-    <SpecificName>Teokalli</SpecificName>
+    <SpecificName>Teocalli</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="21" depth="22"/>
+    <Static width="17.5" depth="27"/>
   </Obstruction>
   <VisualActor>
     <Actor>structures/mexicas/temple.xml</Actor>
-    <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
+    <FoundationActor>props/special/eyecandy/greek_temple_unfinished.xml</FoundationActor>
   </VisualActor>
 </Entity>

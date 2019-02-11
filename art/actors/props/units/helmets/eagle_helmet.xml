@@ -3,9 +3,9 @@
   <castshadow />
   <group>
     <variant frequency="1" name="Eagle Worrion Helmet">
-      <mesh>props/helmet/garza_helmet.dae</mesh>
+      <mesh>props/helmet/eagle_helmet.dae</mesh>
       <textures>
-        <texture file="props/helmet/eagle_worion_a.png" name="baseTex" />
+        <texture file="props/helmet/eagle_helmet_new.png" name="baseTex" />
       </textures>
     </variant>
   </group>

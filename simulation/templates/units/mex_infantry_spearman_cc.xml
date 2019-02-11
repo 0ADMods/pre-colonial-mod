@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman">
+  <Identity>
+    <Civ>mex</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/mex_infantry_spearman_b</SelectionGroupName>
+    <GenericName>Mexica Militia</GenericName>
+    <SpecificName>Macehualtin</SpecificName>
+    <Icon>units/athen_infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

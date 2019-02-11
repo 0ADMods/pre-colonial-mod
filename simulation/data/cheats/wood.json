@@ -1,9 +1,0 @@
-{
-	"Name": "Guelcome tu de yongule",
-	"Data": {
-		"Action": "addresource",
-		"Type": "wood",
-		"DefaultParameter": 1000,
-		"isNumeric": true
-	}
-}

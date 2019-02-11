@@ -2,21 +2,20 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Mexica Civic Centre">
+    <variant frequency="1" name="Nahua Civic Centre">
       <animations>
         <animation event="0.5" load="0.0" name="attack_ranged" speed="100"/>
       </animations>
-      <mesh>structural/mexicas/civic_center.dae</mesh>
+      <mesh>structural/nahuas_civic_center.dae</mesh>
       <props>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
-        <prop actor="props/structural/decal_meso_width.xml" attachpoint="root"/>
       </props>
       <textures>
-        <texture file="structural/zapo_struct.png" name="baseTex"/>
-        <texture file="structural/zapo_struct_norm.png" name="normTex"/>
-        <texture file="structural/zapo_struct_spec.png" name="specTex"/>
-        <texture file="structural/ao/mexica_civic_center_ao.png" name="aoTex"/>
+        <texture file="structural/nahua_struct_a.png" name="baseTex"/>
+        <texture file="structural/nahua_struct_a_norm.png" name="normTex"/>
+        <texture file="structural/nahua_struct_a_spec.png" name="specTex"/>
+        <texture file="structural/ao/mex_cc_new_ao.png" name="aoTex"/>
       </textures>
     </variant>
   </group>
@@ -24,12 +23,7 @@
     <variant name="ungarrisoned" frequency="1"/>
     <variant name="garrisoned">
       <props>
-        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrison_1"/>
-        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrison_2"/>
-        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrison_3"/>
-        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrison_4"/>
-        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrison_5"/>
-        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrison_6"/>
+        <prop actor="props/special/common/waypoint_flag.xml" attachpoint="garrisoned"/>
       </props>
     </variant>
   </group>

@@ -1,0 +1,172 @@
+{
+	"Code":"tlax",
+	"Culture":"Tlaxcalan",
+	"Name":"Tlaxcalans",
+	"Emblem":"session/portraits/emblems/emblem_tlaxcallan.png",
+	"History":"The Federation of Tlaxcala, elect their supreme leader. From 1290 to 1519 the invasion of the Teochichimeca-Tlaxcalteca group took place, towards the valley of Mexico where they founded Poyautlán in the year 1290, on the shores of Lake Texcoco. They had a primitive existence and they lived in caves until their expulsion, they made a pilgrimage through Popocatepetl and Huexotzinco and arrived in what is now Tlaxcala. Once they seized the mountain range of Tepeticpac, with time they called it Tlaxcallan. The city took important advances in astronomy, because they were nomads in search of fertile territory, with great plains for their improvement. They paid cult to the stars to consider them divine beings. Tlaxcala as a city did not exist until the colonial era.",
+	"Music":[
+			{"File":"Harvest_Festival.ogg", "Type":"peace"},
+			{"File":"Forging_a_City-State.ogg", "Type":"peace"},
+			{"File":"Highland_Mist.ogg", "Type":"peace"},
+			{"File":"The_Hellespont.ogg", "Type":"peace"}
+		],
+	"Factions":
+	[
+		{
+			"Name":"Tlaxcalans",
+			"Description":"A Nahua people of Puebla-Tlaxcala.",
+			"Technologies":
+			[
+				{
+					"Name":"Chinampa",
+					"History":"",
+					"Description":"Enables the chinampa."
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name":"Xīcohténcatl Āxāyacatzin",
+					"Class":"",
+					"Armament":"",
+					"Emblem":"",
+					"History":"One of the lordships of Tlaxcala."
+				}
+			]
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name":"Courage",
+			"History":".",
+			"Description":"All units have 50% attack."
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name":"Observatory",
+			"History":"The Tlaxcalans were very good astronomers.",
+			"Description":"the units have a field of vision 50% wider."
+		}
+	],
+	"Structures":
+	[
+		{
+			"Name":"Otomie Villager",
+			"Class":"SB",
+			"Emblem":"",
+			"History":"The Tlaxcalans were surrounded by Otomi peoples who used them as soldiers and workers.",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"Special Civic Center."
+		},
+		{
+			"Name":"Hueyotlipan",
+			"Class":"SB",
+			"Emblem":"",
+			"History":"A fortress stronger than normal.",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"Defensive building. Can train champions and citizen-soldiers."
+		},
+		{
+			"Name":"Calmécac",
+			"Class":"SB",
+			"Emblem":"",
+			"History":"It was the school of the Mexica nobles.",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"Technologies for champion units."
+		},
+		{
+			"Name":"Telpochcalli",
+			"Class":"SB",
+			"Emblem":"",
+			"History":"It was the school for ordinary people.",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"Economic technologies."
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/tlax_wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/tlax_civil_centre"
+		},
+		{
+			"Template": "units/tlax_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/tlax_infantry_spearman_b",
+			"Count": 3
+		},
+		{
+			"Template": "units/tlax_infantry_slinger_b",
+			"Count": 2
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line",
+		"special/formations/phalanx"
+	],
+	"AINames":
+	[
+		"Culhuatecuhtli",
+		"Atexacalihuehue",
+		"Patzinteuntli",
+		"Cocotzin",
+		"Teixtlacohuatzin",
+		"Umacatzin",
+		"Tlehuexolotzin",
+		"Cucuitacatl",
+		"Papatotl",
+		"Culhuateyohualminqui",
+		"Acantetehuacuntli",
+		"Xohuatecuhtlimemelec",
+		"Tlacomihuatzin",
+		"Maxicatzin",
+		"Tianquitztlatohuatzin",
+		"Xayamachan",
+		"Xayamachan",
+		"Tepolohuatecuhtli",
+		"Zozoe",
+		"Atlahua",
+		"Aztahuatlacaztalli",
+		"Huitlalotecuhtli",
+		"Xayacamachan",
+		"Xicotencatl",
+		"Axayacatzin",
+		"Mizquitl",
+		"Timatecutli",
+		"Taxcayohua",
+		"Coahuatzintecuhtli",
+		"Quuetzahuitzin Zacancatzin",
+		"Iyactzin Teohuatecuhtli",
+		"Citlalpopocatzin",
+		"Tlatentzin Temilotzin"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_infantry_ranged_b": "units/tlax_infantry_slinger_b",
+		"skirmish/structures/default_house_10": "structures/{civ}_house"
+	},
+	"SelectableInGameSetup": false
+}

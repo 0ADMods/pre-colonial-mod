@@ -4,8 +4,6 @@
 	"description": "Mine from rocks, stone quarries or ruins.",
 	"order": 3,
 	"subtypes": {
-		"obsidianan": "Obsidianan",
-		"quarry": "Quarry",
 		"rock": "Rock",
 		"ruins": "Ruins"
 	},

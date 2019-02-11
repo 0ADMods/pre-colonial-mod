@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant frequency="100" name="Mesh">
+      <mesh>skeletal/fish_axolot.dae</mesh>
+    </variant>
+  </group>
+
+  <group>
+    <variant frequency="100" name="texture">
+      <textures><texture file="skeletal/axolot_generic.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+
+</actor>
