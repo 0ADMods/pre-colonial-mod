@@ -1,7 +1,7 @@
 {
 	"code" : "water",
 	"name" : "Water",
-	"description": "Gather from water well, rivers, aqueducts, ice, waterfalls, or lakes.",
+	"description": "Gather from water well, rivers, aqueducts, ice, waterfalls, cactus, or lakes.",
 	"order": 5,
 	"subtypes" :
 	{
@@ -10,6 +10,6 @@
 		"dirty" : "Dirty Water",
 		"ice" : "Ice Water"
 	},
-	"truePrice": 100,
-	"aiAnalysisInfluenceGroup": "abundant"
+	"truePrice": 200,
+	"aiAnalysisInfluenceGroup": "ignore"
 }

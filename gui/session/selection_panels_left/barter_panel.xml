@@ -3,7 +3,7 @@
 	size="12 12 100% 100%"
 	hidden="true"
 >
-	<repeat count="4">
+	<repeat count="5">
 
 		<!-- Sell -->
 		<object name="unitBarterSellButton[n]" style="iconButton" type="button" size="0 0 42 42" tooltip_style="sessionToolTipBottomBold" hidden="true">
