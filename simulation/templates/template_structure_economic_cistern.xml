@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_economic">
-  <AlertRaiser>
-    <List datatype="tokens">FemaleCitizen</List>
-    <RaiseAlertRange>60</RaiseAlertRange>
-    <EndOfAlertRange>100</EndOfAlertRange>
-    <SearchRange>100</SearchRange>
-  </AlertRaiser>
+  <AlertRaiser disable=""/>
   <BuildRestrictions>
-    <Category>Storehouse</Category>
+    <Category>Cistern</Category>
   </BuildRestrictions>
   <Capturable>
-    <CapturePoints>300</CapturePoints>
+    <CapturePoints>200</CapturePoints>
   </Capturable>
   <Cost>
-    <BuildTime>40</BuildTime>
+    <BuildTime>90</BuildTime>
     <Resources>
-      <stone>100</stone>
+      <stone>200</stone>
     </Resources>
   </Cost>
   <Footprint>
@@ -27,16 +22,27 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Classes datatype="tokens">DropsiteWood DropsiteMetal DropsiteStone</Classes>
-    <GenericName>Storehouse</GenericName>
-    <Icon>structures/storehouse.png</Icon>
-    <Tooltip>Dropsite for water resources. Research gathering improvements for these resource.</Tooltip>
-    <VisibleClasses datatype="tokens">Village Storehouse</VisibleClasses>
+    <Classes datatype="tokens">DropsiteWater</Classes>
+    <GenericName>Cistern</GenericName>
+    <Icon>structures/cistern.png</Icon>
+    <Tooltip>Dropsite for water.</Tooltip>
+    <VisibleClasses datatype="tokens">Village Storehouse Cistern</VisibleClasses>
   </Identity>
   <Obstruction>
     <Static width="13.0" depth="13.0"/>
   </Obstruction>
+  <ProductionQueue disable=""/>
   <RallyPoint disable=""/>
+  <ResourceTrickle>
+    <Rates>
+      <food>0</food>
+      <wood>0</wood>
+      <stone>0</stone>
+      <metal>0</metal>
+	  <water>5</water>
+    </Rates>
+    <Interval>70000</Interval>
+  </ResourceTrickle>
   <ResourceDropsite>
     <Types>water</Types>
     <Sharable>true</Sharable>

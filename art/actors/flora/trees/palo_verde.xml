@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Palo Verde">
-      <mesh>flora/sonora_tree_c.dae</mesh>
+      <mesh>flora/tree_palo_verde.dae</mesh>
       <textures><texture file="flora/palo_verde.png" name="baseTex"/></textures>
     </variant>
   </group>

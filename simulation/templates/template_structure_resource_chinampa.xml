@@ -13,7 +13,8 @@
   <Cost>
     <BuildTime>80</BuildTime>
     <Resources>
-      <wood>200</wood>
+      <stone>200</stone>
+	  <water>50</water>
     </Resources>
   </Cost>
   <Footprint>
@@ -28,7 +29,6 @@
     <GenericName>Field</GenericName>
     <VisibleClasses datatype="tokens">Field</VisibleClasses>
     <Tooltip>Unique building for the Mexicas,Tlaxcaltecans and Toltecs.Harvest vegetables for food. Max gatherers: 5.Works like a store for food</Tooltip>
-    <RequiredTechnology>chinampa</RequiredTechnology>
     <Icon>structures/chinampa.png</Icon>
   </Identity>
   <Loot>

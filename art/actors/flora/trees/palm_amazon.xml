@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="trunk-palm">
+      <mesh>flora/palm_amazon.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant name="tree-texture">
+      <textures><texture file="flora/palm_amazonas.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>

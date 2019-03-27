@@ -9,7 +9,7 @@
         <prop actor="props/units/helmets/jaguar_helmet.xml" attachpoint="head"/>
         <prop actor="props/units/backpacks/back_flag.xml" attachpoint="back"/>
         <prop actor="props/units/shields/mex_shield.xml" attachpoint="shield_arm"/>
-        <prop actor="props/units/weapons/macehuatl.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/macuahuitl.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>

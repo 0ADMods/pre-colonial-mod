@@ -3,12 +3,19 @@
   <castshadow />
   <group>
     <variant frequency="1" name="Nopal">
-      <mesh>flora/nopal_a.dae</mesh>
       <textures>
-        <texture file="flora/nopal.png" name="baseTex" />
-        <texture file="flora/nopal_spec.png" name="specTex" />
-        <texture file="flora/nopal_norm.png" name="normTex" />
+        <texture file="flora/cactus_big.png" name="baseTex" />
+        <texture file="flora/cactus_big_spec.png" name="specTex" />
+        <texture file="flora/cactus_big_norm.png" name="normTex" />
       </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="a">
+      <mesh>flora/nopal_a.dae</mesh>
+    </variant>
+    <variant frequency="1" name="b">
+      <mesh>flora/nopal_b.dae</mesh>
     </variant>
   </group>
   <material>basic_glow_wind.xml</material>

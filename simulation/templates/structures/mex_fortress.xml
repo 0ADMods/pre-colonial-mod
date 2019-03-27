@@ -8,6 +8,7 @@
     <Civ>mex</Civ>
     <SpecificName>Neyaotlatiloyan</SpecificName>
     <Tooltip>Defence Building. Garrison soldiers inside for stout defense.</Tooltip>
+	<Icon>structures/mesoamerican_fortress.png</Icon>
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">

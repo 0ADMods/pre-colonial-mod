@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee">
+  <Armour>
+    <Hack>5</Hack>
+    <Pierce>5</Pierce>
+  </Armour>
+  <Attack>
+    <Melee>
+      <Hack>5.5</Hack>
+      <Pierce>0</Pierce>
+      <RepeatTime>750</RepeatTime>
+      <PreferredClasses datatype="tokens">Siege</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>40</wood>
+      <metal>10</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <VisibleClasses datatype="tokens">Sword</VisibleClasses>
+    <GenericName>Swordsman</GenericName>
+  </Identity>
+  <Loot>
+    <metal>5</metal>
+  </Loot>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.05</WalkSpeed>
+    <Run>
+      <Speed op="mul">1.05</Speed>
+    </Run>
+  </UnitMotion>
+</Entity>

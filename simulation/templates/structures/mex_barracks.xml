@@ -16,6 +16,8 @@
   <Identity>
     <Civ>mex</Civ>
     <SpecificName>Nechicolcalmeh</SpecificName>
+	<GenericName>War Hut</GenericName>
+	<Icon>structures/mesoamerican_barracks.png</Icon>
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">

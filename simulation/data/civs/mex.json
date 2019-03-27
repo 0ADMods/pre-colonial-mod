@@ -3,7 +3,7 @@
 	"Culture":"Aztec",
 	"Name":"Mexicas",
 	"Emblem":"session/portraits/emblems/emblem_mexica.png",
-	"History":"Nahua people from the current south of USA, founded their city state Mexico-Tenochtitlan in 1325. They dominated a large part of central and southern Mexico until the arrival of the Spanish in 1521 that together with the subject peoples ended the Mexica Empire in 1521.",
+	"History":"Nahua people from the current south of USA or Sonora, founded their city state Mexico-Tenochtitlan in 1325. They dominated a large part of central and southern Mexico until the arrival of the Spanish in 1521 that together with the subject peoples ended the Mexica Empire in 1521.",
 	"Music":[
 			{"File":"Chee_Zee_Jungle.ogg", "Type":"peace"},
 			{"File":"Cloud_People.ogg", "Type":"peace"},
@@ -18,8 +18,8 @@
 			"Technologies":
 			[
 				{
-					"Name":"Chinampa",
-					"History":"",
+					"Name":"The Chinampa",
+					"History":".",
 					"Description":"Enables the chinampa."
 				}
 			],
@@ -53,7 +53,7 @@
 	[
 		{
 			"Name":"Mexica Empire",
-			"History":"all villagers loot more faster.",
+			"History":".",
 			"Description":"Metal mining gathering rates increased by +10% for each passing age."
 		}
 	],
@@ -61,14 +61,14 @@
 	[
 		{
 			"Name":"Tiangis",
-			"History":"The merchants and traders are faster.",
-			"Description":"The merchants and traders are 25% faster."
+			"History":"he merchants and traders are 25% faster.",
+			"Description":"."
 		}
 	],
 	"Structures":
 	[
 		{
-			"Name":"Calmécac",
+			"Name":"Calmecac",
 			"Class":"SB",
 			"Emblem":"",
 			"History":"It was the school of the Mexica nobles.",
@@ -125,18 +125,16 @@
 	],
 	"AINames":
 	[
-		"Ténoch",
+		"Tenoch",
 		"Acamapichtli",
-		"Huitzilíhuitl",
+		"Huitzilihuitl",
 		"Chimalpopoca",
-		"Irzcóatl",
+		"Irzcoatl",
 		"Moctezuma I",
 		"Axayácatl",
 		"Tízoc",
 		"Ahuízotl",
-		"Moctezuma II",
-		"Cuitláhuac",
-		"Cuauhtémoc"
+		"Moctezuma II"
 	],
 	"SkirmishReplacements":
 	{

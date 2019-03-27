@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant name="base">
+      <mesh>props/shield/rodela.dae</mesh>
+      <textures>
+		<texture file="props/shield/rodela.png" name="baseTex"/>
+		<texture file="props/shield/rodela_spec.png" name="specTex"/>
+		<texture file="props/shield/rodela_norm.png" name="normTex"/>
+	  </textures>
+    </variant>
+  </group>
+  <material>player_trans_parallax_spec_helmet.xml</material>
+</actor>

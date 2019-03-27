@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+  <Auras datatype="tokens">
+    structures/theatron
+  </Auras>
+  <BuildRestrictions>
+    <Category>BallCourt</Category>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>500</BuildTime>
+    <Resources>
+      <wood>500</wood>
+      <stone>1500</stone>
+    </Resources>
+  </Cost>
+  <Footprint replace="">
+    <Square width="25.0" depth="25.0"/>
+    <Height>10.0</Height>
+  </Footprint>
+  <Health>
+    <Max>2000</Max>
+  </Health>
+  <Identity>
+    <GenericName>Ball Game</GenericName>
+    <SpecificName>Ball Game</SpecificName>
+    <Classes datatype="tokens">BallCourt -ConquestCritical</Classes>
+    <Icon>structures/ball_court.png</Icon>
+  </Identity>
+  <Loot>
+    <food>15</food>
+    <stone>125</stone>
+  </Loot>
+  <Obstruction>
+    <Static width="40" depth="46"/>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_greek_theater.xml</select>
+      <constructed>interface/complete/building/complete_greek_theater.xml</constructed>
+      <death>attack/destruction/building_collapse_large.xml</death>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Radius>100</Radius>
+  </TerritoryInfluence>
+</Entity>

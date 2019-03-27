@@ -1,0 +1,8 @@
+{
+	"type": "global",
+	"affects": ["Worker"],
+	"affectedPlayers": ["ExclusiveMutualAlly"],
+	"modifications" : [{"value": "ResourceGatherer/Rates/metal.ore", "multiply" : 0.25}],
+	"auraName": "Metal Works",
+	"auraDescription" : "Workers gatherer metal %25 faster."
+}

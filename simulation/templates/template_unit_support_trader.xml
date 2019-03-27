@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support">
+  <Cost>
+    <BuildTime>15</BuildTime>
+    <Resources>
+      <food>100</food>
+      <metal>80</metal>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>100</Max>
+  </Health>
+  <Identity>
+    <Classes datatype="tokens">-ConquestCritical</Classes>
+    <VisibleClasses datatype="tokens">Trader Bribable</VisibleClasses>
+    <GenericName>Trader</GenericName>
+    <Tooltip>Trade resources between your own markets and those of your allies.</Tooltip>
+    <Formations disable=""/>
+  </Identity>
+  <Sound>
+    <SoundGroups>
+      <select>voice/{lang}/civ/civ_{gender}_select.xml</select>
+      <order_trade>voice/{lang}/civ/civ_{gender}_trade.xml</order_trade>
+      <order_walk>voice/{lang}/civ/civ_{gender}_walk.xml</order_walk>
+      <order_attack>voice/{lang}/civ/civ_{gender}_attack.xml</order_attack>
+      <order_gather>voice/{lang}/civ/civ_{gender}_gather.xml</order_gather>
+      <order_repair>voice/{lang}/civ/civ_{gender}_repair.xml</order_repair>
+      <walk>actor/human/movement/walk.xml</walk>
+      <run>actor/human/movement/run.xml</run>
+      <attack_melee>attack/weapon/sword.xml</attack_melee>
+      <death>actor/human/death/{gender}_death.xml</death>
+      <build>resource/construction/con_wood.xml</build>
+      <gather_fruit>resource/foraging/forage_leaves.xml</gather_fruit>
+      <gather_grain>resource/farming/farm.xml</gather_grain>
+      <gather_tree>resource/lumbering/lumbering.xml</gather_tree>
+      <gather_rock>resource/mining/pickaxe.xml</gather_rock>
+      <gather_ore>resource/mining/mining.xml</gather_ore>
+    </SoundGroups>
+  </Sound>
+  <Trader>
+    <GainMultiplier>0.75</GainMultiplier>
+  </Trader>
+  <UnitAI>
+    <CanGuard>false</CanGuard>
+    <CanPatrol>false</CanPatrol>
+  </UnitAI>
+  <Vision>
+    <Range>60</Range>
+  </Vision>
+  <VisionSharing>
+    <Bribable>true</Bribable>
+  </VisionSharing>
+</Entity>

@@ -37,6 +37,11 @@
       <PyramidSmall>4</PyramidSmall>
       <PyramidLarge>2</PyramidLarge>
       <TempleOfAmun>1</TempleOfAmun>
+	  <Calmecatl>1</Calmecatl>
+	  <Telpochcalli>1</Telpochcalli>
+	  <BallHall>1</BallHall>
+	  <Tambo>10</Tambo>
+	  <Pueblo>25</Pueblo>
     </Limits>
     <LimitChangers>
       <WarDog>
@@ -90,7 +95,7 @@
       <metal>0.0</metal>
 	  <water>0.0</water>
     </Rates>
-    <Interval>1000</Interval>
+    <Interval>2500</Interval>
   </ResourceTrickle>
   <StatisticsTracker/>
   <TechnologyManager/>

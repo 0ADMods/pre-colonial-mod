@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+	  <animations>
+        <animation file="other/country_ball_idle.dae" name="Idle" speed="20"/>
+      </animations>
+      <mesh>skeletal/country_ball.dae</mesh>
+      <props>
+      </props>
+      <textures>
+        <texture file="skeletal/mex_country_ball.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_spec.xml</material>
+</actor>

@@ -30,7 +30,7 @@
     <Icon>structures/water_well.png</Icon>
   </Identity>
   <Loot>
-    <water>50</water>
+    <water>10</water>
   </Loot>
   <Minimap>
     <Color r="25" g="158" b="218"/>

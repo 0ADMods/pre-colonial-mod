@@ -3,6 +3,7 @@
   <Identity>
     <Civ>mex</Civ>
     <SpecificName>Calli</SpecificName>
+	<Icon>structures/mesoamerican_house.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/mexicas/house.xml</Actor>

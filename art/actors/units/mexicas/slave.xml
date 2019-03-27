@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Base">
-      <mesh>skeletal/new/m_armor_pants.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_native_basic.xml" attachpoint="head"/>
       </props>
@@ -21,6 +21,7 @@
     <variant file="biped/carry_wood.xml"/>
     <variant file="biped/carry_stone.xml"/>
     <variant file="biped/carry_metal.xml"/>
+	<variant file="biped/carry_water.xml"/>
   </group>
   <group>
     <variant frequency="1" name="Idle"/>

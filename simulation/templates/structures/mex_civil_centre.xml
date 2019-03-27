@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_civil_centre">
+  <Capturable>
+    <CapturePoints>3700</CapturePoints>
+  </Capturable>
+  <Cost>
+    <PopulationBonus>25</PopulationBonus>
+    <BuildTime>250</BuildTime>
+    <Resources>
+	  <wood>600</wood>
+      <stone>1000</stone>
+    </Resources>
+  </Cost>
   <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_hele_cc</SpawnEntityOnDeath>
+    <Max>3600</Max>
+    <SpawnEntityOnDeath>rubble/rubble_stone_3x3</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>mex</Civ>
@@ -10,8 +22,6 @@
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_infantry_spearman_b
-      units/{civ}_infantry_slinger_b
 	  units/{civ}_infantry_spearman_cc
     </Entities>
   </ProductionQueue>
