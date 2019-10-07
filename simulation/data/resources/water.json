@@ -2,7 +2,7 @@
 	"code" : "water",
 	"name" : "Water",
 	"description": "Gather from water well, rivers, aqueducts, ice, waterfalls, cactus, or lakes.",
-	"order": 5,
+	"order": 1,
 	"subtypes" :
 	{
 		"fresh" : "Fresh Water",
@@ -10,6 +10,6 @@
 		"dirty" : "Dirty Water",
 		"ice" : "Ice Water"
 	},
-	"truePrice": 200,
-	"aiAnalysisInfluenceGroup": "ignore"
+	"truePrice": 100,
+	"aiAnalysisInfluenceGroup": "sparse"
 }

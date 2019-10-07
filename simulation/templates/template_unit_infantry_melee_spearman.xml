@@ -6,8 +6,10 @@
   </Armour>
   <Attack>
     <Melee>
-      <Hack>3.0</Hack>
-      <Pierce>2.5</Pierce>
+      <Damage>
+        <Hack>3.0</Hack>
+        <Pierce>2.5</Pierce>
+      </Damage>
       <MaxRange>4.5</MaxRange>
       <Bonuses>
         <BonusCavMelee>
@@ -19,6 +21,7 @@
   </Attack>
   <Cost>
     <Resources>
+	  <water>10</water>
       <wood>50</wood>
     </Resources>
   </Cost>
@@ -32,8 +35,5 @@
   </Loot>
   <UnitMotion>
     <WalkSpeed op="mul">0.95</WalkSpeed>
-    <Run>
-      <Speed op="mul">0.95</Speed>
-    </Run>
   </UnitMotion>
 </Entity>

@@ -1,0 +1,8 @@
+<variant name="attack_ranged">
+  <animations>
+    <animation event="0.35" file="biped/sharpshooter/shoot.dae" load="0.75" name="loose" speed="100"/>
+  </animations>
+  <props>
+    <prop actor="props/units/weapons/ammo/7_62x39_head.xml" attachpoint="projectile"/>
+  </props>
+</variant>

@@ -10,7 +10,7 @@
   <Identity>
     <GenericName>Waterfall</GenericName>
     <SpecificName>Fresh Water</SpecificName>
-    <Tooltip>Gather water here.</Tooltip>
+    <Tooltip>Gather water here. not implemented for now</Tooltip>
     <Icon>gaia/geology_stone_1.png</Icon>
   </Identity>
   <Minimap>

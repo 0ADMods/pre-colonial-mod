@@ -1,0 +1,10 @@
+<variant name="hold_ground">
+  <animations>
+    <animation file="biped/assault_rifle/crouched/idle_3.dae" name="Idle" id="idle1" speed="30"/>
+    <animation file="biped/assault_rifle/crouched/idle_3.dae" name="Idle" id="idle2" speed="31"/>
+    <animation file="biped/assault_rifle/crouched/idle_3.dae" name="Idle" id="idle3" speed="32"/>
+    <animation file="biped/assault_rifle/crouched/walk_3.dae" name="Walk" id="walk1" speed="10"/>
+    <animation file="biped/assault_rifle/crouched/walk_3.dae" name="Walk" id="walk2" speed="8"/>
+    <animation file="biped/assault_rifle/ready/run_3.dae" name="Run" id="run1" speed="5"/>
+  </animations>
+</variant>

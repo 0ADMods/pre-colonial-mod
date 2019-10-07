@@ -3,18 +3,18 @@
   <BuildRestrictions>
     <Category>House</Category>
 	<Distance>
-	  <FromClass>Cistern</FromClass>
-	  <MinDistance>10</MinDistance>
-	</Distance>
+		<FromClass>Cistern</FromClass>
+		<MaxDistance>50</MaxDistance>
+    </Distance>
   </BuildRestrictions>
   <Capturable>
     <CapturePoints>300</CapturePoints>
   </Capturable>
   <Cost>
-    <PopulationBonus>5</PopulationBonus>
-    <BuildTime>30</BuildTime>
+    <PopulationBonus>15</PopulationBonus>
+    <BuildTime>20</BuildTime>
     <Resources>
-      <wood>75</wood>
+      <wood>100</wood>
     </Resources>
   </Cost>
   <Footprint>
@@ -22,7 +22,7 @@
     <Height>5.0</Height>
   </Footprint>
   <GarrisonHolder>
-    <Max>3</Max>
+    <Max>5</Max>
     <BuffHeal>0</BuffHeal>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
@@ -35,7 +35,7 @@
   </Health>
   <Identity>
     <GenericName>House</GenericName>
-    <Tooltip>Increase the population limit.</Tooltip>
+    <Tooltip>Increase the population limit.Build near a cistern or water well </Tooltip>
     <Classes datatype="tokens">-ConquestCritical</Classes>
     <VisibleClasses datatype="tokens">Village House</VisibleClasses>
     <Icon>structures/house.png</Icon>
@@ -46,21 +46,24 @@
   <ProductionQueue>
     <BatchTimeModifier>1.0</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}_support_female_citizen_house
+      units/{civ}_support_villager_house
+	  units/{civ}_support_femeles_house
+	  units/{civ}_support_citizen_house
     </Entities>
     <Technologies datatype="tokens">
       health_females_01
       pop_house_01
       unlock_females_house
+	  {civ}_imperial_taxes
     </Technologies>
   </ProductionQueue>
   <ResourceTrickle>
     <Rates>
+	  <water>1</water>
       <food>1</food>
       <wood>1</wood>
       <stone>1</stone>
       <metal>1</metal>
-	  <water>1</water>
     </Rates>
     <Interval>60000</Interval>
   </ResourceTrickle>

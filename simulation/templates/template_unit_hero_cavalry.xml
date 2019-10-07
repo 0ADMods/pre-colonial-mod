@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero">
+  <Armour>
+    <Hack>10</Hack>
+    <Pierce>8</Pierce>
+    <Crush>25</Crush>
+  </Armour>
+  <Cost>
+    <BuildTime>50</BuildTime>
+    <Resources>
+	  <water>10</water>
+      <food>300</food>
+      <wood>200</wood>
+      <metal>250</metal>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Circle radius="2.5"/>
+    <Height>5.0</Height>
+  </Footprint>
+  <Health>
+    <Max>1500</Max>
+  </Health>
+  <Identity>
+    <GenericName>Hero Cavalry</GenericName>
+    <VisibleClasses datatype="tokens">Cavalry</VisibleClasses>
+    <Formations datatype="tokens">
+      special/formations/wedge
+    </Formations>
+  </Identity>
+  <Position>
+    <Anchor>pitch</Anchor>
+  </Position>
+  <Sound>
+    <SoundGroups>
+      <trained>interface/alarm/alarm_create_cav.xml</trained>
+      <walk>actor/mounted/movement/walk.xml</walk>
+      <run>actor/mounted/movement/walk.xml</run>
+      <death>actor/fauna/death/death_horse.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>6.5</HeightOffset>
+  </StatusBars>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.85</WalkSpeed>
+  </UnitMotion>
+  <Vision>
+    <Range>100</Range>
+  </Vision>
+</Entity>

@@ -6,14 +6,17 @@
   </Armour>
   <Attack>
     <Melee>
-      <Hack>5.5</Hack>
-      <Pierce>0</Pierce>
+      <Damage>
+        <Hack>5.5</Hack>
+        <Pierce>0</Pierce>
+      </Damage>
       <RepeatTime>750</RepeatTime>
       <PreferredClasses datatype="tokens">Siege</PreferredClasses>
     </Melee>
   </Attack>
   <Cost>
     <Resources>
+	  <water>10</water>
       <wood>40</wood>
       <metal>10</metal>
     </Resources>
@@ -27,8 +30,5 @@
   </Loot>
   <UnitMotion>
     <WalkSpeed op="mul">1.05</WalkSpeed>
-    <Run>
-      <Speed op="mul">1.05</Speed>
-    </Run>
   </UnitMotion>
 </Entity>

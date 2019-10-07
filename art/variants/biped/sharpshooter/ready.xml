@@ -1,0 +1,5 @@
+<variant name="base">
+  <animations>
+    <animation file="biped/sharpshooter/idle.dae" name="Idle" id="idle1" speed="30"/>
+  </animations>
+</variant>

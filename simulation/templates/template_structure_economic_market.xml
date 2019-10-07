@@ -27,16 +27,15 @@
     <Classes datatype="tokens">BarterMarket</Classes>
     <GenericName>Market</GenericName>
     <Icon>structures/market.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
     <Tooltip>Create trade units to trade between other markets. Barter resources. Research trading and bartering improvements.</Tooltip>
-    <VisibleClasses datatype="tokens">Town Market</VisibleClasses>
+    <VisibleClasses datatype="tokens">Villager Market</VisibleClasses>
   </Identity>
   <Loot>
+    <water>25</water>
     <food>25</food>
     <wood>25</wood>
     <stone>25</stone>
     <metal>25</metal>
-	<water>25</water>
   </Loot>
   <Market>
     <TradeType>land</TradeType>
@@ -64,7 +63,6 @@
     <SoundGroups>
       <select>interface/select/building/sel_market.xml</select>
       <constructed>interface/complete/building/complete_market.xml</constructed>
-      <death>attack/destruction/building_collapse_large.xml</death>
       <alert_raise>interface/alarm/alarm_alert_0.xml</alert_raise>
       <alert_end>interface/alarm/alarm_alert_1.xml</alert_end>
     </SoundGroups>
@@ -78,6 +76,6 @@
     <Range>32</Range>
   </Vision>
   <VisualActor>
-    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
+    <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
   </VisualActor>
 </Entity>

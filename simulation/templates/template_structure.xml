@@ -30,11 +30,11 @@
     <PopulationBonus>0</PopulationBonus>
     <BuildTime>10</BuildTime>
     <Resources>
+	  <water>0</water>
       <food>0</food>
       <wood>0</wood>
       <stone>0</stone>
       <metal>0</metal>
-	  <water>0</water>
     </Resources>
   </Cost>
   <Decay>
@@ -65,11 +65,11 @@
   </Identity>
   <Loot>
     <xp>0</xp>
+	<water>0</water>
     <food>0</food>
     <wood>10</wood>
     <stone>0</stone>
     <metal>0</metal>
-	<water>0</water>
   </Loot>
   <Looter/>
   <Minimap>
@@ -96,11 +96,11 @@
   </Position>
   <ProductionQueue>
     <TechCostMultiplier>
+	  <water>1.0</water>
       <food>1.0</food>
       <wood>1.0</wood>
       <stone>1.0</stone>
       <metal>1.0</metal>
-	  <water>1.0</water>
       <time>1.0</time>
     </TechCostMultiplier>
   </ProductionQueue>

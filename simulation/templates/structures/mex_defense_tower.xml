@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_defense_tower_stone">
+<Entity parent="template_structure_defensive_tower_stone">
   <Footprint>
-    <Square width="10.0" depth="10.5"/>
-    <Height>15.0</Height>
+    <Square width="10.0" depth="10.0"/>
+    <Height>18.0</Height>
   </Footprint>
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Huecapan Yaocalli</SpecificName>
+    <GenericName>Observer Tower</GenericName>
+    <SpecificName>Áantaj kiaqte</SpecificName>
+    <History>Observer tower to protect aztec stettlements in south. Historically inaccurate building, based in the Observer Tower of El Palacion in Palenque</History>
   </Identity>
   <Obstruction>
-    <Static width="7.0" depth="8.0"/>
+    <Static width="9.0" depth="9.0"/>
   </Obstruction>
   <StatusBars>
-    <HeightOffset>22.0</HeightOffset>
+    <BarWidth>6.0</BarWidth>
+    <BarHeight>0.6</BarHeight>
+    <HeightOffset>20.0</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <Actor>structures/mexicas/scout_tower.xml</Actor>
+    <FoundationActor>structures/north/meso/mexicas/fndn_defense_tower.xml</FoundationActor>
+    <Actor>structures/north/meso/mexicas/defense_tower.xml</Actor>
   </VisualActor>
 </Entity>

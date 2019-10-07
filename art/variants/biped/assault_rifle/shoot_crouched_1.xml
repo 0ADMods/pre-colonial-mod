@@ -1,0 +1,8 @@
+<variant name="attack_ranged">
+  <animations>
+    <animation event="0.35" file="biped/assault_rifle/shooting/crouched_1.dae" load="0.75" name="attack_ranged" speed="200"/>
+  </animations>
+  <props>
+    <prop actor="props/units/weapons/ammo/5.56x45OTAN.xml" attachpoint="projectile"/>
+  </props>
+</variant>

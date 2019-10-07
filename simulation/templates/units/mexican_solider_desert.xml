@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_assault_rifle">
+  <Identity>
+	<GenericName>SEDENA Marine Desert Uniform</GenericName>
+	<Tooltip>Solider of SEDENA Good agains Sicarios/Guerrillas.</Tooltip>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/mex/mexican_solider_desert.xml</Actor>
+  </VisualActor>
+</Entity>

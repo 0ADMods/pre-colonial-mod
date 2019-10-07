@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skeletons>
+  <standard_skeleton id="FourWheelVehicle" title="FourWheelVehicle">
+    <bone name="VehicleBone">
+      <bone name="WheelLeftBack" />
+      <bone name="WheelRightBack" />
+      <bone name="WheelLeftFront" />
+      <bone name="WheelRightFront" />
+    </bone>
+  </standard_skeleton>
+  <skeleton target="FourWheelVehicle" title="FourWheelVehicle">
+    <identifier>
+      <root>VehicleBone</root>
+    </identifier>
+    <bone name="VehicleBone">
+      <target>VehicleBone</target>
+      <bone name="WheelLeftBack">
+        <target>WheelLeftBack</target>
+      </bone>
+      <bone name="WheelRightBack">
+        <target>WheelRightBack</target>
+      </bone>
+      <bone name="WheelLeftFront">
+        <target>WheelLeftFront</target>
+      </bone>
+      <bone name="WheelRightFront">
+        <target>WheelRightFront</target>
+      </bone>
+    </bone>
+  </skeleton>
+</skeletons>

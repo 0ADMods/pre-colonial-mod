@@ -2,7 +2,7 @@
 	"code": "wood",
 	"name": "Wood",
 	"description": "Cut down from trees or groves.",
-	"order": 2,
+	"order": 3,
 	"subtypes": {
 		"tree": "Tree",
 		"ruins": "Ruins"

@@ -1,0 +1,5 @@
+<variant name="idle">
+  <animations>
+    <animation file="weapons/assault_rifles/SCAR/MK20/ready.dae" name="idle" speed="10"/>
+  </animations>
+</variant>

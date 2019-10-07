@@ -18,14 +18,14 @@
     <Height>8.0</Height>
   </Footprint>
   <Health>
-    <Max>800</Max>
+    <Max>500</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Classes datatype="tokens">DropsiteWater</Classes>
+    <Classes datatype="tokens">Cistern DropsiteWater</Classes>
     <GenericName>Cistern</GenericName>
     <Icon>structures/cistern.png</Icon>
-    <Tooltip>Dropsite for water.</Tooltip>
+    <Tooltip>Dropsite for water. Need for build houses and field's</Tooltip>
     <VisibleClasses datatype="tokens">Village Storehouse Cistern</VisibleClasses>
   </Identity>
   <Obstruction>
@@ -35,17 +35,17 @@
   <RallyPoint disable=""/>
   <ResourceTrickle>
     <Rates>
+	  <water>1</water>
       <food>0</food>
       <wood>0</wood>
       <stone>0</stone>
       <metal>0</metal>
-	  <water>5</water>
     </Rates>
     <Interval>70000</Interval>
   </ResourceTrickle>
   <ResourceDropsite>
     <Types>water</Types>
-    <Sharable>true</Sharable>
+    <Sharable>false</Sharable>
   </ResourceDropsite>
   <Sound>
     <SoundGroups>
@@ -57,12 +57,12 @@
     </SoundGroups>
   </Sound>
   <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>20</Radius>
-    <Weight>30000</Weight>
+    <Root>true</Root>
+    <Radius>45</Radius>
+    <Weight>65535</Weight>
   </TerritoryInfluence>
   <Vision>
-    <Range>20</Range>
+    <Range>10</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>

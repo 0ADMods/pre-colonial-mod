@@ -7,6 +7,10 @@
   </Armour>
   <BuildRestrictions>
     <Category>Field</Category>
+	<Distance>
+		<FromClass>Farmstead</FromClass>
+		<MaxDistance>50</MaxDistance>
+    </Distance>
   </BuildRestrictions>
   <Cost>
     <BuildTime>50</BuildTime>
@@ -19,13 +23,13 @@
     <Height>2.0</Height>
   </Footprint>
   <Health>
-    <Max>250</Max>
+    <Max>150</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_field</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <GenericName>Field</GenericName>
     <VisibleClasses datatype="tokens">Field</VisibleClasses>
-    <Tooltip>Harvest vegetables for food. Max gatherers: 5.</Tooltip>
+    <Tooltip>Harvest vegetables or fruit for food. Max gatherers: 1.</Tooltip>
     <Icon>structures/field.png</Icon>
   </Identity>
   <Loot>
@@ -43,9 +47,9 @@
   <RallyPoint disable=""/>
   <ResourceSupply>
     <KillBeforeGather>false</KillBeforeGather>
-    <Amount>Infinity</Amount>
+    <Amount>15000</Amount>
     <Type>food.grain</Type>
-    <MaxGatherers>5</MaxGatherers>
+    <MaxGatherers>1</MaxGatherers>
     <DiminishingReturns>0.90</DiminishingReturns>
   </ResourceSupply>
   <Sound>

@@ -11,11 +11,11 @@
     <PopulationBonus>0</PopulationBonus>
     <BuildTime>1</BuildTime>
     <Resources>
+	  <water>0</water>
       <food>0</food>
       <wood>0</wood>
       <stone>0</stone>
       <metal>0</metal>
-	  <water>0</water>
     </Resources>
   </Cost>
   <Decay>
@@ -52,6 +52,7 @@
       special/formations/flank
       special/formations/battle_line
     </Formations>
+    <Phenotype datatype="tokens">male</Phenotype>
     <Undeletable>false</Undeletable>
   </Identity>
   <Looter/>
@@ -87,11 +88,11 @@
       <treasure>1</treasure>
     </Rates>
     <Capacities>
+	  <water>10</water>
       <food>10</food>
       <wood>10</wood>
       <stone>10</stone>
       <metal>10</metal>
-	  <water>10</water>
     </Capacities>
   </ResourceGatherer>
   <Selectable>
@@ -113,6 +114,7 @@
     <BarHeight>0.333</BarHeight>
     <HeightOffset>5.0</HeightOffset>
   </StatusBars>
+  <StatusEffectsReceiver/>
   <UnitAI>
     <DefaultStance>aggressive</DefaultStance>
     <FleeDistance>12.0</FleeDistance>
@@ -122,15 +124,9 @@
   </UnitAI>
   <UnitMotion>
     <FormationController>false</FormationController>
-    <WalkSpeed>9.0</WalkSpeed>
-    <Run>
-      <Speed>15.0</Speed>
-      <Range>50.0</Range>
-      <RangeMin>0.0</RangeMin>
-      <RegenTime>0.1</RegenTime>
-      <DecayTime>0.2</DecayTime>
-    </Run>
     <PassabilityClass>default</PassabilityClass>
+    <WalkSpeed>9.0</WalkSpeed>
+    <RunMultiplier>1.67</RunMultiplier>
   </UnitMotion>
   <Visibility>
     <RetainInFog>false</RetainInFog>

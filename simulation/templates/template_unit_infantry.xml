@@ -7,15 +7,17 @@
   </Armour>
   <Attack>
     <Capture>
-      <Value>2</Value>
+      <Capture>2</Capture>
       <MaxRange>4</MaxRange>
       <RepeatTime>1000</RepeatTime>
       <RestrictedClasses datatype="tokens">Field Palisade SiegeWall StoneWall</RestrictedClasses>
     </Capture>
     <Slaughter>
-      <Hack>50.0</Hack>
-      <Pierce>0.0</Pierce>
-      <Crush>0.0</Crush>
+      <Damage>
+        <Hack>50.0</Hack>
+        <Pierce>0.0</Pierce>
+        <Crush>0.0</Crush>
+      </Damage>
       <MaxRange>2</MaxRange>
     </Slaughter>
   </Attack>
@@ -25,25 +27,19 @@
       structures/{civ}_house
       structures/{civ}_storehouse
       structures/{civ}_farmstead
-	  structures/{civ}_cistern
       structures/{civ}_field
-	  structures/{civ}_chinampa
       structures/{civ}_corral
       structures/{civ}_outpost
-      other/wallset_palisade
+      structures/wallset_palisade
       structures/{civ}_sentry_tower
       structures/{civ}_dock
       structures/{civ}_barracks
       structures/{civ}_blacksmith
-	  structures/{civ}_embassy_a
-	  structures/{civ}_embassy_b
       structures/{civ}_temple
       structures/{civ}_market
       structures/{civ}_defense_tower
       structures/{civ}_wallset_stone
       structures/{civ}_civil_centre
-	  structures/{civ}_civil_pueblo
-	  structures/{civ}_tambo
       structures/{civ}_fortress
       structures/{civ}_wonder
     </Entities>
@@ -51,11 +47,11 @@
   <Cost>
     <BuildTime>10</BuildTime>
     <Resources>
+	  <water>10</water>
       <food>50</food>
       <wood>0</wood>
       <stone>0</stone>
       <metal>0</metal>
-	  <water>50</water>
     </Resources>
   </Cost>
   <Footprint>
@@ -73,11 +69,11 @@
   </Identity>
   <Loot>
     <xp>100</xp>
+	<water>0</water>
     <food>5</food>
     <wood>0</wood>
     <stone>0</stone>
     <metal>0</metal>
-	<water>0</water>
   </Loot>
   <Promotion>
     <RequiredXp>100</RequiredXp>
@@ -95,9 +91,9 @@
       <stone.ruins>2</stone.ruins>
       <metal.ore>0.5</metal.ore>
 	  <water.fresh>1</water.fresh>
-	  <water.dirty>0.5</water.dirty>
-	  <water.salt>0.5</water.salt>
-	  <water.ice>2</water.ice>
+	  <water.salt>0.75</water.salt>
+	  <water.dirty>0.25</water.dirty>
+	  <water.ice>0.5</water.ice>
     </Rates>
   </ResourceGatherer>
   <Selectable>
@@ -110,18 +106,18 @@
   </Selectable>
   <Sound>
     <SoundGroups>
-      <select>voice/{lang}/civ/civ_{gender}_select.xml</select>
-      <order_walk>voice/{lang}/civ/civ_{gender}_walk.xml</order_walk>
-      <order_attack>voice/{lang}/civ/civ_{gender}_attack.xml</order_attack>
-      <order_gather>voice/{lang}/civ/civ_{gender}_gather.xml</order_gather>
-      <order_repair>voice/{lang}/civ/civ_{gender}_repair.xml</order_repair>
-      <order_garrison>voice/{lang}/civ/civ_{gender}_garrison.xml</order_garrison>
+      <select>voice/{lang}/civ/civ_{phenotype}_select.xml</select>
+      <order_walk>voice/{lang}/civ/civ_{phenotype}_walk.xml</order_walk>
+      <order_attack>voice/{lang}/civ/civ_{phenotype}_attack.xml</order_attack>
+      <order_gather>voice/{lang}/civ/civ_{phenotype}_gather.xml</order_gather>
+      <order_repair>voice/{lang}/civ/civ_{phenotype}_repair.xml</order_repair>
+      <order_garrison>voice/{lang}/civ/civ_{phenotype}_garrison.xml</order_garrison>
       <walk>actor/human/movement/walk.xml</walk>
       <run>actor/human/movement/run.xml</run>
       <attack_impact_ranged>attack/impact/arrow_metal.xml</attack_impact_ranged>
       <attack_melee>attack/weapon/sword.xml</attack_melee>
       <attack_ranged>attack/weapon/arrowfly.xml</attack_ranged>
-      <death>actor/human/death/{gender}_death.xml</death>
+      <death>actor/human/death/{phenotype}_death.xml</death>
       <build>resource/construction/con_wood.xml</build>
       <gather_fruit>resource/foraging/forage_leaves.xml</gather_fruit>
       <gather_grain>resource/farming/farm.xml</gather_grain>

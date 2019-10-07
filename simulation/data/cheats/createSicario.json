@@ -1,0 +1,11 @@
+{
+	"Name": "Fierro Pariente",
+	"Data": {
+		"Action": "createunits",
+		"DefaultParameter": 13,
+		"isNumeric": true,
+		"Templates": [
+			"units/mexican_narco_sicario"
+		]
+	}
+}
