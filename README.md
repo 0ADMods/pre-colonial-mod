@@ -53,3 +53,9 @@ We are currently in the process of makeing the new factions.
 To report a problem in with the mod you can open a new issue in our [Github repository](https://github.com/0ADMods/pre-colonial) or create a new post in our [forum](https://wildfiregames.com/forum/index.php?/forum/1-game-modification/).
 
 If you experience any problems with the main game open a new ticket in: trac.wildfiregames.com/. Please, search for potential duplicates before creating a new ticked.
+
+### Credits:
+asterix also known as  tomasmatys <br />
+Trinketos also known as Osimedias <br />
+stanislas69 also known as StanleySweet <br />
+And all members from 0 A.D. Council of Modders <br />
