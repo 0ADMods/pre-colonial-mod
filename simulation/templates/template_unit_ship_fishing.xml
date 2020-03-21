@@ -18,6 +18,13 @@
       <RestrictedClasses datatype="tokens">!SeaCreature</RestrictedClasses>
     </Melee>
   </Attack>
+  <Builder>
+     <Rate>1.5</Rate>
+     <Entities datatype="tokens">
+         structures/{civ}_dock
+         structures/{civ}_chinampa
+     </Entities>
+  </Builder>
   <Footprint>
     <Square width="4.0" depth="10.0"/>
     <Height>6.0</Height>
@@ -46,10 +53,10 @@
     <MaxDistance>6.0</MaxDistance>
     <BaseSpeed>1.0</BaseSpeed>
     <Rates>
-      <food.fish>1.8</food.fish>
-	  <water.fresh>2.5</water.fresh>
-	  <water.salt>2.5</water.salt>
-	  <water.dirty>1.5</water.dirty>
+         <food.fish>1.8</food.fish>
+         <water.fresh>2.5</water.fresh>
+         <water.salt>2.5</water.salt>
+         <water.dirty>1.5</water.dirty>
       <treasure disable=""/>
     </Rates>
   </ResourceGatherer>
@@ -57,6 +64,7 @@
     <SoundGroups>
       <order_walk>actor/ship/boat_move.xml</order_walk>
       <order_attack>actor/ship/boat_move.xml</order_attack>
+      <order_build>actor/ship/boat_move.xml</build>
     </SoundGroups>
   </Sound>
   <StatusBars>

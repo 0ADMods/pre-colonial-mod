@@ -49,7 +49,7 @@
     <Territory>own neutral</Territory>
     <Category>CivilCentre</Category>
     <Distance>
-      <FromClass>CivilCentre TownCentre CapitalCentre</FromClass>
+      <FromClass>CivilCentre TownCentre</FromClass>
       <MinDistance>300</MinDistance>
     </Distance>
   </BuildRestrictions>
@@ -58,13 +58,13 @@
     <RegenRate>5.0</RegenRate>
   </Capturable>
   <Cost>
-    <PopulationBonus>20</PopulationBonus>
+    <PopulationBonus>1</PopulationBonus>
     <BuildTime>500</BuildTime>
     <Resources>
       <food>0</food>
-      <wood>500</wood>
-      <stone>500</stone>
-      <metal>500</metal>
+      <wood>250</wood>
+      <stone>360</stone>
+      <metal>0</metal>
     </Resources>
   </Cost>
   <Footprint>
@@ -104,8 +104,8 @@
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}_support_female_citizen
-	  units/{civ}_support_villager
-	  units/{civ}_support_citizen
+      units/{civ}_support_villager
+      units/{civ}_support_citizen
     </Entities>
     <Technologies datatype="tokens">
       phase_town_{civ}
@@ -128,7 +128,7 @@
   </Sound>
   <TerritoryInfluence>
     <Root>true</Root>
-    <Radius>140</Radius>
+    <Radius>150</Radius>
     <Weight>10000</Weight>
   </TerritoryInfluence>
   <Vision>

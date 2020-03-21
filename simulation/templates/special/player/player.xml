@@ -37,6 +37,10 @@
       <PyramidSmall>4</PyramidSmall>
       <PyramidLarge>2</PyramidLarge>
       <TempleOfAmun>1</TempleOfAmun>
+      <RapaNuiHead>15</RapaNuiHead>
+      <Chuch>25</Church>
+      <Galleon>15</Galleon>
+      <Monitor>10</Monitor>
     </Limits>
     <LimitChangers>
       <WarDog>
@@ -64,14 +68,14 @@
   <Player>
     <BarterMultiplier>
       <Buy>
-	    <water>1.0</water>
+	<water>1.0</water>
         <food>1.0</food>
         <wood>1.0</wood>
         <stone>1.0</stone>
         <metal>1.0</metal>
       </Buy>
       <Sell>
-	    <water>1.0</water>
+	<water>1.0</water>
         <food>1.0</food>
         <wood>1.0</wood>
         <stone>1.0</stone>
@@ -84,7 +88,7 @@
   </Player>
   <ResourceTrickle>
     <Rates>
-	  <water>0.0</water>
+      <water>0.0</water>
       <food>0.0</food>
       <wood>0.0</wood>
       <stone>0.0</stone>
