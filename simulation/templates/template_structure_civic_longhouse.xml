@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic">
+  <BuildRestrictions>
+    <Category>House</Category>
+  </BuildRestrictions>
+  <Capturable>
+    <CapturePoints>100</CapturePoints>
+    <GarrisonRegenRate>4.0</GarrisonRegenRate>
+  </Capturable>
+  <Cost>
+    <PopulationBonus>15</PopulationBonus>
+    <BuildTime>30</BuildTime>
+    <Resources>
+      <wood>175</wood>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="13.0" depth="13.0"/>
+    <Height>5.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>15</Max>
+    <BuffHeal>0</BuffHeal>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support+!Elephant</List>
+    <LoadingRange>1</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>100</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_2x2</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Longhouse</GenericName>
+    <Tooltip>Increase the population limit also is weak building.</Tooltip>
+    <VisibleClasses datatype="tokens">Village House</VisibleClasses>
+    <Icon>structures/house.png</Icon>
+  </Identity>
+  <Obstruction>
+    <Static width="11.0" depth="11.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>1.0</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}_support_female_citizen_house
+    </Entities>
+    <Technologies datatype="tokens">
+      health_females_01
+      pop_house_01
+      pop_house_02
+      unlock_females_house
+    </Technologies>
+  </ProductionQueue>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_house.xml</select>
+      <constructed>interface/complete/building/complete_house.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <BarWidth>6.0</BarWidth>
+    <BarHeight>0.6</BarHeight>
+    <HeightOffset>8.0</HeightOffset>
+  </StatusBars>
+  <TerritoryDecay>
+    <DecayRate>10</DecayRate>
+  </TerritoryDecay>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>16</Radius>
+    <Weight>65535</Weight>
+  </TerritoryInfluence>
+  <Vision>
+    <Range>20</Range>
+  </Vision>
+  <VisualActor>
+    <FoundationActor>structures/fndn_3x3.xml</FoundationActor>
+  </VisualActor>
+</Entity>

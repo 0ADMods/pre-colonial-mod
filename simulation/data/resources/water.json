@@ -1,0 +1,15 @@
+{
+	"code": "water",
+	"name": "Water",
+	"description": "Get for well, lakes, waterfalls or fruts",
+	"order": 4,
+	"subtypes": {
+		"well": "Well Water",
+        "lake": "Lake Water",
+        "waterfalls":"Waterfall Water",
+        "wfruit":"Fruit Water"
+	},
+	"properties": ["tradable", "tributable"],
+	"truePrice": 100,
+	"aiAnalysisInfluenceGroup": "sparse"
+}
