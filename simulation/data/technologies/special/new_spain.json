@@ -1,0 +1,46 @@
+{
+    "genericName": "Anexar Territorio",
+    "description":"look for how unlock this technology in the game.",
+    "cost": { "food": 300, "wood": 750, "stone": 750, "metal": 750,"water": 750 },
+    "requirements": { 
+        "all" :
+        [
+            { 
+                "entity": { "class": "CivicCentre", "number": 12 }
+            },
+            {
+                "entity":{ "class": "Fortress","number":15}
+            },
+            {
+                "any": 
+                [
+                    {
+                        "all": [
+                            {"tech":"unlock_females_house"},
+                            {"tech":"training_conscription"},
+                            {"tech":"trade_gain_02"},
+                            {"tech":"trade_convoys_speed"},
+                            {"class":"Dock","number":10},
+                            {"class":"Chinampa","number":10}
+                        ]
+                    },
+                    {
+                        "all":[
+                            {"tech":"tower_armour"},
+                            {"tech":"tower_decay"},
+                            {"tech":"trade_commercial_treaty"},
+                            {"class":"House","numberOfType":75}
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "requirementsTooltip": "You need 12 Civic Centers and 15 Fortress and and other buildings.",
+    "researchTime": 160,
+    "modifications": 
+    [
+        { "value": "TerritoryInfluence/Radius", "multiply": 1.5, "affects": "CivCentre" },
+        { "value": "Health/Max", "multiply": 1.1, "affects": "Citizen Soldier" }
+    ]
+}
