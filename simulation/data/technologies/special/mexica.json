@@ -1,8 +1,0 @@
-{
-    "genericName":"Patriot",
-    "cost": { "food": 30, "wood": 0, "stone": 750, "metal": 750,"water": 75 },
-    "modifications":[
-        { "value": "Health/Max", "multiply": 1.5, "affects": "Citizen Soldier" },
-        { "value": "TerritoryDecay/DecayRate", "add":-0.5,"affects":"Structure"}
-    ]
-}

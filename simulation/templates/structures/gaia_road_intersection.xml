@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_road_intersection">
+  <Footprint>
+    <Square width="10.0" depth="10.0"/>
+    <Height>0.1</Height>
+  </Footprint>
+  <Identity>
+    <Civ>gaia</Civ>
+    <SelectionGroupName>structures/gaia_roadset</SelectionGroupName>
+    <SpecificName>Stone road</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="10.0" depth="10.0"/>
+    <BlockMovement>false</BlockMovement>
+    <BlockPathfinding>false</BlockPathfinding>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/roads/road_intersection.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>9.0</Length>
+  </WallPiece>
+</Entity>

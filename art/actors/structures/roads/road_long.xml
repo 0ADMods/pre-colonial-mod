@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <group>
+    <variant frequency="1" name="field_foliagebush_b_1">
+      <mesh>skeletal/celt_trader.dae</mesh>
+      <props>
+        <prop actor="props/structural/roads/road_gaia_long.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="null_white.dds" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

@@ -1,0 +1,107 @@
+﻿{
+	"Code": "mex",
+	"Culture": "texcoco",
+	"Name": "Mexicas",
+	"Emblem": "session/portraits/emblems/emblem_mexica.png",
+	"History": "The Mexica (Nahuatl: Mēxihcah, Nahuatl pronunciation: [meːˈʃiʔkaʔ] (About this soundlisten) (singular Mēxihcatl) or Mexicas are a Nahuatl-speaking indigenous people of the Valley of Mexico who were the rulers of the Aztec Empire. This group was also known as the Culhua-Mexica in recognition of its kinship alliance with the neighboring Culhua, descendants of the revered Toltecs, who occupied the Toltec capital of Tula from the tenth through twelfth centuries. The Mexica were additionally referred to as the Tenochca, a term associated with the name of their altepetl (city-state), Tenochtitlan, and Tenochtitlan's founding leader, Tenoch.The Mexica established Mexico Tenochtitlan, a settlement on an island in Lake Texcoco. A dissident group in Mexico-Tenochtitlan separated and founded the settlement of Mexico-Tlatelolco with its own dynastic lineage. The name Aztec was coined by Alexander von Humboldt who combined Aztlan (place of the heron), their mythic homeland, and tec(atl), 'people of'.The term Aztec is often used very broadly to refer not only to the Mexica, but also to the Nahuatl-speaking peoples or Nahuas of the Valley of Mexico and neighboring valleys.",
+	"Music":[],
+	"Factions":
+	[],
+	"CivBonuses":
+	[
+		{
+			"Name": "Xochiyáoyotl",
+			"History": "Mexica soldiers favored melee and wore light armor.",
+			"Description": "Mexica melee infantry have +1.5 walk speed and do +2 hack/pierce damage at the cost of 2 pierce armor level."
+		}
+	],
+	"TeamBonuses":
+	[],
+	"Structures":
+	[
+		{
+			"Name": "Ball Court",
+			"Class": "SB",
+			"Emblem": "",
+			"History": "A Mesoamerican ballcourt is a large masonry structure of a type used in Mesoamerica for over 2,700 years to play the Mesoamerican ballgame, particularly the hip-ball version of the ballgame. More than 1,300 ballcourts have been identified, 60% in the last 20 years alone.",
+			"Requirements": "House,Civic Centre",
+			"Phase": "City",
+			"Special": "."
+		},
+		{
+		 	"Name":"Tēlpochcalli",
+		 	"Class":"SB",
+		 	"Emblem":"",
+		 	"History":"Tēlpochcalli (Nahuatl: house of the young men), were centers where Aztec youth were educated, from age 15, to serve their community and for war. These youth schools were located in each district or calpulli.",
+		 	"Requirements": "House,Temple,Ball Court",
+		 	"Phase":"Town",
+		 	"Special" : "."
+		},
+		{
+			"Name":"Calmecac",
+			"Class":"",
+			"Emblem":"",
+			"History":"The Calmecac (House of lineage, [kalˈmekak]) was a school for the sons of Aztec nobility (pīpiltin [piːˈpiɬtin]) in the Late Postclassic period of Mesoamerican history, where they would receive rigorous religious and military training. The two main primary sources for information on the calmecac and telpochcalli are in Bernardino de Sahagún's Florentine Codex of the General History of the Things of New Spain (Books III, VI, and VIII) and part 3 of the Codex Mendoza.Although the calmecac has been characterized as for elites only, Sahagun's account says that at times commoners, macehualtin were assigned to the calmecac as well and trained for the priesthood",
+			"Requirements":"Civic Centre,Temple,Barracks,Fortress",
+			"Phase":"City",
+			"Special":"."
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/mex_wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/mex_civil_centre"
+		},
+		{
+			"Template": "units/mex_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/mex_infantry_swordsman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/mex_infantry_javelinist_b",
+			"Count": 3
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+		"Mexi",
+		"Cuauhtlequetzqui",
+		"Acacihtli",
+		"Citlalitzin",
+		"Tzimpantzin",
+		"Tlazohtzin",
+		"Iztacmixcoatzin",
+		"Tozcuecuextli",
+		"Huēhueh Huītzilihuitl",
+		"Ilancuēitl",
+		"Tēnōch"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_cavalry": "units/mex_infantry_swordsman_b",
+		"skirmish/units/default_infantry_ranged_b": "units/mex_infantry_javelinist_b",
+		"skirmish/structures/default_house_10": "structures/{civ}_house"
+	},
+	"SelectableInGameSetup": false
+}

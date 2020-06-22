@@ -14,7 +14,7 @@
   <BuildingAI>
     <DefaultArrowCount>0</DefaultArrowCount>
     <GarrisonArrowMultiplier>0</GarrisonArrowMultiplier>
-    <GarrisonArrowClasses>Infantry Cavalry</GarrisonArrowClasses>
+    <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <BuildRestrictions>
     <PlacementType>land</PlacementType>
