@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_resource_water_well">
+  <Identity>
+    <Civ>ptol</Civ>
+    <GenericName>Water Well</GenericName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/water_well.xml</Actor>
+  </VisualActor>
+</Entity>

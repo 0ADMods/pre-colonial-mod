@@ -12,7 +12,7 @@
 		{
 			"Name": "Xochiyáoyotl",
 			"History": "Mexica soldiers favored melee and wore light armor.",
-			"Description": "Mexica melee infantry have +1.5 walk speed and do +2 hack/pierce damage at the cost of 2 pierce armor level."
+			"Description": "Mexica melee infantry have +1.6 walk speed and do +2 pierce damage at the cost of 2 pierce armor level."
 		}
 	],
 	"TeamBonuses":
@@ -56,6 +56,9 @@
 	[
 		{
 			"Template": "structures/mex_civil_centre"
+		},
+		{
+			"Template": "structures/mex_water_well"
 		},
 		{
 			"Template": "units/mex_support_female_citizen",

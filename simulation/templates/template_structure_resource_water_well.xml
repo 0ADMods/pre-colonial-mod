@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_resource">
+  <Armour>
+    <Hack>15</Hack>
+    <Pierce>40</Pierce>
+    <Crush>5</Crush>
+  </Armour>
+  <BuildRestrictions>
+    <Territory>own neutral</Territory>
+    <Category>Well</Category>
+    <Distance>
+      <FromClass>CivilCentre Well</FromClass>
+      <MinDistance>250</MinDistance>
+    </Distance>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>50</BuildTime>
+    <Resources>
+      <wood>50</wood>
+      <stone>100</stone>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Circle radius="2.5"/>
+    <Height>15.0</Height>
+  </Footprint>
+  <Health>
+    <Max>250</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_field</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Well</GenericName>
+    <SelectionGroupName>template_structure_resource_water_well</SelectionGroupName>
+    <Tooltip>Each subsequent gatherer works less efficiently.</Tooltip>
+    <Icon>structures/water_well.png</Icon>
+    <VisibleClasses datatype="tokens">Well</VisibleClasses>
+  </Identity>
+  <Loot>
+    <water>1</water>
+  </Loot>
+  <Minimap>
+    <Color r="119" g="82" b="46"/>
+  </Minimap>
+  <Obstruction>
+    <Static width="1.6" depth="1.6"/>
+    <BlockMovement>true</BlockMovement>
+    <BlockPathfinding>true</BlockPathfinding>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <RallyPoint disable=""/>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Amount>Infinity</Amount>
+    <Type>water.well</Type>
+    <MaxGatherers>5</MaxGatherers>
+    <DiminishingReturns>0.90</DiminishingReturns>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_water_well.xml</select>
+      <constructed>interface/complete/building/complete_water_well.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <BarWidth>3.0</BarWidth>
+    <BarHeight>0.5</BarHeight>
+    <HeightOffset>10.0</HeightOffset>
+  </StatusBars>
+ <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>5</Radius>
+    <Weight>10</Weight>
+  </TerritoryInfluence>
+  <Vision>
+    <Range>0</Range>
+  </Vision>
+</Entity>

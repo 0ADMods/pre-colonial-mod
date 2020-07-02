@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.83.0 commit date:2020-06-03, commit time:14:38, hash:211b6c29f771</authoring_tool>
     </contributor>
-    <created>2020-06-20T21:51:28</created>
-    <modified>2020-06-20T21:51:28</modified>
+    <created>2020-06-23T18:19:08</created>
+    <modified>2020-06-23T18:19:08</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -107,7 +107,7 @@
           </bind_material>
         </instance_geometry>
         <node id="prop-cargo" name="prop-cargo" type="NODE">
-          <matrix sid="transform">0.09468265 0 -5.32907e-15 6.08402e-14 0 0.09468266 0 0.1193541 1.77636e-15 0 0.09468266 1.55531e-7 0 0 0 1</matrix>
+          <matrix sid="transform">0.09468265 1.80924e-8 -3.34284e-8 2.07834e-13 -1.89358e-8 0.0946521 -0.002405375 0.137485 3.2958e-8 0.002405375 0.0946521 0.007770276 0 0 0 1</matrix>
         </node>
       </node>
     </visual_scene>

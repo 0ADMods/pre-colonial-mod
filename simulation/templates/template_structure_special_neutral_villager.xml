@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure">
+  <Armour disable=""/>
+  <Attack disable=""/>
+  <BuildRestrictions>
+    <Category>Special</Category>
+  </BuildRestrictions>
+  <Capturable>
+    <CapturePoints>1000</CapturePoints> 
+    <RegenRate>0</RegenRate>
+    <GarrisonRegenRate>3</GarrisonRegenRate> 
+  </Capturable>
+  <Cost>
+    <PopulationBonus>10</PopulationBonus>
+	<BuildTime>200</BuildTime>
+    <Resources>
+      <wood>200</wood>
+      <stone>0</stone>
+      <metal>0</metal>
+      <water>0</water>
+    </Resources>
+  </Cost>
+  <Footprint replace="">
+    <Circle radius="17.0"/>
+    <Height>10.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>5</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry Cavalry</List>
+    <BuffHeal>1</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>2000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>gaia</Civ>
+	<GenericName>Native Villager</GenericName>
+	<SpecificName>Needs Specific Name</SpecificName>
+    <VisibleClasses datatype="tokens">NeutralVillager</VisibleClasses>
+    <Tooltip>Capture this structure to train up to 30 native to the map, who train very fast and cost no population room. Population bonus: 10.</Tooltip>
+	<Classes datatype="tokens">SpecialBuilding</Classes>
+    <Icon>structures/mercenary_camp.png</Icon>
+	<Undeletable>true</Undeletable>
+  </Identity>
+  <Obstruction>
+    <Static width="23.5" depth="23.5"/>
+  </Obstruction>
+  <ProductionQueue>
+	<BatchTimeModifier>0.8</BatchTimeModifier>
+	<Technologies datatype="tokens">
+	  mercenaries/attack_health_mercenaries
+	</Technologies>
+  </ProductionQueue>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_gymnasium.xml</select>
+      <constructed>interface/complete/building/complete_gymnasium.xml</constructed>
+      <death>attack/destruction/building_collapse_large.xml</death>
+    </SoundGroups>
+  </Sound>
+  <TerritoryDecay>
+    <DecayRate>1</DecayRate>
+  </TerritoryDecay>
+  <TerritoryInfluence disable=""/>
+  <VisualActor>
+    <Actor>structures/mercenaries/camp_egyptian.xml</Actor>
+	<FoundationActor>structures/fndn_6x6.xml</FoundationActor>
+  </VisualActor>
+</Entity>

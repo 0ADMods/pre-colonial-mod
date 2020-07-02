@@ -2,6 +2,10 @@
 <Entity parent="template_structure_civic">
   <BuildRestrictions>
     <Category>House</Category>
+    <Distance>
+      <FromClass>Well</FromClass>
+      <MinDistance>2</MinDistance>
+    </Distance>
   </BuildRestrictions>
   <Capturable>
     <CapturePoints>80</CapturePoints>

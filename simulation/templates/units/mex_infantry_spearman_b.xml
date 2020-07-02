@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman">
+  <Identity>
+    <Civ>zapo</Civ>
+    <GenericName>Mexica Spearman</GenericName>
+    <SpecificName>Mexica Bate'ch’o’jinel</SpecificName>
+    <SelectionGroupName>units/zapo_infantry_spearman_b</SelectionGroupName>
+    <Icon>units/meso_villager.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/test/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

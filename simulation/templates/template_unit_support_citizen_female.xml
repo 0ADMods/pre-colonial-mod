@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_citizen">
+  <Identity>
+    <GenericName>Female Citizen</GenericName>
+	<Phenotype>female</Phenotype>
+    <History>Women in the ancient world took on a variety of roles - from leadership (Celts and Kushites) to essentially baby-making machines (Greeks and Romans). Women are hard workers, the economic backbone of any civilization. In history, it was typical when all the males (capable of fighting) were killed for the women, children, and elderly to be sold as slaves, a valuable economic commodity in the ancient world.</History>
+    <VisibleClasses datatype="tokens">FemaleCitizen Woman</VisibleClasses>
+    <RequiredTechnology>unlock_females_house_small</RequiredTechnology>
+  </Identity>
+  <Sound>
+    <SoundGroups>
+      <trained>interface/alarm/alarm_create_female.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <VisualActor>
+    <Actor>units/test/meso_femele_villager.xml</Actor>
+  </VisualActor>
+</Entity>

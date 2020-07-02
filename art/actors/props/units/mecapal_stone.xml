@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="basket back">
+      <mesh>props/units/tools/mecapal.dae</mesh>
+      <props>
+        <prop actor="props/units/stone_cargo.xml" attachpoint="cargo"/>
+      </props>
+      <textures>
+         <texture file="props/prop_weap.dds" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+</actor>

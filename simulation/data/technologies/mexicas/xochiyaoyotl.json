@@ -1,0 +1,25 @@
+{
+	"genericName": "Xochiyáoyotl",
+	"autoResearch": true,
+	"description": "Mexica soldiers favored melee and wore light armor.",
+	"requirements": {
+		"civ": "zapo"
+	},
+	"modifications": [
+		{
+			"value": "Armour/Pierce",
+			"add": -2.0
+		},
+		{
+			"value": "Attack/Melee/Damage/Pierce",
+			"add": 2.0
+		},
+		{
+			"value": "UnitMotion/WalkSpeed",
+			"add": 1.6
+		}
+	],
+	"affects": [
+		"Melee"
+	]
+}

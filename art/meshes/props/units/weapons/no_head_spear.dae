@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.83.0 commit date:2020-06-03, commit time:14:38, hash:211b6c29f771</authoring_tool>
+    </contributor>
+    <created>2020-06-24T23:18:25</created>
+    <modified>2020-06-24T23:18:25</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="WeaposTools-effect">
+      <profile_COMMON>
+        <newparam sid="prop_weap_dds-surface">
+          <surface type="2D">
+            <init_from>prop_weap_dds</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="prop_weap_dds-sampler">
+          <sampler2D>
+            <source>prop_weap_dds-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="prop_weap_dds-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="prop_weap_dds" name="prop_weap_dds">
+      <init_from>/home/saul/Documentos/GitHub/0ad/binaries/data/mods/public/art/textures/skins/props/prop_weap.dds</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="WeaposTools-material" name="WeaposTools">
+      <instance_effect url="#WeaposTools-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Circle_010-mesh" name="Circle.010">
+      <mesh>
+        <source id="Circle_010-mesh-positions">
+          <float_array id="Circle_010-mesh-positions-array" count="48">0.04227483 0.08945131 1.240073 0.02499353 0.08229315 1.240073 0.01783537 0.06501185 1.240073 0.02499353 0.04773056 1.240073 0.04227483 0.0405724 1.240073 0.05955612 0.04773056 1.240073 0.06671428 0.06501185 1.240073 0.05955612 0.08229315 1.240073 -0.09755516 -0.1255846 -2.861642 -0.1148364 -0.1327427 -2.861642 -0.1219946 -0.150024 -2.861642 -0.1148364 -0.1673053 -2.861642 -0.09755516 -0.1744635 -2.861642 -0.08027386 -0.1673053 -2.861642 -0.0731157 -0.150024 -2.861642 -0.08027386 -0.1327427 -2.861642</float_array>
+          <technique_common>
+            <accessor source="#Circle_010-mesh-positions-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Circle_010-mesh-normals">
+          <float_array id="Circle_010-mesh-normals-array" count="48">0.7867796 0.009888112 0.617155 0.5372264 0.5337778 -0.6530461 0.5600956 0.5635749 0.6071873 0.00640887 -0.7601559 0.6497093 0.5437279 -0.5600862 -0.6250308 0.5545018 -0.5381436 0.6347671 -0.5372264 -0.5337778 0.6530461 -0.7867796 -0.009888112 -0.617155 -0.5601165 -0.5635652 -0.6071769 -0.5437279 0.5600862 0.6250308 -0.00640887 0.7601559 -0.6497093 -0.5545018 0.5381436 -0.6347671 0.006439626 0.7920741 0.6103911 0.7660281 -0.009888172 -0.6427311 -0.006439626 -0.7920741 -0.6103911 -0.7660281 0.009888172 0.6427311</float_array>
+          <technique_common>
+            <accessor source="#Circle_010-mesh-normals-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Circle_010-mesh-map-0">
+          <float_array id="Circle_010-mesh-map-0-array" count="168">0.06152242 0.8786584 0.06558072 0.2429925 0.06558072 0.8788508 0.05340659 0.8781514 0.05746459 0.2425323 0.05746459 0.8783904 0.08181351 0.8770783 0.07775521 0.2416122 0.08181351 0.24122 0.07369744 0.8781525 0.06963944 0.2428659 0.07369744 0.2422941 0.06963944 0.878724 0.06558072 0.2429925 0.06963944 0.2428659 0.05746459 0.8783904 0.06152242 0.2428001 0.06152242 0.8786584 0.08181351 0.8770783 0.08587223 0.2413433 0.08587223 0.8772016 0.07775521 0.8774704 0.07369744 0.2422941 0.07775521 0.2416122 0.1607843 0.01521891 0.1456071 0.02150535 0.1393205 0.006328165 0.1456071 0.02158868 0.1607843 0.02787536 0.1544977 0.04305249 0.06152242 0.8786584 0.06152242 0.2428001 0.06558072 0.2429925 0.05340659 0.8781514 0.05340659 0.2422932 0.05746459 0.2425323 0.08181351 0.8770783 0.07775521 0.8774704 0.07775521 0.2416122 0.07369744 0.8781525 0.06963944 0.878724 0.06963944 0.2428659 0.06963944 0.878724 0.06558072 0.8788508 0.06558072 0.2429925 0.05746459 0.8783904 0.05746459 0.2425323 0.06152242 0.2428001 0.08181351 0.8770783 0.08181351 0.24122 0.08587223 0.2413433 0.07775521 0.8774704 0.07369744 0.8781525 0.07369744 0.2422941 0.1393205 0.006328165 0.1456071 4.17162e-5 0.1544976 4.16002e-5 0.1544976 4.16002e-5 0.1607843 0.006328284 0.1393205 0.006328165 0.1607843 0.006328284 0.1607843 0.01521891 0.1393205 0.006328165 0.1607843 0.01521891 0.1544977 0.02150547 0.1456071 0.02150535 0.1456071 0.02150535 0.1393205 0.01521891 0.1393205 0.006328165 0.1544977 0.04305249 0.1456071 0.04305249 0.1393205 0.03676593 0.1393205 0.03676593 0.1393205 0.0278753 0.1544977 0.04305249 0.1393205 0.0278753 0.1456071 0.02158868 0.1544977 0.04305249 0.1456071 0.02158868 0.1544977 0.02158874 0.1607843 0.02787536 0.1607843 0.02787536 0.1607843 0.03676593 0.1544977 0.04305249</float_array>
+          <technique_common>
+            <accessor source="#Circle_010-mesh-map-0-array" count="84" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Circle_010-mesh-vertices">
+          <input semantic="POSITION" source="#Circle_010-mesh-positions"/>
+        </vertices>
+        <triangles material="WeaposTools-material" count="28">
+          <input semantic="VERTEX" source="#Circle_010-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Circle_010-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Circle_010-mesh-map-0" offset="2" set="0"/>
+          <p>6 0 0 15 1 1 7 2 2 4 3 3 13 4 4 5 5 5 3 6 6 10 7 7 11 8 8 1 9 9 8 10 10 9 11 11 0 12 12 15 1 13 8 10 14 5 5 15 14 13 16 6 0 17 3 6 18 12 14 19 4 3 20 2 15 21 9 11 22 10 7 23 14 13 24 12 14 25 10 7 26 4 3 27 6 0 28 0 12 29 6 0 30 14 13 31 15 1 32 4 3 33 12 14 34 13 4 35 3 6 36 2 15 37 10 7 38 1 9 39 0 12 40 8 10 41 0 12 42 7 2 43 15 1 44 5 5 45 13 4 46 14 13 47 3 6 48 11 8 49 12 14 50 2 15 51 1 9 52 9 11 53 10 7 54 9 11 55 8 10 56 8 10 57 15 1 58 10 7 59 15 1 60 14 13 61 10 7 62 14 13 63 13 4 64 12 14 65 12 14 66 11 8 67 10 7 68 0 12 69 1 9 70 2 15 71 2 15 72 3 6 73 0 12 74 3 6 75 4 3 76 0 12 77 4 3 78 5 5 79 6 0 80 6 0 81 7 2 82 0 12 83</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Spear" name="Spear" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Circle_010-mesh" name="Spear">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="WeaposTools-material" target="#WeaposTools-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+        <node id="prop_head" name="prop_head" type="NODE">
+          <matrix sid="transform">1 0 0 0.04056259 0 0.9999899 0.004490211 0.06319866 0 -0.004490211 0.9999899 1.239039 0 0 0 1</matrix>
+        </node>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

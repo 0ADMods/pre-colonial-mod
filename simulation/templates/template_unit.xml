@@ -15,7 +15,7 @@
       <wood>0</wood>
       <stone>0</stone>
       <metal>0</metal>
-      <water>0</water>
+      <water>5</water>
     </Resources>
   </Cost>
   <Decay>
@@ -98,8 +98,8 @@
   <Selectable>
     <Overlay>
       <Texture>
-        <MainTexture>circle/128x128.png</MainTexture>
-        <MainTextureMask>circle/128x128_mask.png</MainTextureMask>
+        <MainTexture>128x128/ellipse.png</MainTexture>
+        <MainTextureMask>128x128/ellipse_mask.png</MainTextureMask>
       </Texture>
     </Overlay>
   </Selectable>
