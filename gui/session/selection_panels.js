@@ -79,9 +79,9 @@ g_SelectionPanels.Alert = {
 g_SelectionPanels.Barter = {
 	"getMaxNumberOfItems": function()
 	{
-		return 5;
+		return 6;
 	},
-	"rowLength": 5,
+	"rowLength": 6,
 	"conflictsWith": ["Garrison"],
 	"getItems": function(unitEntStates)
 	{

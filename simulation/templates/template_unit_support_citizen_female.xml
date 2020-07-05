@@ -13,6 +13,6 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>units/test/meso_femele_villager.xml</Actor>
+    <Actor>units/mexicas/meso_femele_villager.xml</Actor>
   </VisualActor>
 </Entity>

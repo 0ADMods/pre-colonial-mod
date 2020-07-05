@@ -10,6 +10,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/test/infantry_swordsman_b.xml</Actor>
+    <Actor>units/mexicas/infantry_swordsman_b.xml</Actor>
   </VisualActor>
 </Entity>

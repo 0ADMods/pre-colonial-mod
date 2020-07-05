@@ -63,6 +63,8 @@
     <Rates>
       <food.fruit>1</food.fruit>
       <food.grain>0.5</food.grain>
+      <food.corn>0.25</food.corn>
+      <food.vegetables>0.25</food.vegetables>
       <food.meat>1</food.meat>
       <wood.tree>0.7</wood.tree>
       <wood.ruins>5</wood.ruins>
@@ -70,6 +72,7 @@
       <stone.ruins>2</stone.ruins>
       <metal.ore>0.35</metal.ore>
       <water.well>0.35</water.well>
+      <water.fresh>2</water.fresh>
     </Rates>
   </ResourceGatherer>
   <Sound>

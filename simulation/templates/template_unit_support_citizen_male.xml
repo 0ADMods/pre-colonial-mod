@@ -7,6 +7,6 @@
     <Icon>units/meso_villager.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/test/meso_villager.xml</Actor>
+    <Actor>units/mexicas/meso_villager.xml</Actor>
   </VisualActor>
 </Entity>

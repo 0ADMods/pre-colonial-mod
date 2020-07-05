@@ -5,7 +5,7 @@
     <variant frequency="100" name="Base">
       <mesh>props/units/helmet/zapo_plume_small.dae</mesh>
       <textures>
-        <texture file="props/helmet/rome-a.dds" name="baseTex"/>
+        <texture file="structural/zapo_struct.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

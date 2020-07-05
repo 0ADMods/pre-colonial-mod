@@ -60,12 +60,8 @@
 	<VisibleClasses datatype="tokens">Builder Gatherer Citizen TaxPayer</VisibleClasses>
     <SelectionGroupName>template_unit_support_citizen</SelectionGroupName>
 	<Classes datatype="tokens">Worker Civilian</Classes>
-	<Tooltip>Build civilian buildings and gather resources. Command nearby Slaves to work faster. Especially good at building.
-Traits: Low Cost, Low Health, Slow Speed, Light Armor, Weak Attack, Avoids Death.
-Good at: Building and Dying.
-Mediocre at: Gathering Resources.
-Bad at: Fighting.</Tooltip>
-    <Icon>units/imp_support_citizen.png</Icon>
+	<Tooltip>Build civilian buildings and gather resources.</Tooltip>
+    <Icon>units/meso_villager.png</Icon>
 	<Formations disable=""/>
   </Identity>
   <RangeOverlayRenderer/>
@@ -82,6 +78,8 @@ Bad at: Fighting.</Tooltip>
     <Rates>
       <food.fruit>0.5</food.fruit>
       <food.grain>0.25</food.grain>
+      <food.corn>0.25</food.corn>
+      <food.vegetables>0.25</food.vegetables>
       <food.meat>0.5</food.meat>
       <wood.tree>0.5</wood.tree>
       <wood.ruins>5.0</wood.ruins>
@@ -89,6 +87,7 @@ Bad at: Fighting.</Tooltip>
       <stone.ruins>2</stone.ruins>
       <metal.ore>0.5</metal.ore>
       <water.well>0.25</water.well>
+      <water.fresh>2</water.fresh>
     </Rates>
   </ResourceGatherer>
   <ResourceTrickle>
