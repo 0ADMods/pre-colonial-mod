@@ -13,6 +13,9 @@
   <group>
     <variant frequency="1" name="wall_med">
       <mesh>structural/texcoco_aqueduct_med.dae</mesh>
+      <props>
+        <prop actor="structures/aqueducts/aqueduct_water_med.xml" attachpoint="root"/>
+      </props>
       <textures>
         <texture file="structural/ao/texcoco_aqueduct_med_ao.png" name="aoTex"/>
       </textures>

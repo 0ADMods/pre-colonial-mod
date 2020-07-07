@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="855.894" y="228.676" z="139.643"/>
-		<Rotation angle="-2.47073"/>
+		<Position x="600.248" y="228.722" z="127.749"/>
+		<Rotation angle="-1.35604"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -67202,6 +67202,72 @@
 			<Position x="792.8758" z="76.26938"/>
 			<Orientation y="-1.42539"/>
 			<Actor seed="55740"/>
+		</Entity>
+		<Entity uid="11701">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>2</Player>
+			<Position x="1227.90308" z="813.40229"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30722"/>
+		</Entity>
+		<Entity uid="11702">
+			<Template>structures/gaia_aqueduct_medium</Template>
+			<Player>2</Player>
+			<Position x="1239.08875" z="824.89979"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="365"/>
+		</Entity>
+		<Entity uid="11703">
+			<Template>structures/gaia_aqueduct_long</Template>
+			<Player>2</Player>
+			<Position x="1212.91492" z="798.78156"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="11701" group2="11704"/>
+			<Actor seed="18526"/>
+		</Entity>
+		<Entity uid="11704">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>2</Player>
+			<Position x="1197.95228" z="784.27326"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33018"/>
+		</Entity>
+		<Entity uid="11705">
+			<Template>structures/gaia_aqueduct_gate</Template>
+			<Player>2</Player>
+			<Position x="1182.59522" z="769.24494"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="11704"/>
+			<Actor seed="32271"/>
+		</Entity>
+		<Entity uid="11706">
+			<Template>structures/gaia_aqueduct_long</Template>
+			<Player>0</Player>
+			<Position x="534.23438" z="127.6856"/>
+			<Orientation y="-0.39678"/>
+			<Obstruction group="11712"/>
+			<Actor seed="62948"/>
+		</Entity>
+		<Entity uid="11707">
+			<Template>actor|geology/geo_waterfall_cave.xml</Template>
+			<Position x="523.40461" z="121.35447"/>
+			<Orientation y="0.94216"/>
+			<Actor seed="45990"/>
+		</Entity>
+		<Entity uid="11708">
+			<Template>structures/gaia_aqueduct_long</Template>
+			<Player>0</Player>
+			<Position x="549.6728" z="134.42875"/>
+			<Orientation y="-0.39116"/>
+			<Obstruction group="11712"/>
+			<Actor seed="11086"/>
+		</Entity>
+		<Entity uid="11712">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>0</Player>
+			<Position x="567.42157" z="142.05057"/>
+			<Orientation y="1.11403"/>
+			<Actor seed="48322"/>
 		</Entity>
 	</Entities>
 	<Paths/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Water_Tower">
+      <mesh>water_planes/aqueduct_tower_water_fall.dae</mesh>
+      <textures>
+        <texture file="temp/waterfall.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>waterfall.xml</material>
+</actor>
