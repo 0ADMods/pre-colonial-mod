@@ -38,6 +38,7 @@
       <PyramidLarge>2</PyramidLarge>
       <TempleOfAmun>1</TempleOfAmun>
       <Gladiator>0</Gladiator>
+      <Well>25</Well>
     </Limits>
     <LimitChangers>
       <WarDog>
@@ -116,6 +117,7 @@
 		Fortress
 		CivCentre
 		Wonder
+		Well
 	</StructureClasses>
   </StatisticsTracker>
   <TechnologyManager/>

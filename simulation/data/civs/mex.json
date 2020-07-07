@@ -3,8 +3,12 @@
 	"Culture": "texcoco",
 	"Name": "Mexicas",
 	"Emblem": "session/portraits/emblems/emblem_mexica.png",
-	"History": "The Mexica (Nahuatl: Mēxihcah, Nahuatl pronunciation: [meːˈʃiʔkaʔ] (About this soundlisten) (singular Mēxihcatl) or Mexicas are a Nahuatl-speaking indigenous people of the Valley of Mexico who were the rulers of the Aztec Empire. This group was also known as the Culhua-Mexica in recognition of its kinship alliance with the neighboring Culhua, descendants of the revered Toltecs, who occupied the Toltec capital of Tula from the tenth through twelfth centuries. The Mexica were additionally referred to as the Tenochca, a term associated with the name of their altepetl (city-state), Tenochtitlan, and Tenochtitlan's founding leader, Tenoch.The Mexica established Mexico Tenochtitlan, a settlement on an island in Lake Texcoco. A dissident group in Mexico-Tenochtitlan separated and founded the settlement of Mexico-Tlatelolco with its own dynastic lineage. The name Aztec was coined by Alexander von Humboldt who combined Aztlan (place of the heron), their mythic homeland, and tec(atl), 'people of'.The term Aztec is often used very broadly to refer not only to the Mexica, but also to the Nahuatl-speaking peoples or Nahuas of the Valley of Mexico and neighboring valleys.",
-	"Music":[],
+	"History": "The Mexica Nahuatl-speaking indigenous people of the Valley of Mexico who were the rulers of the Aztec Empire. This group was also known as the Culhua-Mexica in recognition of its kinship alliance with the neighboring Culhua, descendants of the revered Toltecs, who occupied the Toltec capital of Tula from the tenth through twelfth centuries. The Mexica were additionally referred to as the Tenochca, a term associated with the name of their altepetl (city-state), Tenochtitlan, and Tenochtitlan's founding leader, Tenoch.The Mexica established Mexico Tenochtitlan, a settlement on an island in Lake Texcoco. A dissident group in Mexico-Tenochtitlan separated and founded the settlement of Mexico-Tlatelolco with its own dynastic lineage. The name Aztec was coined by Alexander von Humboldt who combined Aztlan (place of the heron), their mythic homeland, and tec(atl), 'people of'.The term Aztec is often used very broadly to refer not only to the Mexica, but also to the Nahuatl-speaking peoples or Nahuas of the Valley of Mexico and neighboring valleys.",
+	"Music":[
+			{ "File": "Old New World.ogg", "Type": "peace" },
+			{ "File": "Cloud_People.ogg", "Type": "peace" },
+			{ "File": "Tradition.ogg", "Type": "peace" }
+		],
 	"Factions":
 	[],
 	"CivBonuses":
@@ -61,7 +65,7 @@
 			"Template": "structures/mex_water_well"
 		},
 		{
-			"Template": "units/mex_support_female_citizen",
+			"Template": "units/mex_support_citizen",
 			"Count": 4
 		},
 		{
@@ -106,5 +110,5 @@
 		"skirmish/units/default_infantry_ranged_b": "units/mex_infantry_javelinist_b",
 		"skirmish/structures/default_house_10": "structures/{civ}_house"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }

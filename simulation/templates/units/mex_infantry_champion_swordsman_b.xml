@@ -5,7 +5,7 @@
     <GenericName>Jaguar Warrior</GenericName>
     <SpecificName>Ocēlōpilli</SpecificName>
     <SelectionGroupName>units/mex_infantry_champion_swordsman_b</SelectionGroupName>
-    <Icon>units/meso_villager.png</Icon>
+    <Icon>units/zapo_champion_healer.png</Icon>
     <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
   <Promotion disable=""/>

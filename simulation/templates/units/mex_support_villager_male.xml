@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_citizen_male">
-  <Identity>
-    <Civ>mex</Civ>
-    <Lang>greek</Lang>
-    <SpecificName>Mexica Man</SpecificName>
-  </Identity>
-</Entity>

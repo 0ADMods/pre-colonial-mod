@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.83.1 commit date:2020-06-25, commit time:09:47, hash:8289fc688b3e</authoring_tool>
+    </contributor>
+    <created>2020-07-05T19:25:44</created>
+    <modified>2020-07-05T19:25:44</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="Chimali-effect">
+      <profile_COMMON>
+        <newparam sid="nahua_struct_a_png-surface">
+          <surface type="2D">
+            <init_from>nahua_struct_a_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="nahua_struct_a_png-sampler">
+          <sampler2D>
+            <source>nahua_struct_a_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="nahua_struct_a_png-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="nahua_struct_a_png" name="nahua_struct_a_png">
+      <init_from>/home/saul/.local/share/0ad/mods/pre-colonial-mod/art/textures/skins/structural/nahua_struct_a.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="Chimali-material" name="Chimali">
+      <instance_effect url="#Chimali-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Plane_004-mesh" name="Plane.004">
+      <mesh>
+        <source id="Plane_004-mesh-positions">
+          <float_array id="Plane_004-mesh-positions-array" count="54">-0.08996891 -0.0994746 0.07721024 0.1018553 -0.08215725 0.1106942 -0.1016367 0.09515243 0.07876825 0.09018766 0.1124698 0.1122522 -0.1230423 -0.008436858 0.09109091 -0.2554758 -0.1658535 0.005629181 -0.2446584 0.1322857 0.004262387 -0.3309816 -0.007729828 0.02507191 0.1281154 0.01823407 0.1201333 -0.1014454 -0.008736848 0.1003487 -0.06832975 -0.08767646 0.08646446 0.08850657 -0.07023555 0.1245257 0.05918693 0.0157451 0.1283754 0.07675784 0.1012035 0.1260905 -0.08007854 0.08376252 0.08802932 0.1147243 0.0180577 0.1339684 -0.1738702 -0.008264899 0.07202279 0.09476387 0.01469242 0.1162768</float_array>
+          <technique_common>
+            <accessor source="#Plane_004-mesh-positions-array" count="18" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane_004-mesh-normals">
+          <float_array id="Plane_004-mesh-normals-array" count="54">0.5608846 0.797379 -0.2226997 -0.2376189 0.2605385 0.9357655 0.04699957 0.4953573 0.867417 -0.429288 -0.4022477 0.8086461 -0.2941142 -0.04178088 0.9548566 -0.5303072 -0.04611498 0.8465505 -0.5068042 0.3315317 0.7957614 -0.3349147 -0.003662228 0.9422414 -0.290295 -0.2399389 0.9263683 0.9669694 0.05731499 -0.248365 0.4135637 0.02789437 0.9100478 -0.1666951 -0.01541209 0.9858881 -0.1637033 -0.3520658 0.9215481 0.1374285 -0.4242187 0.895071 0.6554881 -0.7229657 -0.2183027 0.1335199 0.0160529 -0.9909161 -0.3296943 0.2700607 0.9046375 -0.2862071 0.01840293 0.9579911</float_array>
+          <technique_common>
+            <accessor source="#Plane_004-mesh-normals-array" count="18" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane_004-mesh-map-0">
+          <float_array id="Plane_004-mesh-map-0-array" count="180">0.7348588 0.4336741 0.6946368 0.4265581 0.7311977 0.430925 0.6927514 0.3820405 0.6891809 0.4040701 0.6842706 0.4041253 0.8400295 0.1219578 0.8751442 0.1128617 0.8405181 0.1450643 0.8076582 0.1154327 0.8405181 0.1450643 0.7799034 0.1784155 0.7438257 0.410815 0.7311977 0.430925 0.7401647 0.4107598 0.6842706 0.4041253 0.6946368 0.4265581 0.6897264 0.4293072 0.5739466 0.4138357 0.611732 0.4199169 0.5794025 0.4363237 0.5824274 0.3946897 0.6189883 0.3990566 0.611732 0.4199169 0.611732 0.4199169 0.6189883 0.3990566 0.6249304 0.4205254 0.6249304 0.4205254 0.6159633 0.4406906 0.611732 0.4199169 0.7438257 0.410815 0.7342226 0.389291 0.7378838 0.3864074 0.7378838 0.3864074 0.6976617 0.3849241 0.6927514 0.3820405 0.9927533 0.2253564 0.9495873 0.1974702 0.9411065 0.219555 0.9916947 0.2491038 1.000662 0.2262447 0.9927533 0.2253564 0.8405181 0.1450643 0.9014651 0.1798143 0.8441733 0.2065383 0.7799034 0.1784155 0.8405181 0.1450643 0.8441733 0.2065383 0.8405181 0.1450643 0.8751442 0.1128617 0.9014651 0.1798143 0.8405181 0.1450643 0.8076582 0.1154327 0.8400295 0.1219578 0.611732 0.4199169 0.5739466 0.4138357 0.5824274 0.3946897 0.5794025 0.4363237 0.611732 0.4199169 0.6159633 0.4406906 0.9947196 0.2018371 0.9927533 0.2253564 1.000662 0.2262447 0.9927533 0.2253564 0.9465623 0.2447369 0.9916947 0.2491038 0.7348588 0.4336741 0.6897264 0.4293072 0.6946368 0.4265581 0.6927514 0.3820405 0.6976617 0.3849241 0.6891809 0.4040701 0.7438257 0.410815 0.7348588 0.4336741 0.7311977 0.430925 0.6842706 0.4041253 0.6891809 0.4040701 0.6946368 0.4265581 0.7438257 0.410815 0.7401647 0.4107598 0.7342226 0.389291 0.7378838 0.3864074 0.7342226 0.389291 0.6976617 0.3849241 0.9927533 0.2253564 0.9947196 0.2018371 0.9495873 0.1974702 0.9927533 0.2253564 0.9411065 0.219555 0.9465623 0.2447369</float_array>
+          <technique_common>
+            <accessor source="#Plane_004-mesh-map-0-array" count="90" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Plane_004-mesh-vertices">
+          <input semantic="POSITION" source="#Plane_004-mesh-positions"/>
+        </vertices>
+        <triangles material="Chimali-material" count="30">
+          <input semantic="VERTEX" source="#Plane_004-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Plane_004-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Plane_004-mesh-map-0" offset="2" set="0"/>
+          <p>3 0 0 14 1 1 13 2 2 0 3 3 9 4 4 4 5 5 4 5 6 2 6 7 16 7 8 0 3 9 16 7 10 5 8 11 8 9 12 13 2 13 15 10 14 4 5 15 14 1 16 2 6 17 9 4 18 12 11 19 14 1 20 10 12 21 11 13 22 12 11 23 12 11 24 11 13 25 15 10 26 15 10 27 13 2 28 12 11 29 8 9 30 11 13 31 1 14 32 1 14 33 10 12 34 0 3 35 17 15 36 0 3 37 4 5 38 3 0 39 8 9 40 17 15 41 16 7 42 6 16 43 7 17 44 5 8 45 16 7 46 7 17 47 16 7 48 2 6 49 6 16 50 16 7 51 0 3 52 4 5 53 12 11 54 9 4 55 10 12 56 14 1 57 12 11 58 13 2 59 1 14 60 17 15 61 8 9 62 17 15 63 2 6 64 3 0 65 3 0 66 2 6 67 14 1 68 0 3 69 10 12 70 9 4 71 8 9 72 3 0 73 13 2 74 4 5 75 9 4 76 14 1 77 8 9 78 15 10 79 11 13 80 1 14 81 11 13 82 10 12 83 17 15 84 1 14 85 0 3 86 17 15 87 4 5 88 2 6 89</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Plane" name="Plane" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0.01376963 0 0 0 1</matrix>
+        <instance_geometry url="#Plane_004-mesh" name="Plane">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Chimali-material" target="#Chimali-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
