@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.83.1 commit date:2020-06-25, commit time:09:47, hash:8289fc688b3e</authoring_tool>
+    </contributor>
+    <created>2020-07-07T15:58:07</created>
+    <modified>2020-07-07T15:58:07</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="tomato-effect">
+      <profile_COMMON>
+        <newparam sid="tomato_png-surface">
+          <surface type="2D">
+            <init_from>tomato_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="tomato_png-sampler">
+          <sampler2D>
+            <source>tomato_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="tomato_png-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="tomato_png" name="tomato_png">
+      <init_from>/home/saul/.local/share/0ad/mods/pre-colonial-mod/art/textures/skins/gaia/tomato.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="tomato-material" name="tomato">
+      <instance_effect url="#tomato-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="tomato_002-mesh" name="tomato.002">
+      <mesh>
+        <source id="tomato_002-mesh-positions">
+          <float_array id="tomato_002-mesh-positions-array" count="48">1.634273 -0.01293802 -0.01217973 -1.647399 -0.01293802 -0.01217973 -1.6474 5.912829 -0.01217973 1.634274 5.912829 -0.01217973 1.634274 -0.01293802 0.01716876 1.634274 5.912829 0.01716876 -1.647401 5.912829 0.01716876 -1.647401 -0.01293802 0.01716876 -0.01217979 -0.01293808 -1.634273 -0.01217961 -0.0129379 1.647399 -0.01217937 5.912829 1.6474 -0.01217949 5.912829 -1.634275 0.0171687 -0.01293808 -1.634274 0.01716893 5.912829 -1.634274 0.01716911 5.912829 1.6474 0.01716887 -0.0129379 1.647401</float_array>
+          <technique_common>
+            <accessor source="#tomato_002-mesh-positions-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="tomato_002-mesh-normals">
+          <float_array id="tomato_002-mesh-normals-array" count="18">0 0 -1 0 0 1 -1 0 0 1 0 0 -1 0 0 1 0 0</float_array>
+          <technique_common>
+            <accessor source="#tomato_002-mesh-normals-array" count="6" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="tomato_002-mesh-map-0">
+          <float_array id="tomato_002-mesh-map-0-array" count="48">0.1829627 0.5701983 0.814511 0 0.1829628 0 0.1829625 0 0.8145112 0.5701983 0.1829625 0.5701983 0.1829627 0.5701983 0.814511 0 0.1829628 0 0.1829625 0.5701983 0.8145112 0 0.8145112 0.5701983 0.1829627 0.5701983 0.8145113 0.5701983 0.814511 0 0.1829625 0 0.8145112 0 0.8145112 0.5701983 0.1829627 0.5701983 0.8145113 0.5701983 0.814511 0 0.1829625 0.5701983 0.1829625 0 0.8145112 0</float_array>
+          <technique_common>
+            <accessor source="#tomato_002-mesh-map-0-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="tomato_002-mesh-vertices">
+          <input semantic="POSITION" source="#tomato_002-mesh-positions"/>
+        </vertices>
+        <triangles material="tomato-material" count="8">
+          <input semantic="VERTEX" source="#tomato_002-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#tomato_002-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#tomato_002-mesh-map-0" offset="2" set="0"/>
+          <p>2 0 0 0 0 1 1 0 2 7 1 3 5 1 4 6 1 5 10 2 6 8 2 7 9 2 8 14 3 9 12 3 10 13 3 11 2 0 12 3 0 13 0 0 14 7 1 15 4 1 16 5 1 17 10 4 18 11 4 19 8 4 20 14 5 21 15 5 22 12 5 23</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="tomato_001" name="tomato.001" type="NODE">
+        <matrix sid="transform">-4.37114e-8 -4.37114e-8 -1 0 -1 1.68864e-15 4.37114e-8 0 -2.22045e-16 1 -4.37114e-8 0 0 0 0 1</matrix>
+        <instance_geometry url="#tomato_002-mesh" name="tomato.001">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="tomato-material" target="#tomato-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

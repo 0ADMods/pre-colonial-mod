@@ -33,21 +33,20 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="600.248" y="228.722" z="127.749"/>
-		<Rotation angle="-1.35604"/>
+		<Position x="675.305" y="210.208" z="873.935"/>
+		<Rotation angle="-0.860043"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
   "AISeed": 0,
   "CircularMap": true,
-  "Description": "Sorry, I can't help it! Zapotecs call themselves the Cloud People. :P",
+  "Description": "You are in the Zapotec Territory. Note:Capture the neighboring village as soon as possible so you can fish and get food in this desolate place.",
   "GameType": "conquest",
   "Keywords": [],
   "LockTeams": false,
   "Name": "Terra Magna - Reaching for the Clouds: Rise of the Zapotecs",
   "PlayerData": [
-    null,
     {
       "Civ": "mex",
       "Color": {
@@ -49260,60 +49259,6 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="12920"/>
 		</Entity>
-		<Entity uid="8792">
-			<Template>actor|props/structures/raft_fishfull.xml</Template>
-			<Position x="204.43293" z="669.68738"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="17364"/>
-		</Entity>
-		<Entity uid="8793">
-			<Template>actor|props/structures/raft_fishfull.xml</Template>
-			<Position x="203.2111" z="668.27857"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="56236"/>
-		</Entity>
-		<Entity uid="8794">
-			<Template>actor|props/structures/raft_fishfull.xml</Template>
-			<Position x="200.77781" z="671.34754"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="12368"/>
-		</Entity>
-		<Entity uid="8795">
-			<Template>actor|props/structures/chinese/box.xml</Template>
-			<Position x="204.88257" z="669.4845"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="27408"/>
-		</Entity>
-		<Entity uid="8796">
-			<Template>actor|props/structures/chinese/box.xml</Template>
-			<Position x="204.15812" z="670.20197"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="46574"/>
-		</Entity>
-		<Entity uid="8797">
-			<Template>actor|props/structures/chinese/box.xml</Template>
-			<Position x="203.69532" z="668.08344"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="19850"/>
-		</Entity>
-		<Entity uid="8798">
-			<Template>actor|props/structures/chinese/box.xml</Template>
-			<Position x="203.04603" z="668.77155"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="6136"/>
-		</Entity>
-		<Entity uid="8799">
-			<Template>actor|props/structures/chinese/box.xml</Template>
-			<Position x="201.37497" z="671.0575"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="38728"/>
-		</Entity>
-		<Entity uid="8800">
-			<Template>actor|props/structures/chinese/box.xml</Template>
-			<Position x="200.5759" z="671.9134"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="18018"/>
-		</Entity>
 		<Entity uid="8801">
 			<Template>actor|props/structures/carthaginians/kart_tc_stall_01.xml</Template>
 			<Position x="196.8458" z="675.14673"/>
@@ -66586,14 +66531,14 @@
 			<Actor seed="45414"/>
 		</Entity>
 		<Entity uid="11599">
-			<Template>structures/zapo_barracks</Template>
+			<Template>structures/mex_barracks</Template>
 			<Player>1</Player>
 			<Position x="714.16218" z="111.36207"/>
 			<Orientation y="2.05237"/>
 			<Actor seed="23556"/>
 		</Entity>
 		<Entity uid="11600">
-			<Template>structures/zapo_blacksmith</Template>
+			<Template>structures/mex_blacksmith</Template>
 			<Player>1</Player>
 			<Position x="750.75928" z="149.23435"/>
 			<Orientation y="2.626"/>
@@ -66614,14 +66559,14 @@
 			<Actor seed="56732"/>
 		</Entity>
 		<Entity uid="11604">
-			<Template>structures/zapo_sentry_tower</Template>
+			<Template>structures/mex_sentry_tower</Template>
 			<Player>1</Player>
 			<Position x="809.81043" z="175.08063"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="58238"/>
 		</Entity>
 		<Entity uid="11605">
-			<Template>structures/zapo_market</Template>
+			<Template>structures/mex_market</Template>
 			<Player>1</Player>
 			<Position x="813.09675" z="137.51117"/>
 			<Orientation y="1.17858"/>
@@ -67268,6 +67213,496 @@
 			<Position x="567.42157" z="142.05057"/>
 			<Orientation y="1.11403"/>
 			<Actor seed="48322"/>
+		</Entity>
+		<Entity uid="11713">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="677.93036" z="95.08512"/>
+			<Orientation y="1.46904"/>
+			<Actor seed="4046"/>
+		</Entity>
+		<Entity uid="11714">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="710.07587" z="160.24134"/>
+			<Orientation y="2.69365"/>
+			<Actor seed="4289"/>
+		</Entity>
+		<Entity uid="11715">
+			<Template>structures/mex_field</Template>
+			<Player>1</Player>
+			<Position x="932.97736" z="114.97869"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11210"/>
+		</Entity>
+		<Entity uid="11716">
+			<Template>structures/mex_field</Template>
+			<Player>1</Player>
+			<Position x="893.30555" z="77.65796"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50802"/>
+		</Entity>
+		<Entity uid="11717">
+			<Template>structures/mex_field</Template>
+			<Player>1</Player>
+			<Position x="851.31959" z="162.16178"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31436"/>
+		</Entity>
+		<Entity uid="11718">
+			<Template>structures/mex_field</Template>
+			<Player>1</Player>
+			<Position x="843.25818" z="106.57282"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17699"/>
+		</Entity>
+		<Entity uid="11719">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="768.7981" z="40.91402"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14441"/>
+		</Entity>
+		<Entity uid="11720">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="859.8357" z="78.69372"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31781"/>
+		</Entity>
+		<Entity uid="11721">
+			<Template>structures/mex_corral</Template>
+			<Player>1</Player>
+			<Position x="835.08558" z="147.32868"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14467"/>
+		</Entity>
+		<Entity uid="11722">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="754.60792" z="114.52927"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33500"/>
+		</Entity>
+		<Entity uid="11723">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="751.0876" z="113.8556"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5859"/>
+		</Entity>
+		<Entity uid="11724">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="752.0641" z="116.16239"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6467"/>
+		</Entity>
+		<Entity uid="11725">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="753.2016" z="119.93702"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64301"/>
+		</Entity>
+		<Entity uid="11726">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="757.87568" z="117.6618"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33580"/>
+		</Entity>
+		<Entity uid="11727">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="759.02948" z="114.06513"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39115"/>
+		</Entity>
+		<Entity uid="11728">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="756.06122" z="111.24442"/>
+			<Orientation y="-1.98952"/>
+			<Actor seed="18159"/>
+		</Entity>
+		<Entity uid="11729">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="754.16742" z="110.83123"/>
+			<Orientation y="-1.90012"/>
+			<Actor seed="42990"/>
+		</Entity>
+		<Entity uid="11730">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="752.03742" z="110.58155"/>
+			<Orientation y="-1.52556"/>
+			<Actor seed="17143"/>
+		</Entity>
+		<Entity uid="11731">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="749.6515" z="111.10497"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58794"/>
+		</Entity>
+		<Entity uid="11732">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="748.05268" z="111.55872"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46439"/>
+		</Entity>
+		<Entity uid="11733">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="747.24885" z="112.5962"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59706"/>
+		</Entity>
+		<Entity uid="11734">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="746.6709" z="116.4155"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36531"/>
+		</Entity>
+		<Entity uid="11735">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="747.47815" z="119.45208"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64246"/>
+		</Entity>
+		<Entity uid="11736">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="748.22986" z="120.1254"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13908"/>
+		</Entity>
+		<Entity uid="11737">
+			<Template>units/mex_infantry_javelinist_e</Template>
+			<Player>1</Player>
+			<Position x="749.14203" z="120.7277"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5122"/>
+		</Entity>
+		<Entity uid="11738">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="737.49683" z="105.2831"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60038"/>
+		</Entity>
+		<Entity uid="11739">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="735.53266" z="102.6252"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55919"/>
+		</Entity>
+		<Entity uid="11740">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="733.58533" z="99.79091"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65223"/>
+		</Entity>
+		<Entity uid="11741">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="738.99183" z="107.82929"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53374"/>
+		</Entity>
+		<Entity uid="11742">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="742.62922" z="103.784"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1013"/>
+		</Entity>
+		<Entity uid="11743">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="740.09675" z="102.28585"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38307"/>
+		</Entity>
+		<Entity uid="11744">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="736.96839" z="100.59287"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57596"/>
+		</Entity>
+		<Entity uid="11745">
+			<Template>units/mex_infantry_champion_swordsman_a</Template>
+			<Player>1</Player>
+			<Position x="735.59559" z="98.07775"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60364"/>
+		</Entity>
+		<Entity uid="11746">
+			<Template>units/mex_infantry_champion_swordsman_b</Template>
+			<Player>1</Player>
+			<Position x="745.08362" z="101.88859"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42901"/>
+		</Entity>
+		<Entity uid="11747">
+			<Template>units/mex_infantry_champion_swordsman_b</Template>
+			<Player>1</Player>
+			<Position x="735.92914" z="110.90183"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47469"/>
+		</Entity>
+		<Entity uid="11748">
+			<Template>units/mex_infantry_champion_swordsman_b</Template>
+			<Player>1</Player>
+			<Position x="729.50635" z="103.51684"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48162"/>
+		</Entity>
+		<Entity uid="11749">
+			<Template>units/mex_infantry_champion_swordsman_b</Template>
+			<Player>1</Player>
+			<Position x="738.41138" z="92.24854"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56539"/>
+		</Entity>
+		<Entity uid="11750">
+			<Template>units/mex_infantry_champion_swordsman_b</Template>
+			<Player>1</Player>
+			<Position x="675.29041" z="126.75411"/>
+			<Orientation y="-1.22608"/>
+			<Actor seed="41493"/>
+		</Entity>
+		<Entity uid="11751">
+			<Template>units/mex_infantry_champion_swordsman_b</Template>
+			<Player>1</Player>
+			<Position x="682.02961" z="140.02735"/>
+			<Orientation y="-1.52442"/>
+			<Actor seed="10244"/>
+		</Entity>
+		<Entity uid="11752">
+			<Template>units/mex_infantry_archer_e</Template>
+			<Player>1</Player>
+			<Position x="689.96924" z="141.24729"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63820"/>
+		</Entity>
+		<Entity uid="11753">
+			<Template>units/mex_infantry_archer_e</Template>
+			<Player>1</Player>
+			<Position x="688.0445" z="147.8487"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11922"/>
+		</Entity>
+		<Entity uid="11754">
+			<Template>units/mex_infantry_archer_e</Template>
+			<Player>1</Player>
+			<Position x="684.3553" z="151.74314"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21115"/>
+		</Entity>
+		<Entity uid="11755">
+			<Template>units/mex_infantry_archer_e</Template>
+			<Player>1</Player>
+			<Position x="671.81641" z="118.08411"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34983"/>
+		</Entity>
+		<Entity uid="11756">
+			<Template>units/mex_infantry_archer_e</Template>
+			<Player>1</Player>
+			<Position x="676.88935" z="119.25988"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18519"/>
+		</Entity>
+		<Entity uid="11757">
+			<Template>units/mex_infantry_archer_e</Template>
+			<Player>1</Player>
+			<Position x="680.80683" z="121.0768"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29208"/>
+		</Entity>
+		<Entity uid="11758">
+			<Template>units/zapo_siege_ram</Template>
+			<Player>1</Player>
+			<Position x="783.2079" z="142.53492"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20071"/>
+		</Entity>
+		<Entity uid="11759">
+			<Template>units/zapo_siege_ram</Template>
+			<Player>1</Player>
+			<Position x="772.00745" z="158.53177"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53369"/>
+		</Entity>
+		<Entity uid="11760">
+			<Template>units/zapo_siege_ram</Template>
+			<Player>1</Player>
+			<Position x="788.52106" z="156.20563"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45396"/>
+		</Entity>
+		<Entity uid="11761">
+			<Template>units/zapo_siege_ram</Template>
+			<Player>1</Player>
+			<Position x="782.67933" z="167.04856"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11313"/>
+		</Entity>
+		<Entity uid="11763">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="359.51981" z="610.12378"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52175"/>
+		</Entity>
+		<Entity uid="11764">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="364.2172" z="613.65418"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42523"/>
+		</Entity>
+		<Entity uid="11765">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="358.94742" z="616.67194"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39447"/>
+		</Entity>
+		<Entity uid="11766">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="365.39521" z="619.00898"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12183"/>
+		</Entity>
+		<Entity uid="11767">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="359.14322" z="622.08906"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26598"/>
+		</Entity>
+		<Entity uid="11768">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="367.25766" z="622.17219"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15866"/>
+		</Entity>
+		<Entity uid="11769">
+			<Template>units/zapo_support_female_citizen</Template>
+			<Player>4</Player>
+			<Position x="360.49418" z="626.20698"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24108"/>
+		</Entity>
+		<Entity uid="11770">
+			<Template>units/zapo_infantry_swordsman_b</Template>
+			<Player>4</Player>
+			<Position x="357.75281" z="607.61524"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="549"/>
+		</Entity>
+		<Entity uid="11771">
+			<Template>units/zapo_infantry_swordsman_b</Template>
+			<Player>4</Player>
+			<Position x="354.79435" z="613.42469"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63385"/>
+		</Entity>
+		<Entity uid="11772">
+			<Template>units/zapo_infantry_swordsman_b</Template>
+			<Player>4</Player>
+			<Position x="361.19187" z="631.60212"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48167"/>
+		</Entity>
+		<Entity uid="11773">
+			<Template>units/zapo_infantry_swordsman_b</Template>
+			<Player>4</Player>
+			<Position x="365.86039" z="628.57422"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38625"/>
+		</Entity>
+		<Entity uid="11774">
+			<Template>units/zapo_infantry_spearman_b</Template>
+			<Player>4</Player>
+			<Position x="335.434" z="632.51691"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11697"/>
+		</Entity>
+		<Entity uid="11775">
+			<Template>units/zapo_infantry_spearman_b</Template>
+			<Player>4</Player>
+			<Position x="340.53446" z="636.52222"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25765"/>
+		</Entity>
+		<Entity uid="11776">
+			<Template>units/zapo_infantry_spearman_b</Template>
+			<Player>4</Player>
+			<Position x="344.73481" z="639.35572"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15315"/>
+		</Entity>
+		<Entity uid="11777">
+			<Template>units/zapo_infantry_spearman_b</Template>
+			<Player>4</Player>
+			<Position x="350.42081" z="641.83423"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52536"/>
+		</Entity>
+		<Entity uid="11778">
+			<Template>units/zapo_infantry_slinger_b</Template>
+			<Player>4</Player>
+			<Position x="358.24552" z="644.3924"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35115"/>
+		</Entity>
+		<Entity uid="11779">
+			<Template>units/zapo_infantry_slinger_b</Template>
+			<Player>4</Player>
+			<Position x="356.3842" z="650.41114"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22230"/>
+		</Entity>
+		<Entity uid="11780">
+			<Template>units/zapo_infantry_slinger_b</Template>
+			<Player>4</Player>
+			<Position x="353.158" z="656.26355"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23078"/>
+		</Entity>
+		<Entity uid="11781">
+			<Template>units/zapo_infantry_slinger_b</Template>
+			<Player>4</Player>
+			<Position x="358.70405" z="657.86207"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57188"/>
+		</Entity>
+		<Entity uid="11782">
+			<Template>units/zapo_infantry_slinger_b</Template>
+			<Player>4</Player>
+			<Position x="359.61832" z="651.69813"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49484"/>
+		</Entity>
+		<Entity uid="11783">
+			<Template>units/zapo_infantry_slinger_b</Template>
+			<Player>4</Player>
+			<Position x="360.80811" z="646.63624"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41644"/>
 		</Entity>
 	</Entities>
 	<Paths/>

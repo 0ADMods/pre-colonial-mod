@@ -20,6 +20,9 @@
     <Tooltip>Train Mexica citizen-soldiers. Research improvements for Mexica units.</Tooltip>
     <Icon>structures/pers_barracks.png</Icon>
   </Identity>
+  <Technologies datatype="tokens">
+     mexicas/xochiyayoyo   
+  </Technologies>
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
   </Obstruction>
