@@ -9,7 +9,7 @@
         <texture file="skeletal/ptol_healer_spec.png" name="specTex"/>
       </textures>
       <props>
-        <prop actor="props/units/heads/head_zapo_e.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_zapo_e.xml" attachpoint="head"/>
         <prop actor="props/units/heads/zapo_plume_a.xml" attachpoint="helmet"/>
         <prop actor="props/units/staff.xml" attachpoint="weapon_R"/>
       </props>
