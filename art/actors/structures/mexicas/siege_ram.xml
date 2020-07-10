@@ -4,10 +4,9 @@
   <group>
     <variant frequency="1" name="Iberian Ram">
       <animations>
-        <animation file="mechanical/iber_ram_idle.dae" name="Idle" speed="100"/>
-        <animation file="mechanical/iber_ram_move.dae" name="Walk" speed="15"/>
-        <animation file="mechanical/iber_ram_move.dae" name="Run" speed="30"/>
-        <animation event="0.3" file="mechanical/iber_ram_attack.dae" name="attack_melee" speed="100"/>
+        <animation file="mechanical/mex_ram_move.dae" name="Walk" speed="15"/>
+        <animation file="mechanical/mex_ram_move.dae" name="Run" speed="30"/>
+        <animation event="0.3" file="mechanical/mex_ram_attack.dae" name="attack_melee" speed="100"/>
       </animations>
       <mesh>structural/mex_siege_ram.dae</mesh>
       <textures>

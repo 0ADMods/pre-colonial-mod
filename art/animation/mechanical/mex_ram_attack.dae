@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.83.2 commit date:2020-07-09, commit time:05:50, hash:239fbf7d936f</authoring_tool>
     </contributor>
-    <created>2020-07-10T12:22:21</created>
-    <modified>2020-07-10T12:22:21</modified>
+    <created>2020-07-10T12:52:16</created>
+    <modified>2020-07-10T12:52:16</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -134,6 +134,74 @@
       </skin>
     </controller>
   </library_controllers>
+  <library_animations>
+    <animation id="action_container-FourWheelRam" name="FourWheelRam">
+      <animation id="FourWheelRam_Action_RamBone_pose_matrix" name="FourWheelRam">
+        <source id="FourWheelRam_Action_RamBone_pose_matrix-input">
+          <float_array id="FourWheelRam_Action_RamBone_pose_matrix-input-array" count="11">0 0.04166662 0.08333331 0.125 0.1666666 0.2083333 0.25 0.2916666 0.3333333 0.375 0.4166666</float_array>
+          <technique_common>
+            <accessor source="#FourWheelRam_Action_RamBone_pose_matrix-input-array" count="11" stride="1">
+              <param name="TIME" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="FourWheelRam_Action_RamBone_pose_matrix-output">
+          <float_array id="FourWheelRam_Action_RamBone_pose_matrix-output-array" count="176">1 0 0 0 0 0.9999999 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0.9999995 -9.62776e-4 0 0 9.62776e-4 0.9999995 0 0 0 0 1 1 0 0 0 0 0.9999938 -0.003501041 0 0 0.003501041 0.9999939 0 0 0 0 1 1 0 0 0 0 0.9999748 -0.00708965 0 0 0.00708965 0.9999748 0 0 0 0 1 1 0 0 0 0 0.9999372 -0.01120333 0 0 0.01120334 0.9999372 0 0 0 0 1 1 0 0 0 0 0.9998826 -0.01531679 0 0 0.01531679 0.9998827 0 0 0 0 1 1 0 0 0 0 0.9998212 -0.01890481 0 0 0.01890481 0.9998213 0 0 0 0 1 1 0 0 0 0 0.99977 -0.02144243 0 0 0.02144243 0.9997701 0 0 0 0 1 1 0 0 0 0 0.9997489 -0.02240491 0 0 0.02240491 0.999749 0 0 0 0 1 1 0 0 0 0 0.9999372 -0.01120333 0 0 0.01120334 0.9999372 0 0 0 0 1 1 0 0 0 0 0.9999999 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#FourWheelRam_Action_RamBone_pose_matrix-output-array" count="11" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="FourWheelRam_Action_RamBone_pose_matrix-interpolation">
+          <Name_array id="FourWheelRam_Action_RamBone_pose_matrix-interpolation-array" count="11">LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR</Name_array>
+          <technique_common>
+            <accessor source="#FourWheelRam_Action_RamBone_pose_matrix-interpolation-array" count="11" stride="1">
+              <param name="INTERPOLATION" type="name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <sampler id="FourWheelRam_Action_RamBone_pose_matrix-sampler">
+          <input semantic="INPUT" source="#FourWheelRam_Action_RamBone_pose_matrix-input"/>
+          <input semantic="OUTPUT" source="#FourWheelRam_Action_RamBone_pose_matrix-output"/>
+          <input semantic="INTERPOLATION" source="#FourWheelRam_Action_RamBone_pose_matrix-interpolation"/>
+        </sampler>
+        <channel source="#FourWheelRam_Action_RamBone_pose_matrix-sampler" target="FourWheelRam_RamBone/transform"/>
+      </animation>
+      <animation id="FourWheelRam_Action_Weapon_pose_matrix" name="FourWheelRam">
+        <source id="FourWheelRam_Action_Weapon_pose_matrix-input">
+          <float_array id="FourWheelRam_Action_Weapon_pose_matrix-input-array" count="11">0 0.04166662 0.08333331 0.125 0.1666666 0.2083333 0.25 0.2916666 0.3333333 0.375 0.4166666</float_array>
+          <technique_common>
+            <accessor source="#FourWheelRam_Action_Weapon_pose_matrix-input-array" count="11" stride="1">
+              <param name="TIME" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="FourWheelRam_Action_Weapon_pose_matrix-output">
+          <float_array id="FourWheelRam_Action_Weapon_pose_matrix-output-array" count="176">1 0 0 -0.001852091 0 1 0 -5.485817 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -5.305044 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 2.32831e-10 -4.907345 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -4.509645 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -4.328871 0 9.31323e-10 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -4.832012 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -5.766414 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -6.269555 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -6.066363 0 0 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -5.689008 0 9.31323e-10 1 1.786429 0 0 0 1 1 0 0 -0.001852091 0 1 0 -5.485817 0 0 1 1.786429 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#FourWheelRam_Action_Weapon_pose_matrix-output-array" count="11" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="FourWheelRam_Action_Weapon_pose_matrix-interpolation">
+          <Name_array id="FourWheelRam_Action_Weapon_pose_matrix-interpolation-array" count="11">LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR</Name_array>
+          <technique_common>
+            <accessor source="#FourWheelRam_Action_Weapon_pose_matrix-interpolation-array" count="11" stride="1">
+              <param name="INTERPOLATION" type="name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <sampler id="FourWheelRam_Action_Weapon_pose_matrix-sampler">
+          <input semantic="INPUT" source="#FourWheelRam_Action_Weapon_pose_matrix-input"/>
+          <input semantic="OUTPUT" source="#FourWheelRam_Action_Weapon_pose_matrix-output"/>
+          <input semantic="INTERPOLATION" source="#FourWheelRam_Action_Weapon_pose_matrix-interpolation"/>
+        </sampler>
+        <channel source="#FourWheelRam_Action_Weapon_pose_matrix-sampler" target="FourWheelRam_Weapon/transform"/>
+      </animation>
+    </animation>
+  </library_animations>
   <library_visual_scenes>
     <visual_scene id="Scene" name="Scene">
       <node id="FourWheelRam" name="FourWheelRam" type="NODE">

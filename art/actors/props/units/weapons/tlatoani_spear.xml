@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Tlatoani Spear">
+      <mesh>props/units/weapons/no_head_spear.dae</mesh>
+      <props>
+        <prop actor="props/units/weapons/tlatoani_spear_head.xml" attachpoint="head"/>
+      </props>
+      <textures>
+        <texture file="props/prop_weap.dds" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>

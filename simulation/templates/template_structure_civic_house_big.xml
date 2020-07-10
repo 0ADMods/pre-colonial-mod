@@ -8,7 +8,7 @@
     </Resources>
   </Cost>
   <Capturable>
-    <CapturePoints>500</CapturePoints>
+    <CapturePoints>60</CapturePoints>
     <GarrisonRegenRate>4.0</GarrisonRegenRate>
   </Capturable>
   <Footprint>
@@ -18,7 +18,7 @@
     <Max>8</Max>
   </GarrisonHolder>
   <Health>
-    <Max>500</Max>
+    <Max>60</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
   </Health>
   <Identity>

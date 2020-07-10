@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Tlatoani Spear Head">
+      <mesh>props/units/weapons/tlatoani_spear_head.dae</mesh>
+      <textures>
+        <texture file="structural/nahua_struct_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>
