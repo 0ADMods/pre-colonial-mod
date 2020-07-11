@@ -9,5 +9,19 @@
       </textures>
     </variant>
   </group>
-  <material>player_trans.xml</material>
+  <group>
+    <variant frequency="1" name="Red-Orange">
+      <color>250 95 67</color>
+    </variant>
+    <variant frequency="1" name="Light Blue">
+      <color>0 110 255</color>
+    </variant>
+    <variant frequency="1" name="Green Parrot">
+      <color>62 148 82</color>
+    </variant>
+    <variant frequency="1" name="Blue Parrot">
+      <color>36 59 163</color>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
 </actor>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/mex_infantry_javelinist_b">
+<Entity parent="units/mex_infantry_spearman_b">
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/mex_infantry_javelinist_e</Entity>
+    <Entity>units/mex_infantry_spearman_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/mexicas/infantry_javelinist_a.xml</Actor>
+    <Actor>units/mexicas/infantry_spearman_a.xml</Actor>
   </VisualActor>
 </Entity>

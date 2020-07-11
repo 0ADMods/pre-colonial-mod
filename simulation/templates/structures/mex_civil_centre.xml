@@ -9,6 +9,7 @@
       units/{civ}_infantry_spearman_b
       units/{civ}_infantry_archer_b
       units/{civ}_infantry_slinger_b
+      units/{civ}_hero_tlatoani
     </Entities>
   </ProductionQueue>
   <VisualActor>

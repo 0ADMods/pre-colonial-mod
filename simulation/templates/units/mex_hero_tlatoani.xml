@@ -1,19 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_healer">
+<Entity parent="template_unit_hero_healer">
   <Auras datatype="tokens">
     units/zapo_priest
+    units/elephant_worker
   </Auras>
   <Cost>
-    <BuildTime>30</BuildTime>
+    <BuildTime>60</BuildTime>
     <Resources>
       <food>300</food>
-      <metal>100</metal>
+      <metal>120</metal>
+      <water>50</water>
     </Resources>
   </Cost>
   <Identity>
     <Civ>mex</Civ>
     <GenericName>Great Speaker</GenericName>
     <SpecificName>Huey Tlatoani</SpecificName>
+    <Tooltip>Support Unit cant make building build faster. Heal units</Tooltip>
     <SelectionGroupName>units/mex_champion_healer</SelectionGroupName>
     <Icon>units/zapo_champion_healer.png</Icon>
     <Rank>Elite</Rank>
@@ -29,6 +32,6 @@
     <Range>90</Range>
   </Vision>
   <VisualActor>
-    <Actor>units/zapotecs/champion_support_healer.xml</Actor>
+    <Actor>units/mexicas/hero_support_tlatoani.xml</Actor>
   </VisualActor>
 </Entity>

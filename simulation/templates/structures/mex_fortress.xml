@@ -8,12 +8,6 @@
     <Civ>mex</Civ>
     <SpecificName>Nukuch naj</SpecificName>
   </Identity>
-  <ProductionQueue>
-    <Entities datatype="tokens">
-      units/{civ}_infantry_champion_swordsman_b
-      units/{civ}_infantry_champion_swordsman_a
-    </Entities>
-  </ProductionQueue>
   <Obstruction>
     <Static width="26.0" depth="28.0"/>
   </Obstruction>
