@@ -20,7 +20,7 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/zapotecs/temple.xml</Actor>
+    <Actor>structures/mexicas/temple.xml</Actor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
   </VisualActor>
 </Entity>

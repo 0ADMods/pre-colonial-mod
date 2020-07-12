@@ -11,6 +11,6 @@
     <Static width="16.0" depth="17"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/farmstead.xml</Actor>
+    <Actor>structures/mexicas/farmstead.xml</Actor>
   </VisualActor>
 </Entity>
