@@ -16,7 +16,7 @@
     <Height>3.0</Height>
   </Footprint>
   <Identity>
-    <Civ>mex</Civ>
+    <Civ>tlax</Civ>
     <Icon>units/iber_siege_ram.png</Icon>
   </Identity>
   <VisualActor>

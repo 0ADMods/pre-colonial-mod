@@ -35,6 +35,7 @@
       structures/{civ}_corral
       structures/{civ}_outpost
       structures/wallset_palisade
+      units/{civ}_siege_ram
       structures/{civ}_sentry_tower
       structures/{civ}_dock
       structures/{civ}_barracks

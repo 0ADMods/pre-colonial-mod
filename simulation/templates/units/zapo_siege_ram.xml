@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege_ram">
+  <BuildRestrictions>
+    <Category>Ram</Category>
+    <PlacementType>land</PlacementType>
+    <Territory>own neutral enemy</Territory>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <wood>175</wood>
+    </Resources>
+  </Cost>
   <Footprint replace="">
     <Square width="6.75" depth="9.0"/>
     <Height>3.0</Height>
@@ -10,5 +21,6 @@
   </Identity>
   <VisualActor>
     <Actor>structures/zapotecs/siege_ram.xml</Actor>
+    <FoundationActor>structures/fndn_ram.xml</FoundationActor>
   </VisualActor>
 </Entity>

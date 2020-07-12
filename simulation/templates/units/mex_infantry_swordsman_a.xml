@@ -6,7 +6,7 @@
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/zapo_infantry_swordsman_e</Entity>
+    <Entity>units/mex_infantry_swordsman_e</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/mexicas/infantry_swordsman_a.xml</Actor>
