@@ -15,9 +15,9 @@
   </group>
   <group>
     <variant frequency="1" name="farmstead">
-      <mesh>structural/farmstead_mex.dae</mesh>
+      <mesh>structural/framstead_mex.dae</mesh>
       <textures>
-        <texture file="structural/ao/farmstead_mexica_ao.png" name="aoTex"/>
+        <texture file="structural/ao/framstead_mexica_ao.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

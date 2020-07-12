@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant name="Base">
+      <textures>
+        <texture file="structural/zapo_struct.png" name="baseTex"/>
+      </textures>
+      <props>
+        <prop actor="particle/flame_firepit_2.xml" attachpoint="fire"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="fire"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="sarissa_a">
+      <mesh>structural/city_torch.dae</mesh>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>
