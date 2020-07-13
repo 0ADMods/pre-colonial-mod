@@ -5,12 +5,6 @@
     <PlacementType>land</PlacementType>
     <Territory>own neutral enemy</Territory>
   </BuildRestrictions>
-  <Cost>
-    <BuildTime>20</BuildTime>
-    <Resources>
-      <wood>175</wood>
-    </Resources>
-  </Cost>
   <Footprint replace="">
     <Square width="6.75" depth="9.0"/>
     <Height>3.0</Height>

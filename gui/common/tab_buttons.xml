@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<object hotkey="tab.next">
+		<action on="KeyDown">selectNextTab(1);</action>
+	</object>
+
+	<object hotkey="tab.prev">
+		<action on="KeyDown">selectNextTab(-1);</action>
+	</object>
+
+	<object name="tabButtons" type="image">
+		<repeat count="21">
+			<object name="tabButton[n]" type="button" size="0 0 100% 100%" hidden="true">
+				<object type="text" name="tabButtonText[n]" style="ModernLabelText" ghost="true"/>
+				<action on="MouseWheelUp">selectNextTab(-1);</action>
+				<action on="MouseWheelDown">selectNextTab(1);</action>
+			</object>
+		</repeat>
+	</object>
+</object>

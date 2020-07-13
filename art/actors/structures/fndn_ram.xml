@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="100" name="Base">
-      <mesh>structural/foundation_ram.dae</mesh>
+      <mesh>structural/fundation_ram.dae</mesh>
       <textures>
         <texture file="structural/nahua_struct_a.png" name="baseTex"/>
       </textures>
