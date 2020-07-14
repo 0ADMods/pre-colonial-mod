@@ -5,7 +5,7 @@
     <GenericName>Mexica Hunter</GenericName>
     <SpecificName>Mexicatl Atlatl</SpecificName>
     <SelectionGroupName>units/zapo_infantry_javelinist_b</SelectionGroupName>
-    <Icon>units/zapo_infantry_javelinist.png</Icon>
+    <Icon>units/mex_infantry_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_javelinist_a</Entity>

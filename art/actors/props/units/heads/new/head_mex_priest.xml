@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="mesh">
+      <mesh>props/units/heads/new/meso_head_a.dae</mesh>
+      <textures>
+         <texture file="props/head/mex_priest.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>

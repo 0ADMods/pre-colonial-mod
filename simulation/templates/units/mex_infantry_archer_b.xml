@@ -5,7 +5,8 @@
     <GenericName>Mexica Archer</GenericName>
     <SpecificName>k’iäqbal ch’ab</SpecificName>
     <SelectionGroupName>units/zapo_infantry_archer_b</SelectionGroupName>
-    <Icon>units/zapo_infantry_archer.png</Icon>
+    <Icon>units/mex_infantry_archer.png</Icon>
+    <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_archer_a</Entity>

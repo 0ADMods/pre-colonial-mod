@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant file="biped/base_swordsman_shield_fast.xml">
+      <mesh>skeletal/new/m_cotton_laincloth_elite.dae</mesh>
+      <props>
+        <prop actor="props/units/heads/new/head_shaved.xml" attachpoint="head"/>
+        <prop actor="props/units/shields/mex_chimali_feathers.xml" attachpoint="shield"/>
+        <prop actor="props/units/heads/zapo_back_banner.xml" attachpoint="back"/>
+        <prop actor="props/units/weapons/macuahuitl.xml" attachpoint="weapon_R"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Base">
+      <textures>
+        <texture file="skeletal/mex_suit_egle.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant file="biped/attack_capture.xml"/>
+    <variant file="biped/attack_slaughter.xml"/>
+    <variant file="biped/death_infantry.xml"/>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

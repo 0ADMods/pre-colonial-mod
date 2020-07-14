@@ -14,5 +14,10 @@
       </textures>
     </variant>
   </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant file="biped/death_infantry.xml">
+    </variant>
+  </group>
   <material>player_trans.xml</material>
 </actor>

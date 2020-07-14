@@ -10,6 +10,6 @@
     <Entity>units/mex_support_healer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/zapotecs/healer.xml</Actor>
+    <Actor>units/mexicas/priest.xml</Actor>
   </VisualActor>
 </Entity>

@@ -18,7 +18,7 @@
     <SpecificName>Huey Tlatoani</SpecificName>
     <Tooltip>Support Unit cant make building build faster. Heal units</Tooltip>
     <SelectionGroupName>units/mex_champion_healer</SelectionGroupName>
-    <Icon>units/zapo_champion_healer.png</Icon>
+    <Icon>units/mex_hero_tlatoani.png</Icon>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>

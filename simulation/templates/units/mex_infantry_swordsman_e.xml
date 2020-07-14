@@ -3,6 +3,7 @@
   <Identity>
     <SpecificName>Cuāuhpilli</SpecificName>
     <GenericName>Eagle Warrior</GenericName>
+    <Icon>units/mex_infantry_swordsman_e.png</Icon>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
