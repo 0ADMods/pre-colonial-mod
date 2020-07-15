@@ -2,8 +2,8 @@
 <Entity parent="template_unit_champion_infantry_spearman_hoplite">
   <Identity>
     <Civ>mex</Civ>
-    <GenericName>Mexica Capitan</GenericName>
-    <SpecificName>Hypaspistḗs</SpecificName>
+    <GenericName>General</GenericName>
+    <SpecificName>Tlacateccatl</SpecificName>
     <Icon>units/mex_champion_spearman.png</Icon>
     <SelectionGroupName>units/mex_champion_infantry_a</SelectionGroupName>
   </Identity>

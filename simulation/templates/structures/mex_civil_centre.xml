@@ -2,7 +2,7 @@
 <Entity parent="template_structure_civic_civil_centre">
   <Identity>
     <Civ>mex</Civ>
-    <SpecificName>Luhui Guidxi</SpecificName>
+    <SpecificName>Altepenepantla</SpecificName>
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">

@@ -6,6 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>mex</Civ>
+    <SpecificName>Tenamitl</SpecificName>
     <SelectionGroupName>structures/mex_wallset_stone</SelectionGroupName>
   </Identity>
   <Obstruction>

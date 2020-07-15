@@ -2,6 +2,7 @@
 <Entity parent="template_wallset">
   <Identity>
     <Civ>mex</Civ>
+    <SpecificName>Tenamitl</SpecificName>
   </Identity>
   <WallSet>
     <Templates>

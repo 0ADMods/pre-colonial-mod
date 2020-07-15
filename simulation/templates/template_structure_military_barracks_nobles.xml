@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military">
+  <Auras datatype="tokens">
+    structures/barracks_xp_trickle
+  </Auras>
+  <Cost>
+    <BuildTime>150</BuildTime>
+  </Cost>
+  <Footprint>
+    <Square width="19.0" depth="19.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>10</Max>
+    <List datatype="tokens">Infantry Cavalry</List>
+  </GarrisonHolder>
+  <Health>
+    <Max>2000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x4</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Barracks</GenericName>
+    <SelectionGroupName>template_structure_military_barracks</SelectionGroupName>
+    <Tooltip>Train citizen-soldiers. Research training improvements.</Tooltip>
+    <VisibleClasses datatype="tokens">Village Barracks</VisibleClasses>
+    <Icon>structures/barracks.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
+  </Identity>
+  <Obstruction>
+    <Static width="17.0" depth="17.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}_champion_infantry_spearman
+      units/{civ}_champion_infantry_swordsman
+      units/{civ}_champion_infantry_archer
+    </Entities>
+    <Technologies datatype="tokens">
+      heal_barracks
+      archery_tradition
+    </Technologies>
+  </ProductionQueue>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_barracks.xml</select>
+      <constructed>interface/complete/building/complete_barracks.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <Vision>
+    <Range>32</Range>
+  </Vision>
+  <VisualActor>
+    <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
+  </VisualActor>
+</Entity>

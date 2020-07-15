@@ -43,7 +43,7 @@
   </GarrisonHolder>
   <Identity>
     <Civ>mex</Civ>
-    <GenericName>Battle Canoe</GenericName>
+    <GenericName>Mexica Battle Canoe</GenericName>
     <Icon>units/zapo_ship_canoe.png</Icon>
     <Classes datatype="tokens">FishingBoat</Classes>
   </Identity>
