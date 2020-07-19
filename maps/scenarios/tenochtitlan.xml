@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1236.87" y="188.147" z="808.044"/>
-		<Rotation angle="-2.00723"/>
-		<Declination angle="0.389168"/>
+		<Position x="905.526" y="165.884" z="391.027"/>
+		<Rotation angle="-1.18279"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -418,1002 +418,6 @@
 			<Position x="36.62897" z="620.33472"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="36289"/>
-		</Entity>
-		<Entity uid="1162">
-			<Template>structures/mex_wonder</Template>
-			<Player>1</Player>
-			<Position x="716.89509" z="551.3794"/>
-			<Orientation y="1.44286"/>
-			<Actor seed="47245"/>
-		</Entity>
-		<Entity uid="1163">
-			<Template>structures/mex_defense_tower</Template>
-			<Player>1</Player>
-			<Position x="1147.33582" z="734.54401"/>
-			<Orientation y="-1.59623"/>
-			<Actor seed="54380"/>
-		</Entity>
-		<Entity uid="1164">
-			<Template>structures/mex_defense_tower</Template>
-			<Player>1</Player>
-			<Position x="1138.74683" z="775.82874"/>
-			<Orientation y="-2.29363"/>
-			<Actor seed="65121"/>
-		</Entity>
-		<Entity uid="1165">
-			<Template>structures/mex_temple</Template>
-			<Player>1</Player>
-			<Position x="714.11481" z="629.18506"/>
-			<Orientation y="1.42911"/>
-			<Actor seed="37800"/>
-		</Entity>
-		<Entity uid="1166">
-			<Template>structures/mex_temple</Template>
-			<Player>1</Player>
-			<Position x="752.20057" z="468.099"/>
-			<Orientation y="1.17127"/>
-			<Actor seed="6029"/>
-		</Entity>
-		<Entity uid="1167">
-			<Template>structures/mex_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="948.4745" z="668.99994"/>
-			<Orientation y="2.96543"/>
-			<Actor seed="37963"/>
-		</Entity>
-		<Entity uid="1168">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="1098.08643" z="635.7552"/>
-			<Orientation y="1.63231"/>
-			<Actor seed="41740"/>
-		</Entity>
-		<Entity uid="1169">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="1073.25379" z="408.15287"/>
-			<Orientation y="1.55227"/>
-			<Actor seed="40320"/>
-		</Entity>
-		<Entity uid="1170">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="959.13196" z="203.35245"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="5046"/>
-		</Entity>
-		<Entity uid="1171">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="706.89808" z="111.9445"/>
-			<Orientation y="-2.89545"/>
-			<Actor seed="38450"/>
-		</Entity>
-		<Entity uid="1172">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="415.27125" z="253.024"/>
-			<Orientation y="-2.95824"/>
-			<Actor seed="57517"/>
-		</Entity>
-		<Entity uid="1173">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="229.82905" z="443.32554"/>
-			<Orientation y="-1.76784"/>
-			<Actor seed="18582"/>
-		</Entity>
-		<Entity uid="1174">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="115.27508" z="585.69684"/>
-			<Orientation y="-2.53275"/>
-			<Actor seed="59926"/>
-		</Entity>
-		<Entity uid="1175">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="159.62336" z="616.84601"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="11298"/>
-		</Entity>
-		<Entity uid="1176">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="161.81217" z="629.58771"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="31978"/>
-		</Entity>
-		<Entity uid="1177">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="169.75782" z="637.75593"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="64600"/>
-		</Entity>
-		<Entity uid="1178">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="185.08164" z="643.92701"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="15258"/>
-		</Entity>
-		<Entity uid="1179">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="192.08631" z="654.12055"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="57282"/>
-		</Entity>
-		<Entity uid="1180">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="201.5345" z="657.56452"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59822"/>
-		</Entity>
-		<Entity uid="1181">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="209.20472" z="648.2173"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="2181"/>
-		</Entity>
-		<Entity uid="1182">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="221.07096" z="630.88648"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="3128"/>
-		</Entity>
-		<Entity uid="1183">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="231.48743" z="638.09644"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="1065"/>
-		</Entity>
-		<Entity uid="1184">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="231.66782" z="652.9751"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="31008"/>
-		</Entity>
-		<Entity uid="1185">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="203.80405" z="587.64136"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="16380"/>
-		</Entity>
-		<Entity uid="1186">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="212.38682" z="604.17145"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="6094"/>
-		</Entity>
-		<Entity uid="1187">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="187.64802" z="611.76972"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="44168"/>
-		</Entity>
-		<Entity uid="1188">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="179.44483" z="594.67731"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="829"/>
-		</Entity>
-		<Entity uid="1189">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="185.07871" z="580.07416"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="51865"/>
-		</Entity>
-		<Entity uid="1190">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="200.37427" z="593.8371"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="699"/>
-		</Entity>
-		<Entity uid="1191">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="217.56257" z="613.15961"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="16542"/>
-		</Entity>
-		<Entity uid="1192">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="195.29303" z="626.23548"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25464"/>
-		</Entity>
-		<Entity uid="1193">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="983.22834" z="659.35468"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="63304"/>
-		</Entity>
-		<Entity uid="1194">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="1003.35938" z="660.70655"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="51514"/>
-		</Entity>
-		<Entity uid="1195">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="1021.13862" z="664.34864"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="45177"/>
-		</Entity>
-		<Entity uid="1196">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="1041.77723" z="664.53504"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="19147"/>
-		</Entity>
-		<Entity uid="1197">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="982.48316" z="684.7447"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="34402"/>
-		</Entity>
-		<Entity uid="1198">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="997.78138" z="688.41706"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="19982"/>
-		</Entity>
-		<Entity uid="1199">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="1009.51868" z="690.15796"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="39827"/>
-		</Entity>
-		<Entity uid="1200">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="1021.92042" z="691.75641"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35193"/>
-		</Entity>
-		<Entity uid="1201">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="1035.26648" z="689.3437"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59417"/>
-		</Entity>
-		<Entity uid="1202">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="947.2428" z="630.28687"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="14997"/>
-		</Entity>
-		<Entity uid="1203">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="962.92463" z="631.38331"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="29662"/>
-		</Entity>
-		<Entity uid="1204">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="980.62281" z="631.4803"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="31100"/>
-		</Entity>
-		<Entity uid="1205">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="963.35975" z="705.41419"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="7475"/>
-		</Entity>
-		<Entity uid="1206">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="943.6786" z="704.76331"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="9058"/>
-		</Entity>
-		<Entity uid="1207">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="922.6709" z="699.04871"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="40602"/>
-		</Entity>
-		<Entity uid="1208">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="957.586" z="734.36274"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20679"/>
-		</Entity>
-		<Entity uid="1209">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="953.64167" z="757.41816"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="62499"/>
-		</Entity>
-		<Entity uid="1210">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="915.15314" z="729.10492"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="6454"/>
-		</Entity>
-		<Entity uid="1211">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="915.36207" z="750.20655"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="50902"/>
-		</Entity>
-		<Entity uid="1212">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="931.09675" z="751.17701"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="18076"/>
-		</Entity>
-		<Entity uid="1213">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="932.84723" z="610.7721"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="8965"/>
-		</Entity>
-		<Entity uid="1214">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="932.15821" z="595.03803"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="6381"/>
-		</Entity>
-		<Entity uid="1215">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="954.65705" z="598.34205"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="57490"/>
-		</Entity>
-		<Entity uid="1216">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="972.3042" z="600.85535"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="3748"/>
-		</Entity>
-		<Entity uid="1217">
-			<Template>gaia/flora_tree_oak_large</Template>
-			<Player>0</Player>
-			<Position x="975.28895" z="616.51978"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="48837"/>
-		</Entity>
-		<Entity uid="1218">
-			<Template>structures/mex_fortress</Template>
-			<Player>1</Player>
-			<Position x="1112.28956" z="744.66492"/>
-			<Orientation y="-1.83652"/>
-			<Actor seed="18549"/>
-		</Entity>
-		<Entity uid="1219">
-			<Template>structures/mex_fortress</Template>
-			<Player>1</Player>
-			<Position x="738.9596" z="1057.62391"/>
-			<Orientation y="3.05797"/>
-			<Actor seed="63887"/>
-		</Entity>
-		<Entity uid="1220">
-			<Template>structures/mex_fortress</Template>
-			<Player>1</Player>
-			<Position x="824.0832" z="1050.28541"/>
-			<Orientation y="2.98324"/>
-			<Actor seed="45545"/>
-		</Entity>
-		<Entity uid="1221">
-			<Template>structures/mex_fortress</Template>
-			<Player>1</Player>
-			<Position x="582.13862" z="1058.70508"/>
-			<Orientation y="2.81225"/>
-			<Actor seed="63043"/>
-		</Entity>
-		<Entity uid="1222">
-			<Template>structures/zapo_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="666.51258" z="917.7085"/>
-			<Orientation y="0.17484"/>
-			<Actor seed="12724"/>
-		</Entity>
-		<Entity uid="1223">
-			<Template>structures/zapo_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="663.67322" z="885.97889"/>
-			<Orientation y="-3.0017"/>
-			<Actor seed="26678"/>
-		</Entity>
-		<Entity uid="1224">
-			<Template>structures/zapo_dock</Template>
-			<Player>1</Player>
-			<Position x="938.52826" z="1024.80494"/>
-			<Orientation y="1.51156"/>
-			<Actor seed="3305"/>
-		</Entity>
-		<Entity uid="1225">
-			<Template>structures/zapo_dock</Template>
-			<Player>1</Player>
-			<Position x="869.49646" z="1092.75757"/>
-			<Orientation y="0.53034"/>
-			<Actor seed="10435"/>
-		</Entity>
-		<Entity uid="1226">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="1106.32898" z="554.09864"/>
-			<Orientation y="1.45136"/>
-			<Actor seed="7688"/>
-		</Entity>
-		<Entity uid="1227">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="1072.92701" z="458.38666"/>
-			<Orientation y="1.62452"/>
-			<Actor seed="57952"/>
-		</Entity>
-		<Entity uid="1228">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="986.8047" z="268.68976"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="65355"/>
-		</Entity>
-		<Entity uid="1229">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="1010.99091" z="296.517"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35952"/>
-		</Entity>
-		<Entity uid="1230">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="862.29157" z="223.4098"/>
-			<Orientation y="2.69605"/>
-			<Actor seed="36732"/>
-		</Entity>
-		<Entity uid="1231">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="548.60193" z="198.60392"/>
-			<Orientation y="-2.6468"/>
-			<Actor seed="28875"/>
-		</Entity>
-		<Entity uid="1232">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="302.54908" z="337.21283"/>
-			<Orientation y="-1.22231"/>
-			<Actor seed="51856"/>
-		</Entity>
-		<Entity uid="1233">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="209.72867" z="733.31391"/>
-			<Orientation y="-1.19817"/>
-			<Actor seed="39874"/>
-		</Entity>
-		<Entity uid="1234">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="163.24549" z="819.28864"/>
-			<Orientation y="-1.74907"/>
-			<Actor seed="16189"/>
-		</Entity>
-		<Entity uid="1235">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="131.44932" z="713.57483"/>
-			<Orientation y="-1.00315"/>
-			<Actor seed="37150"/>
-		</Entity>
-		<Entity uid="1236">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="197.38663" z="918.13386"/>
-			<Orientation y="-1.00251"/>
-			<Actor seed="53101"/>
-		</Entity>
-		<Entity uid="1237">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="325.74875" z="983.28803"/>
-			<Orientation y="-0.65265"/>
-			<Actor seed="648"/>
-		</Entity>
-		<Entity uid="1238">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="388.15693" z="1138.4474"/>
-			<Orientation y="-0.66182"/>
-			<Actor seed="48483"/>
-		</Entity>
-		<Entity uid="1239">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="529.71424" z="1159.42359"/>
-			<Orientation y="-0.50257"/>
-			<Actor seed="59187"/>
-		</Entity>
-		<Entity uid="1240">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="624.91633" z="1112.10523"/>
-			<Orientation y="-0.3372"/>
-			<Actor seed="805"/>
-		</Entity>
-		<Entity uid="1241">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="719.80933" z="1094.8567"/>
-			<Orientation y="-0.43499"/>
-			<Actor seed="6784"/>
-		</Entity>
-		<Entity uid="1242">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="791.68293" z="1099.16639"/>
-			<Orientation y="-0.64647"/>
-			<Actor seed="13289"/>
-		</Entity>
-		<Entity uid="1243">
-			<Template>structures/mex_dock</Template>
-			<Player>1</Player>
-			<Position x="957.37812" z="924.76612"/>
-			<Orientation y="0.76108"/>
-			<Actor seed="32811"/>
-		</Entity>
-		<Entity uid="1244">
-			<Template>structures/mex_farmstead</Template>
-			<Player>1</Player>
-			<Position x="686.34162" z="186.97681"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="58014"/>
-		</Entity>
-		<Entity uid="1245">
-			<Template>structures/mex_farmstead</Template>
-			<Player>1</Player>
-			<Position x="672.06598" z="203.2258"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="48442"/>
-		</Entity>
-		<Entity uid="1246">
-			<Template>structures/zapo_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="704.08948" z="210.88083"/>
-			<Orientation y="0.89312"/>
-			<Actor seed="52753"/>
-		</Entity>
-		<Entity uid="1247">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="665.20069" z="233.66276"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="43536"/>
-		</Entity>
-		<Entity uid="1248">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="680.13404" z="250.90186"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25882"/>
-		</Entity>
-		<Entity uid="1249">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="694.69123" z="265.34217"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="54490"/>
-		</Entity>
-		<Entity uid="1250">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="707.36353" z="280.23414"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="50646"/>
-		</Entity>
-		<Entity uid="1251">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="720.21058" z="296.7061"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59096"/>
-		</Entity>
-		<Entity uid="1252">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="745.37708" z="268.92792"/>
-			<Orientation y="-0.72536"/>
-			<Actor seed="22743"/>
-		</Entity>
-		<Entity uid="1253">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="728.4676" z="252.6631"/>
-			<Orientation y="-0.81511"/>
-			<Actor seed="47777"/>
-		</Entity>
-		<Entity uid="1254">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="732.06263" z="232.58884"/>
-			<Orientation y="-2.33712"/>
-			<Actor seed="35238"/>
-		</Entity>
-		<Entity uid="1255">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="748.38801" z="218.0792"/>
-			<Orientation y="-2.28637"/>
-			<Actor seed="32643"/>
-		</Entity>
-		<Entity uid="1256">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="770.67231" z="217.50235"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="48266"/>
-		</Entity>
-		<Entity uid="1257">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="784.90461" z="231.05863"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59432"/>
-		</Entity>
-		<Entity uid="1258">
-			<Template>structures/mex_temple</Template>
-			<Player>1</Player>
-			<Position x="772.40876" z="253.43232"/>
-			<Orientation y="0.81817"/>
-			<Actor seed="45771"/>
-		</Entity>
-		<Entity uid="1259">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="649.81568" z="246.74631"/>
-			<Orientation y="-0.72081"/>
-			<Actor seed="24795"/>
-		</Entity>
-		<Entity uid="1260">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="664.6537" z="265.41211"/>
-			<Orientation y="-0.83848"/>
-			<Actor seed="13234"/>
-		</Entity>
-		<Entity uid="1261">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="678.57966" z="280.96705"/>
-			<Orientation y="-0.96261"/>
-			<Actor seed="15926"/>
-		</Entity>
-		<Entity uid="1262">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="689.7433" z="295.8954"/>
-			<Orientation y="-1.0089"/>
-			<Actor seed="58742"/>
-		</Entity>
-		<Entity uid="1263">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="702.59772" z="308.92933"/>
-			<Orientation y="-1.03486"/>
-			<Actor seed="17571"/>
-		</Entity>
-		<Entity uid="1264">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="969.05652" z="326.62845"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="15735"/>
-		</Entity>
-		<Entity uid="1265">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="995.91956" z="350.52024"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="53090"/>
-		</Entity>
-		<Entity uid="1266">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="970.63697" z="375.22608"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="55024"/>
-		</Entity>
-		<Entity uid="1267">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="938.86316" z="348.04001"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="37634"/>
-		</Entity>
-		<Entity uid="1268">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="917.41877" z="320.10477"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20713"/>
-		</Entity>
-		<Entity uid="1269">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="946.90741" z="296.78528"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="58154"/>
-		</Entity>
-		<Entity uid="1270">
-			<Template>structures/mex_outpost</Template>
-			<Player>1</Player>
-			<Position x="1019.4369" z="329.46866"/>
-			<Orientation y="-0.62449"/>
-			<Actor seed="17967"/>
-		</Entity>
-		<Entity uid="1271">
-			<Template>structures/mex_outpost</Template>
-			<Player>1</Player>
-			<Position x="955.06653" z="269.15403"/>
-			<Orientation y="-1.11677"/>
-			<Actor seed="22999"/>
-		</Entity>
-		<Entity uid="1272">
-			<Template>structures/mex_corral</Template>
-			<Player>1</Player>
-			<Position x="901.61841" z="302.2201"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35452"/>
-		</Entity>
-		<Entity uid="1273">
-			<Template>structures/mex_corral</Template>
-			<Player>1</Player>
-			<Position x="925.74952" z="280.98768"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="65391"/>
-		</Entity>
-		<Entity uid="1274">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="815.28541" z="273.1529"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="7745"/>
-		</Entity>
-		<Entity uid="1275">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="830.2245" z="286.68888"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="60576"/>
-		</Entity>
-		<Entity uid="1276">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="845.54401" z="302.18317"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="808"/>
-		</Entity>
-		<Entity uid="1277">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="862.68519" z="317.30369"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="45145"/>
-		</Entity>
-		<Entity uid="1278">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="878.7179" z="331.4755"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25846"/>
-		</Entity>
-		<Entity uid="1279">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="843.52173" z="252.76877"/>
-			<Orientation y="-0.8782"/>
-			<Actor seed="64619"/>
-		</Entity>
-		<Entity uid="1280">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="858.50428" z="268.51127"/>
-			<Orientation y="-0.82921"/>
-			<Actor seed="33315"/>
-		</Entity>
-		<Entity uid="1281">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="878.48877" z="287.82062"/>
-			<Orientation y="-0.6759"/>
-			<Actor seed="36207"/>
-		</Entity>
-		<Entity uid="1282">
-			<Template>structures/mex_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="823.08277" z="369.52912"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59479"/>
-		</Entity>
-		<Entity uid="1283">
-			<Template>structures/mex_wall_long</Template>
-			<Player>1</Player>
-			<Position x="706.78711" z="656.01563"/>
-			<Orientation y="-0.31765"/>
-			<Obstruction group="1286"/>
-			<Actor seed="38385"/>
-		</Entity>
-		<Entity uid="1284">
-			<Template>structures/mex_wall_long</Template>
-			<Player>1</Player>
-			<Position x="739.3711" z="664.16572"/>
-			<Orientation y="-0.19671"/>
-			<Obstruction group="1286" group2="1285"/>
-			<Actor seed="49198"/>
-		</Entity>
-		<Entity uid="1285">
-			<Template>structures/mex_wall_tower</Template>
-			<Player>1</Player>
-			<Position x="758.19556" z="667.98603"/>
-			<Orientation y="-0.26378"/>
-			<Actor seed="39678"/>
-		</Entity>
-		<Entity uid="1286">
-			<Template>structures/mex_wall_tower</Template>
-			<Player>1</Player>
-			<Position x="687.54456" z="650.22913"/>
-			<Orientation y="-0.15612"/>
-			<Actor seed="58199"/>
-		</Entity>
-		<Entity uid="1287">
-			<Template>structures/mex_defense_tower</Template>
-			<Player>1</Player>
-			<Position x="719.35895" z="674.79267"/>
-			<Orientation y="-0.27562"/>
-			<Actor seed="33878"/>
-		</Entity>
-		<Entity uid="1288">
-			<Template>structures/mex_fortress</Template>
-			<Player>1</Player>
-			<Position x="843.0644" z="676.80018"/>
-			<Orientation y="2.85035"/>
-			<Actor seed="11465"/>
-		</Entity>
-		<Entity uid="1289">
-			<Template>structures/mex_fortress</Template>
-			<Player>1</Player>
-			<Position x="981.39448" z="477.13755"/>
-			<Orientation y="-1.22777"/>
-			<Actor seed="5265"/>
-		</Entity>
-		<Entity uid="1290">
-			<Template>structures/mex_blacksmith</Template>
-			<Player>1</Player>
-			<Position x="626.92273" z="1064.45496"/>
-			<Orientation y="2.94481"/>
-			<Actor seed="13584"/>
-		</Entity>
-		<Entity uid="1291">
-			<Template>structures/mex_blacksmith</Template>
-			<Player>1</Player>
-			<Position x="657.50306" z="1073.02381"/>
-			<Orientation y="3.03107"/>
-			<Actor seed="37677"/>
-		</Entity>
-		<Entity uid="1292">
-			<Template>structures/mex_blacksmith</Template>
-			<Player>1</Player>
-			<Position x="692.6208" z="1062.16626"/>
-			<Orientation y="-2.9393"/>
-			<Actor seed="61837"/>
-		</Entity>
-		<Entity uid="1293">
-			<Template>structures/mex_blacksmith</Template>
-			<Player>1</Player>
-			<Position x="636.96271" z="1023.09357"/>
-			<Orientation y="-0.11057"/>
-			<Actor seed="48818"/>
-		</Entity>
-		<Entity uid="1294">
-			<Template>structures/mex_blacksmith</Template>
-			<Player>1</Player>
-			<Position x="666.58149" z="1027.771"/>
-			<Orientation y="-0.10715"/>
-			<Actor seed="42126"/>
-		</Entity>
-		<Entity uid="1295">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="639.9181" z="918.30756"/>
-			<Orientation y="-1.45221"/>
-			<Actor seed="27019"/>
-		</Entity>
-		<Entity uid="1296">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="637.76502" z="894.39771"/>
-			<Orientation y="-1.46787"/>
-			<Actor seed="19408"/>
-		</Entity>
-		<Entity uid="1297">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="636.4079" z="871.30073"/>
-			<Orientation y="-1.50844"/>
-			<Actor seed="27345"/>
-		</Entity>
-		<Entity uid="1298">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="608.84388" z="920.3429"/>
-			<Orientation y="1.55951"/>
-			<Actor seed="30904"/>
-		</Entity>
-		<Entity uid="1299">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="606.86072" z="894.44947"/>
-			<Orientation y="1.62073"/>
-			<Actor seed="17174"/>
-		</Entity>
-		<Entity uid="1300">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="607.54914" z="873.2649"/>
-			<Orientation y="1.56069"/>
-			<Actor seed="36613"/>
-		</Entity>
-		<Entity uid="1301">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="620.56861" z="849.86768"/>
-			<Orientation y="0.0495"/>
-			<Actor seed="64536"/>
-		</Entity>
-		<Entity uid="1302">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="559.45398" z="905.88654"/>
-			<Orientation y="-1.49323"/>
-			<Actor seed="54382"/>
-		</Entity>
-		<Entity uid="1303">
-			<Template>structures/mex_market</Template>
-			<Player>1</Player>
-			<Position x="734.26044" z="898.24738"/>
-			<Orientation y="-1.59607"/>
-			<Actor seed="31063"/>
 		</Entity>
 		<Entity uid="1304">
 			<Template>actor|structures/city_torch.xml</Template>
@@ -1835,143 +839,10 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="3680"/>
 		</Entity>
-		<Entity uid="1374">
-			<Template>structures/gaia_aqueduct_tower</Template>
-			<Player>1</Player>
-			<Position x="754.60932" z="239.3447"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20055"/>
-		</Entity>
-		<Entity uid="1375">
-			<Template>structures/gaia_aqueduct_tower</Template>
-			<Player>1</Player>
-			<Position x="345.40992" z="379.5839"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="59182"/>
-		</Entity>
-		<Entity uid="1376">
-			<Template>structures/gaia_aqueduct_tower</Template>
-			<Player>1</Player>
-			<Position x="636.60401" z="847.56141"/>
-			<Orientation y="1.4157"/>
-			<Actor seed="37102"/>
-		</Entity>
-		<Entity uid="1377">
-			<Template>structures/gaia_aqueduct_tower</Template>
-			<Player>1</Player>
-			<Position x="1009.01502" z="385.5521"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="285"/>
-		</Entity>
-		<Entity uid="1378">
-			<Template>structures/gaia_aqueduct_tower</Template>
-			<Player>1</Player>
-			<Position x="941.1855" z="447.95948"/>
-			<Orientation y="-2.88604"/>
-			<Actor seed="30390"/>
-		</Entity>
-		<Entity uid="1379">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="960.70313" z="439.83588"/>
-			<Orientation y="-2.95046"/>
-			<Actor seed="6810"/>
-		</Entity>
-		<Entity uid="1380">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="950.58594" z="413.53553"/>
-			<Orientation y="0.24056"/>
-			<Actor seed="51833"/>
-		</Entity>
-		<Entity uid="1381">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="907.6294" z="429.7768"/>
-			<Orientation y="0.48806"/>
-			<Actor seed="47168"/>
-		</Entity>
-		<Entity uid="1382">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="920.42841" z="466.26142"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="32453"/>
-		</Entity>
-		<Entity uid="1383">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="948.82477" z="466.32856"/>
-			<Orientation y="-2.80736"/>
-			<Actor seed="25680"/>
-		</Entity>
-		<Entity uid="1384">
-			<Template>structures/mex_house</Template>
-			<Player>1</Player>
-			<Position x="929.06507" z="429.40314"/>
-			<Orientation y="0.66372"/>
-			<Actor seed="34979"/>
-		</Entity>
-		<Entity uid="1385">
-			<Template>structures/mex_farmstead</Template>
-			<Player>1</Player>
-			<Position x="978.55781" z="449.008"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="61114"/>
-		</Entity>
-		<Entity uid="1386">
-			<Template>structures/mex_farmstead</Template>
-			<Player>1</Player>
-			<Position x="727.64197" z="168.21195"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="61627"/>
-		</Entity>
-		<Entity uid="1387">
-			<Template>structures/mex_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="879.62043" z="510.24582"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="36287"/>
-		</Entity>
-		<Entity uid="1388">
-			<Template>structures/mex_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="464.42426" z="520.7693"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="28190"/>
-		</Entity>
-		<Entity uid="1389">
-			<Template>structures/mex_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="291.49265" z="856.98548"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="27826"/>
-		</Entity>
-		<Entity uid="1390">
-			<Template>structures/mex_temple</Template>
-			<Player>1</Player>
-			<Position x="382.62635" z="940.97095"/>
-			<Orientation y="-0.97191"/>
-			<Actor seed="28700"/>
-		</Entity>
-		<Entity uid="1391">
-			<Template>structures/mex_temple</Template>
-			<Player>1</Player>
-			<Position x="514.0149" z="618.88746"/>
-			<Orientation y="-2.0802"/>
-			<Actor seed="53789"/>
-		</Entity>
-		<Entity uid="1392">
-			<Template>structures/mex_temple</Template>
-			<Player>1</Player>
-			<Position x="667.72138" z="806.53132"/>
-			<Orientation y="-0.02999"/>
-			<Actor seed="27259"/>
-		</Entity>
 		<Entity uid="1393">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="647.80896" z="1606.04517"/>
+			<Position x="653.12592" z="1651.43042"/>
 			<Orientation y="-0.16558"/>
 			<Obstruction group="1396" group2="1399"/>
 			<Actor seed="4910"/>
@@ -1979,7 +850,7 @@
 		<Entity uid="1394">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="614.82441" z="1588.31873"/>
+			<Position x="620.14136" z="1633.70398"/>
 			<Orientation y="2.35621"/>
 			<Obstruction group="1396" group2="1397"/>
 			<Actor seed="8767"/>
@@ -1987,7 +858,7 @@
 		<Entity uid="1395">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="582.41523" z="1566.17725"/>
+			<Position x="587.73218" z="1611.5625"/>
 			<Orientation y="2.8202"/>
 			<Obstruction group="1397" group2="1398"/>
 			<Actor seed="12209"/>
@@ -1995,35 +866,35 @@
 		<Entity uid="1396">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="628.76716" z="1602.02381"/>
+			<Position x="634.08411" z="1647.40906"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39874"/>
 		</Entity>
 		<Entity uid="1397">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="600.64136" z="1573.83606"/>
+			<Position x="605.95832" z="1619.22132"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51994"/>
 		</Entity>
 		<Entity uid="1398">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="563.31836" z="1558.87732"/>
+			<Position x="568.63532" z="1604.26258"/>
 			<Orientation y="1.31739"/>
 			<Actor seed="7359"/>
 		</Entity>
 		<Entity uid="1399">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="666.44721" z="1611.27417"/>
+			<Position x="671.76417" z="1656.65943"/>
 			<Orientation y="-0.58202"/>
 			<Actor seed="48869"/>
 		</Entity>
 		<Entity uid="1400">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="542.82923" z="1549.33619"/>
+			<Position x="548.14618" z="1594.72144"/>
 			<Orientation y="-0.35911"/>
 			<Obstruction group="1398" group2="1409"/>
 			<Actor seed="47564"/>
@@ -2031,7 +902,7 @@
 		<Entity uid="1401">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="501.37162" z="1547.21607"/>
+			<Position x="506.68854" z="1592.60132"/>
 			<Orientation y="-2.99866"/>
 			<Obstruction group="1409"/>
 			<Actor seed="57249"/>
@@ -2039,7 +910,7 @@
 		<Entity uid="1402">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="466.97532" z="1555.51172"/>
+			<Position x="472.29227" z="1600.89698"/>
 			<Orientation y="-2.80146"/>
 			<Obstruction group="1409" group2="1408"/>
 			<Actor seed="32836"/>
@@ -2047,7 +918,7 @@
 		<Entity uid="1403">
 			<Template>structures/gaia_aqueduct_gate</Template>
 			<Player>1</Player>
-			<Position x="433.06318" z="1576.19593"/>
+			<Position x="438.38013" z="1621.58118"/>
 			<Orientation y="-2.34528"/>
 			<Obstruction group="1407" group2="1408"/>
 			<Actor seed="32828"/>
@@ -2055,7 +926,7 @@
 		<Entity uid="1404">
 			<Template>structures/gaia_aqueduct_gate</Template>
 			<Player>1</Player>
-			<Position x="401.87443" z="1574.80542"/>
+			<Position x="407.19138" z="1620.19068"/>
 			<Orientation y="2.35621"/>
 			<Obstruction group="1406" group2="1407"/>
 			<Actor seed="10932"/>
@@ -2063,7 +934,7 @@
 		<Entity uid="1405">
 			<Template>structures/gaia_aqueduct_gate</Template>
 			<Player>1</Player>
-			<Position x="376.01343" z="1575.27295"/>
+			<Position x="381.33039" z="1620.65821"/>
 			<Orientation y="-2.32946"/>
 			<Obstruction group="1406" group2="1407"/>
 			<Actor seed="59222"/>
@@ -2071,58 +942,50 @@
 		<Entity uid="1406">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="388.83564" z="1560.24402"/>
+			<Position x="394.1526" z="1605.62928"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20434"/>
 		</Entity>
 		<Entity uid="1407">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="416.48005" z="1588.73816"/>
+			<Position x="421.797" z="1634.12342"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="58365"/>
 		</Entity>
 		<Entity uid="1408">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="448.04487" z="1562.49866"/>
+			<Position x="453.36182" z="1607.88392"/>
 			<Orientation y="-0.98618"/>
 			<Actor seed="33474"/>
 		</Entity>
 		<Entity uid="1409">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="521.64557" z="1544.47742"/>
+			<Position x="526.96253" z="1589.86268"/>
 			<Orientation y="-2.18897"/>
 			<Actor seed="35675"/>
 		</Entity>
 		<Entity uid="1410">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="361.17106" z="1589.59595"/>
+			<Position x="366.48801" z="1634.98121"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="20434"/>
 		</Entity>
 		<Entity uid="1412">
 			<Template>structures/gaia_aqueduct_medium</Template>
 			<Player>1</Player>
-			<Position x="1063.93812" z="1736.70484"/>
+			<Position x="1069.25513" z="1782.0901"/>
 			<Orientation y="2.57457"/>
 			<Obstruction group="1425" group2="1426"/>
 			<Actor seed="24191"/>
 		</Entity>
-		<Entity uid="1413">
-			<Template>structures/gaia_aqueduct_short</Template>
-			<Player>1</Player>
-			<Position x="1077.32886" z="1755.50489"/>
-			<Orientation y="1.7557"/>
-			<Obstruction group="1426"/>
-			<Actor seed="51602"/>
-		</Entity>
 		<Entity uid="1414">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="1034.84937" z="1713.07374"/>
+			<Position x="1040.16626" z="1758.45899"/>
 			<Orientation y="2.35621"/>
 			<Obstruction group="1425"/>
 			<Actor seed="10267"/>
@@ -2130,7 +993,7 @@
 		<Entity uid="1415">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="998.82996" z="1690.67469"/>
+			<Position x="1004.14692" z="1736.05994"/>
 			<Orientation y="2.92255"/>
 			<Obstruction group="1423" group2="1424"/>
 			<Actor seed="47608"/>
@@ -2138,7 +1001,7 @@
 		<Entity uid="1416">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="965.30384" z="1671.72669"/>
+			<Position x="970.6208" z="1717.11194"/>
 			<Orientation y="2.35621"/>
 			<Obstruction group="1422" group2="1423"/>
 			<Actor seed="52418"/>
@@ -2146,7 +1009,7 @@
 		<Entity uid="1417">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="890.42762" z="1651.63758"/>
+			<Position x="895.74457" z="1697.02283"/>
 			<Orientation y="2.98462"/>
 			<Obstruction group="1420" group2="1421"/>
 			<Actor seed="8789"/>
@@ -2154,7 +1017,7 @@
 		<Entity uid="1418">
 			<Template>structures/gaia_aqueduct_long</Template>
 			<Player>1</Player>
-			<Position x="930.32557" z="1656.38868"/>
+			<Position x="935.64252" z="1701.77393"/>
 			<Orientation y="3.11936"/>
 			<Obstruction group="1421" group2="1422"/>
 			<Actor seed="46304"/>
@@ -2162,7 +1025,7 @@
 		<Entity uid="1419">
 			<Template>structures/gaia_aqueduct_medium</Template>
 			<Player>1</Player>
-			<Position x="860.37195" z="1639.73938"/>
+			<Position x="865.68891" z="1685.12464"/>
 			<Orientation y="2.35621"/>
 			<Obstruction group="1420" group2="1427"/>
 			<Actor seed="5673"/>
@@ -2170,58 +1033,3896 @@
 		<Entity uid="1420">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="870.41291" z="1649.3125"/>
+			<Position x="875.72986" z="1694.69776"/>
 			<Orientation y="2.91581"/>
 			<Actor seed="36919"/>
 		</Entity>
 		<Entity uid="1421">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="909.73322" z="1655.98768"/>
+			<Position x="915.05018" z="1701.37293"/>
 			<Orientation y="2.97797"/>
 			<Actor seed="21582"/>
 		</Entity>
 		<Entity uid="1422">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="950.0672" z="1657.75184"/>
+			<Position x="955.38416" z="1703.1371"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="24242"/>
 		</Entity>
 		<Entity uid="1423">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="980.5315" z="1685.67396"/>
+			<Position x="985.84845" z="1731.05921"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17175"/>
 		</Entity>
 		<Entity uid="1424">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="1018.64417" z="1697.6222"/>
+			<Position x="1023.96125" z="1743.00745"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="48772"/>
 		</Entity>
 		<Entity uid="1425">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="1051.85511" z="1727.42811"/>
+			<Position x="1057.17212" z="1772.81336"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44577"/>
 		</Entity>
 		<Entity uid="1426">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="1077.77918" z="1745.60315"/>
+			<Position x="1083.0962" z="1790.98841"/>
 			<Orientation y="-1.6946"/>
 			<Actor seed="40099"/>
 		</Entity>
 		<Entity uid="1427">
 			<Template>structures/mex_wall_tower</Template>
 			<Player>1</Player>
-			<Position x="848.51581" z="1629.94092"/>
+			<Position x="853.83277" z="1675.32618"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="34550"/>
+		</Entity>
+		<Entity uid="1430">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="707.04255" z="1500.25818"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37173"/>
+		</Entity>
+		<Entity uid="1431">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="716.61731" z="1496.745"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41435"/>
+		</Entity>
+		<Entity uid="1432">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="720.72413" z="1490.91858"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33386"/>
+		</Entity>
+		<Entity uid="1433">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="731.26673" z="1499.55115"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9392"/>
+		</Entity>
+		<Entity uid="1434">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="722.909" z="1506.26648"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42983"/>
+		</Entity>
+		<Entity uid="1435">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="716.60541" z="1510.12537"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12752"/>
+		</Entity>
+		<Entity uid="1436">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="713.40467" z="1501.84412"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39522"/>
+		</Entity>
+		<Entity uid="1437">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="697.55652" z="1507.26502"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48199"/>
+		</Entity>
+		<Entity uid="1438">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="689.68018" z="1518.12818"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37488"/>
+		</Entity>
+		<Entity uid="1439">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="689.11048" z="1530.09351"/>
+			<Orientation y="0.64434"/>
+			<Actor seed="17661"/>
+		</Entity>
+		<Entity uid="1440">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="696.90046" z="1529.745"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3466"/>
+		</Entity>
+		<Entity uid="1441">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="701.81257" z="1524.39112"/>
+			<Orientation y="2.08442"/>
+			<Actor seed="20956"/>
+		</Entity>
+		<Entity uid="1442">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="705.70301" z="1521.53821"/>
+			<Orientation y="-2.21753"/>
+			<Actor seed="62632"/>
+		</Entity>
+		<Entity uid="1443">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="695.71229" z="1512.83802"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58038"/>
+		</Entity>
+		<Entity uid="1444">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="680.92896" z="1541.18152"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17912"/>
+		</Entity>
+		<Entity uid="1445">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="674.38245" z="1544.33924"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13105"/>
+		</Entity>
+		<Entity uid="1446">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="675.95582" z="1549.81824"/>
+			<Orientation y="0.05729"/>
+			<Actor seed="28217"/>
+		</Entity>
+		<Entity uid="1447">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="674.94623" z="1560.84302"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62309"/>
+		</Entity>
+		<Entity uid="1448">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="678.29352" z="1566.88221"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20943"/>
+		</Entity>
+		<Entity uid="1449">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="687.14905" z="1567.6095"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5599"/>
+		</Entity>
+		<Entity uid="1450">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="689.37989" z="1560.66358"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33216"/>
+		</Entity>
+		<Entity uid="1451">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="689.12897" z="1552.57789"/>
+			<Orientation y="-3.14037"/>
+			<Actor seed="41943"/>
+		</Entity>
+		<Entity uid="1452">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="690.34107" z="1542.27356"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60586"/>
+		</Entity>
+		<Entity uid="1453">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="685.0926" z="1553.86866"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39364"/>
+		</Entity>
+		<Entity uid="1454">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="673.88984" z="1558.09021"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34619"/>
+		</Entity>
+		<Entity uid="1455">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="677.46448" z="1577.47571"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5337"/>
+		</Entity>
+		<Entity uid="1456">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="679.6468" z="1584.53711"/>
+			<Orientation y="-0.01825"/>
+			<Actor seed="62464"/>
+		</Entity>
+		<Entity uid="1457">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="681.68152" z="1591.41395"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22719"/>
+		</Entity>
+		<Entity uid="1458">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="681.18903" z="1594.44642"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16950"/>
+		</Entity>
+		<Entity uid="1459">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="679.19452" z="1598.71912"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62646"/>
+		</Entity>
+		<Entity uid="1460">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="678.39014" z="1601.46192"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24683"/>
+		</Entity>
+		<Entity uid="1461">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="685.43488" z="1608.7721"/>
+			<Orientation y="-2.59347"/>
+			<Actor seed="31309"/>
+		</Entity>
+		<Entity uid="1462">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="685.39222" z="1617.87842"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55805"/>
+		</Entity>
+		<Entity uid="1463">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="686.47217" z="1625.50147"/>
+			<Orientation y="0.35981"/>
+			<Actor seed="647"/>
+		</Entity>
+		<Entity uid="1464">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="691.32856" z="1631.1056"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13048"/>
+		</Entity>
+		<Entity uid="1465">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="699.48414" z="1632.59534"/>
+			<Orientation y="1.87302"/>
+			<Actor seed="29481"/>
+		</Entity>
+		<Entity uid="1466">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="707.33423" z="1627.66822"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64013"/>
+		</Entity>
+		<Entity uid="1467">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="706.84345" z="1623.50245"/>
+			<Orientation y="-1.56225"/>
+			<Actor seed="9672"/>
+		</Entity>
+		<Entity uid="1468">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="699.42072" z="1622.09778"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4796"/>
+		</Entity>
+		<Entity uid="1469">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="696.21576" z="1621.0636"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64055"/>
+		</Entity>
+		<Entity uid="1470">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="696.33832" z="1613.35499"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28393"/>
+		</Entity>
+		<Entity uid="1471">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="695.13636" z="1608.56128"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28725"/>
+		</Entity>
+		<Entity uid="1472">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="708.11109" z="1614.73243"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4058"/>
+		</Entity>
+		<Entity uid="1473">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="706.40717" z="1617.69043"/>
+			<Orientation y="-2.15732"/>
+			<Actor seed="13602"/>
+		</Entity>
+		<Entity uid="1474">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="695.20948" z="1607.33143"/>
+			<Orientation y="-2.80153"/>
+			<Actor seed="554"/>
+		</Entity>
+		<Entity uid="1475">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="692.45008" z="1597.1056"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10830"/>
+		</Entity>
+		<Entity uid="1476">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="741.67493" z="1624.59644"/>
+			<Orientation y="-1.60692"/>
+			<Actor seed="32786"/>
+		</Entity>
+		<Entity uid="1477">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="722.20862" z="1625.5105"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42797"/>
+		</Entity>
+		<Entity uid="1478">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="719.74708" z="1628.93714"/>
+			<Orientation y="0.16659"/>
+			<Actor seed="9304"/>
+		</Entity>
+		<Entity uid="1479">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="715.6078" z="1634.62818"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17042"/>
+		</Entity>
+		<Entity uid="1480">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="719.5865" z="1632.63306"/>
+			<Orientation y="1.9719"/>
+			<Actor seed="62152"/>
+		</Entity>
+		<Entity uid="1481">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="739.14167" z="1628.10914"/>
+			<Orientation y="1.58973"/>
+			<Actor seed="45817"/>
+		</Entity>
+		<Entity uid="1482">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="746.69324" z="1627.10242"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15796"/>
+		</Entity>
+		<Entity uid="1483">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="752.72352" z="1627.19532"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14541"/>
+		</Entity>
+		<Entity uid="1484">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="733.0373" z="1611.04188"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40932"/>
+		</Entity>
+		<Entity uid="1485">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="727.90955" z="1614.71766"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51749"/>
+		</Entity>
+		<Entity uid="1486">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="727.38086" z="1618.75293"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58854"/>
+		</Entity>
+		<Entity uid="1487">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="726.75873" z="1584.88257"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12225"/>
+		</Entity>
+		<Entity uid="1488">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="727.45661" z="1589.57532"/>
+			<Orientation y="0.10741"/>
+			<Actor seed="38507"/>
+		</Entity>
+		<Entity uid="1489">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="727.66907" z="1597.89588"/>
+			<Orientation y="1.53525"/>
+			<Actor seed="29588"/>
+		</Entity>
+		<Entity uid="1490">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="731.73884" z="1593.4607"/>
+			<Orientation y="2.95159"/>
+			<Actor seed="32098"/>
+		</Entity>
+		<Entity uid="1491">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="731.14411" z="1579.71656"/>
+			<Orientation y="-2.76981"/>
+			<Actor seed="25559"/>
+		</Entity>
+		<Entity uid="1492">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="729.53962" z="1566.39905"/>
+			<Orientation y="-2.75126"/>
+			<Actor seed="45525"/>
+		</Entity>
+		<Entity uid="1493">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="726.80304" z="1562.80628"/>
+			<Orientation y="-2.01378"/>
+			<Actor seed="29066"/>
+		</Entity>
+		<Entity uid="1494">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="717.05176" z="1574.02601"/>
+			<Orientation y="0.6693"/>
+			<Actor seed="44423"/>
+		</Entity>
+		<Entity uid="1495">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="706.19361" z="1551.22303"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59806"/>
+		</Entity>
+		<Entity uid="1496">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="711.16602" z="1546.3407"/>
+			<Orientation y="2.35549"/>
+			<Actor seed="60290"/>
+		</Entity>
+		<Entity uid="1497">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="720.17927" z="1545.2162"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29579"/>
+		</Entity>
+		<Entity uid="1498">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="730.33173" z="1525.70032"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63717"/>
+		</Entity>
+		<Entity uid="1499">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="728.84333" z="1522.20081"/>
+			<Orientation y="-2.11242"/>
+			<Actor seed="5848"/>
+		</Entity>
+		<Entity uid="1500">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="718.5287" z="1523.7975"/>
+			<Orientation y="-0.54517"/>
+			<Actor seed="35087"/>
+		</Entity>
+		<Entity uid="1501">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="714.21283" z="1530.71814"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10426"/>
+		</Entity>
+		<Entity uid="1502">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="732.90998" z="1517.17273"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7808"/>
+		</Entity>
+		<Entity uid="1503">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="741.56788" z="1516.00953"/>
+			<Orientation y="1.2676"/>
+			<Actor seed="43327"/>
+		</Entity>
+		<Entity uid="1504">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="752.1601" z="1519.41822"/>
+			<Orientation y="0.86043"/>
+			<Actor seed="14765"/>
+		</Entity>
+		<Entity uid="1505">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="758.15436" z="1524.58277"/>
+			<Orientation y="0.89884"/>
+			<Actor seed="41592"/>
+		</Entity>
+		<Entity uid="1506">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="769.7768" z="1532.37049"/>
+			<Orientation y="1.35662"/>
+			<Actor seed="45130"/>
+		</Entity>
+		<Entity uid="1507">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="787.24512" z="1539.29664"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48698"/>
+		</Entity>
+		<Entity uid="1508">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="761.27955" z="1548.52515"/>
+			<Orientation y="-1.46006"/>
+			<Actor seed="35002"/>
+		</Entity>
+		<Entity uid="1509">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="749.19434" z="1547.37073"/>
+			<Orientation y="-1.06063"/>
+			<Actor seed="3589"/>
+		</Entity>
+		<Entity uid="1510">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="742.05347" z="1546.20972"/>
+			<Orientation y="-2.4689"/>
+			<Actor seed="64574"/>
+		</Entity>
+		<Entity uid="1511">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="809.10181" z="1556.79371"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8039"/>
+		</Entity>
+		<Entity uid="1512">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="814.1482" z="1559.74317"/>
+			<Orientation y="0.76423"/>
+			<Actor seed="23480"/>
+		</Entity>
+		<Entity uid="1513">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="814.34089" z="1566.33753"/>
+			<Orientation y="-0.60108"/>
+			<Actor seed="49921"/>
+		</Entity>
+		<Entity uid="1514">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="804.44788" z="1573.74402"/>
+			<Orientation y="-1.32786"/>
+			<Actor seed="34048"/>
+		</Entity>
+		<Entity uid="1515">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="795.61884" z="1575.31775"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23775"/>
+		</Entity>
+		<Entity uid="1516">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="791.87781" z="1582.50696"/>
+			<Orientation y="-0.65247"/>
+			<Actor seed="48884"/>
+		</Entity>
+		<Entity uid="1517">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="790.67261" z="1592.21521"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62539"/>
+		</Entity>
+		<Entity uid="1518">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="793.73243" z="1598.79542"/>
+			<Orientation y="1.46206"/>
+			<Actor seed="53084"/>
+		</Entity>
+		<Entity uid="1519">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="796.30091" z="1604.80958"/>
+			<Orientation y="1.84981"/>
+			<Actor seed="62430"/>
+		</Entity>
+		<Entity uid="1520">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="803.61054" z="1607.37867"/>
+			<Orientation y="1.68569"/>
+			<Actor seed="28160"/>
+		</Entity>
+		<Entity uid="1521">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="805.90577" z="1616.30005"/>
+			<Orientation y="1.06966"/>
+			<Actor seed="51035"/>
+		</Entity>
+		<Entity uid="1522">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="809.037" z="1622.41175"/>
+			<Orientation y="1.35697"/>
+			<Actor seed="58843"/>
+		</Entity>
+		<Entity uid="1523">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="819.1324" z="1621.66065"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7046"/>
+		</Entity>
+		<Entity uid="1524">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="822.61493" z="1618.45252"/>
+			<Orientation y="2.38437"/>
+			<Actor seed="48333"/>
+		</Entity>
+		<Entity uid="1525">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="828.75379" z="1610.95374"/>
+			<Orientation y="3.06728"/>
+			<Actor seed="45953"/>
+		</Entity>
+		<Entity uid="1526">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="826.95447" z="1600.74097"/>
+			<Orientation y="-1.90735"/>
+			<Actor seed="54337"/>
+		</Entity>
+		<Entity uid="1527">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="818.00904" z="1592.84021"/>
+			<Orientation y="-1.85608"/>
+			<Actor seed="61000"/>
+		</Entity>
+		<Entity uid="1528">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="807.11811" z="1587.32898"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2356"/>
+		</Entity>
+		<Entity uid="1529">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="800.04804" z="1588.64869"/>
+			<Orientation y="-2.71995"/>
+			<Actor seed="6062"/>
+		</Entity>
+		<Entity uid="1530">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="799.94715" z="1580.91407"/>
+			<Orientation y="1.93265"/>
+			<Actor seed="7875"/>
+		</Entity>
+		<Entity uid="1531">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="805.59076" z="1601.30555"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54443"/>
+		</Entity>
+		<Entity uid="1532">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="767.56782" z="1626.25452"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24395"/>
+		</Entity>
+		<Entity uid="1533">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="775.71998" z="1616.22291"/>
+			<Orientation y="1.75838"/>
+			<Actor seed="16997"/>
+		</Entity>
+		<Entity uid="1534">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="780.74378" z="1614.9303"/>
+			<Orientation y="0.56104"/>
+			<Actor seed="1668"/>
+		</Entity>
+		<Entity uid="1535">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="786.41236" z="1622.61268"/>
+			<Orientation y="0.12139"/>
+			<Actor seed="53408"/>
+		</Entity>
+		<Entity uid="1536">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="787.9073" z="1627.95069"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51567"/>
+		</Entity>
+		<Entity uid="1537">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="791.87354" z="1627.79981"/>
+			<Orientation y="1.29526"/>
+			<Actor seed="37901"/>
+		</Entity>
+		<Entity uid="1538">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="798.16755" z="1625.16248"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48355"/>
+		</Entity>
+		<Entity uid="1539">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="783.74726" z="1631.64551"/>
+			<Orientation y="-1.366"/>
+			<Actor seed="7480"/>
+		</Entity>
+		<Entity uid="1540">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="773.72907" z="1633.29322"/>
+			<Orientation y="-1.61614"/>
+			<Actor seed="21266"/>
+		</Entity>
+		<Entity uid="1541">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="766.18738" z="1632.83057"/>
+			<Orientation y="-1.5856"/>
+			<Actor seed="14245"/>
+		</Entity>
+		<Entity uid="1542">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="758.159" z="1610.62269"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62869"/>
+		</Entity>
+		<Entity uid="1543">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="758.50623" z="1599.87354"/>
+			<Orientation y="2.53603"/>
+			<Actor seed="10952"/>
+		</Entity>
+		<Entity uid="1544">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="762.79426" z="1587.52613"/>
+			<Orientation y="0.62598"/>
+			<Actor seed="38607"/>
+		</Entity>
+		<Entity uid="1545">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="768.9043" z="1597.08301"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11484"/>
+		</Entity>
+		<Entity uid="1546">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="769.46937" z="1599.64649"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32600"/>
+		</Entity>
+		<Entity uid="1547">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="749.86652" z="1604.55164"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17175"/>
+		</Entity>
+		<Entity uid="1548">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="746.38898" z="1607.9026"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19182"/>
+		</Entity>
+		<Entity uid="1549">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="744.37281" z="1608.72632"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13734"/>
+		</Entity>
+		<Entity uid="1550">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="746.77833" z="1568.9242"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32333"/>
+		</Entity>
+		<Entity uid="1551">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="761.37073" z="1566.47425"/>
+			<Orientation y="1.83146"/>
+			<Actor seed="34328"/>
+		</Entity>
+		<Entity uid="1552">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="773.2978" z="1564.60303"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25531"/>
+		</Entity>
+		<Entity uid="1553">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="780.37647" z="1562.15015"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36907"/>
+		</Entity>
+		<Entity uid="1554">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="751.45667" z="1578.73865"/>
+			<Orientation y="-1.36635"/>
+			<Actor seed="8420"/>
+		</Entity>
+		<Entity uid="1555">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="741.95624" z="1583.95325"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10516"/>
+		</Entity>
+		<Entity uid="1556">
+			<Template>gaia/flora_tree_poplar_lombardy_autumn</Template>
+			<Player>0</Player>
+			<Position x="735.17701" z="1562.41041"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9917"/>
+		</Entity>
+		<Entity uid="1557">
+			<Template>gaia/flora_tree_poplar_dead</Template>
+			<Player>0</Player>
+			<Position x="1118.50293" z="726.61664"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43708"/>
+		</Entity>
+		<Entity uid="1558">
+			<Template>gaia/flora_tree_poplar_dead</Template>
+			<Player>0</Player>
+			<Position x="1147.79041" z="728.87488"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53873"/>
+		</Entity>
+		<Entity uid="1559">
+			<Template>gaia/flora_tree_poplar_dead</Template>
+			<Player>0</Player>
+			<Position x="1136.63624" z="778.19422"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59021"/>
+		</Entity>
+		<Entity uid="1560">
+			<Template>gaia/flora_tree_poplar_dead</Template>
+			<Player>0</Player>
+			<Position x="1090.7511" z="771.70142"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21710"/>
+		</Entity>
+		<Entity uid="1561">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="1125.48804" z="749.53748"/>
+			<Orientation y="-1.65525"/>
+			<Actor seed="20458"/>
+		</Entity>
+		<Entity uid="1562">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1070.19239" z="819.94599"/>
+			<Orientation y="-2.16196"/>
+			<Actor seed="1072"/>
+		</Entity>
+		<Entity uid="1563">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1044.5652" z="848.25532"/>
+			<Orientation y="-2.32198"/>
+			<Actor seed="22500"/>
+		</Entity>
+		<Entity uid="1564">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1010.8443" z="886.81354"/>
+			<Orientation y="-2.5819"/>
+			<Actor seed="26257"/>
+		</Entity>
+		<Entity uid="1565">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="953.87006" z="887.40723"/>
+			<Orientation y="-2.72985"/>
+			<Actor seed="51430"/>
+		</Entity>
+		<Entity uid="1566">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="916.464" z="932.38581"/>
+			<Orientation y="-2.10184"/>
+			<Actor seed="12351"/>
+		</Entity>
+		<Entity uid="1567">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="914.63672" z="1014.75782"/>
+			<Orientation y="-2.18471"/>
+			<Actor seed="26210"/>
+		</Entity>
+		<Entity uid="1568">
+			<Template>structures/mex_sentry_tower</Template>
+			<Player>1</Player>
+			<Position x="914.55292" z="971.15577"/>
+			<Orientation y="-1.81136"/>
+			<Actor seed="2184"/>
+		</Entity>
+		<Entity uid="1569">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="867.93702" z="1032.98841"/>
+			<Orientation y="-2.42524"/>
+			<Actor seed="3492"/>
+		</Entity>
+		<Entity uid="1570">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="860.14332" z="1073.0381"/>
+			<Orientation y="-2.55413"/>
+			<Actor seed="9243"/>
+		</Entity>
+		<Entity uid="1571">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="813.4228" z="1069.17505"/>
+			<Orientation y="-2.93403"/>
+			<Actor seed="37536"/>
+		</Entity>
+		<Entity uid="1572">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="774.2895" z="1072.85084"/>
+			<Orientation y="3.02753"/>
+			<Actor seed="19709"/>
+		</Entity>
+		<Entity uid="1573">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="720.61176" z="1076.06775"/>
+			<Orientation y="3.01575"/>
+			<Actor seed="47446"/>
+		</Entity>
+		<Entity uid="1574">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="661.03791" z="1109.73267"/>
+			<Orientation y="-3.00419"/>
+			<Actor seed="13572"/>
+		</Entity>
+		<Entity uid="1575">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="690.71637" z="1087.35938"/>
+			<Orientation y="-2.34388"/>
+			<Actor seed="15199"/>
+		</Entity>
+		<Entity uid="1576">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="599.57868" z="1099.93482"/>
+			<Orientation y="-2.96714"/>
+			<Actor seed="9643"/>
+		</Entity>
+		<Entity uid="1577">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="530.48194" z="1127.7981"/>
+			<Orientation y="2.72707"/>
+			<Actor seed="54130"/>
+		</Entity>
+		<Entity uid="1578">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="532.14557" z="1078.8993"/>
+			<Orientation y="1.74352"/>
+			<Actor seed="616"/>
+		</Entity>
+		<Entity uid="1579">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="564.06507" z="1107.69495"/>
+			<Orientation y="-2.98374"/>
+			<Actor seed="47169"/>
+		</Entity>
+		<Entity uid="1580">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="509.50632" z="1047.15284"/>
+			<Orientation y="3.13819"/>
+			<Actor seed="13877"/>
+		</Entity>
+		<Entity uid="1581">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="473.22492" z="1054.0625"/>
+			<Orientation y="-2.67865"/>
+			<Actor seed="673"/>
+		</Entity>
+		<Entity uid="1582">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="450.9159" z="1083.47168"/>
+			<Orientation y="-1.55306"/>
+			<Actor seed="14132"/>
+		</Entity>
+		<Entity uid="1583">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="439.89753" z="1116.60401"/>
+			<Orientation y="-1.7351"/>
+			<Actor seed="48729"/>
+		</Entity>
+		<Entity uid="1584">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="422.0438" z="1140.57154"/>
+			<Orientation y="-3.06826"/>
+			<Actor seed="52907"/>
+		</Entity>
+		<Entity uid="1585">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="388.36994" z="1119.31495"/>
+			<Orientation y="2.08013"/>
+			<Actor seed="63033"/>
+		</Entity>
+		<Entity uid="1586">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="404.1786" z="1083.92261"/>
+			<Orientation y="1.91385"/>
+			<Actor seed="43821"/>
+		</Entity>
+		<Entity uid="1587">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="403.86301" z="1033.67396"/>
+			<Orientation y="2.2158"/>
+			<Actor seed="28447"/>
+		</Entity>
+		<Entity uid="1588">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="380.05347" z="1001.24347"/>
+			<Orientation y="2.57834"/>
+			<Actor seed="25062"/>
+		</Entity>
+		<Entity uid="1589">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="356.34708" z="975.73407"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34851"/>
+		</Entity>
+		<Entity uid="1590">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="332.56156" z="947.99537"/>
+			<Orientation y="2.83687"/>
+			<Actor seed="22371"/>
+		</Entity>
+		<Entity uid="1591">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="297.41349" z="948.38495"/>
+			<Orientation y="3.13332"/>
+			<Actor seed="42664"/>
+		</Entity>
+		<Entity uid="1592">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="257.53577" z="947.15107"/>
+			<Orientation y="2.0396"/>
+			<Actor seed="33062"/>
+		</Entity>
+		<Entity uid="1593">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="232.503" z="911.05756"/>
+			<Orientation y="1.78208"/>
+			<Actor seed="45746"/>
+		</Entity>
+		<Entity uid="1594">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="196.09314" z="878.91041"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41983"/>
+		</Entity>
+		<Entity uid="1595">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="177.33146" z="838.48218"/>
+			<Orientation y="1.4934"/>
+			<Actor seed="5719"/>
+		</Entity>
+		<Entity uid="1596">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="208.27213" z="806.4643"/>
+			<Orientation y="0.66527"/>
+			<Actor seed="59889"/>
+		</Entity>
+		<Entity uid="1597">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="225.2465" z="772.15552"/>
+			<Orientation y="0.78615"/>
+			<Actor seed="59212"/>
+		</Entity>
+		<Entity uid="1598">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="229.73441" z="736.28431"/>
+			<Orientation y="1.41422"/>
+			<Actor seed="50569"/>
+		</Entity>
+		<Entity uid="1599">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="210.33246" z="710.42042"/>
+			<Orientation y="2.69123"/>
+			<Actor seed="1005"/>
+		</Entity>
+		<Entity uid="1600">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="156.01786" z="701.44007"/>
+			<Orientation y="1.6364"/>
+			<Actor seed="55352"/>
+		</Entity>
+		<Entity uid="1601">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="165.97565" z="662.56055"/>
+			<Orientation y="1.16604"/>
+			<Actor seed="61182"/>
+		</Entity>
+		<Entity uid="1602">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="149.09952" z="631.7508"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7523"/>
+		</Entity>
+		<Entity uid="1603">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="120.33016" z="605.59894"/>
+			<Orientation y="1.26037"/>
+			<Actor seed="1866"/>
+		</Entity>
+		<Entity uid="1604">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="154.54242" z="576.67615"/>
+			<Orientation y="0.81774"/>
+			<Actor seed="35090"/>
+		</Entity>
+		<Entity uid="1605">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="168.081" z="544.1349"/>
+			<Orientation y="0.36823"/>
+			<Actor seed="45618"/>
+		</Entity>
+		<Entity uid="1606">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="219.10581" z="560.102"/>
+			<Orientation y="0.39614"/>
+			<Actor seed="61764"/>
+		</Entity>
+		<Entity uid="1607">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="231.49766" z="525.42829"/>
+			<Orientation y="1.24962"/>
+			<Actor seed="4901"/>
+		</Entity>
+		<Entity uid="1608">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="241.81931" z="474.96122"/>
+			<Orientation y="1.00264"/>
+			<Actor seed="18845"/>
+		</Entity>
+		<Entity uid="1609">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="249.52305" z="425.70295"/>
+			<Orientation y="1.53046"/>
+			<Actor seed="65006"/>
+		</Entity>
+		<Entity uid="1610">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="286.98102" z="399.59055"/>
+			<Orientation y="0.57372"/>
+			<Actor seed="22974"/>
+		</Entity>
+		<Entity uid="1611">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="309.12818" z="362.6836"/>
+			<Orientation y="0.88213"/>
+			<Actor seed="27584"/>
+		</Entity>
+		<Entity uid="1612">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="301.85535" z="309.95487"/>
+			<Orientation y="0.6808"/>
+			<Actor seed="49396"/>
+		</Entity>
+		<Entity uid="1613">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="432.67298" z="288.8111"/>
+			<Orientation y="0.3455"/>
+			<Actor seed="6922"/>
+		</Entity>
+		<Entity uid="1614">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="593.07105" z="205.98017"/>
+			<Orientation y="0.20646"/>
+			<Actor seed="50057"/>
+		</Entity>
+		<Entity uid="1615">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="762.40528" z="187.88834"/>
+			<Orientation y="-0.2986"/>
+			<Actor seed="26043"/>
+		</Entity>
+		<Entity uid="1616">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="688.23243" z="196.23932"/>
+			<Orientation y="0.82152"/>
+			<Actor seed="12982"/>
+		</Entity>
+		<Entity uid="1617">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="1065.0459" z="599.94513"/>
+			<Orientation y="-1.52851"/>
+			<Actor seed="60058"/>
+		</Entity>
+		<Entity uid="1618">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="1027.84351" z="380.65406"/>
+			<Orientation y="-1.08666"/>
+			<Actor seed="1594"/>
+		</Entity>
+		<Entity uid="1619">
+			<Template>structures/mex_fortress</Template>
+			<Player>1</Player>
+			<Position x="930.57514" z="236.38831"/>
+			<Orientation y="-0.57303"/>
+			<Actor seed="4145"/>
+		</Entity>
+		<Entity uid="1620">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1017.73755" z="495.60666"/>
+			<Orientation y="-1.6567"/>
+			<Actor seed="32640"/>
+		</Entity>
+		<Entity uid="1621">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="970.91822" z="295.068"/>
+			<Orientation y="-0.79674"/>
+			<Actor seed="14881"/>
+		</Entity>
+		<Entity uid="1622">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="822.485" z="200.67865"/>
+			<Orientation y="-0.80608"/>
+			<Actor seed="25658"/>
+		</Entity>
+		<Entity uid="1623">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="702.50281" z="131.41501"/>
+			<Orientation y="-0.35463"/>
+			<Actor seed="1740"/>
+		</Entity>
+		<Entity uid="1624">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="500.50391" z="243.2298"/>
+			<Orientation y="0.77614"/>
+			<Actor seed="64917"/>
+		</Entity>
+		<Entity uid="1625">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="275.47535" z="376.4401"/>
+			<Orientation y="-2.05558"/>
+			<Actor seed="16320"/>
+		</Entity>
+		<Entity uid="1626">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="232.57651" z="452.77988"/>
+			<Orientation y="-1.61341"/>
+			<Actor seed="57984"/>
+		</Entity>
+		<Entity uid="1627">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="143.44431" z="654.41895"/>
+			<Orientation y="-1.01058"/>
+			<Actor seed="52513"/>
+		</Entity>
+		<Entity uid="1628">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="168.9932" z="810.20813"/>
+			<Orientation y="-2.33863"/>
+			<Actor seed="59338"/>
+		</Entity>
+		<Entity uid="1629">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="170.19239" z="893.01539"/>
+			<Orientation y="-0.66868"/>
+			<Actor seed="13337"/>
+		</Entity>
+		<Entity uid="1630">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="240.77961" z="989.53571"/>
+			<Orientation y="-0.59398"/>
+			<Actor seed="32411"/>
+		</Entity>
+		<Entity uid="1631">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="352.75678" z="997.34638"/>
+			<Orientation y="-0.65133"/>
+			<Actor seed="48797"/>
+		</Entity>
+		<Entity uid="1632">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="382.4863" z="1099.68616"/>
+			<Orientation y="-1.99047"/>
+			<Actor seed="30553"/>
+		</Entity>
+		<Entity uid="1633">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="404.47254" z="1147.1709"/>
+			<Orientation y="-0.62041"/>
+			<Actor seed="48678"/>
+		</Entity>
+		<Entity uid="1634">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="458.69605" z="1131.89197"/>
+			<Orientation y="1.43273"/>
+			<Actor seed="11514"/>
+		</Entity>
+		<Entity uid="1635">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="561.4579" z="1157.5652"/>
+			<Orientation y="1.13372"/>
+			<Actor seed="3535"/>
+		</Entity>
+		<Entity uid="1636">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="523.2508" z="1153.70105"/>
+			<Orientation y="-0.63486"/>
+			<Actor seed="55897"/>
+		</Entity>
+		<Entity uid="1637">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="733.96503" z="1093.30909"/>
+			<Orientation y="-0.27454"/>
+			<Actor seed="55955"/>
+		</Entity>
+		<Entity uid="1638">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="834.57551" z="1084.67823"/>
+			<Orientation y="-0.21628"/>
+			<Actor seed="21749"/>
+		</Entity>
+		<Entity uid="1639">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="912.12665" z="1044.12427"/>
+			<Orientation y="-0.02521"/>
+			<Actor seed="31408"/>
+		</Entity>
+		<Entity uid="1640">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="939.47376" z="945.40021"/>
+			<Orientation y="1.05071"/>
+			<Actor seed="65256"/>
+		</Entity>
+		<Entity uid="1641">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1046.43653" z="898.27094"/>
+			<Orientation y="1.17425"/>
+			<Actor seed="54558"/>
+		</Entity>
+		<Entity uid="1642">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1093.12671" z="800.31891"/>
+			<Orientation y="1.46668"/>
+			<Actor seed="43791"/>
+		</Entity>
+		<Entity uid="1643">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1091.42627" z="659.41614"/>
+			<Orientation y="1.33745"/>
+			<Actor seed="33390"/>
+		</Entity>
+		<Entity uid="1644">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1105.16822" z="559.84748"/>
+			<Orientation y="1.09414"/>
+			<Actor seed="8968"/>
+		</Entity>
+		<Entity uid="1645">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1070.4867" z="439.49241"/>
+			<Orientation y="1.41578"/>
+			<Actor seed="51715"/>
+		</Entity>
+		<Entity uid="1646">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1074.44727" z="362.92856"/>
+			<Orientation y="1.37688"/>
+			<Actor seed="7374"/>
+		</Entity>
+		<Entity uid="1647">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="1029.98462" z="303.90732"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46283"/>
+		</Entity>
+		<Entity uid="1648">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="977.38453" z="233.18946"/>
+			<Orientation y="1.53084"/>
+			<Actor seed="54984"/>
+		</Entity>
+		<Entity uid="1649">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="862.16626" z="229.87742"/>
+			<Orientation y="2.83477"/>
+			<Actor seed="15641"/>
+		</Entity>
+		<Entity uid="1650">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="827.91688" z="168.8422"/>
+			<Orientation y="-3.04493"/>
+			<Actor seed="18055"/>
+		</Entity>
+		<Entity uid="1651">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="736.49683" z="141.0586"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57032"/>
+		</Entity>
+		<Entity uid="1652">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="626.84211" z="208.14176"/>
+			<Orientation y="2.93996"/>
+			<Actor seed="48420"/>
+		</Entity>
+		<Entity uid="1653">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="520.26026" z="201.0222"/>
+			<Orientation y="-2.63112"/>
+			<Actor seed="49856"/>
+		</Entity>
+		<Entity uid="1654">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="420.36838" z="256.81177"/>
+			<Orientation y="-2.6498"/>
+			<Actor seed="30842"/>
+		</Entity>
+		<Entity uid="1655">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="325.0958" z="283.63785"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6227"/>
+		</Entity>
+		<Entity uid="1656">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="358.01594" z="332.86017"/>
+			<Orientation y="3.00348"/>
+			<Actor seed="55363"/>
+		</Entity>
+		<Entity uid="1657">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="767.31403" z="1487.80701"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36740"/>
+		</Entity>
+		<Entity uid="1658">
+			<Template>structures/mex_dock</Template>
+			<Player>1</Player>
+			<Position x="795.69385" z="1506.94776"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56539"/>
+		</Entity>
+		<Entity uid="1659">
+			<Template>structures/mex_wonder</Template>
+			<Player>1</Player>
+			<Position x="635.18897" z="599.48432"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37125"/>
+		</Entity>
+		<Entity uid="1660">
+			<Template>structures/mex_civil_centre</Template>
+			<Player>1</Player>
+			<Position x="815.49714" z="594.01612"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17813"/>
+		</Entity>
+		<Entity uid="1661">
+			<Template>structures/mex_civil_centre</Template>
+			<Player>1</Player>
+			<Position x="613.39081" z="390.63758"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64738"/>
+		</Entity>
+		<Entity uid="1662">
+			<Template>structures/mex_civil_centre</Template>
+			<Player>1</Player>
+			<Position x="391.29911" z="568.59473"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1535"/>
+		</Entity>
+		<Entity uid="1663">
+			<Template>structures/mex_civil_centre</Template>
+			<Player>1</Player>
+			<Position x="642.8285" z="800.42823"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37358"/>
+		</Entity>
+		<Entity uid="1664">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="498.02381" z="767.80134"/>
+			<Orientation y="-2.36327"/>
+			<Actor seed="4846"/>
+		</Entity>
+		<Entity uid="1665">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="515.48273" z="750.7381"/>
+			<Orientation y="-2.35969"/>
+			<Actor seed="36663"/>
+		</Entity>
+		<Entity uid="1666">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="464.89341" z="801.67237"/>
+			<Orientation y="-2.36327"/>
+			<Actor seed="4846"/>
+		</Entity>
+		<Entity uid="1667">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="482.35233" z="784.60914"/>
+			<Orientation y="-2.3597"/>
+			<Actor seed="36663"/>
+		</Entity>
+		<Entity uid="1668">
+			<Template>structures/mex_barracks</Template>
+			<Player>1</Player>
+			<Position x="448.75766" z="816.90766"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20494"/>
+		</Entity>
+		<Entity uid="1669">
+			<Template>structures/mex_barracks</Template>
+			<Player>1</Player>
+			<Position x="531.22925" z="732.45618"/>
+			<Orientation y="-0.76554"/>
+			<Actor seed="23146"/>
+		</Entity>
+		<Entity uid="1670">
+			<Template>structures/mex_barracks</Template>
+			<Player>1</Player>
+			<Position x="490.06193" z="696.02723"/>
+			<Orientation y="0.77161"/>
+			<Actor seed="23146"/>
+		</Entity>
+		<Entity uid="1671">
+			<Template>structures/mex_barracks</Template>
+			<Player>1</Player>
+			<Position x="407.59034" z="780.4787"/>
+			<Orientation y="0.86561"/>
+			<Actor seed="20494"/>
+		</Entity>
+		<Entity uid="1672">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="441.185" z="748.18018"/>
+			<Orientation y="-5.45348"/>
+			<Actor seed="36663"/>
+		</Entity>
+		<Entity uid="1673">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="423.72608" z="765.24341"/>
+			<Orientation y="-5.48591"/>
+			<Actor seed="4846"/>
+		</Entity>
+		<Entity uid="1674">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="474.3154" z="714.30915"/>
+			<Orientation y="-5.42692"/>
+			<Actor seed="36663"/>
+		</Entity>
+		<Entity uid="1675">
+			<Template>structures/mex_blacksmith</Template>
+			<Player>1</Player>
+			<Position x="456.85648" z="731.37238"/>
+			<Orientation y="-5.55083"/>
+			<Actor seed="4846"/>
+		</Entity>
+		<Entity uid="1676">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="396.46787" z="798.81959"/>
+			<Orientation y="0.76159"/>
+			<Actor seed="15090"/>
+		</Entity>
+		<Entity uid="1677">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="431.17432" z="829.27973"/>
+			<Orientation y="-2.26238"/>
+			<Actor seed="63680"/>
+		</Entity>
+		<Entity uid="1678">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="545.24903" z="715.77283"/>
+			<Orientation y="-2.27424"/>
+			<Actor seed="57660"/>
+		</Entity>
+		<Entity uid="1679">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="511.26148" z="679.81824"/>
+			<Orientation y="0.68595"/>
+			<Actor seed="50038"/>
+		</Entity>
+		<Entity uid="1680">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="561.0138" z="697.56867"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24283"/>
+		</Entity>
+		<Entity uid="1681">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="530.14234" z="662.41224"/>
+			<Orientation y="0.86693"/>
+			<Actor seed="37236"/>
+		</Entity>
+		<Entity uid="1682">
+			<Template>structures/mex_storehouse</Template>
+			<Player>1</Player>
+			<Position x="571.94465" z="685.4626"/>
+			<Orientation y="-2.42045"/>
+			<Actor seed="61612"/>
+		</Entity>
+		<Entity uid="1683">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="921.95398" z="466.97217"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4731"/>
+		</Entity>
+		<Entity uid="1684">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="897.92316" z="443.87406"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54852"/>
+		</Entity>
+		<Entity uid="1685">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="921.9975" z="421.04633"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45951"/>
+		</Entity>
+		<Entity uid="1686">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="945.75446" z="444.65738"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25085"/>
+		</Entity>
+		<Entity uid="1687">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="914.90882" z="400.60465"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46410"/>
+		</Entity>
+		<Entity uid="1688">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="909.3625" z="405.10315"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39201"/>
+		</Entity>
+		<Entity uid="1689">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="902.72461" z="411.40745"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44651"/>
+		</Entity>
+		<Entity uid="1690">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="896.20691" z="417.99201"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44438"/>
+		</Entity>
+		<Entity uid="1691">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="887.92695" z="425.01597"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28873"/>
+		</Entity>
+		<Entity uid="1692">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="880.56824" z="430.49665"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32647"/>
+		</Entity>
+		<Entity uid="1693">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="873.03412" z="437.9372"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47017"/>
+		</Entity>
+		<Entity uid="1694">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="928.38361" z="492.7793"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4916"/>
+		</Entity>
+		<Entity uid="1695">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="936.40076" z="483.51017"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21176"/>
+		</Entity>
+		<Entity uid="1696">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="945.27613" z="473.32648"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42321"/>
+		</Entity>
+		<Entity uid="1697">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="952.8194" z="466.79401"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61320"/>
+		</Entity>
+		<Entity uid="1698">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="961.0365" z="460.416"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39881"/>
+		</Entity>
+		<Entity uid="1699">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="968.50556" z="452.50507"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18079"/>
+		</Entity>
+		<Entity uid="1700">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="967.41456" z="436.0912"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38787"/>
+		</Entity>
+		<Entity uid="1701">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="959.3349" z="426.28876"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16647"/>
+		</Entity>
+		<Entity uid="1702">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="947.87745" z="418.02015"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21078"/>
+		</Entity>
+		<Entity uid="1703">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="937.59907" z="405.92832"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14818"/>
+		</Entity>
+		<Entity uid="1704">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="926.06366" z="397.20066"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30623"/>
+		</Entity>
+		<Entity uid="1705">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="876.07764" z="450.89472"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24934"/>
+		</Entity>
+		<Entity uid="1706">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="883.6496" z="462.65653"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59011"/>
+		</Entity>
+		<Entity uid="1707">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="893.34595" z="473.45008"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2080"/>
+		</Entity>
+		<Entity uid="1708">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="904.09998" z="483.72266"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21225"/>
+		</Entity>
+		<Entity uid="1709">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="913.81135" z="492.12885"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13129"/>
+		</Entity>
+		<Entity uid="1710">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="908.52948" z="387.87049"/>
+			<Orientation y="1.32224"/>
+			<Actor seed="43107"/>
+		</Entity>
+		<Entity uid="1711">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="982.30256" z="464.21683"/>
+			<Orientation y="3.04792"/>
+			<Actor seed="48243"/>
+		</Entity>
+		<Entity uid="1712">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="937.04041" z="506.82197"/>
+			<Orientation y="-0.16459"/>
+			<Actor seed="61306"/>
+		</Entity>
+		<Entity uid="1713">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="860.44715" z="446.16391"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35439"/>
+		</Entity>
+		<Entity uid="1714">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="209.935" z="657.88685"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="35439"/>
+		</Entity>
+		<Entity uid="1715">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="286.52826" z="718.54493"/>
+			<Orientation y="-0.1646"/>
+			<Actor seed="61306"/>
+		</Entity>
+		<Entity uid="1716">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="331.79041" z="675.93976"/>
+			<Orientation y="3.04792"/>
+			<Actor seed="48243"/>
+		</Entity>
+		<Entity uid="1717">
+			<Template>other/stall_med</Template>
+			<Player>1</Player>
+			<Position x="258.01734" z="599.59339"/>
+			<Orientation y="1.32224"/>
+			<Actor seed="43107"/>
+		</Entity>
+		<Entity uid="1718">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="263.2992" z="703.85181"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="13129"/>
+		</Entity>
+		<Entity uid="1719">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="253.58783" z="695.44556"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="21225"/>
+		</Entity>
+		<Entity uid="1720">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="242.83381" z="685.17298"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="2080"/>
+		</Entity>
+		<Entity uid="1721">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="294.76398" z="685.04944"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="42321"/>
+		</Entity>
+		<Entity uid="1722">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="285.88862" z="695.2331"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="21176"/>
+		</Entity>
+		<Entity uid="1723">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="277.87146" z="704.5022"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="4916"/>
+		</Entity>
+		<Entity uid="1724">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="222.52198" z="649.66016"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="47017"/>
+		</Entity>
+		<Entity uid="1725">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="230.0561" z="642.21961"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="32647"/>
+		</Entity>
+		<Entity uid="1726">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="237.4148" z="636.7389"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="28873"/>
+		</Entity>
+		<Entity uid="1727">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="245.69477" z="629.71497"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="44438"/>
+		</Entity>
+		<Entity uid="1728">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="252.21247" z="623.13038"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="44651"/>
+		</Entity>
+		<Entity uid="1729">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="258.85035" z="616.82605"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="39201"/>
+		</Entity>
+		<Entity uid="1730">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="264.39667" z="612.32758"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="46410"/>
+		</Entity>
+		<Entity uid="1731">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="295.24231" z="656.38032"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="25085"/>
+		</Entity>
+		<Entity uid="1732">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="271.48536" z="632.7693"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="45951"/>
+		</Entity>
+		<Entity uid="1733">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="247.41102" z="655.597"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54852"/>
+		</Entity>
+		<Entity uid="1734">
+			<Template>structures/mex_market</Template>
+			<Player>1</Player>
+			<Position x="271.44184" z="678.69507"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="4731"/>
+		</Entity>
+		<Entity uid="1735">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="317.99341" z="664.22803"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="18079"/>
+		</Entity>
+		<Entity uid="1736">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="316.90241" z="647.8141"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="38787"/>
+		</Entity>
+		<Entity uid="1737">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="308.82276" z="638.01172"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="16647"/>
+		</Entity>
+		<Entity uid="1738">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="297.3653" z="629.74305"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="21078"/>
+		</Entity>
+		<Entity uid="1739">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="302.30726" z="678.51697"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="61320"/>
+		</Entity>
+		<Entity uid="1740">
+			<Template>other/stall_small_b</Template>
+			<Player>1</Player>
+			<Position x="310.52436" z="672.13892"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="39881"/>
+		</Entity>
+		<Entity uid="1741">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="287.08692" z="617.65125"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="14818"/>
+		</Entity>
+		<Entity uid="1742">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="275.55152" z="608.92359"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="30623"/>
+		</Entity>
+		<Entity uid="1743">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="225.5655" z="662.61768"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="24934"/>
+		</Entity>
+		<Entity uid="1744">
+			<Template>other/stall_small_a</Template>
+			<Player>1</Player>
+			<Position x="233.13746" z="674.37946"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="59011"/>
+		</Entity>
+		<Entity uid="1746">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="834.37806" z="447.88877"/>
+			<Orientation y="-0.74595"/>
+			<Actor seed="6430"/>
+		</Entity>
+		<Entity uid="1747">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="850.96131" z="465.50181"/>
+			<Orientation y="-0.84115"/>
+			<Actor seed="31530"/>
+		</Entity>
+		<Entity uid="1748">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="867.86176" z="481.19602"/>
+			<Orientation y="-0.80277"/>
+			<Actor seed="48987"/>
+		</Entity>
+		<Entity uid="1749">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="883.62879" z="496.45179"/>
+			<Orientation y="-0.88341"/>
+			<Actor seed="13372"/>
+		</Entity>
+		<Entity uid="1750">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="897.62494" z="512.88563"/>
+			<Orientation y="-0.87073"/>
+			<Actor seed="52257"/>
+		</Entity>
+		<Entity uid="1751">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="985.61561" z="599.08881"/>
+			<Orientation y="-0.87073"/>
+			<Actor seed="52257"/>
+		</Entity>
+		<Entity uid="1752">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="971.61945" z="582.65497"/>
+			<Orientation y="-0.88341"/>
+			<Actor seed="13372"/>
+		</Entity>
+		<Entity uid="1753">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="955.85242" z="567.39917"/>
+			<Orientation y="-0.80277"/>
+			<Actor seed="48987"/>
+		</Entity>
+		<Entity uid="1754">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="938.95197" z="551.70496"/>
+			<Orientation y="-0.84116"/>
+			<Actor seed="31530"/>
+		</Entity>
+		<Entity uid="1755">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="922.36872" z="534.09192"/>
+			<Orientation y="-0.74596"/>
+			<Actor seed="6430"/>
+		</Entity>
+		<Entity uid="1756">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="946.22852" z="621.31592"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33286"/>
+		</Entity>
+		<Entity uid="1757">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="924.8891" z="599.71717"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47565"/>
+		</Entity>
+		<Entity uid="1758">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="901.73267" z="580.21064"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32968"/>
+		</Entity>
+		<Entity uid="1759">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="883.15076" z="559.92994"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12747"/>
+		</Entity>
+		<Entity uid="1760">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="866.5724" z="541.71644"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44433"/>
+		</Entity>
+		<Entity uid="1761">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="849.06354" z="524.21875"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47580"/>
+		</Entity>
+		<Entity uid="1762">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="832.62244" z="508.77128"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45218"/>
+		</Entity>
+		<Entity uid="1763">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="816.49183" z="490.31061"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56681"/>
+		</Entity>
+		<Entity uid="1764">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="800.35755" z="474.01124"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2105"/>
+		</Entity>
+		<Entity uid="1765">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="992.47645" z="563.68714"/>
+			<Orientation y="-2.28673"/>
+			<Actor seed="7360"/>
+		</Entity>
+		<Entity uid="1766">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1005.01032" z="541.23359"/>
+			<Orientation y="-1.97771"/>
+			<Actor seed="62510"/>
+		</Entity>
+		<Entity uid="1767">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1000.79798" z="515.43"/>
+			<Orientation y="-1.05761"/>
+			<Actor seed="60484"/>
+		</Entity>
+		<Entity uid="1768">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="976.95514" z="504.29203"/>
+			<Orientation y="0.09211"/>
+			<Actor seed="966"/>
+		</Entity>
+		<Entity uid="1769">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="952.91236" z="520.46106"/>
+			<Orientation y="0.73221"/>
+			<Actor seed="22918"/>
+		</Entity>
+		<Entity uid="1770">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="959.73725" z="548.01508"/>
+			<Orientation y="2.07113"/>
+			<Actor seed="41036"/>
+		</Entity>
+		<Entity uid="1771">
+			<Template>actor|props/structures/ptolemies/settlement_campfire.xml</Template>
+			<Position x="989.96973" z="551.4347"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59055"/>
+		</Entity>
+		<Entity uid="1772">
+			<Template>actor|props/structures/ptolemies/settlement_campfire.xml</Template>
+			<Position x="997.26813" z="535.13569"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40275"/>
+		</Entity>
+		<Entity uid="1773">
+			<Template>actor|props/structures/ptolemies/settlement_campfire.xml</Template>
+			<Position x="995.67823" z="522.5553"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13979"/>
+		</Entity>
+		<Entity uid="1774">
+			<Template>actor|props/structures/ptolemies/settlement_campfire.xml</Template>
+			<Position x="982.91639" z="513.99872"/>
+			<Orientation y="-2.39129"/>
+			<Actor seed="56004"/>
+		</Entity>
+		<Entity uid="1775">
+			<Template>actor|props/structures/ptolemies/settlement_campfire.xml</Template>
+			<Position x="961.83399" z="524.75623"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31682"/>
+		</Entity>
+		<Entity uid="1776">
+			<Template>actor|props/structures/ptolemies/settlement_campfire.xml</Template>
+			<Position x="966.25251" z="541.63263"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4578"/>
+		</Entity>
+		<Entity uid="1777">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="1046.33448" z="606.9145"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23850"/>
+		</Entity>
+		<Entity uid="1778">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="1046.2837" z="593.7063"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39931"/>
+		</Entity>
+		<Entity uid="1779">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="987.41187" z="871.11115"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19585"/>
+		</Entity>
+		<Entity uid="1780">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="954.74628" z="879.34705"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26175"/>
+		</Entity>
+		<Entity uid="1781">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="385.8159" z="327.6478"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27806"/>
+		</Entity>
+		<Entity uid="1782">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="369.79172" z="345.51505"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22628"/>
+		</Entity>
+		<Entity uid="1783">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="281.30042" z="957.93146"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51815"/>
+		</Entity>
+		<Entity uid="1784">
+			<Template>actor|props/special/eyecandy/campfire.xml</Template>
+			<Position x="260.4639" z="934.44373"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30591"/>
+		</Entity>
+		<Entity uid="1785">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="929.31727" z="366.8042"/>
+			<Orientation y="-2.27373"/>
+			<Actor seed="27777"/>
+		</Entity>
+		<Entity uid="1786">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="944.8772" z="348.45878"/>
+			<Orientation y="-2.2837"/>
+			<Actor seed="64968"/>
+		</Entity>
+		<Entity uid="1787">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="960.65668" z="330.37797"/>
+			<Orientation y="-2.31116"/>
+			<Actor seed="5717"/>
+		</Entity>
+		<Entity uid="1788">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="924.86554" z="305.53858"/>
+			<Orientation y="0.83635"/>
+			<Actor seed="43432"/>
+		</Entity>
+		<Entity uid="1789">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="905.57972" z="324.2634"/>
+			<Orientation y="0.89202"/>
+			<Actor seed="39996"/>
+		</Entity>
+		<Entity uid="1790">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="892.72675" z="339.27472"/>
+			<Orientation y="0.69285"/>
+			<Actor seed="32109"/>
+		</Entity>
+		<Entity uid="1791">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="859.00202" z="354.82343"/>
+			<Orientation y="0.4774"/>
+			<Actor seed="56102"/>
+		</Entity>
+		<Entity uid="1792">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="842.08844" z="372.84894"/>
+			<Orientation y="0.68441"/>
+			<Actor seed="2445"/>
+		</Entity>
+		<Entity uid="1793">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="824.15497" z="386.99201"/>
+			<Orientation y="0.74085"/>
+			<Actor seed="53627"/>
+		</Entity>
+		<Entity uid="1794">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="803.70307" z="406.8266"/>
+			<Orientation y="0.73351"/>
+			<Actor seed="19953"/>
+		</Entity>
+		<Entity uid="1795">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="785.05127" z="426.08063"/>
+			<Orientation y="0.65906"/>
+			<Actor seed="25168"/>
+		</Entity>
+		<Entity uid="1796">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="766.7458" z="442.9195"/>
+			<Orientation y="0.65084"/>
+			<Actor seed="64360"/>
+		</Entity>
+		<Entity uid="1797">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="949.76325" z="384.2659"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39772"/>
+		</Entity>
+		<Entity uid="1798">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="965.67042" z="401.51618"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7542"/>
+		</Entity>
+		<Entity uid="1799">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="981.22687" z="420.9697"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24075"/>
+		</Entity>
+		<Entity uid="1800">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="998.1725" z="439.02366"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26423"/>
+		</Entity>
+		<Entity uid="1801">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="972.08136" z="366.18461"/>
+			<Orientation y="-0.88416"/>
+			<Actor seed="44056"/>
+		</Entity>
+		<Entity uid="1802">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="987.81006" z="353.01844"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15992"/>
+		</Entity>
+		<Entity uid="1803">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="923.62293" z="637.86072"/>
+			<Orientation y="-0.78878"/>
+			<Actor seed="40059"/>
+		</Entity>
+		<Entity uid="1804">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="907.81965" z="617.0506"/>
+			<Orientation y="-0.92038"/>
+			<Actor seed="26540"/>
+		</Entity>
+		<Entity uid="1805">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="884.89478" z="594.6623"/>
+			<Orientation y="-0.85634"/>
+			<Actor seed="25969"/>
+		</Entity>
+		<Entity uid="1806">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="863.38282" z="573.52222"/>
+			<Orientation y="-1.05056"/>
+			<Actor seed="28844"/>
+		</Entity>
+		<Entity uid="1807">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="845.65271" z="557.05231"/>
+			<Orientation y="-0.96644"/>
+			<Actor seed="48873"/>
+		</Entity>
+		<Entity uid="1808">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="827.01148" z="539.65864"/>
+			<Orientation y="-1.09458"/>
+			<Actor seed="49558"/>
+		</Entity>
+		<Entity uid="1809">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="809.896" z="516.17725"/>
+			<Orientation y="-1.12241"/>
+			<Actor seed="44926"/>
+		</Entity>
+		<Entity uid="1810">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="786.00318" z="494.12342"/>
+			<Orientation y="-0.93221"/>
+			<Actor seed="38828"/>
+		</Entity>
+		<Entity uid="1811">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="945.05903" z="656.48804"/>
+			<Orientation y="-0.85634"/>
+			<Actor seed="25969"/>
+		</Entity>
+		<Entity uid="1812">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="967.9839" z="678.87635"/>
+			<Orientation y="-0.92038"/>
+			<Actor seed="26540"/>
+		</Entity>
+		<Entity uid="1813">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="983.78718" z="699.68647"/>
+			<Orientation y="-0.78878"/>
+			<Actor seed="40059"/>
+		</Entity>
+		<Entity uid="1814">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="961.89692" z="642.03638"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="32968"/>
+		</Entity>
+		<Entity uid="1815">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="985.05335" z="661.54291"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="47565"/>
+		</Entity>
+		<Entity uid="1816">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1006.39277" z="683.14167"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="33286"/>
+		</Entity>
+		<Entity uid="1817">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1006.636" z="719.8556"/>
+			<Orientation y="-0.85634"/>
+			<Actor seed="25969"/>
+		</Entity>
+		<Entity uid="1818">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1029.5608" z="742.2439"/>
+			<Orientation y="-0.92038"/>
+			<Actor seed="26540"/>
+		</Entity>
+		<Entity uid="1819">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1045.36414" z="763.05402"/>
+			<Orientation y="-0.78878"/>
+			<Actor seed="40059"/>
+		</Entity>
+		<Entity uid="1820">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1023.47388" z="705.40394"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="32968"/>
+		</Entity>
+		<Entity uid="1821">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1046.63038" z="724.91047"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="47565"/>
+		</Entity>
+		<Entity uid="1822">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1067.96973" z="746.50922"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="33286"/>
+		</Entity>
+		<Entity uid="1823">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1034.91724" z="662.23218"/>
+			<Orientation y="-0.87073"/>
+			<Actor seed="52257"/>
+		</Entity>
+		<Entity uid="1824">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1020.92109" z="645.79834"/>
+			<Orientation y="-0.88341"/>
+			<Actor seed="13372"/>
+		</Entity>
+		<Entity uid="1825">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1041.77808" z="626.83051"/>
+			<Orientation y="-2.28673"/>
+			<Actor seed="7360"/>
+		</Entity>
+		<Entity uid="1826">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1005.15406" z="630.54255"/>
+			<Orientation y="-0.80277"/>
+			<Actor seed="48987"/>
+		</Entity>
+		<Entity uid="1827">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="979.93458" z="628.11786"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39529"/>
+		</Entity>
+		<Entity uid="1828">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="958.62934" z="604.40387"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41494"/>
+		</Entity>
+		<Entity uid="1829">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="946.68885" z="586.7754"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13975"/>
+		</Entity>
+		<Entity uid="1830">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="932.69391" z="574.51087"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48968"/>
+		</Entity>
+		<Entity uid="1831">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="916.3141" z="558.03608"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58584"/>
+		</Entity>
+		<Entity uid="1832">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="901.62745" z="542.32581"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29062"/>
+		</Entity>
+		<Entity uid="1833">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="887.76752" z="527.53364"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58097"/>
+		</Entity>
+		<Entity uid="1834">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="868.44043" z="510.34003"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64503"/>
+		</Entity>
+		<Entity uid="1835">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="850.29542" z="493.22138"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="921"/>
+		</Entity>
+		<Entity uid="1836">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="838.34522" z="481.04212"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44833"/>
+		</Entity>
+		<Entity uid="1837">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="821.48322" z="466.88825"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36966"/>
+		</Entity>
+		<Entity uid="1838">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="995.68592" z="646.94446"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47791"/>
+		</Entity>
+		<Entity uid="1839">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1011.30658" z="663.45051"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15488"/>
+		</Entity>
+		<Entity uid="1840">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1024.48292" z="676.03382"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38201"/>
+		</Entity>
+		<Entity uid="1841">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1035.141" z="688.84144"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37790"/>
+		</Entity>
+		<Entity uid="1842">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1051.02417" z="700.097"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48068"/>
+		</Entity>
+		<Entity uid="1843">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1060.41236" z="712.1261"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21333"/>
+		</Entity>
+		<Entity uid="1844">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1073.01978" z="725.05542"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16038"/>
+		</Entity>
+		<Entity uid="1845">
+			<Template>actor|structures/city_torch.xml</Template>
+			<Position x="1085.41565" z="738.59375"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21287"/>
+		</Entity>
+		<Entity uid="1846">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="813.31171" z="454.93009"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1153"/>
+		</Entity>
+		<Entity uid="1847">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="824.03064" z="465.91211"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57691"/>
+		</Entity>
+		<Entity uid="1848">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="835.08777" z="476.78492"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2480"/>
+		</Entity>
+		<Entity uid="1849">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="846.35431" z="488.36878"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57436"/>
+		</Entity>
+		<Entity uid="1850">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="857.59772" z="499.67978"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18382"/>
+		</Entity>
+		<Entity uid="1851">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="869.08234" z="510.73957"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44833"/>
+		</Entity>
+		<Entity uid="1852">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="880.39222" z="522.2721"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6862"/>
+		</Entity>
+		<Entity uid="1853">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="891.94349" z="533.57978"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6316"/>
+		</Entity>
+		<Entity uid="1854">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="902.94233" z="545.31312"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55369"/>
+		</Entity>
+		<Entity uid="1855">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="913.85773" z="557.19758"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40276"/>
+		</Entity>
+		<Entity uid="1856">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="925.08149" z="568.86896"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13669"/>
+		</Entity>
+		<Entity uid="1857">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="936.36463" z="580.70014"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43678"/>
+		</Entity>
+		<Entity uid="1858">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="948.50019" z="592.02643"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14284"/>
+		</Entity>
+		<Entity uid="1859">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="959.36329" z="604.06873"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21194"/>
+		</Entity>
+		<Entity uid="1860">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="971.13672" z="615.6568"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33191"/>
+		</Entity>
+		<Entity uid="1861">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="982.34211" z="627.27521"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51977"/>
+		</Entity>
+		<Entity uid="1862">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="991.8177" z="636.58515"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27250"/>
+		</Entity>
+		<Entity uid="1863">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="997.64496" z="643.19098"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20721"/>
+		</Entity>
+		<Entity uid="1864">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="1003.99482" z="649.61835"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33175"/>
+		</Entity>
+		<Entity uid="1865">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="1010.35682" z="656.56171"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5601"/>
+		</Entity>
+		<Entity uid="1866">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="1026.89454" z="673.93097"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52864"/>
+		</Entity>
+		<Entity uid="1867">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="1049.96302" z="698.20533"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42337"/>
+		</Entity>
+		<Entity uid="1868">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="1069.65833" z="719.86298"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49244"/>
+		</Entity>
+		<Entity uid="1869">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="1085.4828" z="733.22291"/>
+			<Orientation y="-0.5903"/>
+			<Actor seed="33653"/>
+		</Entity>
+		<Entity uid="1870">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="1096.64161" z="742.5962"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6824"/>
+		</Entity>
+		<Entity uid="1871">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="1107.38514" z="749.73108"/>
+			<Orientation y="2.87694"/>
+			<Actor seed="10984"/>
+		</Entity>
+		<Entity uid="1872">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="513.92469" z="665.42017"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62476"/>
+		</Entity>
+		<Entity uid="1873">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="558.09137" z="712.62812"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11954"/>
+		</Entity>
+		<Entity uid="1874">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="428.72751" z="847.25867"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10093"/>
+		</Entity>
+		<Entity uid="1875">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="381.31757" z="800.43226"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54332"/>
+		</Entity>
+		<Entity uid="1876">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="382.10724" z="768.94684"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1877">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="366.52793" z="785.49708"/>
+			<Orientation y="2.04357"/>
+			<Actor seed="8478"/>
+		</Entity>
+		<Entity uid="1878">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="406.56983" z="742.48188"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1879">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="431.2949" z="715.72608"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1880">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="457.42066" z="687.18403"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1881">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="482.85068" z="661.31403"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1882">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="497.80726" z="649.404"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53440"/>
+		</Entity>
+		<Entity uid="1883">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="460.38343" z="846.37574"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1884">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="484.84601" z="819.91077"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1885">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="509.57108" z="793.15497"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1886">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="535.69684" z="764.61292"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1887">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="557.06147" z="742.55164"/>
+			<Orientation y="-2.32483"/>
+			<Actor seed="13095"/>
+		</Entity>
+		<Entity uid="1888">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="444.68403" z="861.47596"/>
+			<Orientation y="0.06127"/>
+			<Actor seed="2810"/>
+		</Entity>
+		<Entity uid="1890">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="571.48176" z="726.50116"/>
+			<Orientation y="-0.28089"/>
+			<Actor seed="5151"/>
+		</Entity>
+		<Entity uid="1891">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="482.93326" z="633.33808"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58357"/>
+		</Entity>
+		<Entity uid="1892">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="456.32178" z="606.26539"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51772"/>
+		</Entity>
+		<Entity uid="1893">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="429.86353" z="580.74402"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46925"/>
+		</Entity>
+		<Entity uid="1894">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="402.2754" z="554.78901"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30210"/>
+		</Entity>
+		<Entity uid="1895">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="374.82816" z="529.1006"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30117"/>
+		</Entity>
+		<Entity uid="1896">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="348.47748" z="504.05353"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13349"/>
+		</Entity>
+		<Entity uid="1897">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="320.48182" z="477.9152"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21883"/>
+		</Entity>
+		<Entity uid="1898">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="293.86924" z="450.99161"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60855"/>
+		</Entity>
+		<Entity uid="1899">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="271.08017" z="429.62708"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16621"/>
+		</Entity>
+		<Entity uid="1900">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="381.72577" z="543.14417"/>
+			<Orientation y="0.85814"/>
+			<Actor seed="34426"/>
+		</Entity>
+		<Entity uid="1902">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="373.91938" z="551.80903"/>
+			<Orientation y="-2.34975"/>
+			<Actor seed="13749"/>
+		</Entity>
+		<Entity uid="1904">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="377.51337" z="582.27265"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33661"/>
+		</Entity>
+		<Entity uid="1905">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="407.70774" z="585.64417"/>
+			<Orientation y="-2.36895"/>
+			<Actor seed="24915"/>
+		</Entity>
+		<Entity uid="1906">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="394.53922" z="597.03364"/>
+			<Orientation y="-0.20612"/>
+			<Actor seed="56602"/>
+		</Entity>
+		<Entity uid="1907">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="361.50821" z="566.53125"/>
+			<Orientation y="1.66305"/>
+			<Actor seed="45484"/>
+		</Entity>
+		<Entity uid="1908">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="408.87928" z="550.43055"/>
+			<Orientation y="0.9785"/>
+			<Actor seed="38301"/>
+		</Entity>
+		<Entity uid="1909">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="422.41794" z="532.4712"/>
+			<Orientation y="-2.24936"/>
+			<Actor seed="62875"/>
+		</Entity>
+		<Entity uid="1910">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="443.92353" z="509.26056"/>
+			<Orientation y="-2.42458"/>
+			<Actor seed="27261"/>
+		</Entity>
+		<Entity uid="1911">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="464.24842" z="491.88617"/>
+			<Orientation y="-2.42458"/>
+			<Actor seed="27261"/>
+		</Entity>
+		<Entity uid="1912">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="483.37229" z="474.54499"/>
+			<Orientation y="-2.42458"/>
+			<Actor seed="27261"/>
+		</Entity>
+		<Entity uid="1913">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="575.42841" z="382.19965"/>
+			<Orientation y="-2.42458"/>
+			<Actor seed="27261"/>
+		</Entity>
+		<Entity uid="1914">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="556.30457" z="399.54084"/>
+			<Orientation y="-2.42458"/>
+			<Actor seed="27261"/>
+		</Entity>
+		<Entity uid="1915">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="535.97962" z="416.91523"/>
+			<Orientation y="-2.42458"/>
+			<Actor seed="27261"/>
+		</Entity>
+		<Entity uid="1916">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="514.47407" z="440.12586"/>
+			<Orientation y="-2.24936"/>
+			<Actor seed="62875"/>
+		</Entity>
+		<Entity uid="1921">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="630.37372" z="377.13575"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60404"/>
+		</Entity>
+		<Entity uid="1922">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="598.11536" z="370.19446"/>
+			<Orientation y="0.33532"/>
+			<Actor seed="17847"/>
+		</Entity>
+		<Entity uid="1923">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="657.59083" z="404.02158"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12135"/>
+		</Entity>
+		<Entity uid="1924">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="685.00562" z="430.29252"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="979"/>
+		</Entity>
+		<Entity uid="1925">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="712.0807" z="457.04508"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31728"/>
+		</Entity>
+		<Entity uid="1926">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="730.9762" z="475.39322"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27094"/>
+		</Entity>
+		<Entity uid="1927">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="762.6078" z="503.176"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29424"/>
+		</Entity>
+		<Entity uid="1928">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="772.02704" z="514.31672"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52400"/>
+		</Entity>
+		<Entity uid="1929">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="782.03748" z="524.40558"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23264"/>
+		</Entity>
+		<Entity uid="1930">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="792.81818" z="534.86634"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61123"/>
+		</Entity>
+		<Entity uid="1931">
+			<Template>structures/gaia_road_short</Template>
+			<Player>1</Player>
+			<Position x="805.1067" z="546.1457"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37140"/>
+		</Entity>
+		<Entity uid="1932">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="825.37555" z="565.81281"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54213"/>
+		</Entity>
+		<Entity uid="1933">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="853.35804" z="593.32355"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26516"/>
+		</Entity>
+		<Entity uid="1934">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="880.82587" z="620.49683"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32728"/>
+		</Entity>
+		<Entity uid="1935">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="907.86341" z="647.62409"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52826"/>
+		</Entity>
+		<Entity uid="1936">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="934.85804" z="674.58521"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45697"/>
+		</Entity>
+		<Entity uid="1937">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="961.2818" z="702.61329"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20411"/>
+		</Entity>
+		<Entity uid="1938">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="988.58338" z="730.63324"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38898"/>
+		</Entity>
+		<Entity uid="1939">
+			<Template>structures/gaia_road_long</Template>
+			<Player>1</Player>
+			<Position x="1016.5464" z="758.08436"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34619"/>
+		</Entity>
+		<Entity uid="1940">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="1037.19776" z="778.18158"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57319"/>
+		</Entity>
+		<Entity uid="1941">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="1047.18287" z="785.6615"/>
+			<Orientation y="-2.52486"/>
+			<Actor seed="22232"/>
+		</Entity>
+		<Entity uid="1942">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="1061.08948" z="774.8512"/>
+			<Orientation y="0.69076"/>
+			<Actor seed="57176"/>
+		</Entity>
+		<Entity uid="1943">
+			<Template>structures/gaia_road_medium</Template>
+			<Player>1</Player>
+			<Position x="1082.02442" z="757.92518"/>
+			<Orientation y="0.69077"/>
+			<Actor seed="57176"/>
+		</Entity>
+		<Entity uid="1944">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="1094.11707" z="748.63898"/>
+			<Orientation y="0.67856"/>
+			<Actor seed="32720"/>
+		</Entity>
+		<Entity uid="1945">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="470.26969" z="619.98133"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="30733"/>
+		</Entity>
+		<Entity uid="1946">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="495.35932" z="646.67902"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52363"/>
+		</Entity>
+		<Entity uid="1947">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="501.69681" z="654.1001"/>
+			<Orientation y="-1.2903"/>
+			<Actor seed="13034"/>
+		</Entity>
+		<Entity uid="1948">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="468.62668" z="673.69513"/>
+			<Orientation y="0.77186"/>
+			<Actor seed="52247"/>
+		</Entity>
+		<Entity uid="1949">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="444.75831" z="701.14338"/>
+			<Orientation y="0.8399"/>
+			<Actor seed="50706"/>
+		</Entity>
+		<Entity uid="1950">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="418.11677" z="728.73041"/>
+			<Orientation y="1.01177"/>
+			<Actor seed="19675"/>
+		</Entity>
+		<Entity uid="1951">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="392.54072" z="755.8943"/>
+			<Orientation y="0.76706"/>
+			<Actor seed="30475"/>
+		</Entity>
+		<Entity uid="1952">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="368.1761" z="782.62629"/>
+			<Orientation y="0.86245"/>
+			<Actor seed="26023"/>
+		</Entity>
+		<Entity uid="1953">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="443.27643" z="859.03095"/>
+			<Orientation y="0.28615"/>
+			<Actor seed="14938"/>
+		</Entity>
+		<Entity uid="1954">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="470.56928" z="835.39954"/>
+			<Orientation y="0.48702"/>
+			<Actor seed="5203"/>
+		</Entity>
+		<Entity uid="1955">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="494.56806" z="807.35859"/>
+			<Orientation y="0.97123"/>
+			<Actor seed="32009"/>
+		</Entity>
+		<Entity uid="1956">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="521.55646" z="778.3534"/>
+			<Orientation y="0.8743"/>
+			<Actor seed="15428"/>
+		</Entity>
+		<Entity uid="1957">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="543.1919" z="755.76551"/>
+			<Orientation y="-2.36489"/>
+			<Actor seed="7093"/>
+		</Entity>
+		<Entity uid="1958">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="569.193" z="727.11304"/>
+			<Orientation y="1.12673"/>
+			<Actor seed="51413"/>
+		</Entity>
+		<Entity uid="1959">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="569.89985" z="724.3119"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9914"/>
+		</Entity>
+		<Entity uid="1960">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="493.98932" z="648.78345"/>
+			<Orientation y="-2.33233"/>
+			<Actor seed="8659"/>
+		</Entity>
+		<Entity uid="1961">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="443.35566" z="594.2447"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65521"/>
+		</Entity>
+		<Entity uid="1962">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="420.06403" z="571.79218"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29238"/>
+		</Entity>
+		<Entity uid="1963">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="415.1992" z="566.59388"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47001"/>
+		</Entity>
+		<Entity uid="1964">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="388.65842" z="541.06421"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38143"/>
+		</Entity>
+		<Entity uid="1965">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="363.72175" z="562.56641"/>
+			<Orientation y="-2.3427"/>
+			<Actor seed="22026"/>
+		</Entity>
+		<Entity uid="1966">
+			<Template>structures/gaia_road_intersection</Template>
+			<Player>1</Player>
+			<Position x="406.04859" z="553.49506"/>
+			<Orientation y="1.06946"/>
+			<Actor seed="44900"/>
+		</Entity>
+		<Entity uid="1967">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="748.86426" z="459.49613"/>
+			<Orientation y="0.92252"/>
+			<Actor seed="11496"/>
+		</Entity>
+		<Entity uid="1968">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="939.15497" z="813.29426"/>
+			<Orientation y="-0.73528"/>
+			<Actor seed="26399"/>
+		</Entity>
+		<Entity uid="1969">
+			<Template>structures/mex_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="976.49793" z="771.62281"/>
+			<Orientation y="0.7819"/>
+			<Actor seed="2107"/>
+		</Entity>
+		<Entity uid="1970">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="907.29151" z="783.74085"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26697"/>
+		</Entity>
+		<Entity uid="1971">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="890.58887" z="769.03125"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64795"/>
+		</Entity>
+		<Entity uid="1972">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="873.50416" z="755.00983"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35351"/>
+		</Entity>
+		<Entity uid="1973">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="899.16108" z="733.3324"/>
+			<Orientation y="-0.86646"/>
+			<Actor seed="1271"/>
+		</Entity>
+		<Entity uid="1974">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="912.82581" z="749.25074"/>
+			<Orientation y="-1.00048"/>
+			<Actor seed="63498"/>
+		</Entity>
+		<Entity uid="1975">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="931.19776" z="764.99982"/>
+			<Orientation y="-0.7747"/>
+			<Actor seed="45520"/>
+		</Entity>
+		<Entity uid="1976">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="875.6297" z="726.63984"/>
+			<Orientation y="0.7404"/>
+			<Actor seed="22282"/>
+		</Entity>
+		<Entity uid="1977">
+			<Template>structures/mex_corral</Template>
+			<Player>1</Player>
+			<Position x="951.95997" z="733.16596"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58593"/>
+		</Entity>
+		<Entity uid="1978">
+			<Template>structures/mex_corral</Template>
+			<Player>1</Player>
+			<Position x="923.49732" z="707.17634"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1953"/>
+		</Entity>
+		<Entity uid="1979">
+			<Template>structures/mex_corral</Template>
+			<Player>1</Player>
+			<Position x="937.28052" z="719.88697"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38527"/>
+		</Entity>
+		<Entity uid="1980">
+			<Template>structures/mex_corral</Template>
+			<Player>1</Player>
+			<Position x="964.22748" z="747.13105"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59696"/>
+		</Entity>
+		<Entity uid="1981">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="781.53693" z="331.97938"/>
+			<Orientation y="-2.37203"/>
+			<Actor seed="11594"/>
+		</Entity>
+		<Entity uid="1982">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="454.86524" z="447.30225"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23424"/>
+		</Entity>
+		<Entity uid="1983">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="306.38529" z="489.45923"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12714"/>
+		</Entity>
+		<Entity uid="1984">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="358.54792" z="819.59021"/>
+			<Orientation y="0.78394"/>
+			<Actor seed="13740"/>
+		</Entity>
+		<Entity uid="1985">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="584.9939" z="910.3631"/>
+			<Orientation y="-0.61928"/>
+			<Actor seed="16974"/>
+		</Entity>
+		<Entity uid="1986">
+			<Template>structures/mex_temple</Template>
+			<Player>1</Player>
+			<Position x="735.78858" z="912.83912"/>
+			<Orientation y="0.66367"/>
+			<Actor seed="1258"/>
+		</Entity>
+		<Entity uid="1987">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="987.21351" z="791.646"/>
+			<Orientation y="-0.74183"/>
+			<Actor seed="52144"/>
+		</Entity>
+		<Entity uid="1988">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="972.1753" z="812.62452"/>
+			<Orientation y="-2.12519"/>
+			<Actor seed="42239"/>
+		</Entity>
+		<Entity uid="1989">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="1015.6902" z="810.30195"/>
+			<Orientation y="-0.65981"/>
+			<Actor seed="24117"/>
+		</Entity>
+		<Entity uid="1990">
+			<Template>structures/mex_house</Template>
+			<Player>1</Player>
+			<Position x="984.79407" z="844.63123"/>
+			<Orientation y="2.06875"/>
+			<Actor seed="26817"/>
 		</Entity>
 	</Entities>
 	<Paths/>

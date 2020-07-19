@@ -3,12 +3,9 @@
   <castshadow/>
   <group>
     <variant frequency="100" name="base">
-      <animations>
-        <animation file="mechanical/garrison_flag_idle.dae" name="Idle" speed="30"/>
-      </animations>
-      <mesh>props/garrison_flag.dae</mesh>
+      <mesh>props/mex_banner.dae</mesh>
       <textures>
-        <texture file="props/garrison_flag_inca.png" name="baseTex"/>
+        <texture file="structural/nahua_struct_a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
