@@ -55,6 +55,16 @@
                 <texture file="props/banner_inca.png" name="baseTex"/>
             </textures>
         </variant>
+        <variant name="waypoint_mex">
+            <textures>
+                <texture file="props/banner_mex.png" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_zapo">
+            <textures>
+                <texture file="props/banner_zapo.png" name="baseTex"/>
+            </textures>
+        </variant>
     </group>
     <material>basic_trans.xml</material>
 </actor>

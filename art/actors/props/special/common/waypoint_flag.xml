@@ -91,6 +91,16 @@
         <texture file="props/banner_inca.png" name="baseTex"/>
       </textures>
     </variant>
+    <variant name="mex">
+      <textures>
+        <texture file="prop/banner_mex.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant name="mex">
+      <textures>
+        <texture file="prop/banner_zapo.png" name="baseTex"/>
+      </textures>
+    </variant>
   </group>
   <material>basic_trans.xml</material>
 </actor>
