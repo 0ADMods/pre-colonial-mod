@@ -1,0 +1,150 @@
+﻿{
+	"Code": "inca",
+	"Culture": "inca",
+	"Name": "Tawantinsuyu (Incas)",
+	"Emblem": "session/portraits/emblems/emblem_inca.png",
+	"History": "",
+	"Music":[
+			{"File":"Harvest_Festival.ogg", "Type":"peace"},
+			{"File":"Forging_a_City-State.ogg", "Type":"peace"},
+			{"File":"Highland_Mist.ogg", "Type":"peace"},
+			{"File":"The_Hellespont.ogg", "Type":"peace"}
+		],
+	"Factions":
+	[
+		{
+			"Name": "Incas",
+			"Description": "The inhabitants of south american.",
+			"Technologies":
+			[
+				{
+					"Name": "aq",
+					"History": "aq",
+					"Description": "aq" 
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "Sapa Inca Capac Yupanqui",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "(Quechua Qhapaq Yupanki Inka, splendid accountant Inca) was the fifth Sapa Inca of the Kingdom of Cusco (beginning around CE 1320) and the last of the Hurin dynasty."
+				},
+				{
+					"Name": "Sapa Inca Pachacutec",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "(Quechua: Pachakutiq Inka Yupanki) was the ninth Sapa Inca (1418–1471/1472) of the Kingdom of Cusco which he transformed into the Inca Empire (Quechua: Tawantinsuyu). Most archaeologists now believe that the famous Inca site of Machu Picchu was built as an estate for Pachacuti." 
+				},
+				{
+					"Name": "Sapa Inca Sinchi Roca",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Sinchi Ruq'a Inka (Quechua for valorous generous Inca) was the second Sapa Inca of the Kingdom of Cusco (beginning around 1230 CE, though as early as 1105 CE according to some) and a member of the Hurin dynasty (first dynasty)."					
+				}
+			] 
+		} 
+	],
+	"CivBonuses":
+	[
+		{
+			
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name": "",
+			"History": "",
+			"Description": ""
+		}
+	],
+	"Structures":
+	[
+		{
+			"Name": "Apartments",
+			"Class": "",
+			"Emblem": "",
+			"History": "big Apartments.",
+			"Requirements": "",
+			"Phase": "",
+			"Special": ""
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade",
+        	"structures/inca_wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/inca_civil_centre"
+		},
+		{
+			"Template": "structures/inca_well"
+		},
+		{
+			"Template": "units/inca_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/inca_infantry_maceman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/inca_infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/inca_infantry_javelinist_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/inca_infantry_chaski",
+			"Count": 1
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+		"Sinchi Roca",
+		"LLoque Yupanqui",
+		"Mayta Capac",
+		"Inca Roca",
+		"Huiracocha",
+		"Pachacutec",
+		"Tupac Yupanqui",
+		"Huascar",
+		"Tupac Huallpa",
+		"Tupac Amaru",
+		"Capac Yupanqui",
+		"Yahuar Huacac"
+	],
+	"SkirmishReplacements":
+	{
+	"skirmish/units/default_cavalry": "units/inca_infantry_javelinist_b",
+	"skirmish/units/default_infantry_ranged_b": "units/inca_infantry_slinger_b",
+	"skirmish/units/default_infantry_melee_b": "units/inca_infantry_maceman_b",
+	"skirmish/units/special_starting_unit":"units/inca_infantry_chaski",
+	"skirmish/structures/default_house_10": "structures/{civ}_house",
+	"skirmish/units/default_ship_trireme":"units/inca_ship_bireme"
+	},
+	"SelectableInGameSetup": true
+}

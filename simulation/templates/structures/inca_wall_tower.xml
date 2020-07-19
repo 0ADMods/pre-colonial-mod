@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_wall_tower">
+  <Attack disable=""/>
+  <Footprint>
+    <Square width="11" depth="10"/>
+    <Height>20</Height>
+  </Footprint>
+  <GarrisonHolder disable=""/>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Pucara jark'akuy</SpecificName>
+    <Tooltip>Does not shoot or garrison.</Tooltip>
+  </Identity>
+  <Obstruction>
+    <Static width="10" depth="9"/>
+  </Obstruction>
+  <RallyPoint disable=""/>
+  <StatusBars>
+    <HeightOffset>21</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>structures/incas/wall_tower.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>5</Length>
+  </WallPiece>
+</Entity>

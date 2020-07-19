@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_blacksmith">
+  <Cost>
+    <PopulationBonus>2</PopulationBonus>
+  </Cost>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Nina Wasi</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/incas/inca_blacksmith.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -2,15 +2,15 @@
 
 <Scenario version="6">
 	<Environment>
-		<SkySet>cirrus</SkySet>
+		<SkySet>mountainous</SkySet>
 		<SunColor r="0.74902" g="0.74902" b="0.74902"/>
 		<SunElevation angle="0.574059"/>
 		<SunRotation angle="-1.57141"/>
 		<TerrainAmbientColor r="0.447059" g="0.509804" b="0.54902"/>
 		<UnitsAmbientColor r="0.564706" g="0.576471" b="0.54902"/>
 		<Fog>
-			<FogFactor>0.004</FogFactor>
-			<FogThickness>0.26</FogThickness>
+			<FogFactor>0</FogFactor>
+			<FogThickness>0.5</FogThickness>
 			<FogColor r="0.8" g="0.8" b="0.8"/>
 		</Fog>
 		<Water>
@@ -25,17 +25,17 @@
 			</WaterBody>
 		</Water>
 		<Postproc>
-			<Brightness>0</Brightness>
-			<Contrast>1.03</Contrast>
+			<Brightness>0.0205078</Brightness>
+			<Contrast>0.964844</Contrast>
 			<Saturation>0.96</Saturation>
 			<Bloom>0.176</Bloom>
 			<PostEffect>hdr</PostEffect>
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1267.64" y="221.149" z="549.915"/>
-		<Rotation angle="-1.83578"/>
-		<Declination angle="0.610865"/>
+		<Position x="1236.87" y="188.147" z="808.044"/>
+		<Rotation angle="-2.00723"/>
+		<Declination angle="0.389168"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {

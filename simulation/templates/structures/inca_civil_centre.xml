@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_civil_centre">
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_brit_cc</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Qhapax wasi</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="25.0" depth="25.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_infantry_spearman_b
+      units/{civ}_infantry_slinger_b
+      units/{civ}_infantry_macerman_b
+      units/{civ}_infantry_chaski
+    </Entities>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/incas/inca_kallanka.xml</Actor>
+    <FoundationActor>structures/fndn_7x8.xml</FoundationActor>
+  </VisualActor>
+</Entity>

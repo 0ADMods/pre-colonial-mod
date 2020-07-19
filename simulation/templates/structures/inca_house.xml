@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_house">
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Wasi</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="10.0" depth="10.0"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/incas/inca_house.xml</Actor>
+  </VisualActor>
+</Entity>

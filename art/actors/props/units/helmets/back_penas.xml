@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+      <variant frequency="100" name="helmetc">
+      <mesh>props/back_penas.dae</mesh>
+      <textures>
+        <texture file="structural/inca_struct.png" name="baseTex"/>
+        <texture file="structural/inca_struct_spec.png" name="specTex"/>
+        <texture file="structural/inca_struct_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_parallax_spec_helmet.xml</material>
+</actor>

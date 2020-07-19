@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Cost>
+    <PopulationBonus>7</PopulationBonus>
+  </Cost>
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Pukara</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="29.0" depth="29.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_champion_pikeman
+       units/{civ}_mechanical_siege_ram
+       units/{civ}_hero_pachacutec
+       units/{civ}_hero_sinchi_roca
+       units/{civ}_hero_capac_yupanqui
+       units/{civ}_champion_imperial
+    </Entities>
+  </ProductionQueue>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_broch.xml</select>
+      <constructed>interface/complete/building/complete_broch.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <VisualActor>
+    <Actor>structures/incas/inca_fortress.xml</Actor>
+    <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
+  </VisualActor>
+  <WallPiece>
+    <Length>28</Length>
+  </WallPiece>
+</Entity>

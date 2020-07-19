@@ -7,7 +7,10 @@
 		"well": "Well Water",
 		"fresh": "Fresh Water"
 	},
-	"properties": ["tradable", "tributable"],
+	"properties": [
+		"tradable",
+		"tributable"
+	],
 	"truePrice": 100,
 	"aiAnalysisInfluenceGroup": "sparse"
 }
