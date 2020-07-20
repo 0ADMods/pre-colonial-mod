@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="905.526" y="165.884" z="391.027"/>
-		<Rotation angle="-1.18279"/>
-		<Declination angle="0.610865"/>
+		<Position x="693.924" y="38.4311" z="571.046"/>
+		<Rotation angle="-1.25876"/>
+		<Declination angle="0.215553"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -4923,6 +4923,20 @@
 			<Position x="984.79407" z="844.63123"/>
 			<Orientation y="2.06875"/>
 			<Actor seed="26817"/>
+		</Entity>
+		<Entity uid="1992">
+			<Template>structures/mex_skull_wall</Template>
+			<Player>1</Player>
+			<Position x="667.40217" z="589.0011"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53152"/>
+		</Entity>
+		<Entity uid="1993">
+			<Template>structures/mex_skull_wall</Template>
+			<Player>1</Player>
+			<Position x="643.64264" z="565.95252"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7624"/>
 		</Entity>
 	</Entities>
 	<Paths/>

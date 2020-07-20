@@ -86,7 +86,7 @@
 			"Template": "structures/inca_civil_centre"
 		},
 		{
-			"Template": "structures/inca_well"
+			"Template": "structures/inca_water_well"
 		},
 		{
 			"Template": "units/inca_support_female_citizen",
