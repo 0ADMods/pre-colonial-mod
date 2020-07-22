@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Footprint>
+    <Square width="30.0" depth="32.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>hopi</Civ>
+    <SpecificName>Yaocalli</SpecificName>
+  </Identity>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}_champion_infantry_spearman
+      units/{civ}_champion_infantry_swordsman
+      units/{civ}_champion_infantry_archer
+    </Entities>
+  </ProductionQueue>
+  <Obstruction>
+    <Static width="26.0" depth="28.0"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/mexicas/fortress.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>23.2</Length>
+    <Indent>4.8</Indent>
+  </WallPiece>
+</Entity>
