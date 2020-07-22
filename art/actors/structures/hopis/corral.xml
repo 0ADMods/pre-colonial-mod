@@ -16,7 +16,7 @@
   </group>
   <group>
     <variant frequency="1" name="farmstead">
-      <mesh>structural/generic_corral.dae</mesh>
+      <mesh>structural/corral_hopi.dae</mesh>
       <textures>
         <texture file="structural/ao/corral_hopi_ao.png" name="aoTex"/>
       </textures>

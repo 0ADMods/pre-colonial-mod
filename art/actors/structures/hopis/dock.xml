@@ -9,9 +9,9 @@
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
       </props>
       <textures>
-        <texture file="structural/hopi_struct_a.png" name="baseTex"/>
-        <texture file="structural/hopi_struct_a_spec.png" name="specTex"/>
-        <texture file="structural/hopi_struct_a_norm.png" name="normTex"/>
+        <texture file="structural/hopi_struct.png" name="baseTex"/>
+        <texture file="structural/hopi_struct_spec.png" name="specTex"/>
+        <texture file="structural/hopi_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/dock_hopi_ao.png" name="aoTex"/>
       </textures>
     </variant>
