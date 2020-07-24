@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Water_Tower">
+      <mesh>gaia/water_fall.dae</mesh>
+      <props>
+        <prop actor="gaia/water_fall_plane_large.xml" attachpoint="root"/>
+        <prop actor="particle/water_splash.xml" attachpoint="splash_a"/>
+        <prop actor="particle/water_splash.xml" attachpoint="splash_b"/>
+      </props>
+      <textures>
+        <texture file="gaia/stonequarry_tropic.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

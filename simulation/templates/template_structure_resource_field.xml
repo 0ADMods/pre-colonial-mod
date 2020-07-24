@@ -11,7 +11,7 @@
   <Cost>
     <BuildTime>50</BuildTime>
     <Resources>
-      <water>150</water>
+      <water>250</water>
     </Resources>
   </Cost>
   <Footprint>
@@ -31,6 +31,7 @@
   </Identity>
   <Loot>
     <food>50</food>
+    <water op="sub">1</water>
   </Loot>
   <Minimap>
     <Color r="119" g="82" b="46"/>

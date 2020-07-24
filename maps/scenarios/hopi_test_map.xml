@@ -3,10 +3,10 @@
 <Scenario version="6">
 	<Environment>
 		<SkySet>sunny</SkySet>
-		<SunColor r="0.913725" g="0.823529" b="0.635294"/>
+		<SunColor r="0.909804" g="0.819608" b="0.631373"/>
 		<SunElevation angle="0.5"/>
 		<SunRotation angle="1.0472"/>
-		<TerrainAmbientColor r="0.447059" g="0.498039" b="0.6"/>
+		<TerrainAmbientColor r="0.447059" g="0.494118" b="0.6"/>
 		<UnitsAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
 		<Fog>
 			<FogFactor>0</FogFactor>
@@ -16,8 +16,8 @@
 		<Water>
 			<WaterBody>
 				<Type>clap</Type>
-				<Color r="0" g="0.223529" b="0.839216"/>
-				<Tint r="0" g="0.541176" b="0.858824"/>
+				<Color r="0" g="0.219608" b="0.839216"/>
+				<Tint r="0" g="0.537255" b="0.858824"/>
 				<Height>19.9</Height>
 				<Waviness>1</Waviness>
 				<Murkiness>0.5</Murkiness>
@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1097.37" y="65.9863" z="344.107"/>
-		<Rotation angle="-0.90024"/>
+		<Position x="1037.53" y="99.866" z="263.878"/>
+		<Rotation angle="0.0239718"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -47,6 +47,7 @@
   "Name": "Hopi Test Map",
   "Nomad": false,
   "PlayerData": [
+    null,
     {
       "Civ": "mex",
       "Color": {
@@ -12734,55 +12735,6 @@
 			<Orientation y="1.12845"/>
 			<Actor seed="7420"/>
 		</Entity>
-		<Entity uid="2517">
-			<Template>structures/hopi_outpost</Template>
-			<Player>1</Player>
-			<Position x="1105.9668" z="282.97355"/>
-			<Orientation y="-0.88407"/>
-			<Actor seed="27346"/>
-		</Entity>
-		<Entity uid="2518">
-			<Template>structures/hopi_outpost</Template>
-			<Player>1</Player>
-			<Position x="1148.24781" z="343.50672"/>
-			<Orientation y="-0.47822"/>
-			<Actor seed="35393"/>
-		</Entity>
-		<Entity uid="2519">
-			<Template>structures/hopi_outpost</Template>
-			<Player>1</Player>
-			<Position x="1122.98511" z="484.6897"/>
-			<Orientation y="-2.94057"/>
-			<Actor seed="62947"/>
-		</Entity>
-		<Entity uid="2520">
-			<Template>structures/hopi_outpost</Template>
-			<Player>1</Player>
-			<Position x="941.27015" z="484.27677"/>
-			<Orientation y="2.35746"/>
-			<Actor seed="30955"/>
-		</Entity>
-		<Entity uid="2521">
-			<Template>structures/hopi_outpost</Template>
-			<Player>1</Player>
-			<Position x="891.74604" z="393.72391"/>
-			<Orientation y="1.6501"/>
-			<Actor seed="59657"/>
-		</Entity>
-		<Entity uid="2522">
-			<Template>structures/hopi_outpost</Template>
-			<Player>1</Player>
-			<Position x="914.58637" z="333.8761"/>
-			<Orientation y="0.94967"/>
-			<Actor seed="45440"/>
-		</Entity>
-		<Entity uid="2523">
-			<Template>structures/hopi_temple</Template>
-			<Player>1</Player>
-			<Position x="1064.31714" z="469.45221"/>
-			<Orientation y="-2.36506"/>
-			<Actor seed="23238"/>
-		</Entity>
 		<Entity uid="2524">
 			<Template>structures/hopi_storehouse</Template>
 			<Player>1</Player>
@@ -12845,6 +12797,127 @@
 			<Position x="1126.34241" z="347.37867"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65117"/>
+		</Entity>
+		<Entity uid="2533">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1115.92737" z="480.14298"/>
+			<Orientation y="-2.39158"/>
+			<Actor seed="15488"/>
+		</Entity>
+		<Entity uid="2534">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1052.5315" z="511.71213"/>
+			<Orientation y="3.07911"/>
+			<Actor seed="46266"/>
+		</Entity>
+		<Entity uid="2535">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="934.37781" z="472.05146"/>
+			<Orientation y="2.40558"/>
+			<Actor seed="53159"/>
+		</Entity>
+		<Entity uid="2536">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="897.56666" z="386.81098"/>
+			<Orientation y="1.40113"/>
+			<Actor seed="18896"/>
+		</Entity>
+		<Entity uid="2537">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="944.96222" z="270.49061"/>
+			<Orientation y="0.98632"/>
+			<Actor seed="47166"/>
+		</Entity>
+		<Entity uid="2538">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1037.64197" z="252.6211"/>
+			<Orientation y="-0.05977"/>
+			<Actor seed="24968"/>
+		</Entity>
+		<Entity uid="2539">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1121.28626" z="290.52601"/>
+			<Orientation y="-1.5254"/>
+			<Actor seed="43824"/>
+		</Entity>
+		<Entity uid="2540">
+			<Template>structures/hopi_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1162.20435" z="374.83216"/>
+			<Orientation y="-1.97437"/>
+			<Actor seed="945"/>
+		</Entity>
+		<Entity uid="2541">
+			<Template>structures/gaia_aqueduct_medium</Template>
+			<Player>0</Player>
+			<Position x="916.82526" z="73.15836"/>
+			<Orientation y="-2.12581"/>
+			<Actor seed="59727"/>
+		</Entity>
+		<Entity uid="2542">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>0</Player>
+			<Position x="907.30646" z="86.52256"/>
+			<Orientation y="0.89278"/>
+			<Actor seed="11451"/>
+		</Entity>
+		<Entity uid="2543">
+			<Template>structures/gaia_aqueduct_long</Template>
+			<Player>0</Player>
+			<Position x="895.81147" z="102.89557"/>
+			<Orientation y="-2.149"/>
+			<Obstruction group="2542" group2="2545"/>
+			<Actor seed="58893"/>
+		</Entity>
+		<Entity uid="2545">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>0</Player>
+			<Position x="884.6269" z="119.43473"/>
+			<Orientation y="0.94698"/>
+			<Actor seed="61846"/>
+		</Entity>
+		<Entity uid="2546">
+			<Template>structures/gaia_aqueduct_medium</Template>
+			<Player>0</Player>
+			<Position x="310.9524" z="1175.59668"/>
+			<Orientation y="-5.41758"/>
+			<Actor seed="59727"/>
+		</Entity>
+		<Entity uid="2547">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>0</Player>
+			<Position x="322.36344" z="1163.8069"/>
+			<Orientation y="-2.399"/>
+			<Actor seed="11451"/>
+		</Entity>
+		<Entity uid="2548">
+			<Template>structures/gaia_aqueduct_long</Template>
+			<Player>0</Player>
+			<Position x="336.17856" z="1149.33802"/>
+			<Orientation y="-5.44077"/>
+			<Obstruction group="2547" group2="2549"/>
+			<Actor seed="58893"/>
+		</Entity>
+		<Entity uid="2549">
+			<Template>structures/gaia_aqueduct_tower</Template>
+			<Player>0</Player>
+			<Position x="349.71161" z="1134.65821"/>
+			<Orientation y="-2.3448"/>
+			<Actor seed="61846"/>
+		</Entity>
+		<Entity uid="2550">
+			<Template>structures/gaia_water_fall_large</Template>
+			<Player>0</Player>
+			<Position x="632.41181" z="556.53321"/>
+			<Orientation y="2.9928"/>
+			<Actor seed="14679"/>
 		</Entity>
 	</Entities>
 	<Paths/>

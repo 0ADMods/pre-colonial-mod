@@ -102,6 +102,8 @@
       <metal.ore>0.5</metal.ore>
       <water.well>0.5</water.well>
       <water.fresh>2</water.fresh>
+      <water.fall>2</water.fall>
+      <water.lake>4</water.lake>
     </Rates>
   </ResourceGatherer>
   <Sound>

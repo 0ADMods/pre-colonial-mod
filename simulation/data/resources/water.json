@@ -5,10 +5,11 @@
 	"order": 4,
 	"subtypes": {
 		"well": "Well Water",
-		"fresh": "Fresh Water"
+		"fresh": "Fresh Water",
+		"fall":  "Water Fall",
+		"lake":  "Lake Water"
 	},
 	"properties": [
-		"tradable",
 		"tributable"
 	],
 	"truePrice": 100,

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="100" name="Base">
       <mesh>structural/zona_del_silencio_signal.dae</mesh>
@@ -11,5 +9,4 @@
       </textures>
     </variant>
   </group>
-
 </actor>
