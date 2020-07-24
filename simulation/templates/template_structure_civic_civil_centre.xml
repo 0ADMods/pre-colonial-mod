@@ -65,6 +65,7 @@
       <wood>500</wood>
       <stone>500</stone>
       <metal>500</metal>
+      <water>0</water>
     </Resources>
   </Cost>
   <Footprint>

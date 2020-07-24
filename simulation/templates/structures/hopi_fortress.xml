@@ -19,7 +19,7 @@
     <Static width="26.0" depth="28.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/mexicas/fortress.xml</Actor>
+    <Actor>structures/hopis/fortress.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>23.2</Length>

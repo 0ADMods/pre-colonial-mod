@@ -1,9 +1,9 @@
 ﻿{
-	"Code": "zapo",
-	"Culture": "zapo",
-	"Name": "Zapotecs",
-	"Emblem": "session/portraits/emblems/emblem_zapotecs.png",
-	"History": "The Zapotec civilization was an indigenous pre-Columbian civilization that flourished in the Valley of Oaxaca in Mesoamerica.",
+	"Code": "hopi",
+	"Culture": "pueblo",
+	"Name": "Hopis",
+	"Emblem": "session/portraits/emblems/emblem_hopis.png",
+	"History": "The pueblo Hopis.",
 	"Music":[
 			{ "File": "Old New World.ogg", "Type": "peace" },
 			{ "File": "Cloud_People.ogg", "Type": "peace" },
@@ -24,7 +24,7 @@
 	"Structures":
 	[
 		{
-			"Name": "Ball Court",
+			"Name": "Pueblo",
 			"Class": "SB",
 			"Emblem": "",
 			"History": ".",
@@ -41,21 +41,18 @@
 	"StartEntities":
 	[
 		{
-			"Template": "structures/zapo_civil_centre"
+			"Template": "structures/hopi_civil_centre"
 		},
 		{
-			"Template": "structures/zapo_water_well"
-		},
-		{
-			"Template": "units/zapo_support_female_citizen",
+			"Template": "units/hopi_support_female_citizen",
 			"Count": 4
 		},
 		{
-			"Template": "units/zapo_infantry_swordsman_b",
+			"Template": "units/hopi_infantry_archer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/zapo_infantry_javelinist_b",
+			"Template": "units/hopi_infantry_javelinist_b",
 			"Count": 3
 		}
 	],
@@ -82,7 +79,7 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/zapo_infantry_swordsman_b",
+		"skirmish/units/default_cavalry": "units/hopi_infantry_archer_b",
 		"skirmish/units/default_infantry_ranged_b": "units/zapo_infantry_javelinist_b",
 		"skirmish/structures/default_house_10": "structures/{civ}_house"
 	},

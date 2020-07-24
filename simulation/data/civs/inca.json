@@ -77,7 +77,7 @@
 	],
 	"WallSets":
 	[
-		"other/wallset_palisade",
+		"structures/wallset_palisade",
         	"structures/inca_wallset_stone"
 	],
 	"StartEntities":
