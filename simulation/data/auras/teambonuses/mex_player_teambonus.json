@@ -1,9 +1,9 @@
 {
 	"type": "global",
-	"affects": ["Citizen Infantry"],
+	"affects": ["Player"],
 	"affectedPlayers": ["ExclusiveMutualAlly"],
 	"modifications": [
-		{ "value": "Cost/BuildTime", "multiply": 0.9 }
+		{ "value": "ResourceTrickle/Rates/food", "add": 1 }
 	],
 	"auraName": "Conscription",
 	"auraDescription": "Allied Citizen Infantry −10% training time."

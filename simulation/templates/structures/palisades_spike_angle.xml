@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_palisade">
+  <Cost>
+    <BuildTime>8</BuildTime>
+    <Resources>
+      <wood>5</wood>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="3.5" depth="1.0"/>
+    <Height>9.0</Height>
+  </Footprint>
+  <Health>
+    <Max op="mul">0.5</Max>
+  </Health>
+  <Identity>
+    <GenericName>Angle Spike</GenericName>
+  </Identity>
+  <Loot>
+    <wood>1</wood>
+  </Loot>
+  <Obstruction>
+    <Static width="3.5" depth="1.5"/>
+  </Obstruction>
+  <TerritoryDecay disable=""/>
+  <VisualActor>
+    <Actor>props/special/palisade_angle_spike.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Indent>-0.7</Indent>
+    <Length>3</Length>
+    <Orientation>1.5</Orientation>
+  </WallPiece>
+</Entity>

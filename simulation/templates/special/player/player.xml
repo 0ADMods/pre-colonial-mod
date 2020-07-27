@@ -20,39 +20,13 @@
       <Fortress>10</Fortress>
       <Wonder>1</Wonder>
       <Hero>1</Hero>
-      <Apadana>1</Apadana>
-      <Embassy>2</Embassy>
-      <Monument>5</Monument>
-      <Pillar>0</Pillar>
-      <WarDog>0</WarDog>
-      <Theater>1</Theater>
-      <Council>1</Council>
-      <Library>1</Library>
-      <Lighthouse>1</Lighthouse>
-      <Juggernaut>1</Juggernaut>
       <UniqueBuilding>1</UniqueBuilding>
-      <Hall>2</Hall>
-      <Stoa>2</Stoa>
-      <Kennel>5</Kennel>
-      <PyramidSmall>4</PyramidSmall>
-      <PyramidLarge>2</PyramidLarge>
-      <TempleOfAmun>1</TempleOfAmun>
-      <Gladiator>0</Gladiator>
       <Well>25</Well>
     </Limits>
     <LimitChangers>
-      <WarDog>
-        <Kennel>10</Kennel>
-      </WarDog>
-      <Pillar>
-        <Ashoka>5</Ashoka>
-      </Pillar>
-      <Juggernaut>
-        <PtolemyIV>4</PtolemyIV>
-      </Juggernaut>
-      <Gladiator>
-        <Amphitheater>15</Amphitheater>
-      </Gladiator>
+      <House>
+        <Well>10</Well>
+      </House>
     </LimitChangers>
     <LimitRemovers>
       <CivilCentre>
@@ -62,7 +36,7 @@
   </EntityLimits>
   <Identity>
     <Civ/>
-    <GenericName>Player</GenericName>
+    <GenericName>You</GenericName>
     <Classes datatype="tokens">Player</Classes>
     <Undeletable>true</Undeletable>
   </Identity>

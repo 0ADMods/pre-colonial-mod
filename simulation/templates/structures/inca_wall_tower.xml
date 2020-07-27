@@ -14,6 +14,9 @@
   <Obstruction>
     <Static width="10" depth="9"/>
   </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+  </ProductionQueue>
   <RallyPoint disable=""/>
   <StatusBars>
     <HeightOffset>21</HeightOffset>

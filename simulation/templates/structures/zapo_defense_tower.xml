@@ -11,6 +11,9 @@
   <Obstruction>
     <Static width="9.0" depth="9.0"/>
   </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+  </ProductionQueue>
   <VisualActor>
     <FoundationActor>structures/carthaginians/fndn_defense_tower.xml</FoundationActor>
     <Actor>structures/zapotecs/scout_tower.xml</Actor>

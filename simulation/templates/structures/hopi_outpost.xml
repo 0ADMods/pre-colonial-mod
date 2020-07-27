@@ -4,6 +4,8 @@
     <Civ>hopi</Civ>
     <SpecificName>Cocotli</SpecificName>
   </Identity>
+  <ProductionQueue disable=""/>
+  <RallyPoint disable=""/>
   <VisualActor>
     <Actor>structures/hellenes/outpost.xml</Actor>
   </VisualActor>

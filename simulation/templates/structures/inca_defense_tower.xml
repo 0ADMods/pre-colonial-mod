@@ -11,6 +11,9 @@
   <Obstruction>
     <Static width="7.5" depth="7.5"/>
   </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+  </ProductionQueue>
   <StatusBars>
     <HeightOffset>21.0</HeightOffset>
   </StatusBars>

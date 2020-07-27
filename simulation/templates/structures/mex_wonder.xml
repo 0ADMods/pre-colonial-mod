@@ -15,6 +15,8 @@
   <Obstruction>
     <Static width="43.0" depth="43.0"/>
   </Obstruction>
+  <ProductionQueue disable=""/>
+  <RallyPoint disable=""/>
   <StatusBars>
     <HeightOffset>12.0</HeightOffset>
   </StatusBars>

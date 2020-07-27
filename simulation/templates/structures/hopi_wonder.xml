@@ -9,17 +9,19 @@
   </Health>
   <Identity>
     <Civ>hopi</Civ>
-    <GenericName>Hopi Pueblo</GenericName>
+    <GenericName>Mesa Verde</GenericName>
     <SpecificName>Huey Altepenepantla</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="43.0" depth="43.0"/>
   </Obstruction>
+  <ProductionQueue disable=""/>
+  <RallyPoint disable=""/>
   <StatusBars>
     <HeightOffset>12.0</HeightOffset>
   </StatusBars>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/mexicas/wonder.xml</Actor>
+    <Actor>structures/hopis/wonder.xml</Actor>
   </VisualActor>
 </Entity>

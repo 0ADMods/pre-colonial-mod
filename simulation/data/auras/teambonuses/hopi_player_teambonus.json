@@ -1,10 +1,10 @@
 {
 	"type": "global",
-	"affects": ["Citizen Infantry"],
+	"affects": ["PLayer"],
 	"affectedPlayers": ["ExclusiveMutualAlly"],
 	"modifications": [
-		{ "value": "Cost/BuildTime", "multiply": 0.9 }
+		{ "value": "ResourceTrickle/Rates/water", "add": 0.5 }
 	],
-	"auraName": "Conscription",
-	"auraDescription": "Allied Citizen Infantry −10% training time."
+	"auraName": "Desert Peapole",
+	"auraDescription": "Loot +50 water."
 }

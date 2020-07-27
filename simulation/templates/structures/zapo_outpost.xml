@@ -3,6 +3,8 @@
   <Identity>
     <Civ>zapo</Civ>
   </Identity>
+  <ProductionQueue disable=""/>
+  <RallyPoint disable=""/>
   <VisualActor>
     <Actor>structures/hellenes/outpost.xml</Actor>
   </VisualActor>

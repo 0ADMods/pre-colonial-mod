@@ -1,10 +1,10 @@
 {
 	"type": "global",
-	"affects": ["Citizen Infantry"],
+	"affects": ["Trader !Ship"],
 	"affectedPlayers": ["ExclusiveMutualAlly"],
 	"modifications": [
-		{ "value": "Cost/BuildTime", "multiply": 0.9 }
+		{ "value": "Trader/GainMultiplier", "multiply": 1.15 }
 	],
-	"auraName": "Conscription",
-	"auraDescription": "Allied Citizen Infantry −10% training time."
+	"auraName": "Taxes",
+	"auraDescription": "Allied Land Traders +15% trade gain."
 }

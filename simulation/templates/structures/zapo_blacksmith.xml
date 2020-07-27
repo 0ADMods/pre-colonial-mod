@@ -5,6 +5,7 @@
     <SpecificName>ch’ayal ch’ich’</SpecificName>
   </Identity>
   <ProductionQueue>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
     <Technologies datatype="tokens">
       -attack_cavalry_melee_01
       -attack_cavalry_melee_02

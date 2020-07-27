@@ -1,0 +1,11 @@
+{
+	"type": "player",
+	"affects": ["Player"],
+	"modifications": [
+		{ "value": "Player/MaxPopulation", "add": 30 }
+	],
+	"auraName": "Culture",
+	"auraDescription": "+30 maximum population limit (requires the “Glorious Expansion” technology).",
+	"requiredTechnology": "city_phase",
+	"stackable": true
+}
