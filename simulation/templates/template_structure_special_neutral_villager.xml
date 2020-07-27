@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure">
-  <Armour disable=""/>
   <Attack disable=""/>
   <BuildRestrictions>
     <Category>Special</Category>
@@ -38,22 +37,19 @@
   </Health>
   <Identity>
     <Civ>gaia</Civ>
-	<GenericName>Native Villager</GenericName>
-	<SpecificName>Needs Specific Name</SpecificName>
+    <GenericName>Native Villager</GenericName>
+    <SpecificName>Needs Specific Name</SpecificName>
     <VisibleClasses datatype="tokens">NeutralVillager</VisibleClasses>
-    <Tooltip>Capture this structure to train up to 30 native to the map, who train very fast and cost no population room. Population bonus: 10.</Tooltip>
-	<Classes datatype="tokens">SpecialBuilding</Classes>
+    <Tooltip>Capture this structure to train up to 30 native to the map.</Tooltip>
+    <Classes datatype="tokens">Villager Barter</Classes>
     <Icon>structures/mercenary_camp.png</Icon>
-	<Undeletable>true</Undeletable>
+    <Undeletable>true</Undeletable>
   </Identity>
   <Obstruction>
     <Static width="23.5" depth="23.5"/>
   </Obstruction>
   <ProductionQueue>
 	<BatchTimeModifier>0.8</BatchTimeModifier>
-	<Technologies datatype="tokens">
-	  mercenaries/attack_health_mercenaries
-	</Technologies>
   </ProductionQueue>
   <Sound>
     <SoundGroups>
@@ -62,12 +58,10 @@
       <death>attack/destruction/building_collapse_large.xml</death>
     </SoundGroups>
   </Sound>
-  <TerritoryDecay>
-    <DecayRate>1</DecayRate>
-  </TerritoryDecay>
+  <TerritoryDecay disable=""/>
   <TerritoryInfluence disable=""/>
   <VisualActor>
     <Actor>structures/mercenaries/camp_egyptian.xml</Actor>
-	<FoundationActor>structures/fndn_6x6.xml</FoundationActor>
+    <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

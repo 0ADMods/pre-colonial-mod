@@ -66,5 +66,5 @@
             </textures>
         </variant>
     </group>
-    <material>basic_trans.xml</material>
+    <material>player_trans.xml</material>
 </actor>

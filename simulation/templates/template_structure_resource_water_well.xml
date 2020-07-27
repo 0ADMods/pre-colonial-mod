@@ -66,12 +66,6 @@
     <BarHeight>0.5</BarHeight>
     <HeightOffset>10.0</HeightOffset>
   </StatusBars>
- <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>5</Radius>
-    <Weight>10</Weight>
-  </TerritoryInfluence>
-  <Vision>
-    <Range>0</Range>
-  </Vision>
+ <TerritoryInfluence disable=""/>
+  <Vision disable=""/>
 </Entity>
