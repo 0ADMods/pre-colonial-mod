@@ -18,7 +18,7 @@
     <GenericName>House of the Youths</GenericName>
     <SpecificName>Telpochcalli</SpecificName>
     <Tooltip>Train Mexica citizen-soldiers. Research improvements for Mexica units.</Tooltip>
-    <Icon>structures/pers_barracks.png</Icon>
+    <Icon>structures/meso_barracks.png</Icon>
   </Identity>
   <ProductionQueue>
      <Technologies datatype="tokens">

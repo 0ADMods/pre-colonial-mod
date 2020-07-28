@@ -18,6 +18,7 @@
     <GenericName>House of the Lineage</GenericName>
     <SpecificName>Cálmecac</SpecificName>
     <Tooltip>Train Mexica citizen-soldiers. Research improvements for Mexica units.</Tooltip>
+    <Icon>structures/noble_barracks.png</Icon>
     <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
   <Obstruction>
