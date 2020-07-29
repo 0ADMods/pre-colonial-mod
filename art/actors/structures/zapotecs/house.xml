@@ -35,12 +35,6 @@
         <texture file="structural/ao/zapo_house_c_AO.png" name="aoTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="house d">
-      <mesh>structural/zapo_house_d.dae</mesh>
-      <textures>
-        <texture file="structural/ao/zapo_house_d_AO.png" name="aoTex"/>
-      </textures>
-    </variant>
   </group>
   <group>
     <variant frequency="1" name="ungarrisoned"/>
