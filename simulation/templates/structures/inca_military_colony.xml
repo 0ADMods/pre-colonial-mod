@@ -11,6 +11,16 @@
     <History>25.</History>
     <Tooltip>This is the Inca expansion building, similar to Civic Centers for other factions. It is weaker, more prone to capture, and has a smaller territory influence, but is cheaper and builds a lot faster. This building loot resources</Tooltip>
   </Identity>
+  <ResourceTrickle>
+    <Interval>4000</Interval>
+    <Rates>
+      <food>1</food>
+      <wood>1</wood>
+      <stone>0.75</stone>
+      <metal>0.75</metal>
+      <water>0.5</water>
+    </Rates>
+ </ResourceTrickle>
   <Obstruction>
     <Static width="36.0" depth="36.0"/> 
   </Obstruction>

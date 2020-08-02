@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skeletons>
+  <standard_skeleton title="Psittacidae" id="Psittacidae">
+    <bone name="chest">
+      <bone name="head" />
+      <bone name="tale1">
+        <bone name="tale2" />
+      </bone>
+      <bone name="rwing1">
+        <bone name="rwing2">
+          <bone name="rwing3" />
+        </bone>
+      </bone>
+      <bone name="lwing1">
+        <bone name="lwing2">
+          <bone name="lwing3" />
+        </bone>
+      </bone>
+      <bone name="rleg1">
+        <bone name="rleg2">
+          <bone name="rleg3">
+            <bone name="rbclaw1">
+              <bone name="rbclaw2">
+                <bone name="rbclaw3" />
+              </bone>
+            </bone>
+            <bone name="rfclaw1">
+              <bone name="rfclaw2">
+                <bone name="rfclaw3" />
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+      <bone name="lleg1">
+        <bone name="lleg2">
+          <bone name="lleg3">
+            <bone name="lbclaw1">
+              <bone name="lbclaw2">
+                <bone name="lbclaw3" />
+              </bone>
+            </bone>
+            <bone name="lfclaw1">
+              <bone name="lfclaw2">
+                <bone name="lfclaw3" />
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="rctrl" />
+    <bone name="bone.ik" />
+    <bone name="bone.pole" />
+    <bone name="lctrl" />
+    <bone name="bone.ik.001" />
+    <bone name="bone.pole.001" />
+    <bone name="Tucan" />
+  </standard_skeleton>
+  <skeleton title="Psittacidae" target="Psittacidae">
+    <identifier>
+      <root>chest</root>
+    </identifier>
+    <bone name="chest">
+      <target>chest</target>
+      <bone name="head">
+        <target>head</target>
+      </bone>
+      <bone name="tale1">
+        <target>tale1</target>
+        <bone name="tale2">
+          <target>tale2</target>
+        </bone>
+      </bone>
+      <bone name="rwing1">
+        <target>rwing1</target>
+        <bone name="rwing2">
+          <target>rwing2</target>
+          <bone name="rwing3">
+            <target>rwing3</target>
+          </bone>
+        </bone>
+      </bone>
+      <bone name="lwing1">
+        <target>lwing1</target>
+        <bone name="lwing2">
+          <target>lwing2</target>
+          <bone name="lwing3">
+            <target>lwing3</target>
+          </bone>
+        </bone>
+      </bone>
+      <bone name="rleg1">
+        <target>rleg1</target>
+        <bone name="rleg2">
+          <target>rleg2</target>
+          <bone name="rleg3">
+            <target>rleg3</target>
+            <bone name="rbclaw1">
+              <target>rbclaw1</target>
+              <bone name="rbclaw2">
+                <target>rbclaw2</target>
+                <bone name="rbclaw3">
+                  <target>rbclaw3</target>
+                </bone>
+              </bone>
+            </bone>
+            <bone name="rfclaw1">
+              <target>rfclaw1</target>
+              <bone name="rfclaw2">
+                <target>rfclaw2</target>
+                <bone name="rfclaw3">
+                  <target>rfclaw3</target>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+      <bone name="lleg1">
+        <target>lleg1</target>
+        <bone name="lleg2">
+          <target>lleg2</target>
+          <bone name="lleg3">
+            <target>lleg3</target>
+            <bone name="lbclaw1">
+              <target>lbclaw1</target>
+              <bone name="lbclaw2">
+                <target>lbclaw2</target>
+                <bone name="lbclaw3">
+                  <target>lbclaw3</target>
+                </bone>
+              </bone>
+            </bone>
+            <bone name="lfclaw1">
+              <target>lfclaw1</target>
+              <bone name="lfclaw2">
+                <target>lfclaw2</target>
+                <bone name="lfclaw3">
+                  <target>lfclaw3</target>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="rctrl">
+      <target>rctrl</target>
+    </bone>
+    <bone name="bone.ik">
+      <target>bone.ik</target>
+    </bone>
+    <bone name="bone.pole">
+      <target>bone.pole</target>
+    </bone>
+    <bone name="lctrl">
+      <target>lctrl</target>
+    </bone>
+    <bone name="bone.ik.001">
+      <target>bone.ik.001</target>
+    </bone>
+    <bone name="bone.pole.001">
+      <target>bone.pole.001</target>
+    </bone>
+    <bone name="Tucan">
+      <target>Tucan</target>
+    </bone>
+  </skeleton>
+</skeletons>

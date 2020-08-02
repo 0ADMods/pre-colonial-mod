@@ -38,6 +38,12 @@
   <Loot>
     <water>1</water>
   </Loot>
+  <ResourceTrickle>
+    <Interval>60000</Interval>
+    <Rates>
+      <water>10</water>
+    </Rates>
+ </ResourceTrickle>
   <Minimap>
     <Color r="119" g="82" b="46"/>
   </Minimap>
@@ -52,7 +58,7 @@
     <KillBeforeGather>false</KillBeforeGather>
     <Amount>Infinity</Amount>
     <Type>water.well</Type>
-    <MaxGatherers>5</MaxGatherers>
+    <MaxGatherers>1</MaxGatherers>
     <DiminishingReturns>0.90</DiminishingReturns>
   </ResourceSupply>
   <Sound>

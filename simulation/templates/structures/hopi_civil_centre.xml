@@ -15,6 +15,12 @@
   <Loot>
     <water>4</water>
   </Loot>
+  <ResourceTrickle>
+    <Interval>1000</Interval>
+    <Rates>
+      <water>1</water>
+    </Rates>
+ </ResourceTrickle>
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}_infantry_spearman_b
