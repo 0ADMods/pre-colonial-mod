@@ -1,0 +1,9 @@
+{
+	"settings" : {
+		"Name" : "Volcanic Lands",
+		"Script" : "volcanic_lands.js",
+		"Description" : "A charred dead land where players start around a smoking volcano.",
+		"CircularMap" : true,
+		"Preview" : "volcanic_lands.png"
+	}
+}

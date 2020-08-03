@@ -1,0 +1,9 @@
+{
+	"settings" : {
+		"Name" : "Deep Forest",
+		"Script" : "deep_forest.js",
+		"Description" : "A deep dark forest in Germania.",
+		"Preview" : "deep_forest.png",
+		"CircularMap" : true
+	}
+}

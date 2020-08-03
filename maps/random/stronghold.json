@@ -1,0 +1,10 @@
+{
+  "settings" : {
+    "Name" : "Stronghold",
+    "Script" : "stronghold.js",
+    "Description" : "Teams start off with nearly adjacent civic centers, offering easy military and construction cooperation. With slivers of personal territory, teammates must rely on each other to defend their rear.",
+    "Preview" : "stronghold.png",
+    "SupportedBiomes": "generic/",
+    "CircularMap" : true
+  }
+}

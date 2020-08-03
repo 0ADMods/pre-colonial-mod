@@ -1,0 +1,11 @@
+{
+  "settings" : {
+    "Name" : "Frontier",
+    "Script" : "frontier.js",
+    "Description" : "A wild, unknown landscape awaits rival explorers.",
+    "Preview" : "frontier.png",
+    "SupportedBiomes": "generic/",
+    "CircularMap" : true,
+    "TeamPlacements": ["radial", "line", "randomGroup", "stronghold"]
+  }
+}
