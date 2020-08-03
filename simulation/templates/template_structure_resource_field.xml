@@ -32,12 +32,6 @@
   <Loot>
     <food>50</food>
   </Loot>
-  <ResourceTrickle>
-    <Interval>1000</Interval>
-    <Rates>
-      <water>-1</water>
-    </Rates>
- </ResourceTrickle>
   <Minimap>
     <Color r="119" g="82" b="46"/>
   </Minimap>
