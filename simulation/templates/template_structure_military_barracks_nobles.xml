@@ -37,8 +37,7 @@
       units/{civ}_champion_infantry_archer
     </Entities>
     <Technologies datatype="tokens">
-      heal_barracks
-      archery_tradition
+      mexicas/xochiyaoyotl
     </Technologies>
   </ProductionQueue>
   <Sound>

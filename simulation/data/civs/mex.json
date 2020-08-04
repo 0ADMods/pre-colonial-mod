@@ -10,13 +10,55 @@
 			{ "File": "Tradition.ogg", "Type": "peace" }
 		],
 	"Factions":
-	[],
+	[
+		{
+			"Name": "Mexica",
+			"Description": ".",
+			"Technologies":
+			[
+				{
+					"Name": "aq",
+					"History": "aq",
+					"Description": "aq" 
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "Tenoch",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Was a ruler of the Mexicas during the fourteenth century during the Aztec nomads travels from Aztlan to Tenochtitlan."
+				},
+				{
+					"Name": "Ācamāpichtli",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Acamapichtli was the first tlatoani of the Mexicas, and founder of the Mexica imperial dynasty.He became ruler in 1375 and reigned for 19 years." 
+				},
+				{
+					"Name": "Itzcōhuātl",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Itzcoatl was the fourth Tlatoani of Tenochtitlan, and firts Huey Tlatoani ruling from 1427 to 1440, the period when the Mexica threw off the domination of the Tepanecs and laid the foundations for the eventual Triple Alliance."					
+				}
+			] 
+		} 
+	],
 	"CivBonuses":
 	[
 		{
 			"Name": "Xochiyáoyotl",
 			"History": "Mexica soldiers favored melee and wore light armor.",
 			"Description": "Mexica melee infantry have +1.6 walk speed and do +2 pierce damage at the cost of 2 pierce armor level."
+		},
+		{
+			"Name" : "Advanced Agriculture",
+			"History" : "The Mexicas were good farmers.",
+			"Description" : "Boost  food gathering in all phases"
 		}
 	],
 	"TeamBonuses":
@@ -45,7 +87,7 @@
 			"Name":"Calmecac",
 			"Class":"",
 			"Emblem":"",
-			"History":"The Calmecac (House of lineage, [kalˈmekak]) was a school for the sons of Aztec nobility (pīpiltin [piːˈpiɬtin]) in the Late Postclassic period of Mesoamerican history, where they would receive rigorous religious and military training. The two main primary sources for information on the calmecac and telpochcalli are in Bernardino de Sahagún's Florentine Codex of the General History of the Things of New Spain (Books III, VI, and VIII) and part 3 of the Codex Mendoza.Although the calmecac has been characterized as for elites only, Sahagun's account says that at times commoners, macehualtin were assigned to the calmecac as well and trained for the priesthood",
+			"History":"The Calmecac House of lineage, was a school for the sons of Aztec nobility (pīpiltin) in the Late Postclassic period of Mesoamerican history, where they would receive rigorous religious and military training. The two main primary sources for information on the calmecac and telpochcalli are in Bernardino de Sahagún's Florentine Codex of the General History of the Things of New Spain (Books III, VI, and VIII) and part 3 of the Codex Mendoza.Although the calmecac has been characterized as for elites only, Sahagun's account says that at times commoners, macehualtin were assigned to the calmecac as well and trained for the priesthood",
 			"Requirements":"Civic Centre,Temple,Barracks,Fortress",
 			"Phase":"City",
 			"Special":"."

@@ -30,21 +30,27 @@
 			"History": ".",
 			"Requirements": ".",
 			"Phase": "City",
-			"Special": "."
+			"Special": "Trickle water, remplace the civic centre and water well."
+		},
+		{
+			"Name" : "Block Room",
+			"Class" : "SB",
+			"Emblem": "",
+			"History": ".",
+			"Requirements": "Town Phase.",
+			"Phase": "Town",
+			"Special": "Big House, give to you 25 population space."
 		}
 	],
 	"WallSets":
 	[
 		"structures/wallset_palisade",
-		"structures/zapo_wallset_stone"
+		"structures/inca_wallset_stone"
 	],
 	"StartEntities":
 	[
 		{
 			"Template": "structures/hopi_civil_centre"
-		},
-		{
-			"Template": "structures/hopi_water_well"
 		},
 		{
 			"Template": "units/hopi_support_female_citizen",
@@ -55,7 +61,7 @@
 			"Count": 2
 		},
 		{
-			"Template": "units/hopi_infantry_javelinist_b",
+			"Template": "units/hopi_infantry_spearman_b",
 			"Count": 3
 		}
 	],

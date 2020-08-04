@@ -3,7 +3,8 @@
 	"affects": ["Citizen Infantry"],
 	"affectedPlayers": ["ExclusiveMutualAlly"],
 	"modifications": [
-		{ "value": "Cost/BuildTime", "multiply": 0.9 }
+		{ "value": "Cost/BuildTime", "multiply": 0.9 },
+		{ "value": "Health/Max", "multiply": 1.1 }
 	],
 	"auraName": "Conscription",
 	"auraDescription": "Allied Citizen Infantry −10% training time."

@@ -1,0 +1,32 @@
+{
+	"genericName": "City Phase",
+	"specificName": {
+		"mex": "Megalópolis"
+	},
+	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Athenian city phase, where food gathering rates are boosted because of the 'Chinampas' bonus, also you have stone gathering boosted.",
+	"cost": { "food": 0, "wood": 750, "stone": 750, "metal": 0 },
+	"requirements": {
+		"entity": {
+			"class": "Town",
+			"number": 4
+		}
+	},
+	"requirementsTooltip": "Requires 4 Town Structures.",
+	"supersedes": "phase_town_mex",
+	"replaces": ["phase_city"],
+	"icon": "city_phase.png",
+	"researchTime": 60,
+	"tooltip": "Advance to City Phase, which unlocks more structures and units. Territory radius for Civic Centers increased by another +50%. Silver Owls civ bonus grants an extra +10% metal gather rate to all workers. Citizen Soldiers +10% health. All structures +9 garrisoned regeneration rate.",
+	"modifications": [
+		{ "value": "ResourceGatherer/Rates/stone.quarry", "multiply": 1.1, "affects": "Worker" },
+		{"value" : "ResourceGatherer/Rates/food.fruit", "multiply" : 1.1, "affects" : "Worker" },
+		{"value" : "ResourceGatherer/Rates/food.grain", "multiply" : 1.1, "affects" : "Worker" },
+		{"value" : "ResourceGatherer/Rates/food.corn", "multiply" : 1.1, "affects" : "Worker" },
+		{"value" : "ResourceGatherer/Rates/food.vegetables", "multiply" : 1.1, "affects" : "Worker" },
+		{ "value": "ProductionQueue/BatchTimeModifier", "add": -1.1, "affects" : "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.5, "affects": "CivCentre" },
+		{ "value": "Health/Max", "multiply": 1.1, "affects": "Citizen Soldier" },
+		{ "value": "Capturable/GarrisonRegenRate", "add": 9, "affects": "Structure" }
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}

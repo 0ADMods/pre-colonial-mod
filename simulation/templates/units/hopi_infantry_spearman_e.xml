@@ -5,6 +5,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/zapotecs/infantry_spearman_e.xml</Actor>
+    <Actor>units/hopis/infantry_spearman_b.xml</Actor>
   </VisualActor>
 </Entity>
