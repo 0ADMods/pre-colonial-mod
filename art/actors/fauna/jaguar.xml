@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="100" name="Mesh">
+      <animations>
+        <animation file="quadraped/feline_idle_01.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_01.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_01.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_02.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_02.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_02.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_03.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_03.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_03.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_idle_04.dae" name="Idle" speed="100"/>
+        <animation file="quadraped/feline_attack.dae" name="attack_melee" speed="100"/>
+        <animation file="quadraped/feline_attack_02.dae" name="attack_melee" speed="100"/>
+        <animation file="quadraped/feline_walk.dae" name="walk" speed="40"/>
+        <animation file="quadraped/feline_run.dae" name="run" speed="20"/>
+        <animation file="quadraped/feline_death.dae" name="Death" speed="100"/>
+      </animations>
+    </variant>
+  </group>
+   <group>
+    <variant frequency="1" name="jaguar">
+      <mesh>skeletal/tiger.dae</mesh>
+    </variant>
+  </group>
+  <group>
+      <variant frequency="75" name="Base">
+      <textures>
+        <texture file="skeletal/animal_jaguar.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="25" name="Black">
+      <textures>
+        <texture file="skeletal/animal_jaguar_n.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant name="Run">
+      <props>
+        <prop actor="particle/dust_cav.xml" attachpoint="root"/>
+      </props>
+    </variant>
+    <variant name="Death">
+      <props>
+        <prop actor="props/units/blood_01.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

@@ -3,8 +3,8 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack>30.0</Hack>
-        <Pierce>20.0</Pierce>
+        <Hack>28.0</Hack>
+        <Pierce>18.0</Pierce>
         <Crush>0.0</Crush>
       </Damage>
       <MaxRange>4.0</MaxRange>
@@ -17,7 +17,7 @@
   </Footprint>
   <Identity>
     <GenericName>Jaguar</GenericName>
-    <SpecificName>Ocelot</SpecificName>
+    <SpecificName>Panthera onca</SpecificName>
     <Icon>gaia/fauna_tiger.png</Icon>
   </Identity>
   <Sound>
@@ -28,6 +28,6 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>fauna/tiger.xml</Actor>
+    <Actor>fauna/jaguar.xml</Actor>
   </VisualActor>
 </Entity>
