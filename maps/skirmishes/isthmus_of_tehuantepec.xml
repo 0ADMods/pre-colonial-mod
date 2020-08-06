@@ -25,16 +25,16 @@
 			</WaterBody>
 		</Water>
 		<Postproc>
-			<Brightness>0</Brightness>
-			<Contrast>1</Contrast>
-			<Saturation>0.99</Saturation>
-			<Bloom>0.1999</Bloom>
-			<PostEffect>default</PostEffect>
+			<Brightness>0.0673828</Brightness>
+			<Contrast>0.973633</Contrast>
+			<Saturation>1.35547</Saturation>
+			<Bloom>0.0939453</Bloom>
+			<PostEffect>hdr</PostEffect>
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="692.753" y="439.613" z="133.484"/>
-		<Rotation angle="-0.0300698"/>
+		<Position x="678.357" y="779.192" z="-477.587"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -44,16 +44,27 @@
   "Description": "The Isthmus of Tehuantepec is located between Oaxaca and Veracruz, it is the narrowest part of Mexico, it is the border between North and Central America.\nTo the south is the Pacific Ocean and to the north is the Atlantic.\nYou will find many sources of water and wood\n\nThis map have Huave Villagers",
   "Keywords": [],
   "LockTeams": false,
-  "Name": "Isthmus of Tehuantepec",
+  "Name": "Isthmus of Tehuantepec (1vs1)",
   "PlayerData": [
+    null,
     {
-      "Civ": "athen"
+      "Color": {
+        "b": 200,
+        "g": 46,
+        "r": 46
+      },
+      "Team": 0
     },
     {
-      "Civ": "cart"
+      "Color": {
+        "b": 20,
+        "g": 20,
+        "r": 150
+      },
+      "Team": 1
     }
   ],
-  "Preview": "",
+  "Preview": "ismo_tenhuatepect.png",
   "RevealMap": false,
   "VictoryConditions": [
     "conquest"
@@ -24621,6 +24632,308 @@
 			<Position x="93.44709" z="663.12226"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22382"/>
+		</Entity>
+		<Entity uid="3650">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="847.6745" z="536.14228"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48283"/>
+		</Entity>
+		<Entity uid="3651">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="768.57245" z="715.09382"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51593"/>
+		</Entity>
+		<Entity uid="3652">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="783.95301" z="716.19025"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15329"/>
+		</Entity>
+		<Entity uid="3653">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="786.64063" z="726.5589"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16753"/>
+		</Entity>
+		<Entity uid="3654">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="361.63703" z="1123.74854"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49306"/>
+		</Entity>
+		<Entity uid="3655">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="359.76532" z="1110.35547"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35445"/>
+		</Entity>
+		<Entity uid="3656">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="369.98542" z="1108.33545"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="27070"/>
+		</Entity>
+		<Entity uid="3657">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="372.40714" z="1113.39441"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6751"/>
+		</Entity>
+		<Entity uid="3658">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="369.77436" z="1124.70594"/>
+			<Orientation y="-0.77331"/>
+			<Actor seed="64816"/>
+		</Entity>
+		<Entity uid="3659">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="363.91297" z="1136.51771"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1886"/>
+		</Entity>
+		<Entity uid="3660">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="359.16157" z="1135.57874"/>
+			<Orientation y="-2.28978"/>
+			<Actor seed="14922"/>
+		</Entity>
+		<Entity uid="3661">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="354.24479" z="1130.35242"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24939"/>
+		</Entity>
+		<Entity uid="3662">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="351.38114" z="1125.56482"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55511"/>
+		</Entity>
+		<Entity uid="3663">
+			<Template>gaia/fauna_jaguar</Template>
+			<Player>0</Player>
+			<Position x="368.13212" z="698.54188"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2404"/>
+		</Entity>
+		<Entity uid="3664">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="390.76124" z="645.41565"/>
+			<Orientation y="1.2914"/>
+			<Actor seed="39544"/>
+		</Entity>
+		<Entity uid="3665">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="392.61731" z="648.07422"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36199"/>
+		</Entity>
+		<Entity uid="3666">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="389.11912" z="649.52637"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18916"/>
+		</Entity>
+		<Entity uid="3667">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="387.81168" z="646.65485"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47552"/>
+		</Entity>
+		<Entity uid="3668">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="388.04499" z="644.1938"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41341"/>
+		</Entity>
+		<Entity uid="3669">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="391.21146" z="644.00513"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25186"/>
+		</Entity>
+		<Entity uid="3670">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="392.93595" z="645.3282"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49606"/>
+		</Entity>
+		<Entity uid="3671">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="394.04554" z="648.05964"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62980"/>
+		</Entity>
+		<Entity uid="3672">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="392.01758" z="650.55292"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65288"/>
+		</Entity>
+		<Entity uid="3673">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="390.50394" z="648.50043"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8069"/>
+		</Entity>
+		<Entity uid="3674">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="696.22333" z="602.34076"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28002"/>
+		</Entity>
+		<Entity uid="3675">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="712.2475" z="603.54773"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63003"/>
+		</Entity>
+		<Entity uid="3676">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="704.44105" z="593.36774"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40244"/>
+		</Entity>
+		<Entity uid="3677">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="697.08375" z="595.1988"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53110"/>
+		</Entity>
+		<Entity uid="3678">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="707.79505" z="605.09754"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35118"/>
+		</Entity>
+		<Entity uid="3679">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="696.5384" z="605.81507"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52896"/>
+		</Entity>
+		<Entity uid="3680">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="689.20386" z="601.49427"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="297"/>
+		</Entity>
+		<Entity uid="3681">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="703.10981" z="312.26063"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44576"/>
+		</Entity>
+		<Entity uid="3682">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="707.43348" z="304.62314"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50307"/>
+		</Entity>
+		<Entity uid="3683">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="711.16266" z="312.58063"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="220"/>
+		</Entity>
+		<Entity uid="3684">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="701.54114" z="308.22577"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56998"/>
+		</Entity>
+		<Entity uid="3685">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="863.6728" z="346.0882"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64447"/>
+		</Entity>
+		<Entity uid="3686">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="861.69581" z="338.04676"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="39836"/>
+		</Entity>
+		<Entity uid="3687">
+			<Template>gaia/fauna_tucan</Template>
+			<Position x="874.38068" z="339.09372"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5940"/>
+		</Entity>
+		<Entity uid="3688">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="751.86921" z="443.2527"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1619"/>
+		</Entity>
+		<Entity uid="3689">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="760.2804" z="435.16388"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29037"/>
+		</Entity>
+		<Entity uid="3690">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="762.50098" z="441.39963"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58156"/>
+		</Entity>
+		<Entity uid="3691">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="769.31672" z="438.47761"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33691"/>
+		</Entity>
+		<Entity uid="3692">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="761.46351" z="449.24402"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9539"/>
+		</Entity>
+		<Entity uid="3693">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="748.23932" z="451.22318"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2288"/>
+		</Entity>
+		<Entity uid="3694">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="747.37519" z="465.1944"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59590"/>
+		</Entity>
+		<Entity uid="3695">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="774.18012" z="460.39991"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42358"/>
+		</Entity>
+		<Entity uid="3696">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="782.39441" z="449.41602"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55576"/>
+		</Entity>
+		<Entity uid="3697">
+			<Template>gaia/fauna_hawk</Template>
+			<Position x="781.85029" z="441.43702"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63879"/>
 		</Entity>
 	</Entities>
 	<Paths/>
