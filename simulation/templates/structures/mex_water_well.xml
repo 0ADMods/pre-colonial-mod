@@ -5,6 +5,6 @@
     <GenericName>Water Well</GenericName>
   </Identity>
   <VisualActor>
-    <Actor>structures/water_well.xml</Actor>
+    <Actor>structures/water_well_tenochtitlan.xml</Actor>
   </VisualActor>
 </Entity>
