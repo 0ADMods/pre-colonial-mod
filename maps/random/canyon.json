@@ -1,0 +1,10 @@
+{
+	"settings" : {
+		"Name" : "Canyon",
+		"Script" : "canyon.js",
+		"Description" : "Players start around the map in deep canyons.",
+		"Preview" : "canyon.png",
+		"SupportedBiomes": "generic/",
+		"CircularMap" : true
+	}
+}

@@ -63,7 +63,7 @@
 		"tree4": "gaia/flora_tree_pine",
 		"tree5": "gaia/flora_tree_pine",
 		"fruitBush": "gaia/flora_bush_berry",
-		"chicken": "gaia/fauna_turkey",
+		"chicken": "gaia/fauna_chicken",
 		"mainHuntableAnimal": "gaia/fauna_goat",
 		"fish": "gaia/fauna_fish_tuna",
 		"secondaryHuntableAnimal": "gaia/fauna_deer",

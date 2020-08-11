@@ -1,0 +1,9 @@
+{
+	"settings" : {
+		"Name" : "Fortress",
+		"Script" : "fortress.js",
+		"Description" : "Players start in a ready-made fortress with piles of resources.",
+		"CircularMap" : true,
+		"Preview" : "fortress.png"
+	}
+}

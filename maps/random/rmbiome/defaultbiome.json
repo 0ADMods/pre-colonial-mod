@@ -41,7 +41,7 @@
 		"chicken": "gaia/fauna_turkey",
 		"fish": "gaia/fauna_fish",
 		"mainHuntableAnimal": "gaia/fauna_deer",
-		"secondaryHuntableAnimal": "gaia/fauna_turkey",
+		"secondaryHuntableAnimal": "gaia/fauna_sheep",
 		"stoneLarge": "gaia/geology_stonemine_medit_quarry",
 		"stoneSmall": "gaia/geology_stone_mediterranean",
 		"metalLarge": "gaia/geology_metal_mediterranean_slabs",

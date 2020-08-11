@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="cactus">
+      <textures>
+        <texture file="gaia/desert_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="a">
+      <mesh>gaia/flora/cactus_stenocerus_large_a.dae</mesh>
+    </variant>
+    <variant frequency="1" name="b">
+      <mesh>gaia/flora/cactus_stenocerus_large_b.dae</mesh>
+    </variant>
+    <variant frequency="1" name="c">
+      <mesh>gaia/flora/cactus_stenocerus_large_c.dae</mesh>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>

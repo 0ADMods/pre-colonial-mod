@@ -12906,7 +12906,7 @@
 			<Actor seed="61846"/>
 		</Entity>
 		<Entity uid="2550">
-			<Template>structures/gaia_water_fall_large</Template>
+			<Template>gaia/gaia_water_fall_large_desert</Template>
 			<Player>0</Player>
 			<Position x="632.41181" z="556.53321"/>
 			<Orientation y="2.9928"/>
