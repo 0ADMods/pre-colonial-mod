@@ -15,6 +15,6 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/mayas/aldeia_maya.xml</Actor>
+    <Actor>structures/villagers/maya.xml</Actor>
   </VisualActor>
 </Entity>

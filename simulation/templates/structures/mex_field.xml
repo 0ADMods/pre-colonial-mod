@@ -5,6 +5,6 @@
     <SpecificName>Rudxiiba Binii Xuba</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/plot_field_tropic_mesoamerican.xml</Actor>
+    <Actor>structures/plot_field_tropic_maize.xml</Actor>
   </VisualActor>
 </Entity>
