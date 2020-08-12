@@ -2,6 +2,7 @@
 <Entity parent="template_unit_infantry_ranged_javelinist">
   <Cost>
     <BuildTime>60</BuildTime>
+    <Population>0</Population>
     <Resources>
       <food>50</food>
       <wood>100</wood>

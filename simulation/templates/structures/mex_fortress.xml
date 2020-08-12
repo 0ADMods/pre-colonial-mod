@@ -13,6 +13,9 @@
       units/{civ}_champion_infantry_spearman
       units/{civ}_champion_infantry_swordsman
     </Entities>
+    <Technologies datatype="tokens">
+      mexicas/special_colonisation
+    </Technologies>
   </ProductionQueue>
   <Obstruction>
     <Static width="26.0" depth="28.0"/>

@@ -11,6 +11,9 @@
       units/{civ}_infantry_slinger_b
       units/{civ}_hero_tlatoani
     </Entities>
+    <Technologies datatype="tokens">
+      mexicas/special_colonisation
+    </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/mexicas/civic_center.xml</Actor>

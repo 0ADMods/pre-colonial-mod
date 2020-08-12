@@ -1,0 +1,15 @@
+{
+	"genericName": "Colonization",
+	"description": "Mexicas established many trading centers as colonies.",
+	"cost": { "food": 0, "wood": 500, "stone": 500, "metal": 500 },
+	"requirements": { "all": [{ "tech": "phase_town" }, { "civ": "cart" }] },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "political_face.png",
+	"researchTime": 60,
+	"tooltip": "Civic Centers, Temples, and Houses -25% build time.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.75 }
+	],
+	"affects": ["Civic"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

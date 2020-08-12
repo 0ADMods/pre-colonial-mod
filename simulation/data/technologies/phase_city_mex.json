@@ -22,7 +22,7 @@
 		{"value" : "ResourceGatherer/Rates/food.fruit", "multiply" : 1.1, "affects" : "Worker" },
 		{"value" : "ResourceGatherer/Rates/food.grain", "multiply" : 1.1, "affects" : "Worker" },
 		{"value" : "ResourceGatherer/Rates/food.corn", "multiply" : 1.1, "affects" : "Worker" },
-		{"value" : "ResourceGatherer/Rates/food.vegetables", "multiply" : 1.1, "affects" : "Worker" },
+		{"value" : "ResourceGatherer/Rates/food.vegetables", "multiply": 0.75, "affects" : "Worker" },
 		{ "value": "ProductionQueue/BatchTimeModifier", "add": -1.1, "affects" : "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.5, "affects": "CivCentre" },
 		{ "value": "Health/Max", "multiply": 1.1, "affects": "Citizen Soldier" },

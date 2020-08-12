@@ -1,7 +1,7 @@
 {
 	"genericName": "Town Phase",
 	"specificName": {
-		"mex": "Kōmópolis"
+		"mex": "Altepetl"
 	},
 	"description": "Advances from a small village to a bustling town, ready to expand rapidly. This is the Athenian town phase, where metal gathering rates are boosted because of the 'Chinampas' bonus.",
 	"cost": { "food": 500, "wood": 500, "stone": 0, "metal": 0 },
@@ -23,7 +23,7 @@
 		{"value" : "ResourceGatherer/Rates/food.grain", "multiply" : 1.1, "affects" : "Worker" },
 		{"value" : "ResourceGatherer/Rates/food.corn", "multiply" : 1.1, "affects" : "Worker" },
 		{"value" : "ResourceGatherer/Rates/food.vegetables", "multiply" : 1.1, "affects" : "Worker" },
-		{ "value": "ProductionQueue/BatchTimeModifier", "add": -1.1, "affects" : "Structure" },
+		{ "value": "ProductionQueue/BatchTimeModifier", "multiply": 0.75, "affects" : "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.3, "affects": "CivCentre" },
 		{ "value": "Health/Max", "multiply": 1.2, "affects": "Citizen Soldier" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" }

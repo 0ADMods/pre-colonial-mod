@@ -112,7 +112,6 @@
       unlock_shared_los
       unlock_spies
       spy_counter
-      building_vision
     </Technologies>
   </ProductionQueue>
   <ResourceDropsite>

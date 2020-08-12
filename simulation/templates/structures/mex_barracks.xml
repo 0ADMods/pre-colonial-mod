@@ -21,6 +21,7 @@
     <Icon>structures/meso_barracks.png</Icon>
   </Identity>
   <ProductionQueue>
+     <BatchTimeModifier>0.5</BatchTimeModifier>
      <Technologies datatype="tokens">
 	mexicas/xochiyaoyotl   
      </Technologies>
