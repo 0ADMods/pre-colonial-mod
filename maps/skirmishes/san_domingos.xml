@@ -39,8 +39,10 @@
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
-  "Name": "Caribe map",
-  "Description": "La Hispanola.",
+  "Name": "Haiti",
+  "Description": "The 76,192-square-kilometre (29,418 sq mi) island is divided into two separate, sovereign nations: the Spanish-speaking Dominican Republic (48,445 km2, 18,705 sq mi) to the east and French / Haitian Creole-speaking Haiti (27,750 km2, 10,710 sq mi) to the west. The only other shared island in the Caribbean is Saint Martin, which is shared between France (Saint Martin) and the Netherlands (Sint Maarten).
+
+Hispaniola is the site of the first European settlement in the Americas, La Navidad (1492–1493), as well as the first proper town, La Isabela (1493–1500), and the first permanent settlement and current capital of the Dominican Republic, Santo Domingo (est. 1498). These settlements were founded successively in each of Christopher Columbus' first three voyages.",
   "PlayerData": [
     null,
     {
