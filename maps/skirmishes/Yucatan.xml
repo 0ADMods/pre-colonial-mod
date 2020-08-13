@@ -33,29 +33,23 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="977.07" y="261.587" z="769.459"/>
-		<Rotation angle="-1.61523"/>
-		<Declination angle="0.534189"/>
+		<Position x="590.221" y="213.797" z="94.7278"/>
+		<Rotation angle="0.255277"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
   "AISeed": 0,
   "CircularMap": true,
-  "Description": "Give an interesting description of your map.",
+  "Description": "The Yucatan Peninsula in southeastern Mexico, separates the Caribbean Sea from the Gulf of Mexico, with the northern coastline on the Yucatan Channel. The peninsula lies east of the Isthmus of Tehuantepec, a northeastern geographic partition separating the region of Central America from the rest of North America. It is approximately 181,000 km2 (70,000 sq mi) in area, and is almost entirely composed of limestone",
   "Keywords": [],
   "LockTeams": false,
-  "Name": "Yucatan_3",
+  "Name": "Yucatan(3)",
   "PlayerData": [
     null,
-    {
-      "Civ": ""
-    },
-    {
-      "Civ": ""
-    },
-    {
-      "Civ": ""
-    }
+    {},
+    {},
+    {}
   ],
   "Preview": "",
   "RevealMap": false,

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+     <variant frequency="1" name="Base">
+      <animations>
+        <animation file="biped/lider_warcray.dae" name="heal" speed="70"/>
+        <animation file="biped/lider_warcray.dae" name="build" speed="70"/>
+        <animation file="biped/lider_idle_1.dae"  name="idle" speed="70"/>
+        <animation file="biped/lider_walk.dae"    name="walk" speed="10"/>
+        <animation file="biped/lider_walk.dae"    name="run" speed="15"/>
+        <animation file="biped/infantry/death_a.dae" name="Death" id="death1" speed="60"/>
+        <animation file="biped/infantry/death_b.dae" name="Death" id="death2" speed="60"/>
+      </animations>
+      <mesh>props/units/capes/native_cape_noble_b.dae</mesh>
+      <textures>
+        <texture file="props/capes/zapotec_king_cape_c.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

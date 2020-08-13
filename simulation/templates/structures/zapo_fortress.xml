@@ -8,6 +8,11 @@
     <Civ>zapo</Civ>
     <SpecificName>Nukuch naj</SpecificName>
   </Identity>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/zapo_hero_king
+    </Entities>
+  </ProductionQueue>
   <Obstruction>
     <Static width="26.0" depth="28.0"/>
   </Obstruction>

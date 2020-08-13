@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="base">
+      <mesh>props/units/helmet/zapo_king_crest.dae</mesh>
+      <textures>
+        <texture file="structural/zapo_struct.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Red-Orange">
+      <color>250 95 67</color>
+    </variant>
+    <variant frequency="1" name="Light Blue">
+      <color>0 110 255</color>
+    </variant>
+    <variant frequency="1" name="Green Parrot">
+      <color>62 148 82</color>
+    </variant>
+    <variant frequency="1" name="Blue Parrot">
+      <color>36 59 163</color>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>
