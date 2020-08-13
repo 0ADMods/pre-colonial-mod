@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_wallset">
+  <Identity>
+    <Civ>tolt</Civ>
+    <SpecificName>Tenamitl</SpecificName>
+  </Identity>
+  <WallSet>
+    <Templates>
+      <Tower>structures/tolt_wall_tower</Tower>
+      <Gate>structures/tolt_wall_gate</Gate>
+      <WallLong>structures/tolt_wall_long</WallLong>
+      <WallMedium>structures/tolt_wall_medium</WallMedium>
+      <WallShort>structures/tolt_wall_short</WallShort>
+    </Templates>
+    <MaxTowerOverlap>0.90</MaxTowerOverlap>
+    <MinTowerOverlap>0.05</MinTowerOverlap>
+  </WallSet>
+</Entity>
