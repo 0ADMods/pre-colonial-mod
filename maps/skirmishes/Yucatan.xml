@@ -28,13 +28,13 @@
 			<Brightness>0</Brightness>
 			<Contrast>1</Contrast>
 			<Saturation>0.99</Saturation>
-			<Bloom>0.1999</Bloom>
+			<Bloom>0.177148</Bloom>
 			<PostEffect>hdr</PostEffect>
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="590.221" y="213.797" z="94.7278"/>
-		<Rotation angle="0.255277"/>
+		<Position x="868.059" y="658.971" z="-422.484"/>
+		<Rotation angle="-0.272924"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -51,7 +51,7 @@
     {},
     {}
   ],
-  "Preview": "",
+  "Preview": "yucatan.png",
   "RevealMap": false,
   "VictoryConditions": [
     "conquest"
@@ -2176,30 +2176,9 @@
 		<Entity uid="338">
 			<Template>gaia/flora_tree_banyan</Template>
 			<Player>0</Player>
-			<Position x="785.78498" z="982.59504"/>
+			<Position x="783.50355" z="984.54694"/>
 			<Orientation y="2.26882"/>
 			<Actor seed="15360"/>
-		</Entity>
-		<Entity uid="339">
-			<Template>gaia/flora_tree_banyan</Template>
-			<Player>0</Player>
-			<Position x="802.86744" z="975.14728"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="60086"/>
-		</Entity>
-		<Entity uid="340">
-			<Template>gaia/flora_tree_banyan</Template>
-			<Player>0</Player>
-			<Position x="825.72803" z="985.51117"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="6375"/>
-		</Entity>
-		<Entity uid="341">
-			<Template>gaia/flora_tree_banyan</Template>
-			<Player>0</Player>
-			<Position x="833.91108" z="1008.12928"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25473"/>
 		</Entity>
 		<Entity uid="342">
 			<Template>gaia/flora_tree_banyan</Template>
@@ -2207,20 +2186,6 @@
 			<Position x="840.16321" z="1033.271"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51050"/>
-		</Entity>
-		<Entity uid="343">
-			<Template>gaia/flora_tree_banyan</Template>
-			<Player>0</Player>
-			<Position x="817.78522" z="1004.34455"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="57525"/>
-		</Entity>
-		<Entity uid="344">
-			<Template>gaia/flora_tree_banyan</Template>
-			<Player>0</Player>
-			<Position x="807.65766" z="990.46167"/>
-			<Orientation y="1.21323"/>
-			<Actor seed="55903"/>
 		</Entity>
 		<Entity uid="345">
 			<Template>gaia/flora_tree_banyan</Template>
@@ -10206,13 +10171,6 @@
 			<Orientation y="-0.07491"/>
 			<Actor seed="46636"/>
 		</Entity>
-		<Entity uid="1551">
-			<Template>gaia/flora_tree_strangler</Template>
-			<Player>0</Player>
-			<Position x="694.12647" z="107.14211"/>
-			<Orientation y="-0.20026"/>
-			<Actor seed="29031"/>
-		</Entity>
 		<Entity uid="1552">
 			<Template>gaia/flora_tree_strangler</Template>
 			<Player>0</Player>
@@ -11536,26 +11494,12 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="1372"/>
 		</Entity>
-		<Entity uid="1741">
-			<Template>gaia/flora_tree_tropic_rainforest</Template>
-			<Player>0</Player>
-			<Position x="681.35688" z="127.1512"/>
-			<Orientation y="1.13442"/>
-			<Actor seed="53989"/>
-		</Entity>
 		<Entity uid="1742">
 			<Template>gaia/flora_tree_tropic_rainforest</Template>
 			<Player>0</Player>
 			<Position x="681.8343" z="131.74643"/>
 			<Orientation y="1.4905"/>
 			<Actor seed="1059"/>
-		</Entity>
-		<Entity uid="1743">
-			<Template>gaia/flora_tree_tropic_rainforest</Template>
-			<Player>0</Player>
-			<Position x="670.07776" z="102.91781"/>
-			<Orientation y="-2.31482"/>
-			<Actor seed="41448"/>
 		</Entity>
 		<Entity uid="1744">
 			<Template>gaia/flora_tree_tropic_rainforest</Template>
@@ -17987,13 +17931,6 @@
 			<Orientation y="3.05417"/>
 			<Actor seed="13538"/>
 		</Entity>
-		<Entity uid="2680">
-			<Template>gaia/flora_tree_tropic_rainforest</Template>
-			<Player>0</Player>
-			<Position x="707.1933" z="129.52253"/>
-			<Orientation y="0.9738"/>
-			<Actor seed="30981"/>
-		</Entity>
 		<Entity uid="2681">
 			<Template>gaia/flora_tree_tropic_rainforest</Template>
 			<Player>0</Player>
@@ -18021,13 +17958,6 @@
 			<Position x="725.24793" z="127.95435"/>
 			<Orientation y="-0.00663"/>
 			<Actor seed="55791"/>
-		</Entity>
-		<Entity uid="2685">
-			<Template>gaia/flora_tree_tropic_rainforest</Template>
-			<Player>0</Player>
-			<Position x="712.79004" z="142.77894"/>
-			<Orientation y="1.53252"/>
-			<Actor seed="42371"/>
 		</Entity>
 		<Entity uid="2686">
 			<Template>gaia/flora_tree_tropic_rainforest</Template>
@@ -18985,6 +18915,202 @@
 			<Position x="475.34388" z="808.2356"/>
 			<Orientation y="-0.17368"/>
 			<Actor seed="1030"/>
+		</Entity>
+		<Entity uid="2824">
+			<Template>gaia/gaia_water_fall_large_tropic</Template>
+			<Player>0</Player>
+			<Position x="809.14454" z="985.74115"/>
+			<Orientation y="-0.87545"/>
+			<Actor seed="5425"/>
+		</Entity>
+		<Entity uid="2825">
+			<Template>gaia/gaia_water_fall_large_tropic</Template>
+			<Player>0</Player>
+			<Position x="679.9809" z="113.55132"/>
+			<Orientation y="0.49474"/>
+			<Actor seed="28812"/>
+		</Entity>
+		<Entity uid="2827">
+			<Template>gaia/gaia_water_fall_large_tropic</Template>
+			<Player>0</Player>
+			<Position x="208.03962" z="585.14966"/>
+			<Orientation y="1.01133"/>
+			<Actor seed="59535"/>
+		</Entity>
+		<Entity uid="2828">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="222.49692" z="585.78522"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53816"/>
+		</Entity>
+		<Entity uid="2829">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="223.71747" z="587.76331"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9218"/>
+		</Entity>
+		<Entity uid="2830">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="223.69111" z="590.36902"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16652"/>
+		</Entity>
+		<Entity uid="2831">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="222.80106" z="592.30176"/>
+			<Orientation y="2.32389"/>
+			<Actor seed="17935"/>
+		</Entity>
+		<Entity uid="2832">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="213.38672" z="597.62275"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36035"/>
+		</Entity>
+		<Entity uid="2833">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="214.6551" z="598.8158"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10743"/>
+		</Entity>
+		<Entity uid="2834">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="217.10523" z="599.30604"/>
+			<Orientation y="-3.07807"/>
+			<Actor seed="30844"/>
+		</Entity>
+		<Entity uid="2835">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="219.32947" z="597.81318"/>
+			<Orientation y="-2.63036"/>
+			<Actor seed="60052"/>
+		</Entity>
+		<Entity uid="2836">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="220.9628" z="596.05317"/>
+			<Orientation y="-2.5632"/>
+			<Actor seed="44893"/>
+		</Entity>
+		<Entity uid="2837">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="222.08872" z="594.41749"/>
+			<Orientation y="-2.21459"/>
+			<Actor seed="2520"/>
+		</Entity>
+		<Entity uid="2838">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="691.63581" z="121.18009"/>
+			<Orientation y="-1.12378"/>
+			<Actor seed="34137"/>
+		</Entity>
+		<Entity uid="2839">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="691.3531" z="124.45661"/>
+			<Orientation y="-1.04087"/>
+			<Actor seed="17945"/>
+		</Entity>
+		<Entity uid="2840">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="691.82404" z="127.12092"/>
+			<Orientation y="-1.12446"/>
+			<Actor seed="22084"/>
+		</Entity>
+		<Entity uid="2841">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="679.35431" z="126.69903"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21692"/>
+		</Entity>
+		<Entity uid="2842">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="680.40174" z="129.29545"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45919"/>
+		</Entity>
+		<Entity uid="2843">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="683.91736" z="132.54514"/>
+			<Orientation y="2.78371"/>
+			<Actor seed="59610"/>
+		</Entity>
+		<Entity uid="2844">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="682.72162" z="131.49527"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20105"/>
+		</Entity>
+		<Entity uid="2845">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="687.58643" z="132.19077"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54972"/>
+		</Entity>
+		<Entity uid="2846">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="690.06012" z="131.12418"/>
+			<Orientation y="-2.94013"/>
+			<Actor seed="25253"/>
+		</Entity>
+		<Entity uid="2847">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="692.22925" z="129.71271"/>
+			<Orientation y="-2.41709"/>
+			<Actor seed="15691"/>
+		</Entity>
+		<Entity uid="2848">
+			<Template>actor|geology/gray_rock1.xml</Template>
+			<Position x="691.75617" z="119.52186"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26189"/>
+		</Entity>
+		<Entity uid="2849">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="814.63343" z="1008.35462"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58283"/>
+		</Entity>
+		<Entity uid="2850">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="820.73084" z="1007.08381"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60451"/>
+		</Entity>
+		<Entity uid="2851">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="827.41248" z="1003.15326"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17852"/>
+		</Entity>
+		<Entity uid="2852">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="823.41047" z="1011.39887"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="53938"/>
+		</Entity>
+		<Entity uid="2853">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="821.38288" z="1015.25721"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31895"/>
+		</Entity>
+		<Entity uid="2854">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="830.96369" z="996.47968"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42846"/>
+		</Entity>
+		<Entity uid="2855">
+			<Template>gaia/flora_tree_tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="828.55024" z="1018.57941"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14779"/>
 		</Entity>
 	</Entities>
 	<Paths/>

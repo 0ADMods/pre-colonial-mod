@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_geo">
   <Footprint>
-    <Circle radius="40.0"/>
+    <Circle radius="20.0"/>
     <Height>15.0</Height>
   </Footprint>
   <Identity>
@@ -12,7 +12,7 @@
     <VisibleClasses datatype="tokens">WaterFall</VisibleClasses>
   </Identity>
   <Obstruction>
-    <Static width="40.0" depth="40.0"/>
+    <Static width="30.0" depth="30.0"/>
     <BlockMovement>true</BlockMovement>
     <BlockPathfinding>true</BlockPathfinding>
   </Obstruction>

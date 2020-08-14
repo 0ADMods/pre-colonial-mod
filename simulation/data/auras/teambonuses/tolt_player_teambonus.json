@@ -3,8 +3,8 @@
 	"affects": ["Player"],
 	"affectedPlayers": ["ExclusiveMutualAlly"],
 	"modifications": [
-		{ "value": "ResourceTrickle/Rates/food", "add": 1 }
+		{ "value": "ResourceTrickle/Rates/stone", "add": 2.5 }
 	],
 	"auraName": "Conscription",
-	"auraDescription": "-10% of food gather time."
+	"auraDescription": "Allied Citizen Infantry −15% stone gather time."
 }

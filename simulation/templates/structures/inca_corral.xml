@@ -12,7 +12,7 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      gaia/fauna_turkey_trainable
+      gaia/fauna_llama_trainable
     </Entities>
   </ProductionQueue>
   <VisualActor>
