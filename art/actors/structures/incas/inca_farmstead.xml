@@ -6,6 +6,11 @@
       <mesh>structural/inca_farmstead.dae</mesh>
        <props>
         <prop actor="props/structures/decals/dirt_3x5.xml" attachpoint="root"/>
+        <prop actor="structures/incas/maize_clump.xml" attachpoint="c2"/>
+        <prop actor="structures/incas/maize_clump.xml" attachpoint="c1"/>
+        <prop actor="props/special/eyecandy/hay_a.xml" attachpoint="1"/>
+        <prop actor="props/special/eyecandy/hay_a.xml" attachpoint="2"/>
+        <prop actor="props/special/eyecandy/hay_a.xml" attachpoint="3"/>
       </props>
       <textures>
         <texture file="structural/inca_struct.png" name="baseTex"/>

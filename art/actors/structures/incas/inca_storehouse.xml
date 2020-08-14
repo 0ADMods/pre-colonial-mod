@@ -6,6 +6,9 @@
       <mesh>structural/inca_storehouse.dae</mesh>
         <props>
         <prop actor="props/structures/decals/dirt_3x5.xml" attachpoint="root"/>
+         <prop actor="props/special/eyecandy/blocks_granite_pile_a.xml" attachpoint="1"/>
+         <prop actor="props/special/eyecandy/blocks_granite_pile_a.xml" attachpoint="2"/>
+         <prop actor="props/special/eyecandy/blocks_granite_pile_b.xml" attachpoint="3"/>
       </props>
       <textures>
         <texture file="structural/inca_struct.png" name="baseTex"/>
