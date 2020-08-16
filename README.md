@@ -1,11 +1,8 @@
 # The America Acient Empires - 0 A.D. Civilization Mod
 
-The America Acient Empires mod adds new civilizations,maps and a new resource to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) The following civilizations are added by the mod:
-
-- Mexicas
-- Toltecs
-- Tlaxcaltecans
-- Hopis (Pueblo)
+The America Acient Empires mod adds new civilizations,maps and a new resource to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) .
+The following civilizations are added by the mod:
+https://github.com/0ADMods/pre-colonial-mod/issues/13
 
 The America Acient Empires mod time piriod is 900 to 1520
 
@@ -21,7 +18,7 @@ There is only one download option for every version, because the same mod can wo
 
 ## Contributing
 
-We could always use another helping hand with this project. There are several ways to help and contribute to the Terra Magna mod:
+We could always use another helping hand with this project. There are several ways to help and contribute to the America Acient Empires mod:
 
 - Download, install and play the mod.
 - Promote the Terra Magna mod by telling friends about it, create game play videos or write a blog article about it.
