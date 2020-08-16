@@ -2,19 +2,20 @@
 
 The America Acient Empires mod adds new civilizations,maps and a new resource to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) .
 The following civilizations are added by the mod:
+
 https://github.com/0ADMods/pre-colonial-mod/issues/13
 
 The America Acient Empires mod time piriod is 900 to 1520
 
 ## Download
 
-{The mod is not finish.}
+You can clone the github project to test this mod.
 
 There is only one download option for every version, because the same mod can work across all platforms 0 A.D. can run on. This means you only need one ZIP file regardless if you are using Windows, Linux or macOS.
 
 ## Installation
 
-{The mod is not finish.}
+See https://trac.wildfiregames.com/wiki/Modding_Guide#Howtoinstallmods
 
 ## Contributing
 
