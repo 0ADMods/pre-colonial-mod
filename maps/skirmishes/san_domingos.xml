@@ -33,34 +33,51 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1004.42" y="550.582" z="1045.19"/>
-		<Rotation angle="-0.734504"/>
+		<Position x="1810.98" y="534.445" z="852.572"/>
+		<Rotation angle="-0.457032"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
+  "AISeed": 0,
+  "Description": "Is an island in the Caribbean archipelago known as the Greater Antilles. It is the most populous island in the West Indies and the region's second largest after Cuba.",
+  "Keywords": [],
+  "LockTeams": false,
   "Name": "Haiti",
-  "Description": "The 76,192-square-kilometre (29,418 sq mi) island is divided into two separate, sovereign nations: the Spanish-speaking Dominican Republic (48,445 km2, 18,705 sq mi) to the east and French / Haitian Creole-speaking Haiti (27,750 km2, 10,710 sq mi) to the west. The only other shared island in the Caribbean is Saint Martin, which is shared between France (Saint Martin) and the Netherlands (Sint Maarten).
-
-Hispaniola is the site of the first European settlement in the Americas, La Navidad (1492–1493), as well as the first proper town, La Isabela (1493–1500), and the first permanent settlement and current capital of the Dominican Republic, Santo Domingo (est. 1498). These settlements were founded successively in each of Christopher Columbus' first three voyages.",
   "PlayerData": [
-    null,
     {
-      "Color": {
-        "b": 200,
-        "g": 46,
-        "r": 46
+      "Civ": "mex",
+      "StartingCamera": {
+        "Position": {
+          "x": 1747.73,
+          "y": 434.087,
+          "z": 981.188
+        },
+        "Rotation": {
+          "x": 35,
+          "y": -26.186,
+          "z": 0.00000285426
+        }
       }
     },
     {
-      "Color": {
-        "b": 20,
-        "g": 20,
-        "r": 150
+      "Civ": "zapo",
+      "StartingCamera": {
+        "Position": {
+          "x": 311.08,
+          "y": 440.162,
+          "z": 964.104
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
       }
     }
   ],
-  "CircularMap": true,
+  "Preview": "",
+  "RevealMap": false,
   "VictoryConditions": [
     "conquest"
   ]
@@ -433,7 +450,7 @@ Hispaniola is the site of the first European settlement in the Americas, La Navi
 		</Entity>
 		<Entity uid="87">
 			<Template>gaia/flora_bush_tropic</Template>
-			<Player>0</Player>
+			<Player>1</Player>
 			<Position x="1731.81055" z="950.50733"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39148"/>
@@ -24270,13 +24287,6 @@ Hispaniola is the site of the first European settlement in the Americas, La Navi
 			<Orientation y="2.35621"/>
 			<Actor seed="28788"/>
 		</Entity>
-		<Entity uid="3855">
-			<Template>skirmish/units/default_ship_trireme</Template>
-			<Player>1</Player>
-			<Position x="1845.93152" z="1543.04102"/>
-			<Orientation y="-1.9462"/>
-			<Actor seed="64602"/>
-		</Entity>
 		<Entity uid="3856">
 			<Template>skirmish/units/default_ship_trireme</Template>
 			<Player>2</Player>
@@ -27198,237 +27208,6 @@ Hispaniola is the site of the first European settlement in the Americas, La Navi
 			<Orientation y="-2.46305"/>
 			<Actor seed="9676"/>
 		</Entity>
-		<Entity uid="4336">
-			<Template>skirmish/structures/default_civil_centre</Template>
-			<Player>1</Player>
-			<Position x="250.79526" z="970.63776"/>
-			<Orientation y="-3.12943"/>
-			<Actor seed="17763"/>
-		</Entity>
-		<Entity uid="4337">
-			<Template>skirmish/structures/default_dock</Template>
-			<Player>1</Player>
-			<Position x="236.38773" z="910.38538"/>
-			<Orientation y="-3.11855"/>
-			<Actor seed="60324"/>
-		</Entity>
-		<Entity uid="4338">
-			<Template>skirmish/structures/default_dock</Template>
-			<Player>1</Player>
-			<Position x="268.89118" z="1038.6996"/>
-			<Orientation y="0.26282"/>
-			<Actor seed="59775"/>
-		</Entity>
-		<Entity uid="4339">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="227.45838" z="973.97114"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25128"/>
-		</Entity>
-		<Entity uid="4340">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="227.33121" z="967.93384"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="13317"/>
-		</Entity>
-		<Entity uid="4341">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="226.3353" z="960.6706"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="29436"/>
-		</Entity>
-		<Entity uid="4342">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="227.65665" z="955.71528"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="16845"/>
-		</Entity>
-		<Entity uid="4343">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="258.0849" z="944.10859"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="52209"/>
-		</Entity>
-		<Entity uid="4344">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="247.53382" z="944.68323"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="1672"/>
-		</Entity>
-		<Entity uid="4345">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>1</Player>
-			<Position x="234.80222" z="946.07581"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="54438"/>
-		</Entity>
-		<Entity uid="4346">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="268.8159" z="945.25702"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20872"/>
-		</Entity>
-		<Entity uid="4347">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="277.02482" z="950.88788"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="57084"/>
-		</Entity>
-		<Entity uid="4348">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="283.74158" z="957.40265"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="11703"/>
-		</Entity>
-		<Entity uid="4349">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="290.72593" z="961.90076"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35339"/>
-		</Entity>
-		<Entity uid="4351">
-			<Template>skirmish/structures/default_civil_centre</Template>
-			<Player>2</Player>
-			<Position x="1750.02344" z="1012.79114"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="37020"/>
-		</Entity>
-		<Entity uid="4352">
-			<Template>skirmish/structures/default_dock</Template>
-			<Player>2</Player>
-			<Position x="1807.84742" z="970.80713"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20868"/>
-		</Entity>
-		<Entity uid="4353">
-			<Template>skirmish/structures/default_dock</Template>
-			<Player>2</Player>
-			<Position x="1785.30127" z="1133.67066"/>
-			<Orientation y="0.88692"/>
-			<Actor seed="20337"/>
-		</Entity>
-		<Entity uid="4355">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>2</Player>
-			<Position x="1763.27076" z="989.12427"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="15152"/>
-		</Entity>
-		<Entity uid="4356">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>2</Player>
-			<Position x="1767.79883" z="992.06196"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="8830"/>
-		</Entity>
-		<Entity uid="4357">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>2</Player>
-			<Position x="1774.27967" z="996.1438"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25754"/>
-		</Entity>
-		<Entity uid="4358">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>2</Player>
-			<Position x="1778.49024" z="999.53071"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35979"/>
-		</Entity>
-		<Entity uid="4359">
-			<Template>skirmish/units/default_infantry_ranged_b</Template>
-			<Player>2</Player>
-			<Position x="1735.72303" z="993.7046"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="62812"/>
-		</Entity>
-		<Entity uid="4360">
-			<Template>skirmish/units/default_infantry_ranged_b</Template>
-			<Player>2</Player>
-			<Position x="1741.33472" z="987.24592"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="32003"/>
-		</Entity>
-		<Entity uid="4361">
-			<Template>skirmish/units/default_infantry_ranged_b</Template>
-			<Player>2</Player>
-			<Position x="1747.01221" z="981.78058"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="52532"/>
-		</Entity>
-		<Entity uid="4362">
-			<Template>skirmish/units/default_infantry_ranged_b</Template>
-			<Player>2</Player>
-			<Position x="1751.48633" z="978.13605"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="52850"/>
-		</Entity>
-		<Entity uid="4363">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="1776.66956" z="1013.50971"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="12386"/>
-		</Entity>
-		<Entity uid="4364">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="1772.96363" z="1018.47767"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="35803"/>
-		</Entity>
-		<Entity uid="4365">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="1770.26856" z="1022.23267"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="38601"/>
-		</Entity>
-		<Entity uid="4366">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="1763.97022" z="1028.19666"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="16834"/>
-		</Entity>
-		<Entity uid="4367">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="1759.49158" z="1033.48963"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="49703"/>
-		</Entity>
-		<Entity uid="4368">
-			<Template>structures/rome_army_camp</Template>
-			<Player>0</Player>
-			<Position x="881.87916" z="1527.80323"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="64374"/>
-		</Entity>
-		<Entity uid="4369">
-			<Template>other/celt_longhouse</Template>
-			<Player>0</Player>
-			<Position x="852.31135" z="1540.61731"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="42544"/>
-		</Entity>
-		<Entity uid="4370">
-			<Template>structures/iber_dock</Template>
-			<Player>0</Player>
-			<Position x="854.81598" z="1566.0569"/>
-			<Orientation y="-0.90462"/>
-			<Actor seed="58271"/>
-		</Entity>
 		<Entity uid="4372">
 			<Template>gaia/fauna_turkey</Template>
 			<Player>0</Player>
@@ -30290,6 +30069,20 @@ Hispaniola is the site of the first European settlement in the Americas, La Navi
 			<Position x="784.45771" z="1041.9751"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41705"/>
+		</Entity>
+		<Entity uid="4784">
+			<Template>skirmish/structures/default_civil_centre</Template>
+			<Player>1</Player>
+			<Position x="1753.1399" z="1010.54578"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44523"/>
+		</Entity>
+		<Entity uid="4785">
+			<Template>skirmish/structures/default_civil_centre</Template>
+			<Player>2</Player>
+			<Position x="282.80851" z="967.64155"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="271"/>
 		</Entity>
 	</Entities>
 	<Paths/>
