@@ -36,13 +36,12 @@
       units/{civ}_infantry_pikeman_b
       units/{civ}_infantry_axeman_b
       units/{civ}_infantry_swordsman_b
-      units/{civ}_infantry_javelinist_b
+      units/{civ}_infantry_javelineer_b
       units/{civ}_infantry_slinger_b
       units/{civ}_infantry_archer_b
       units/{civ}_champion_infantry_barracks
-      units/{civ}_champion_maiden_barracks
+      units/{civ}_champion_infantry_swordsman_barracks
       units/{civ}_war_dog_b
-      units/{civ}_siege_ram
     </Entities>
     <Technologies datatype="tokens">
       heal_barracks
