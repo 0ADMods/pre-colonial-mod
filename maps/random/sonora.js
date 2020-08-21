@@ -12,7 +12,7 @@ const tDirt = ["steppe_dirt_a", "steppe_dirt_b"];
 const tRoad = "desert_shore_stones";
 const tRoadWild = "desert_city_tile";
 
-const oPoplar = "gaia/flora_tree_oak";
+const oPoplar = "gaia/flora_tree_palo_verde";
 const oCactusLarge = "gaia/flora_cactus_big";
 const oCactusSmall = "gaia/flora_cactus_small";
 const oBush = "gaia/flora_cactus_big";

@@ -6,7 +6,6 @@
     <SpecificName>Otomitl ch’ab</SpecificName>
     <SelectionGroupName>units/zapo_infantry_archer_b</SelectionGroupName>
     <Icon>units/mex_infantry_archer.png</Icon>
-    <RequiredTechnology>phase_city_mex</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/mex_infantry_archer_a</Entity>
