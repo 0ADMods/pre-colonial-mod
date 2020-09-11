@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee">
-  <Armour>
-    <Hack>5</Hack>
-    <Pierce>5</Pierce>
-  </Armour>
   <Attack>
     <Melee>
       <Damage>
@@ -27,6 +23,14 @@
   <Loot>
     <metal>5</metal>
   </Loot>
+   <Resistance>
+    <Entity>
+     <Damage>
+      <Hack>5</Hack>
+      <Pierce>5</Pierce>
+     </Damage>
+    </Entity>
+  </Resistance>
   <UnitMotion>
     <WalkSpeed op="mul">1.05</WalkSpeed>
   </UnitMotion>

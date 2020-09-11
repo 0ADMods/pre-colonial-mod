@@ -149,7 +149,7 @@
 	"SkirmishReplacements":
 	{
 		"skirmish/units/default_cavalry": "units/mex_infantry_swordsman_b",
-		"skirmish/units/default_infantry_ranged_b": "units/mex_infantry_javelinist_b",
+		"skirmish/units/default_infantry_ranged_b": "units/mex_infantry_javelineer_b",
 		"skirmish/structures/default_house_10": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true

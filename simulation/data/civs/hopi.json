@@ -89,7 +89,7 @@
 	"SkirmishReplacements":
 	{
 		"skirmish/units/default_cavalry": "units/hopi_infantry_archer_b",
-		"skirmish/units/default_infantry_ranged_b": "units/zapo_infantry_javelinist_b",
+		"skirmish/units/default_infantry_ranged_b": "units/zapo_infantry_javelineer_b",
 		"skirmish/structures/default_house_10": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true

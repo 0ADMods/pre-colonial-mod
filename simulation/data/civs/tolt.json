@@ -115,7 +115,7 @@
 	"SkirmishReplacements":
 	{
 		"skirmish/units/default_cavalry": "units/tolt_infantry_swordsman_b",
-		"skirmish/units/default_infantry_ranged_b": "units/tolt_infantry_javelinist_b",
+		"skirmish/units/default_infantry_ranged_b": "units/tolt_infantry_javelineer_b",
 		"skirmish/structures/default_house_5": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true

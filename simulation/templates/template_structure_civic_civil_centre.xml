@@ -6,15 +6,6 @@
     <EndOfAlertRange>190</EndOfAlertRange>
     <SearchRange>100</SearchRange>
   </AlertRaiser>
-  <Armour>
-    <Hack op="add">5</Hack>
-    <Pierce op="add">5</Pierce>
-    <Foundation>
-      <Hack>5</Hack>
-      <Pierce>15</Pierce>
-      <Crush>3</Crush>
-    </Foundation>
-  </Armour>
   <Attack>
     <Ranged>
       <Damage>
@@ -114,6 +105,22 @@
       spy_counter
     </Technologies>
   </ProductionQueue>
+    <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>5</Pierce>
+        <Crush>5</Crush>
+      </Damage>
+    </Entity>
+    <Foundation>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>15</Pierce>
+        <Crush>3</Crush>
+      </Damage>
+    </Foundation>
+  </Resistance>
   <ResourceDropsite>
     <Types>food wood stone metal water</Types>
     <Sharable>true</Sharable>

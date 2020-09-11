@@ -141,7 +141,7 @@
 	],
 	"SkirmishReplacements":
 	{
-	"skirmish/units/default_cavalry": "units/inca_infantry_javelinist_b",
+	"skirmish/units/default_cavalry": "units/inca_infantry_javelineer_b",
 	"skirmish/units/default_infantry_ranged_b": "units/inca_infantry_slinger_b",
 	"skirmish/units/default_infantry_melee_b": "units/inca_infantry_maceman_b",
 	"skirmish/units/special_starting_unit":"units/inca_infantry_chaski",

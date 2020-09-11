@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit">
-  <Armour>
-    <Hack>5</Hack>
-    <Pierce>10</Pierce>
-    <Crush>5</Crush>
-  </Armour>
   <Cost>
     <Population>1</Population>
     <BuildTime>20</BuildTime>
@@ -53,6 +48,15 @@
   <Repairable>
     <RepairTimeRatio>4.0</RepairTimeRatio>
   </Repairable>
+   <Resistance>
+    <Entity>
+     <Damage>
+       <Hack>5</Hack>
+      <Pierce>10</Pierce>
+      <Crush>5</Crush>
+     </Damage>
+    </Entity>
+  </Resistance>
   <ResourceGatherer>
     <MaxDistance>4.0</MaxDistance>
     <BaseSpeed>1.0</BaseSpeed>
