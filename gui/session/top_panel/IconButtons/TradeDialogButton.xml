@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object type="button"
+	name="tradeButton"
+	size="100%-224 4 100%-196 32"
+	style="iconButton"
+	tooltip_style="sessionToolTip"
+	hotkey="session.gui.barter.toggle"
+>
+	<object name="tradeButtonImage" type="image" sprite="stretched:session/icons/economics.png" ghost="true"/>
+</object>
