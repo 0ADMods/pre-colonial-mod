@@ -4,11 +4,24 @@
 	"Name": "Toltecs",
 	"Emblem": "session/portraits/emblems/emblem_toltecs.png",
 	"History": "The Toltec culture (ca. 900-1168 CE) is a Mesoamerican culture that ruled a state center in Tula,Hidalgo.Toltecs as their intellectual and cultural predecessors and described Toltec culture emanating from Tōllān",
-	"Music":[
-			{ "File": "Old New World.ogg", "Type": "peace" },
-			{ "File": "Cloud_People.ogg", "Type": "peace" },
-			{ "File": "Tradition.ogg", "Type": "peace" }
-		],
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
 	"Factions":
 	[
 		{

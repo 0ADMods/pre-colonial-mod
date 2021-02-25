@@ -4,12 +4,24 @@
 	"Name": "Tawantinsuyu (Incas)",
 	"Emblem": "session/portraits/emblems/emblem_inca.png",
 	"History": "The Tawantinsuyu(lit The Four Regions),was the largest empire in pre-columbian America.The Inca civilization arose from the Peruvian hightlands sometime in the early 13th century. Its las stronghold was conquered by the Spanish in 1572. From 1438 to 1533, the Incas incorporated a large portion of western South America, centered on the Andean Mountains, using conquest and peaceful assimilation, among other methods.At its largest, the empire joined Peru, western Ecuador, western and south central Bolivia, northwest Argentina, a large portion of what is today Chile, and the southwestern most tip of Colombia into a state comparable to historical empires of Eurasia.",
-	"Music":[
-			{"File":"Harvest_Festival.ogg", "Type":"peace"},
-			{"File":"Forging_a_City-State.ogg", "Type":"peace"},
-			{"File":"Highland_Mist.ogg", "Type":"peace"},
-			{"File":"The_Hellespont.ogg", "Type":"peace"}
-		],
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
 	"Factions":
 	[
 		{

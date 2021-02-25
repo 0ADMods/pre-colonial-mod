@@ -1,8 +1,0 @@
-
-[font="sans-bold-20"]  Thank you for installing 0 A.D. Empires Ascendant!
-[font="sans-16"]
-[imgleft="constructionIcon"]This mod is still in development. Features are missing and it contains bugs.This is a pre-alpha version of American Acient Empires
-
-[imgleft="iconLag"]The game can have performance problems, especially with large maps and a great number of units.
-
-[imgleft="iconFormation"]Formations are a work in progress, but you can toggle forming and disbanding formations as desired.

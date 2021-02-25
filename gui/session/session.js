@@ -10,6 +10,7 @@ const g_StartingResources = prepareForDropdown(g_Settings && g_Settings.Starting
 const g_VictoryConditions = g_Settings && g_Settings.VictoryConditions;
 
 var g_Ambient;
+var g_AutoFormation;
 var g_Chat;
 var g_Cheats;
 var g_DeveloperOverlay;
@@ -35,7 +36,7 @@ var g_TopPanel;
 var g_TradeDialog;
 
 /**
- * Map, player and match settings set in gamesetup.
+ * Map, player and match settings set in game setup.
  */
 const g_GameAttributes = deepfreeze(Engine.GuiInterfaceCall("GetInitAttributes"));
 
@@ -277,6 +278,7 @@ function init(initData, hotloadData)
 	g_PlayerViewControl.registerViewedPlayerChangeHandler(resetTemplates);
 
 	g_Ambient = new Ambient();
+	g_AutoFormation = new AutoFormation();
 	g_Chat = new Chat(g_PlayerViewControl, g_Cheats);
 	g_DeveloperOverlay = new DeveloperOverlay(g_PlayerViewControl, g_Selection);
 	g_DiplomacyDialog = new DiplomacyDialog(g_PlayerViewControl, g_DiplomacyColors);
@@ -407,14 +409,14 @@ function updatePlayerData()
 }
 
 /**
- * Returns the entity itself except when garrisoned where it returns its garrisonHolder
+ * @param {number} ent - The entity to get its ID for.
+ * @return {number} - The entity ID of the entity or of its garrisonHolder.
  */
 function getEntityOrHolder(ent)
 {
 	let entState = GetEntityState(ent);
-	if (entState && !entState.position && entState.unitAI && entState.unitAI.orders.length &&
-			entState.unitAI.orders[0].type == "Garrison")
-		return getEntityOrHolder(entState.unitAI.orders[0].data.target);
+	if (entState && !entState.position && entState.garrisonable && entState.garrisonable.holder != INVALID_ENTITY)
+		return getEntityOrHolder(entState.garrisonable.holder);
 
 	return ent;
 }
@@ -653,7 +655,7 @@ function updateCinemaPath()
 	let isPlayingCinemaPath = GetSimState().cinemaPlaying && !g_Disconnected;
 
 	Engine.GetGUIObjectByName("session").hidden = !g_ShowGUI || isPlayingCinemaPath;
-	Engine.Renderer_SetSilhouettesEnabled(!isPlayingCinemaPath && Engine.ConfigDB_GetValue("user", "silhouettes") == "true");
+	Engine.ConfigDB_CreateValue("user", "silhouettes", !isPlayingCinemaPath && Engine.ConfigDB_GetValue("user", "silhouettes") == "true" ? "true" : "false");
 }
 
 // TODO: Use event subscription onSimulationUpdate, onEntitySelectionChange, onPlayerViewChange, ... instead

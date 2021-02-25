@@ -4,11 +4,24 @@
 	"Name": "Hopis",
 	"Emblem": "session/portraits/emblems/emblem_hopis.png",
 	"History": "The pueblo Hopis.",
-	"Music":[
-			{ "File": "Old New World.ogg", "Type": "peace" },
-			{ "File": "Cloud_People.ogg", "Type": "peace" },
-			{ "File": "Tradition.ogg", "Type": "peace" }
-		],
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
 	"Factions":
 	[],
 	"CivBonuses":
