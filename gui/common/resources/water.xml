@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<setup>
+	<icon name="icon_water"
+		sprite="stretched:session/icons/resources/water_small.png"
+		size="16 16"
+	/>
+	<icon name="icon_water"
+		sprite="stretched:session/icons/resources/water_small.png"
+		size="16 16"
+	/>
+</setup>

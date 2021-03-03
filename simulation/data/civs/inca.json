@@ -157,7 +157,7 @@
 	"skirmish/units/default_infantry_ranged_b": "units/inca/infantry_slinger_b",
 	"skirmish/units/default_infantry_melee_b": "units/inca/infantry_maceman_b",
 	"skirmish/units/special_starting_unit":"units/inca/infantry_chaski",
-	"skirmish/structures/default_house_10": "structures/{civ}_house",
+	"skirmish/structures/default_house_10": "structures/{civ}/house",
 	"skirmish/units/default_ship_trireme":"units/inca/ship_bireme"
 	},
 	"SelectableInGameSetup": true

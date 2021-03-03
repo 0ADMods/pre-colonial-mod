@@ -28,18 +28,18 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
-      structures/{civ}_civil_centre
-      structures/{civ}_military_colony
-      structures/{civ}_house
-      structures/{civ}_storehouse
-      structures/{civ}_farmstead
-      structures/{civ}_field
-      structures/{civ}_corral
-      structures/{civ}_dock
-      structures/{civ}_temple
-      structures/{civ}_market
+      structures/{civ}/civil_centre
+      structures/{civ}/military_colony
+      structures/{civ}/house
+      structures/{civ}/storehouse
+      structures/{civ}/farmstead
+      structures/{civ}/field
+      structures/{civ}/corral
+      structures/{civ}/dock
+      structures/{civ}/temple
+      structures/{civ}/market
       structures/gaia_acueductset
-      structures/{civ}_wonder
+      structures/{civ}/wonder
     </Entities>
   </Builder>
   <Cost>

@@ -11,8 +11,8 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/huave_infantry_javelinist_b
-      units/huave_infantry_spearman_b
+      units/huave/infantry_javelinist_b
+      units/huave/infantry_spearman_b
     </Entities>
   </ProductionQueue>
   <VisualActor>
