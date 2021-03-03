@@ -92,34 +92,34 @@
 	"WallSets":
 	[
 		"structures/wallset_palisade",
-        	"structures/inca_wallset_stone"
+        	"structures/inca/wallset_stone"
 	],
 	"StartEntities":
 	[
 		{
-			"Template": "structures/inca_civil_centre"
+			"Template": "structures/inca/civil_centre"
 		},
 		{
-			"Template": "structures/inca_water_well"
+			"Template": "structures/inca/water_well"
 		},
 		{
-			"Template": "units/inca_support_female_citizen",
+			"Template": "units/inca/support_female_citizen",
 			"Count": 4
 		},
 		{
-			"Template": "units/inca_infantry_maceman_b",
+			"Template": "units/inca/infantry_maceman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/inca_infantry_slinger_b",
+			"Template": "units/inca/infantry_slinger_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/inca_infantry_javelineer_b",
+			"Template": "units/inca/infantry_javelineer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/inca_infantry_chaski",
+			"Template": "units/inca/infantry_chaski",
 			"Count": 1
 		}
 	],
@@ -153,12 +153,12 @@
 	],
 	"SkirmishReplacements":
 	{
-	"skirmish/units/default_cavalry": "units/inca_infantry_javelineer_b",
-	"skirmish/units/default_infantry_ranged_b": "units/inca_infantry_slinger_b",
-	"skirmish/units/default_infantry_melee_b": "units/inca_infantry_maceman_b",
-	"skirmish/units/special_starting_unit":"units/inca_infantry_chaski",
+	"skirmish/units/default_cavalry": "units/inca/infantry_javelineer_b",
+	"skirmish/units/default_infantry_ranged_b": "units/inca/infantry_slinger_b",
+	"skirmish/units/default_infantry_melee_b": "units/inca/infantry_maceman_b",
+	"skirmish/units/special_starting_unit":"units/inca/infantry_chaski",
 	"skirmish/structures/default_house_10": "structures/{civ}_house",
-	"skirmish/units/default_ship_trireme":"units/inca_ship_bireme"
+	"skirmish/units/default_ship_trireme":"units/inca/ship_bireme"
 	},
 	"SelectableInGameSetup": true
 }

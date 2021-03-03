@@ -81,26 +81,26 @@
 	"WallSets":
 	[
 		"structures/wallset_palisade",
-		"structures/tolt_wallset_stone"
+		"structures/tolt/wallset_stone"
 	],
 	"StartEntities":
 	[
 		{
-			"Template": "structures/tolt_civil_centre"
+			"Template": "structures/tolt/civil_centre"
 		},
 		{
-			"Template": "structures/tolt_water_well"
+			"Template": "structures/tolt/water_well"
 		},
 		{
-			"Template":"units/tolt_support_female_citizen",
+			"Template":"units/tolt/support_female_citizen",
 			"Count":6
 		},
 		{
-			"Template": "units/tolt_infantry_swordsman_b",
+			"Template": "units/tolt/infantry_swordsman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/tolt_infantry_spearman_b",
+			"Template": "units/tolt/infantry_spearman_b",
 			"Count": 2
 		}
 	],
@@ -127,8 +127,8 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/tolt_infantry_swordsman_b",
-		"skirmish/units/default_infantry_ranged_b": "units/tolt_infantry_javelineer_b",
+		"skirmish/units/default_cavalry": "units/tolt/infantry_swordsman_b",
+		"skirmish/units/default_infantry_ranged_b": "units/tolt/infantry_javelineer_b",
 		"skirmish/structures/default_house_5": "structures/{civ}_house"
 	},
 	"SelectableInGameSetup": true

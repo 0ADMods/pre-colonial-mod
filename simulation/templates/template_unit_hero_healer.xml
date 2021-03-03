@@ -31,22 +31,27 @@
   </Position>
   <Resistance>
     <Entity>
-     <Damage>
-      <Hack>4</Hack>
-      <Pierce>8</Pierce>
-      <Crush>4</Crush>
-     </Damage>
+      <Damage>
+        <Hack>4</Hack>
+        <Pierce>8</Pierce>
+        <Crush>4</Crush>
+      </Damage>
     </Entity>
   </Resistance>
   <Selectable>
     <Overlay>
+      <Shape>
+        <Circle radius="2.0"/>
+      </Shape>
       <Texture>
         <MainTexture>128x128/star.png</MainTexture>
         <MainTextureMask>128x128/star_mask.png</MainTextureMask>
       </Texture>
     </Overlay>
   </Selectable>
-  <Vision>
-    <Range>30</Range>
-  </Vision>
+  <Sound>
+    <SoundGroups>
+      <order_heal>voice/{lang}/civ/civ_{phenotype}_heal.xml</order_heal>
+    </SoundGroups>
+  </Sound>
 </Entity>

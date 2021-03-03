@@ -58,23 +58,23 @@
 	"WallSets":
 	[
 		"structures/wallset_palisade",
-		"structures/inca_wallset_stone"
+		"structures/inca/wallset_stone"
 	],
 	"StartEntities":
 	[
 		{
-			"Template": "structures/hopi_civil_centre"
+			"Template": "structures/hopi/civil_centre"
 		},
 		{
-			"Template": "units/hopi_support_female_citizen",
+			"Template": "units/hopi/support_female_citizen",
 			"Count": 4
 		},
 		{
-			"Template": "units/hopi_infantry_archer_b",
+			"Template": "units/hopi/infantry_archer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/hopi_infantry_spearman_b",
+			"Template": "units/hopi/infantry_spearman_b",
 			"Count": 3
 		}
 	],
@@ -101,9 +101,9 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/hopi_infantry_archer_b",
-		"skirmish/units/default_infantry_ranged_b": "units/zapo_infantry_javelineer_b",
-		"skirmish/structures/default_house_10": "structures/{civ}_house"
+		"skirmish/units/default_cavalry": "units/hopi/infantry_archer_b",
+		"skirmish/units/default_infantry_ranged_b": "units/zapo/infantry_javelineer_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true
 }

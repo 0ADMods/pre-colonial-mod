@@ -3,7 +3,6 @@
   <AIProxy/>
   <Cost>
     <Population>1</Population>
-    <PopulationBonus>0</PopulationBonus>
     <BuildTime>1</BuildTime>
     <Resources>
       <food>0</food>
@@ -22,7 +21,7 @@
   </Decay>
   <Footprint>
     <Circle radius="1.5"/>
-    <Height>2.5</Height>
+    <Height>4.0</Height>
   </Footprint>
   <Garrisonable/>
   <Guard/>
@@ -69,20 +68,20 @@
   <Ownership/>
   <Position>
     <Altitude>0</Altitude>
-    <Anchor>upright</Anchor>
+    <Anchor>pitch</Anchor>
     <Floating>false</Floating>
     <FloatDepth>0.0</FloatDepth>
-    <TurnRate>6.0</TurnRate>
+    <TurnRate>8</TurnRate>
   </Position>
   <RangeOverlayManager/>
   <RangeOverlayRenderer/>
   <Resistance>
     <Entity>
-     <Damage>
-      <Hack>1</Hack>
-      <Pierce>1</Pierce>
-      <Crush>15</Crush>
-     </Damage>
+      <Damage>
+        <Hack>1</Hack>
+        <Pierce>1</Pierce>
+        <Crush>1</Crush>
+      </Damage>
     </Entity>
   </Resistance>
   <ResourceGatherer>
@@ -92,7 +91,7 @@
       <treasure>1</treasure>
     </Rates>
     <Capacities>
-      <food>10</food>
+       <food>10</food>
       <wood>10</wood>
       <stone>10</stone>
       <metal>10</metal>
@@ -110,7 +109,9 @@
   <Sound>
     <SoundGroups>
       <attacked>interface/alarm/alarm_attackplayer.xml</attacked>
-      <attack_slaughter>attack/weapon/sword_attack.xml</attack_slaughter>
+      <attacked_gaia>interface/alarm/alarm_attacked_gaia.xml</attacked_gaia>
+      <attacked_capture>interface/alarm/alarm_attackplayer.xml</attacked_capture>
+      <attacked_capture_gaia>interface/alarm/alarm_attacked_gaia.xml</attacked_capture_gaia>
     </SoundGroups>
   </Sound>
   <StatusBars>
@@ -125,6 +126,8 @@
     <FormationController>false</FormationController>
     <CanGuard>true</CanGuard>
     <CanPatrol>true</CanPatrol>
+    <PatrolWaitTime>1</PatrolWaitTime>
+    <CheeringTime>2800</CheeringTime>
   </UnitAI>
   <UnitMotion>
     <FormationController>false</FormationController>
