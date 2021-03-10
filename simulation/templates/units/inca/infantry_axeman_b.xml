@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_melee_axeman">
    <Builder>
     <Entities datatype="tokens">
-      structures/inca_military_colony
+      structures/inca/military_colony
     </Entities>
   </Builder>
   <Identity>
@@ -13,7 +13,7 @@
     <Icon>units/inca_axeman.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/inca_infantry_axeman_a</Entity>
+    <Entity>units/inca/infantry_axeman_a</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/incas/infantry_axeman_b.xml</Actor>

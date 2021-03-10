@@ -16,7 +16,7 @@
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
-    <Entity>units/inca_infantry_archer_merc_a</Entity>
+    <Entity>units/inca/infantry_archer_merc_a</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/incas/infantry_merc_archer_b.xml</Actor>
