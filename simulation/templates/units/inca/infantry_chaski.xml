@@ -3,10 +3,10 @@
 
   <Identity>
     <Civ>inca</Civ>
-    <SelectionGroupName>units/inca_chaski</SelectionGroupName>
+    <SelectionGroupName>units/inca/chaski</SelectionGroupName>
     <GenericName>inca runner</GenericName>
     <SpecificName>Chaski</SpecificName>
-    <Icon>units/inca_chaski.png</Icon>
+    <Icon>units/inca/chaski.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/incas/infantry_chaski.xml</Actor>

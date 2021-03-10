@@ -5,7 +5,7 @@
     <GenericName>Mexica Woman</GenericName>
     <SpecificName>Tzapotēcatl Gunaa</SpecificName>
     <SelectionGroupName>units/zapo_support_female_citizen</SelectionGroupName>
-    <Icon>units/mex_female_citizen.png</Icon>
+    <Icon>units/mex/female_citizen.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mexicas/female_citizen.xml</Actor>

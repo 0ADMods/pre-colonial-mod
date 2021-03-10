@@ -21,7 +21,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SpecificName>Wampu awqatinkuy</SpecificName>
-    <Icon>units/inca_ship_bireme.png</Icon>
+    <Icon>units/inca/ship_bireme.png</Icon>
   </Identity>
   <Health>
     <Max>650</Max>

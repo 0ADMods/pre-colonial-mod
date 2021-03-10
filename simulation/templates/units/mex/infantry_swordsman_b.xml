@@ -4,8 +4,8 @@
     <Civ>mex</Civ>
     <GenericName>Macuahuitl Macehualli</GenericName>
     <SpecificName>Macuahuitl Macehualli</SpecificName>
-    <SelectionGroupName>units/mex_infantry_swordsman_b</SelectionGroupName>
-    <Icon>units/mex_infantry_swordsman.png</Icon>
+    <SelectionGroupName>units/mex/infantry_swordsman_b</SelectionGroupName>
+    <Icon>units/mex/infantry_swordsman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>

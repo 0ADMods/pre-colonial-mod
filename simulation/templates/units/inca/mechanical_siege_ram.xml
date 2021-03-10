@@ -24,7 +24,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SpecificName>Battering Ram</SpecificName>
-    <Icon>units/inca_mechanical_siege_ram.png</Icon>
+    <Icon>units/inca/mechanical_siege_ram.png</Icon>
   </Identity>
   <Health>
     <Max>200</Max>

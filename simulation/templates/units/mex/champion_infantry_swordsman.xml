@@ -4,8 +4,8 @@
     <Civ>mex</Civ>
     <GenericName>Shaved Warrior</GenericName>
     <SpecificName>Cuachicqueh</SpecificName>
-    <SelectionGroupName>units/mex_champion_infantry_swordsman</SelectionGroupName>
-    <Icon>units/mex_champion_swordsman.png</Icon>
+    <SelectionGroupName>units/mex/champion_infantry_swordsman</SelectionGroupName>
+    <Icon>units/mex/champion_swordsman.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mexicas/infantry_swordsman_c.xml</Actor>
