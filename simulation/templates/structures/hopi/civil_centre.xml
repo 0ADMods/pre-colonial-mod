@@ -1,26 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_civil_centre">
   <Cost>
-    <PopulationBonus>50</PopulationBonus>
     <BuildTime>600</BuildTime>
     <Resources>
       <stone>900</stone>
       <metal>300</metal>
     </Resources>
   </Cost>
+  <Population>
+    <Bonus>50</Bonus>
+  </Population>
   <Identity>
     <Civ>hopi</Civ>
     <SpecificName>Altepenepantla</SpecificName>
   </Identity>
-  <Loot>
-    <water>4</water>
-  </Loot>
-  <ResourceTrickle>
-    <Interval>1000</Interval>
-    <Rates>
-      <water>1</water>
-    </Rates>
- </ResourceTrickle>
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
