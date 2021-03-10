@@ -7,10 +7,10 @@
   </Builder>
   <Identity>
     <Civ>inca</Civ>
-    <SelectionGroupName>units/inca_infantry_maceman_b</SelectionGroupName>
+    <SelectionGroupName>units/inca/infantry_maceman_b</SelectionGroupName>
     <GenericName>Inca maceman</GenericName>
     <SpecificName>Auca Runa macana</SpecificName>
-    <Icon>units/inca_maceman.png</Icon>
+    <Icon>units/inca/maceman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>

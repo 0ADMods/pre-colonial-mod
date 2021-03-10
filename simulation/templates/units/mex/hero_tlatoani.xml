@@ -17,8 +17,8 @@
     <GenericName>Great Speaker</GenericName>
     <SpecificName>Huey Tlatoani</SpecificName>
     <Tooltip>Support Unit cant make building build faster. Heal units</Tooltip>
-    <SelectionGroupName>units/mex_champion_healer</SelectionGroupName>
-    <Icon>units/mex_hero_tlatoani.png</Icon>
+    <SelectionGroupName>units/mex/champion_healer</SelectionGroupName>
+    <Icon>units/mex/hero_tlatoani.png</Icon>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>

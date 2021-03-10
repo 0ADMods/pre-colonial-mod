@@ -5,7 +5,7 @@
     <GenericName>Toltec Archer</GenericName>
     <SpecificName>Toltecatl ch’ab</SpecificName>
     <SelectionGroupName>units/zapo_infantry_archer_b</SelectionGroupName>
-    <Icon>units/mex_infantry_archer.png</Icon>
+    <Icon>units/mex/infantry_archer.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/mex/infantry_archer_a</Entity>

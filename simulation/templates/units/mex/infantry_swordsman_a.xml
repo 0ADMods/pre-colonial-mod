@@ -3,7 +3,7 @@
   <Identity>
     <SpecificName>Ocēlōpilli</SpecificName>
     <GenericName>Jaguar Warrior</GenericName>
-    <Icon>units/mex_infantry_swordsman_a.png</Icon>
+    <Icon>units/mex/infantry_swordsman_a.png</Icon>
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>

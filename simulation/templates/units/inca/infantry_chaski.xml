@@ -2,10 +2,10 @@
 <Entity parent="template_unit_infantry_ranged_slinger">
   <Identity>
     <Civ>inca</Civ>
-    <SelectionGroupName>units/inca_chaski</SelectionGroupName>
+    <SelectionGroupName>units/inca/chaski</SelectionGroupName>
     <GenericName>inca runner</GenericName>
     <SpecificName>Chaski</SpecificName>
-    <Icon>units/inca_chaski.png</Icon>
+    <Icon>units/inca/chaski.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>

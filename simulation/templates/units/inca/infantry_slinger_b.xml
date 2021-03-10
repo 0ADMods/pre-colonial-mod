@@ -8,10 +8,10 @@
   <Identity>
     <Civ>inca</Civ>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <SelectionGroupName>units/inca_infantry_slinger_b</SelectionGroupName>
+    <SelectionGroupName>units/inca/infantry_slinger_b</SelectionGroupName>
     <GenericName>Inca Slinger</GenericName>
     <SpecificName>Auca Runa apay Huaraca</SpecificName>
-    <Icon>units/inca_slinger.png</Icon>
+    <Icon>units/inca/slinger.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/inca/infantry_slinger_a</Entity>
