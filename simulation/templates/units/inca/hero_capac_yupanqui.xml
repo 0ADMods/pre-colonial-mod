@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_infantry_spearman_hoplite">
   <Auras datatype="tokens">
+      units/heroes/inca_hero_capac_yupanqui
   </Auras>
   <Identity>
     <Civ>inca</Civ>
     <GenericName>Pachacutec</GenericName>
     <SpecificName>Pachacutec</SpecificName>
-    <Icon>units/athen_hero_pericles.png</Icon>
+    <Icon>units/inca_hero_3.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/incas/infantry_hero_capac_yupanqui.xml</Actor>

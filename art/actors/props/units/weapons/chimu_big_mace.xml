@@ -11,10 +11,10 @@
   </group>
   <group>
     <variant frequency="1" name="axe1">
-      <mesh>props/units/weapons/big_mace_1.dae</mesh>
+      <mesh>props/weapon/big_mace_1.dae</mesh>
     </variant>
         <variant frequency="1" name="axe2">
-      <mesh>props/units/weapons/big_mace_2.dae</mesh>
+      <mesh>props/weapon/big_mace_2.dae</mesh>
     </variant>
   </group>
   <material>player_trans_spec.xml</material>

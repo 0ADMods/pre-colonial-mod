@@ -1,0 +1,24 @@
+{
+	"genericName": "Tocapu",
+	"cost": {
+		"metal": 500
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" },
+			{ "civ": "inca" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "upgrade_elite.png",
+        "researchTime": 50,
+	"tooltip": "Elite units +20% health; +2 resistance.",
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.20},
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 2},
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 2},
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 2}
+
+	],
+	"affects": ["Elite Unit"]
+}

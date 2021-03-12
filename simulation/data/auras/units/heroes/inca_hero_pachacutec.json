@@ -1,0 +1,14 @@
+{
+	"type": "range",
+	"radius": 25,
+	"affects": ["Soldier"],
+	"modifications": [
+		{ "value": "Attack/Capture/Capture", "add": 1 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.25 }
+	],
+	"auraName": "Warriors of Tawantinsuyu",
+	"auraDescription": "All soldier +1 capture attack strength, +25% melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

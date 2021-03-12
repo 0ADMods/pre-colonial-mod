@@ -3,11 +3,12 @@
    <Builder>
     <Entities datatype="tokens">
       structures/inca/military_colony
+      structures/inca/kancha
     </Entities>
   </Builder>
   <Identity>
     <Civ>inca</Civ>
-    <SelectionGroupName>units/inca_infantry_spearman_b</SelectionGroupName>
+    <SelectionGroupName>units/inca/infantry_spearman_b</SelectionGroupName>
     <GenericName>Inca spearman</GenericName>
     <SpecificName>Auca Runa paga Suchuc Chuqui</SpecificName>
     <Icon>units/inca_spearman.png</Icon>

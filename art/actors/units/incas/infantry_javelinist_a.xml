@@ -9,6 +9,7 @@
         <prop actor="props/units/weapons/jav_ammo.xml" attachpoint="weapon_L"/>
         <prop actor="props/units/weapons/jav.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/jav.xml" attachpoint="projectile"/>
+        <prop actor="props/units/helmets/inca_b.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>

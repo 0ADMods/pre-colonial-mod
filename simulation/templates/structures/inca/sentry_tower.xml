@@ -4,9 +4,6 @@
     <Civ>inca</Civ>
     <SpecificName>Pucara jark'akuy</SpecificName>
   </Identity>
-  <ProductionQueue>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
-  </ProductionQueue>
   <VisualActor>
     <Actor>structures/incas/inca_wooden_tower.xml</Actor>
   </VisualActor>

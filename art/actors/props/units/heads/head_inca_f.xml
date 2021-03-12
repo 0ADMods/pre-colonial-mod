@@ -16,7 +16,7 @@
         <texture file="props/head/inca_fem_b_spec.png" name="specTex"/>
       </textures>
     </variant>
-		    <variant frequency="1" name="texturec">
+    <variant frequency="1" name="texturec">
       <mesh>props/new/head_female_c.dae</mesh>
       <textures>
         <texture file="props/head/inca_fem_b.png" name="baseTex"/>

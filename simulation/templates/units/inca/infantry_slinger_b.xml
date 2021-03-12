@@ -3,15 +3,15 @@
    <Builder>
     <Entities datatype="tokens">
       structures/inca/military_colony
+      structures/inca/kancha
     </Entities>
   </Builder>
   <Identity>
     <Civ>inca</Civ>
-    <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <SelectionGroupName>units/inca/infantry_slinger_b</SelectionGroupName>
     <GenericName>Inca Slinger</GenericName>
     <SpecificName>Auca Runa apay Huaraca</SpecificName>
-    <Icon>units/inca/slinger.png</Icon>
+    <Icon>units/inca_slinger.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/inca/infantry_slinger_a</Entity>

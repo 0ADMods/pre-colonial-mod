@@ -3,12 +3,20 @@
     <Attack>
     <Ranged>
       <Damage>
-	  <Hack>10.0</Hack>
-        <Pierce>0.0</Pierce>
-        <Crush>10.0</Crush>
+	  <Hack>0.0</Hack>
+        <Pierce>25.0</Pierce>
+        <Crush>0.0</Crush>
       </Damage>
     </Ranged>
   </Attack>
+    <Cost>
+    <Population>2</Population>
+    <BuildTime>10</BuildTime>
+    <Resources>
+      <wood>110</wood>
+      <metal>50</metal>
+    </Resources>
+  </Cost>
   <GarrisonHolder>
     <Max>22</Max>
     <EjectHealth>0</EjectHealth>
@@ -21,7 +29,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SpecificName>Wampu awqatinkuy</SpecificName>
-    <Icon>units/inca/ship_bireme.png</Icon>
+    <Icon>units/inca_ship_bireme.png</Icon>
   </Identity>
   <Health>
     <Max>650</Max>

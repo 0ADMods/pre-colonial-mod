@@ -8,7 +8,7 @@
     <Civ>inca</Civ>
     <GenericName>Trading Ship</GenericName>
     <SpecificName>Wampu qhatuxkuna</SpecificName>
-    <Icon>units/inca/ship_merchant.png</Icon>
+    <Icon>units/inca_ship_merchant.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/incas/merchant_ship.xml</Actor>

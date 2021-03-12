@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 40,
+	"affects": ["Worker"],
+	"modifications": [
+		{ "value": "Builder/Rate", "multiply": 1.2 }
+	],
+	"auraName": "Prayer of the Priestesses of the Sun",
+	"auraDescription": "Builders construct buildings +20% faster for every nearby Acclas.",
+	"overlayIcon": "art/textures/ui/session/auras/build_bonus.png",
+	"stackable": true
+}

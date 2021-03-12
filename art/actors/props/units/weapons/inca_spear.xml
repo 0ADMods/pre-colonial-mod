@@ -11,10 +11,10 @@
   </group>
   <group>
     <variant frequency="1" name="axe1">
-      <mesh>props/units/weapons/inca_spear_1.dae</mesh>
+      <mesh>props/weapon/inca_spear_1.dae</mesh>
     </variant>
         <variant frequency="1" name="axe2">
-      <mesh>props/units/weapons/inca_spear_2.dae</mesh>
+      <mesh>props/weapon/inca_spear_2.dae</mesh>
     </variant>
   </group>
   <material>basic_trans_spec.xml</material>

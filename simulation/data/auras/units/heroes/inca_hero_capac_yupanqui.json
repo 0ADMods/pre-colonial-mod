@@ -1,0 +1,10 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Human", "Siege", "Ship"],
+	"modifications": [
+		{ "value": "Looter/Resource/metal", "add": 20 }
+	],
+	"auraName": "Hurin dynasty",
+	"auraDescription": "Humans, Siege Engines, and Ships gain +20 metal loot."
+}

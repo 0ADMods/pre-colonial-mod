@@ -3,13 +3,14 @@
    <Builder>
     <Entities datatype="tokens">
       structures/inca/military_colony
+      structures/inca/kancha
     </Entities>
   </Builder>
   <Identity>
     <Civ>inca</Civ>
     <SpecificName>Warmi</SpecificName>
     <GenericName>Inca Woman</GenericName>
-    <Icon>units/hele_support_female_citizen.png</Icon>
+    <Icon>units/inca_female.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/incas/female_citizen.xml</Actor>

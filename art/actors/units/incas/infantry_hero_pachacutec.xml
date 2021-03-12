@@ -7,6 +7,7 @@
       <props>
         <prop actor="props/units/heads/head_inca_hero.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/inca_axe_gold.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/inca_shield_back.xml" attachpoint="back"/>
         <prop actor="props/units/helmets/inca_h_1.xml" attachpoint="helmet"/>
         <prop actor="props/units/shields/inca_shield_r.xml" attachpoint="shield"/>
       </props>

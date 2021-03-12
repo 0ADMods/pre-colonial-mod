@@ -3,6 +3,7 @@
    <Builder>
     <Entities datatype="tokens">
       structures/inca/military_colony
+      structures/inca/kancha
     </Entities>
   </Builder>
   <Identity>
@@ -10,7 +11,7 @@
     <SelectionGroupName>units/inca/infantry_pikeman_b</SelectionGroupName>
     <GenericName>Inca pikeman</GenericName>
     <SpecificName>Auca Runa paga Turpuna</SpecificName>
-    <Icon>units/inca/pikeman.png</Icon>
+    <Icon>units/inca_pikeman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/inca/infantry_pikeman_a</Entity>

@@ -3,7 +3,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SpecificName>Wampu chawaq</SpecificName>
-    <Icon>units/inca/ship_fishing.png</Icon>
+    <Icon>units/inca_ship_fishing.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/incas/fishing_boat.xml</Actor>

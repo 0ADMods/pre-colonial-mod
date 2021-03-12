@@ -3,6 +3,7 @@
    <Builder>
     <Entities datatype="tokens">
       structures/inca/military_colony
+      structures/inca/kancha
     </Entities>
   </Builder>
   <Identity>
@@ -10,7 +11,7 @@
     <SelectionGroupName>units/inca/infantry_axeman_b</SelectionGroupName>
     <GenericName>Inca axeman</GenericName>
     <SpecificName>Auca Runa apay Chictana</SpecificName>
-    <Icon>units/inca/axeman.png</Icon>
+    <Icon>units/inca_axeman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/inca/infantry_axeman_a</Entity>

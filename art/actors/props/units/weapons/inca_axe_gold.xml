@@ -11,7 +11,7 @@
   </group>
   <group>
     <variant frequency="1" name="axe1">
-      <mesh>props/units/weapons/inca_axe_gold.dae</mesh>
+      <mesh>props/weapon/inca_axe_gold.dae</mesh>
     </variant>
   </group>
   <material>basic_trans_spec.xml</material>

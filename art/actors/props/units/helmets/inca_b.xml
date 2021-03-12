@@ -3,7 +3,23 @@
   <castshadow/>
   <group>
       <variant frequency="100" name="helmetc">
-      <mesh>props/units/helmet/inca_t_1.dae</mesh>
+      <mesh>props/helmet/inca_t_1.dae</mesh>
+      <textures>
+        <texture file="structural/inca_struct.png" name="baseTex"/>
+        <texture file="structural/inca_struct_spec.png" name="specTex"/>
+        <texture file="structural/inca_struct_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+          <variant frequency="100" name="helmetA">
+      <mesh>props/helmet/inca_t_2.dae</mesh>
+      <textures>
+        <texture file="structural/inca_struct.png" name="baseTex"/>
+        <texture file="structural/inca_struct_spec.png" name="specTex"/>
+        <texture file="structural/inca_struct_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+          <variant frequency="100" name="helmetB">
+      <mesh>props/helmet/inca_t_3.dae</mesh>
       <textures>
         <texture file="structural/inca_struct.png" name="baseTex"/>
         <texture file="structural/inca_struct_spec.png" name="specTex"/>

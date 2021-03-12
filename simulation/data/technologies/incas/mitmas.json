@@ -1,0 +1,22 @@
+{
+	"genericName": "Mitmas",
+	"description": "Mitma was a policy of forced resettlement employed by the Incas. It involved the forceful migration of groups of extended families or ethnic groups from their home territory to lands recently conquered by the Incas.",
+	"cost": {
+		"food": 500,
+		"metal": 300
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "parade_of_daphne.png",
+	"researchTime": 60,
+	"tooltip": "Structures -20% training time.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.8 }
+	],
+	"affects": ["Structures"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

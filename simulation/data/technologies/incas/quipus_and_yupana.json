@@ -1,0 +1,22 @@
+{
+	"genericName": "Quipus and Yupana",
+	"cost": {
+		"metal": 300
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "inca" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "pers_hundred_columns.png",
+	"researchTime": 50,
+	"tooltip": "Civic Structures -20% build time, and +20% capture points.",
+	"modifications": [
+		{ "value": "Capturable/CapturePoints", "multiply": 1.2},
+		{ "value": "Cost/BuildTime", "multiply": 0.8 }
+	],
+	"affects": ["Civic"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

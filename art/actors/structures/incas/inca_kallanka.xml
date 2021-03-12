@@ -8,6 +8,8 @@
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
+        <prop actor="props/structures/inca_st.xml" attachpoint="st_1"/>
+        <prop actor="props/structures/inca_st.xml" attachpoint="st_2"/>        
       </props>
       <textures>
         <texture file="structural/inca_struct.png" name="baseTex"/>

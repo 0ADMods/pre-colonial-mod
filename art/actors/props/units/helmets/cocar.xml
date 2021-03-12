@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
       <variant frequency="100" name="helmetc">
-      <mesh>props/units/helmet/cocar_1.dae</mesh>
+      <mesh>props/helmet/cocar_1.dae</mesh>
       <textures>
         <texture file="structural/inca_struct.png" name="baseTex"/>
         <texture file="structural/inca_struct_spec.png" name="specTex"/>

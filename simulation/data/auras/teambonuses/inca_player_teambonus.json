@@ -1,15 +1,11 @@
 {
 	"type": "global",
-	"affects": ["Trader !Ship"],
+	"affects": ["Citizen Infantry"],
 	"affectedPlayers": ["ExclusiveMutualAlly"],
+	"civ": "inca",
 	"modifications": [
-		{ "value": "Trader/GainMultiplier", "multiply": 1.15 },
-		{ "value": "ResourceTrickle/Rates/food", "add": 1 },
-		{ "value": "ResourceTrickle/Rates/wood", "add": 1 },
-		{ "value": "ResourceTrickle/Rates/stone", "add": 0.75 },
-		{ "value": "ResourceTrickle/Rates/metal", "add": 0.75 },
-		{ "value": "ResourceTrickle/Rates/water", "add": 0.55 }
+		{ "value": "Cost/Resources/metal", "multiply": 0.7 }
 	],
-	"auraName": "Taxes and Tambos",
-	"auraDescription": "Allied Land Traders +15% trade gain. Trickle of all resources"
+	"auraName": "Andes mines",
+	"auraDescription": "Allied Citizen Infantry -30% metal."
 }

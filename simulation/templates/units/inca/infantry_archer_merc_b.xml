@@ -9,10 +9,10 @@
   <Identity>
     <Civ>inca</Civ>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <SelectionGroupName>units/sele_infantry_archer_merc_b</SelectionGroupName>
+    <SelectionGroupName>units/inca_infantry_archer_merc_b</SelectionGroupName>
     <GenericName>Machiguenga Archer</GenericName>
     <SpecificName>Wisa Machiguenga</SpecificName>
-    <Icon>units/inca/merc_2.png</Icon>
+    <Icon>units/inca_merc_2.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>

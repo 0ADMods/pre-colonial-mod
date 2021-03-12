@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>    
+  <group>
+    <variant frequency="1" name="1">
+      <mesh>props/shield/inca_shield_back.dae</mesh>
+    </variant>
+  </group>
+   <group>
+    <variant frequency="1" name="1">
+      <textures>
+        <texture file="props/shield/inca_shield_c_1.png" name="baseTex"/>
+      </textures>
+    </variant>
+	<variant frequency="1" name="2">
+      <textures>
+	    <texture file="props/shield/inca_shield_c_2.png" name="baseTex"/>
+      </textures>
+    </variant>
+    	<variant frequency="1" name="3">
+      <textures>
+	    <texture file="props/shield/inca_shield_c_3.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

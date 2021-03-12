@@ -1,27 +1,15 @@
 ﻿{
 	"Code": "inca",
 	"Culture": "inca",
-	"Name": "Tawantinsuyu (Incas)",
+	"Name": "Tawantinsuyu(Incas)",
 	"Emblem": "session/portraits/emblems/emblem_inca.png",
-	"History": "The Tawantinsuyu(lit The Four Regions),was the largest empire in pre-columbian America.The Inca civilization arose from the Peruvian hightlands sometime in the early 13th century. Its las stronghold was conquered by the Spanish in 1572. From 1438 to 1533, the Incas incorporated a large portion of western South America, centered on the Andean Mountains, using conquest and peaceful assimilation, among other methods.At its largest, the empire joined Peru, western Ecuador, western and south central Bolivia, northwest Argentina, a large portion of what is today Chile, and the southwestern most tip of Colombia into a state comparable to historical empires of Eurasia.",
-	"Music": [
-		{
-			"File": "Harvest_Festival.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Forging_a_City-State.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Highland_Mist.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "The_Hellespont.ogg",
-			"Type": "peace"
-		}
-	],
+	"History": "The Inca Empire (Quechua: Tawantinsuyu, lit. four parts together), also known as the Incan Empire and the Inka Empire, was the largest empire in pre-Columbian America. The administrative, political and military center of the empire was in the city of Cusco. The Inca civilization arose from the Peruvian highlands sometime in the early 13th century. Its last stronghold was conquered by the Spanish in 1572.",
+	"Music":[
+			{"File":"Harvest_Festival.ogg", "Type":"peace"},
+			{"File":"Forging_a_City-State.ogg", "Type":"peace"},
+			{"File":"Highland_Mist.ogg", "Type":"peace"},
+			{"File":"The_Hellespont.ogg", "Type":"peace"}
+		],
 	"Factions":
 	[
 		{
@@ -46,14 +34,14 @@
 				},
 				{
 					"Name": "Sapa Inca Pachacutec",
-					"Class": "Infantry Swordsman",
+					"Class": "Infantry Axeman",
 					"Armament": "",
 					"Emblem": "",
 					"History": "(Quechua: Pachakutiq Inka Yupanki) was the ninth Sapa Inca (1418–1471/1472) of the Kingdom of Cusco which he transformed into the Inca Empire (Quechua: Tawantinsuyu). Most archaeologists now believe that the famous Inca site of Machu Picchu was built as an estate for Pachacuti." 
 				},
 				{
 					"Name": "Sapa Inca Sinchi Roca",
-					"Class": "Infantry Swordsman",
+					"Class": "Infantry Axeman",
 					"Armament": "",
 					"Emblem": "",
 					"History": "Sinchi Ruq'a Inka (Quechua for valorous generous Inca) was the second Sapa Inca of the Kingdom of Cusco (beginning around 1230 CE, though as early as 1105 CE according to some) and a member of the Hurin dynasty (first dynasty)."					
@@ -64,26 +52,24 @@
 	"CivBonuses":
 	[
 		{
-			"Name": "Tambos",
-			"History": ".",
-			"Description": "The Incas had a good administration which gives you a trickle of resources."
+			
 		}
 	],
 	"TeamBonuses":
 	[
 		{
-			"Name": "Taxes and Tambos",
+			"Name": "Andes mines",
 			"History": "",
-			"Description": "The Incas had a good administration which gives you a trickle of resources for you and your ally's"
+			"Description": "Allied Citizen Infantry -30% metal."
 		}
 	],
 	"Structures":
 	[
 		{
-			"Name": "Apartments",
+			"Name": "",
 			"Class": "",
 			"Emblem": "",
-			"History": "big Apartments.",
+			"History": ".",
 			"Requirements": "",
 			"Phase": "",
 			"Special": ""
@@ -91,16 +77,13 @@
 	],
 	"WallSets":
 	[
-		"structures/wallset_palisade",
-        	"structures/inca/wallset_stone"
+		"other/wallset_palisade",
+        "structures/inca/wallset_stone"
 	],
 	"StartEntities":
 	[
 		{
 			"Template": "structures/inca/civil_centre"
-		},
-		{
-			"Template": "structures/inca/water_well"
 		},
 		{
 			"Template": "units/inca/support_female_citizen",

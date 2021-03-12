@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_spearman_hoplite">
+<Entity parent="template_unit_hero_infantry_axeman">
   <Auras datatype="tokens">
+      units/heroes/inca_hero_pachacutec
   </Auras>
   <Identity>
     <Civ>inca</Civ>

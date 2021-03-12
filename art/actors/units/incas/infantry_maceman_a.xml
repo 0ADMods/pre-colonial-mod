@@ -8,6 +8,7 @@
         <prop actor="props/units/heads/head_inca_basic.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/inca_mace.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/inca_shield_r.xml" attachpoint="shield"/>
+        <prop actor="props/units/helmets/inca_b.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>

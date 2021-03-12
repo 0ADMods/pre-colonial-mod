@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_healer">
+ <Auras datatype="tokens">
+      units/incas_acclas_building
+      units/incas_acclas_gathering
+  </Auras>
+   <Cost>
+    <Resources>
+      <wood>200</wood>
+      <metal>100</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>inca</Civ>
+    <GenericName>Priestess of the Sun</GenericName>
+    <SpecificName>Acclas</SpecificName>
+    <VisibleClasses datatype="tokens">Acclas</VisibleClasses>
+    <Icon>units/inca_acclas.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <TrainingRestrictions>
+    <Category>Acclas</Category>
+  </TrainingRestrictions>
+  <VisualActor>
+    <Actor>units/incas/female_healer.xml</Actor>
+  </VisualActor>
+</Entity>

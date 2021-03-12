@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+      <textures>
+        <texture file="structural/inca_struct.png" name="baseTex"/>
+        <texture file="structural/inca_struct_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="axe1">
+      <mesh>props/weapon/inca_cajado.dae</mesh>
+    </variant>
+  </group>
+  <material>player_trans_spec.xml</material>
+</actor>

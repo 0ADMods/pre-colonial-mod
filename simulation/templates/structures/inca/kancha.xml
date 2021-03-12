@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_house_big">
+  <Footprint>
+    <Square width="18.0" depth="18.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>inca</Civ>
+    <SpecificName>Kancha</SpecificName>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <Obstruction>
+    <Static width="18.0" depth="18.0"/>
+  </Obstruction>
+   <Population>
+    <Bonus op="add">2</Bonus>
+  </Population>
+    <ProductionQueue>
+    <Entities datatype="tokens">
+      -units/{civ}/support_female_citizen_house
+      units/{civ}/support_female_citizen
+      units/{civ}/infantry_slinger_b
+      units/{civ}/infantry_macerman_b
+    </Entities>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/incas/inca_house_comunal.xml</Actor>
+  </VisualActor>
+</Entity>

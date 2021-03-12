@@ -4,8 +4,6 @@
     <Civ>inca</Civ>
     <SpecificName>Antosolicon</SpecificName>
   </Identity>
-  <ProductionQueue disable=""/>
-  <RallyPoint disable=""/>
   <VisualActor>
     <Actor>structures/celts/outpost.xml</Actor>
   </VisualActor>

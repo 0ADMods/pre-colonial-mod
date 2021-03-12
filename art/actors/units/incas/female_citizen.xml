@@ -2,17 +2,30 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant>
+    <variant frequency="1" name="h_1">
       <props>
         <prop actor="props/units/heads/head_inca_f.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/inca_b.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="h_2">
+      <props>
+        <prop actor="props/units/heads/head_inca_f.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/inca_f.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Skirt-Long">
+    <variant frequency="1" name="Skirt-Long_a">
       <mesh>skeletal/new/f_dress.dae</mesh>
       <textures>
         <texture file="skeletal/inca_f_1.png" name="baseTex"/>
+      </textures>
+    </variant>
+        <variant frequency="1" name="Skirt-Long_b">
+      <mesh>skeletal/new/f_dress.dae</mesh>
+      <textures>
+        <texture file="skeletal/inca_f_2.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

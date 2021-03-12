@@ -7,7 +7,7 @@
     </Resources>
   </Cost>
   <Footprint>
-    <Square width="24.5" depth="24.5"/>
+    <Square width="29.5" depth="29.5"/>
     <Height>8.0</Height>
   </Footprint>
   <Health>
@@ -22,8 +22,13 @@
     <stone>0</stone>
   </Loot>
   <Obstruction>
-    <Static width="22.5" depth="22.5"/>
+    <Static width="24.5" depth="24.5"/>
   </Obstruction>
+    <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}/support_acclas
+    </Entities>
+  </ProductionQueue>
   <VisualActor>
     <Actor>structures/incas/inca_ushnu.xml</Actor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>
