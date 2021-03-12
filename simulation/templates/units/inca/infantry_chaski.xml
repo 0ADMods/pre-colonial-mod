@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_ranged_slinger_chaski">
-
+<Entity parent="template_unit_infantry_ranged_slinger">
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/inca/chaski</SelectionGroupName>
@@ -8,6 +7,7 @@
     <SpecificName>Chaski</SpecificName>
     <Icon>units/inca/chaski.png</Icon>
   </Identity>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/incas/infantry_chaski.xml</Actor>
   </VisualActor>

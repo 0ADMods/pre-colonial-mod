@@ -14,10 +14,6 @@
   <Obstruction>
     <Static width="10.0" depth="14.0"/>
   </Obstruction>
-  <ProductionQueue>
-    <Technologies datatype="tokens">
-    </Technologies>
-  </ProductionQueue>
   <VisualActor>
     <Actor>structures/mexicas/corral.xml</Actor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>

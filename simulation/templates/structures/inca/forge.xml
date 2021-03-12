@@ -9,9 +9,6 @@
   </Identity>
   <ProductionQueue>
     <BatchTimeModifier>0.8</BatchTimeModifier>
-    <Technologies datatype="tokens">
-
-    </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/incas/inca_blacksmith.xml</Actor>
