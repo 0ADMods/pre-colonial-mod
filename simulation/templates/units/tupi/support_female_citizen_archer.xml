@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_archer">
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+      structures/tupi/cisterna
+       structures/tupi/aterrado
+    </Entities>
+  </Builder>
+  </Builder>
+    <Cost>
+    <Resources>
+      <food>50</food>
+      <wood>25</wood>
+     <stone>25</stone>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>tupi</Civ>
+    <Classes datatype="tokens">Organic Human</Classes>
+    <VisibleClasses datatype="tokens">Femalearcher</VisibleClasses>
+    <Phenotype>female</Phenotype>
+    <GenericName>Woman Archer</GenericName>
+    <SpecificName>Icamiabas</SpecificName>
+    <Icon>units/ptol_support_female_citizen.png</Icon>
+    <VisibleClasses datatype="tokens">FemaleArcher</VisibleClasses>
+    <SelectionGroupName>units/tupi/support_female_citizen</SelectionGroupName>
+  </Identity>
+  <Promotion disable=""/>
+    <TrainingRestrictions>
+    <Category>Femalearcher</Category>
+  </TrainingRestrictions>
+  <VisualActor>
+    <Actor>units/tupis/infantry_archer_f.xml</Actor>
+  </VisualActor>
+</Entity>

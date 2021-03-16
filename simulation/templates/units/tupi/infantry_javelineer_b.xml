@@ -8,16 +8,15 @@
     </Entities>
   </Builder>
   <Identity>
-    <Civ>mex</Civ>
-    <GenericName>Mexica Hunter</GenericName>
-    <SpecificName>Mexicatl Atlatl</SpecificName>
-    <SelectionGroupName>units/zapo_infantry_javelinist_b</SelectionGroupName>
-    <Icon>units/mex/infantry_javelinist.png</Icon>
+    <Civ>tupi</Civ>
+    <SelectionGroupName>units/tupi_infantry_javelineer_b</SelectionGroupName>
+    <GenericName>Javalinist warrior</GenericName>
+    <Icon>units/zapo_infantry_javelinist.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/mex/infantry_javelineer_a</Entity>
+    <Entity>units/tupi/infantry_javelineer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/mexicas/infantry_javelinist_b.xml</Actor>
+    <Actor>units/tupis/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

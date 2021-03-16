@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_archer">
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+      structures/tupi/cisterna
+       structures/tupi/aterrado
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>tupi</Civ>
+    <SelectionGroupName>units/tupi/infantry_archer_b</SelectionGroupName>
+    <SpecificName>Uybassy</SpecificName>
+    <Icon>units/tupi/infantry_archer.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/tupi/infantry_archer_a</Entity>
+    <RequiredXp>120</RequiredXp>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/tupis/infantry_archer_b.xml</Actor>
+  </VisualActor>
+</Entity>

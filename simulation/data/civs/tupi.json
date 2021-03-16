@@ -1,0 +1,122 @@
+{
+	"Code": "tupi",
+	"Culture": "Tupi",
+	"Name": "Tupi (Amazonian)",
+	"Emblem": "session/portraits/emblems/tupi.png",
+	"History": " ",
+	"Music":[
+		],
+	"Factions":
+	[
+		{
+			"Name": "tupi",
+			"Description": "",
+			"Technologies":
+			[
+				{
+					"Name": "",
+					"History": "",
+					"Description": ""
+				},
+				{
+					"Name": "",
+					"History": "",
+					"Description": ""
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "",
+					"Class": "",
+					"Armament": "",
+					"Emblem": "",
+					"History": ""
+				}
+			]
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name": "",
+			"History": "",
+			"Description": ""
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name": "",
+			"History": "",
+			"Description": ""
+		}
+	],
+	"Structures":
+	[
+		{
+			"Name": "",
+			"Class": "",
+			"Emblem": "",
+			"History": ".",
+			"Requirements": "",
+			"Phase": "",
+			"Special": ""
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/tupi/civil_centre"
+		},
+		{
+			"Template": "units/tupi/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/tupi/infantry_maceman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/tupi/infantry_spearman_b",
+			"Count": 2
+		},
+{
+			"Template": "units/tupi/infantry_archer_b",
+			"Count": 2 
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+	   "Cunhambebe",
+           "Aimberê",
+           "Cunhambebe II"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/structures/default_wall_tower": "",
+		"skirmish/structures/default_wall_gate": "",
+		"skirmish/structures/default_wall_short": "",
+		"skirmish/structures/default_wall_medium": "",
+		"skirmish/structures/default_wall_long": "",
+		"skirmish/structures/default_house_5": "structures/{civ}/house",
+		"skirmish/units/default_cavalry": "units/tupi/infantry_spearman_b",
+		"skirmish/units/default_infantry_melee_b": "units/tupi/infantry_maceman_b",
+		"skirmish/units/default_infantry_ranged_b": "units/tupi/infantry_archer_b"
+	},
+	"SelectableInGameSetup": true
+}

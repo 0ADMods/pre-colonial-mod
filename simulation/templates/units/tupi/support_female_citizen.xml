@@ -8,13 +8,13 @@
     </Entities>
   </Builder>
   <Identity>
-    <Civ>mex</Civ>
-    <GenericName>Mexica Woman</GenericName>
-    <SpecificName>Tzapotēcatl Gunaa</SpecificName>
-    <SelectionGroupName>units/zapo_support_female_citizen</SelectionGroupName>
-    <Icon>units/mex/female_citizen.png</Icon>
+    <Civ>tupi</Civ>
+    <SpecificName>ixik</SpecificName>
+    <GenericName>tupi Woman</GenericName>
+    <Icon>units/ptol_support_female_citizen.png</Icon>
+    <SelectionGroupName>units/tupi/support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/mexicas/female_citizen.xml</Actor>
+    <Actor>units/tupis/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>
