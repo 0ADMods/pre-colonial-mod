@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_civil_centre">
   <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_6x5</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>tupi</Civ>
-    <SpecificName>Qhapax wasi</SpecificName>
+    <SpecificName>Murubixara oca</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="25.0" depth="25.0"/>
+    <Static width="28.0" depth="25.0"/>
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/infantry_javelinist_b
       units/{civ}/infantry_maceman_b
       units/{civ}/infantry_archer_b
-      units/{civ}/infantry_blowgunner
+      units/{civ}/infantry_blowgunner_b
      units/{civ}/support_female_citizen_archer
     </Entities>
   </ProductionQueue>

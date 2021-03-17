@@ -4,9 +4,8 @@
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
       structures/tupi/cisterna
-       structures/tupi/aterrado
+      structures/tupi/aterrado
     </Entities>
-  </Builder>
   </Builder>
     <Cost>
     <Resources>
