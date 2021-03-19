@@ -20,12 +20,17 @@
     <Static width="17.0" depth="17.0"/>
   </Obstruction>
   <ProductionQueue>
-    <Technologies datatype="tokens">
-    </Technologies>
+    <Entities datatype="tokens">
+      -gaia/fauna_goat_trainable
+      -gaia/fauna_sheep_trainable
+      -gaia/fauna_pig_trainable
+      -gaia/fauna_cattle_cow_trainable
+    </Entities>
   </ProductionQueue>
   <ResourceTrickle>
     <Rates>
-      <food>15.0</food>
+      <food>5.0</food>
+     <water>5.0</water>   
     </Rates>
     <Interval>10000</Interval>
   </ResourceTrickle>

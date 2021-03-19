@@ -16,6 +16,11 @@
   <Obstruction>
     <Static width="27.0" depth="15.0"/>
   </Obstruction>
+    <ProductionQueue>
+    <Entities datatype="tokens">
+      gaia/fauna_turkey_trainable
+    </Entities>
+  </ProductionQueue>
   <VisualActor>
     <Actor>structures/tupis/house.xml</Actor>
   </VisualActor>

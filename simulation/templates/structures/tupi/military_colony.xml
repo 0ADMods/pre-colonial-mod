@@ -7,7 +7,7 @@
   <Identity>
     <Civ>tupi</Civ>
     <GenericName>Military Colony</GenericName>
-    <Classes datatype="tokens">Colony Defensive Fortress GarrisonFortress</Classes>
+    <Classes datatype="tokens">Colony Defensive GarrisonFortress</Classes>
     <SpecificName>Aldeia fortificada</SpecificName>
     <History>25.</History>
     <Tooltip>Aldeia fortificada.</Tooltip>

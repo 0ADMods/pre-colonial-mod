@@ -5,6 +5,6 @@
     <SpecificName></SpecificName>
   </Identity>
   <VisualActor>
-      <Actor>props/special/palisade_rocks_fort.xml</Actor>
+      <Actor>structures/tupis/wooden_tower.xml</Actor>
   </VisualActor>
 </Entity>
