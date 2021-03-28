@@ -1,7 +1,7 @@
 {
 	"code": "water",
 	"name": "Water",
-	"description": "Get for well, lakes, waterfalls",
+	"description": "Get from well, lakes, waterfalls",
 	"order": 4,
 	"subtypes": {
 		"well": "Well Water",
