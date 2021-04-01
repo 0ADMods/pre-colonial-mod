@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry_maceman">
-  <Cost>
-    <Resources>
-      <food>10</food>
-      <metal>50</metal>
-    </Resources>
-  </Cost>
+<Entity parent="template_unit_hero_infantry_spearman_hoplite">
+  <Auras datatype="tokens">
+      units/heroes/inca_hero_capac_yupanqui
+  </Auras>
   <Identity>
     <Civ>tupi</Civ>
     <SelectionGroupName>units/infantry_champion</SelectionGroupName>
-    <GenericName>Champion Warrior</GenericName>
-    <SpecificName>Nauru</SpecificName>
+    <GenericName>Warlord</GenericName>
+    <SpecificName>Morubixaba</SpecificName>
     <Icon>units/omag_axeman.png</Icon>
   </Identity>
   <VisualActor>

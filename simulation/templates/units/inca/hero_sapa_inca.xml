@@ -5,8 +5,7 @@
   </Auras>
   <Identity>
     <Civ>inca</Civ>
-    <GenericName>Pachacutec</GenericName>
-    <SpecificName>Pachacutec</SpecificName>
+    <GenericName>Sapa Inca</GenericName>
     <Icon>units/inca_hero_3.png</Icon>
   </Identity>
   <VisualActor>
