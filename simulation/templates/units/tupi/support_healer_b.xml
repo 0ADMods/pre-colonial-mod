@@ -4,7 +4,7 @@
     <Civ>omag</Civ>
     <SelectionGroupName>units/omag_support_healer_b</SelectionGroupName>
     <GenericName>Tupi Priest</GenericName>
-    <SpecificName>Paîé</SpecificName>
+    <SpecificName>Paje</SpecificName>
     <Icon>units/omag_healer.png</Icon> 
   </Identity> 
   <Promotion>

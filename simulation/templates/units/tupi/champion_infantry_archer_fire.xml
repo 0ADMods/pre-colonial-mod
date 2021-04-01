@@ -17,7 +17,6 @@
   <Identity>
     <Civ>tupi</Civ>
     <GenericName>Siege Fire Archer</GenericName>
-       <SpecificName>U`uba Tatá</SpecificName> 
     <Icon>units/maur_champion_maiden_archer.png</Icon>
   </Identity>
   <VisualActor>
