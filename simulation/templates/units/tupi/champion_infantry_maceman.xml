@@ -9,8 +9,8 @@
   <Identity>
     <Civ>tupi</Civ>
     <SelectionGroupName>units/infantry_champion</SelectionGroupName>
-    <GenericName>Warlord</GenericName>
-    <SpecificName>Morubixaba</SpecificName>
+    <GenericName>Champion Warrior</GenericName>
+    <SpecificName>Nauru</SpecificName>
     <Icon>units/omag_axeman.png</Icon>
   </Identity>
   <VisualActor>
