@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.92.0 commit date:2021-02-24, commit time:16:25, hash:02948a2cab44</authoring_tool>
     </contributor>
-    <created>2021-03-19T13:00:41</created>
-    <modified>2021-03-19T13:00:41</modified>
+    <created>2021-04-09T00:04:20</created>
+    <modified>2021-04-09T00:04:20</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -106,7 +106,7 @@
             </technique_common>
           </bind_material>
         </instance_geometry>
-        <node id="prop-garrisoned" name="prop-garrisoned" type="NODE">
+        <node id="prop-garrisoned_001" name="prop-garrisoned.001" type="NODE">
           <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
         </node>
       </node>

@@ -2,8 +2,11 @@
 <actor version="1">
   <castshadow/>    
   <group>
-    <variant frequency="1" name="1">
+    <variant frequency="20" name="1">
       <mesh>props/shield/inca_shield_r.dae</mesh>
+    </variant>
+    <variant frequency="80" name="2">
+      <mesh>props/shield/inca_shield_r_b.dae</mesh>
     </variant>
   </group>
    <group>

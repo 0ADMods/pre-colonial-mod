@@ -5,6 +5,12 @@
     <variant frequency="1" name="Head 1">
       <mesh>props/new/head_longhair.dae</mesh>
     </variant>
+    <variant frequency="1" name="Head 2">
+      <mesh>props/heads/head_inca_a.dae</mesh>
+    </variant>
+    <variant frequency="1" name="Head 3">
+      <mesh>props/heads/head_inca_b.dae</mesh>
+    </variant>
   </group>
   <group>
     <variant frequency="1" name="mayan Face a">

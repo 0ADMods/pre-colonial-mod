@@ -2,23 +2,28 @@
 <Entity parent="template_unit_fauna_wild_violent">
   <Attack>
     <Melee>
+      <AttackName>Paws</AttackName>
       <Damage>
-        <Hack>28.0</Hack>
-        <Pierce>18.0</Pierce>
-        <Crush>0.0</Crush>
+        <Hack>30</Hack>
+        <Pierce>0</Pierce>
+        <Crush>0</Crush>
       </Damage>
-      <MaxRange>4.0</MaxRange>
+      <MaxRange>3</MaxRange>
+      <PrepareTime>1000</PrepareTime>
       <RepeatTime>2000</RepeatTime>
     </Melee>
   </Attack>
   <Footprint>
-    <Square width="2.1" depth="4.2"/>
-    <Height>2.0</Height>
+    <Square width="2.0" depth="4.0"/>
+    <Height>2.5</Height>
   </Footprint>
+  <Health>
+    <Max>50</Max>
+  </Health>
   <Identity>
     <GenericName>Jaguar</GenericName>
     <SpecificName>Panthera onca</SpecificName>
-    <Icon>gaia/fauna_tiger.png</Icon>
+    <Icon>gaia/fauna_jaguar.png</Icon>
   </Identity>
   <Sound>
     <SoundGroups>
@@ -27,6 +32,9 @@
       <death>actor/fauna/animal/lion_death.xml</death>
     </SoundGroups>
   </Sound>
+  <StatusBars>
+    <HeightOffset>3.5</HeightOffset>
+  </StatusBars>
   <VisualActor>
     <Actor>fauna/jaguar.xml</Actor>
   </VisualActor>

@@ -11,7 +11,7 @@
     <Civ>tupi</Civ>
     <SelectionGroupName>units/tupi_infantry_javelineer_b</SelectionGroupName>
     <GenericName>Javalinist warrior</GenericName>
-    <Icon>units/zapo_infantry_javelinist.png</Icon>
+    <Icon>units/inca_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tupi/infantry_javelineer_a</Entity>

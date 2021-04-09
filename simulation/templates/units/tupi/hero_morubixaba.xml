@@ -8,7 +8,7 @@
     <SelectionGroupName>units/infantry_champion</SelectionGroupName>
     <GenericName>Warlord</GenericName>
     <SpecificName>Morubixaba</SpecificName>
-    <Icon>units/omag_axeman.png</Icon>
+    <Icon>units/inca_axeman.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/tupis/infantry_maceman_c.xml</Actor>

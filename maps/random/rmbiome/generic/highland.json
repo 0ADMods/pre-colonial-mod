@@ -1,0 +1,88 @@
+{
+	"Description": {
+		"Title": "Highland",
+		"Description": "."
+	},
+	"Environment": {
+		"Water": {
+			"WaterBody": {
+				"Color": { "r": 0.055, "g": 0.176, "b": 0.431 },
+				"Tint": { "r": 0.227, "g": 0.749, "b": 0.549 },
+				"Murkiness": 0.77,
+				"Waviness": 1.5
+			}
+		},
+		"Fog": {
+			"FogThickness": 0.15,
+			"FogFactor": 0.0025,
+			"FogColor": { "r": 0.847059, "g": 0.737255, "b": 0.482353 }
+		},
+		"Postproc": {
+			"PostprocEffect": "hdr",
+			"Contrast": 1.07031,
+			"Bloom": 0.132
+		}
+	},
+	"Terrains": {
+		"mainTerrain": [
+			"savanna_grass_a",
+			"savanna_grass_b"
+		],
+		"forestFloor1": "savanna_forestfloor_a",
+		"forestFloor2": "savanna_forestfloor_b",
+		"cliff": [
+			"savanna_cliff_a",
+			"savanna_cliff_b"
+		],
+		"tier1Terrain": "savanna_shrubs_a",
+		"tier2Terrain": "savanna_dirt_rocks_b",
+		"tier3Terrain": "savanna_dirt_rocks_a",
+		"tier4Terrain": "savanna_grass_a",
+		"hill": [
+			"savanna_grass_a",
+			"savanna_grass_b"
+		],
+		"dirt": [
+			"savanna_dirt_rocks_b",
+			"dirt_brown_e"
+		],
+		"road": "savanna_tile_a",
+		"roadWild": "savanna_tile_a",
+		"shoreBlend": "savanna_riparian",
+		"shore": "savanna_riparian_bank",
+		"water": "savanna_riparian_wet"
+	},
+	"Gaia": {
+		"tree1": "gaia/tree/oak",
+		"tree2": "gaia/tree/oak_new",
+		"tree3": "gaia/tree/pine_black",
+		"tree4": "gaia/flora_cactus_small",
+		"tree5": "gaia/flora_cactus_big",
+		"fruitBush": "gaia/fruit/berry_05",
+		"chicken": "gaia/fauna_turkey",
+		"fish": "gaia/fish/generic",
+		"secondaryHuntableAnimal": "gaia/fauna_jaguar",
+		"stoneLarge": "gaia/rock/desert_large",
+		"stoneSmall": "gaia/rock/savanna_small",
+		"metalLarge": "gaia/ore/savanna_large",
+		"metalSmall": "gaia/ore/desert_small"
+	},
+	"Decoratives": {
+		"grass": "actor|props/flora/grass_savanna.xml",
+		"grassShort": "actor|props/flora/grass_medit_field.xml",
+		"reeds": "actor|props/flora/reeds_pond_lush_a.xml",
+		"lillies": "actor|props/flora/reeds_pond_lush_b.xml",
+		"rockLarge": "actor|geology/stone_savanna_med.xml",
+		"rockMedium": "actor|geology/stone_savanna_med.xml",
+		"bushMedium": "actor|props/flora/bush_desert_dry_a.xml",
+		"bushSmall": "actor|props/flora/bush_dry_a.xml",
+		"tree": "actor|flora/trees/oak_new.xml"
+	},
+	"ResourceCounts": {
+		"trees": {
+			"min": 200,
+			"max": 1250,
+			"forestProbability": 0
+		}
+	}
+}

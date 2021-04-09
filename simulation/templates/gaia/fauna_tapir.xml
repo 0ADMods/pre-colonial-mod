@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_herd_domestic_cattle">
+  <Identity>
+    <GenericName>tapir</GenericName>
+    <SpecificName>Tapir</SpecificName>
+    <Icon>gaia/fauna_cow.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>fauna/tapir.xml</Actor>
+  </VisualActor>
+</Entity>
