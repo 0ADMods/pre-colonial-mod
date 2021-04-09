@@ -21,6 +21,6 @@
     <Actor>structures/incas/wall_tower.xml</Actor>
   </VisualActor>
   <WallPiece>
-    <Length>5</Length>
+    <Length>7.5</Length>
   </WallPiece>
 </Entity>

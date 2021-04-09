@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="tapir">
+       <mesh>skeletal/tapir.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Black">
+      <textures>
+        <texture file="skeletal/animal_tapir_black_and_white.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>default.xml</material>
+</actor>

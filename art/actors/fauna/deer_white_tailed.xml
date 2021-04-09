@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="100" name="base">
+      <animations>
+        <animation file="quadraped/deer_idle_01.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_idle_02.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_idle_03.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_walk_01.dae" name="walk" speed="35"/>
+        <animation file="quadraped/deer_run_01.dae" name="run" speed="15"/>
+        <animation file="quadraped/deer_attack_01.dae" name="attack_melee" speed="20"/>
+      </animations>
+      <mesh>skeletal/deer_mesh.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Base-Grey">
+      <textures>
+        <texture file="skeletal/animal_deer_white.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="100" name="Base-Brown">
+      <textures>
+        <texture file="skeletal/animal_deer_white.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="100" name="Base-Brown-Freckles">
+      <textures>
+        <texture file="skeletal/animal_deer_white.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="male">
+      <animations>
+        <animation file="quadraped/deer_death_01.dae" name="death" speed="40"/>
+      </animations>
+      <props>
+        <prop actor="props/fauna/deer_antlers.xml" attachpoint="antler"/>
+      </props>
+    </variant>
+    <variant frequency="5" name="female">
+      <animations>
+        <animation file="quadraped/deer_death_02.dae" name="death" speed="40"/>
+      </animations>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="normal"/>
+    <variant frequency="0" name="feeding">
+      <animations>
+        <animation file="quadraped/deer_idle_04.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_walk_02.dae" name="walk" speed="20"/>
+      </animations>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant name="death">
+      <props>
+        <prop actor="props/units/blood_01.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>default.xml</material>
+</actor>

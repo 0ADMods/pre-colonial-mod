@@ -17,7 +17,7 @@
     <Entities datatype="tokens">
       units/{civ}/infantry_maceman_b
       units/{civ}/infantry_maceman_merc_b
-      units/{civ}/infantry_archer_merc_b
+      units/{civ}/champion_infantry_archer
       units/{civ}/infantry_maceman2_merc_b
       units/{civ}/infantry_chaski
     </Entities>

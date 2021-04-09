@@ -17,4 +17,7 @@
   <VisualActor>
     <Actor>structures/incas/wall_med.xml</Actor>
   </VisualActor>
+  <WallPiece>
+    <Length>24.6</Length>
+  </WallPiece>
 </Entity>

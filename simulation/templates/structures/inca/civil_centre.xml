@@ -14,7 +14,9 @@
     <Entities datatype="tokens">
       units/{civ}/infantry_slinger_b
       units/{civ}/infantry_macerman_b
-      units/{civ}/sapa_inca
+      units/{civ}/hero_pachacutec
+      units/{civ}/hero_sinchi_roca
+      units/{civ}/hero_capac_yupanqui
       units/{civ}/infantry_chaski
     </Entities>
     <Technologies datatype="tokens">

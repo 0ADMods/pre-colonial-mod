@@ -17,4 +17,7 @@
   <VisualActor>
     <Actor>structures/incas/wall_short.xml</Actor>
   </VisualActor>
+  <WallPiece>
+    <Length>12.35</Length>
+  </WallPiece>
 </Entity>
