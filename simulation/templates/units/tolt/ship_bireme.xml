@@ -1,24 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_bireme">
-  <Attack>
-    <Ranged>
-      <Damage>
-        <Hack>0.0</Hack>
-        <Pierce>24.0</Pierce>
-        <Crush>0.0</Crush>
-      </Damage>
-      <MaxRange>60.0</MaxRange>
-      <MinRange>0.0</MinRange>
-      <Projectile>
-        <Speed>30.0</Speed>
-        <Spread>1.5</Spread>
-      </Projectile>
-      <PrepareTime>2000</PrepareTime>
-      <RepeatTime>2000</RepeatTime>
-      <PreferredClasses datatype="tokens">Ship Human</PreferredClasses>
-    </Ranged>
-  </Attack>
-  <BuildingAI disable=""/>
   <Cost>
     <Population>1</Population>
     <BuildTime>10</BuildTime>

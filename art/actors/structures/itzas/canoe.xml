@@ -6,7 +6,7 @@
     <variant>
       <mesh>structural/canoe_1.dae</mesh>
       <props>
-		<prop actor="units/chichen_itza/canoe_navigator.xml" attachpoint="1"/>	   
+		<prop actor="units/itzas/canoe_navigator.xml" attachpoint="1"/>	   
         <prop actor="props/structures/ptolemies/fishing_boat_basket.xml" attachpoint="basket1"/>
       </props>
       <textures>
