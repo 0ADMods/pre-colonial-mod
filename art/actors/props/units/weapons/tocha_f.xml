@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+      <textures>
+      <texture file="structural/maya_struct.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="axe">
+      <mesh>props/weapon/tocha_f.dae</mesh>
+	   <props>
+		<prop actor="particle/flame_firepit_1.xml" attachpoint="1"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="1"/>
+      </props>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

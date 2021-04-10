@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_bireme">
+    <Footprint replace="">
+        <Square width="5.0" depth="20.0"/>
+        <Height>5.0</Height>
+    </Footprint>
+   <GarrisonHolder>
+    <Max>15</Max>
+    <EjectHealth>0</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">FemaleCitizen Infantry Healer Dog</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry Cavalry Dog Siege Elephant</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>10</LoadingRange>
+    <Pickup>true</Pickup>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>maya</Civ>
+    <SpecificName>Jukuub' Tok' pakal</SpecificName>
+    <Icon>units/rome_ship_bireme.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/itzas/canoe_war.xml</Actor>
+  </VisualActor>
+</Entity>

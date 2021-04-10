@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+    <group>
+    <variant frequency="1" name="Head 1">
+      <mesh>props/new/head_longhair.dae</mesh>
+    </variant>
+   <variant frequency="1" name="Head 2">
+      <mesh>props/heads/head_mayan.dae</mesh>
+     </variant>
+	<variant frequency="1" name="Head 3">
+      <mesh>props/heads/head_mayan_b.dae</mesh>
+     </variant>
+  </group>
+  <group>
+   <variant frequency="1" name="ta">
+      <textures><texture file="props/head/maya_h_a.png" name="baseTex"/></textures>
+   </variant>
+   <variant frequency="1" name="tb">
+      <textures><texture file="props/head/maya_h_b.png" name="baseTex"/></textures>
+   </variant>
+      <variant frequency="1" name="tc">
+      <textures><texture file="props/head/maya_h_c.png" name="baseTex"/></textures>
+   </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

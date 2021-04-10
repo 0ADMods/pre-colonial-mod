@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant file="biped/trunk_operator_left.xml" frequency="1" name="relax">
+      <mesh>skeletal/new/m_naked.dae</mesh>
+           <props>
+        <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="spearman">
+      <textures>
+        <texture file="skeletal/maya_isl_b_1.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant file="biped/death_infantry.xml"/>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

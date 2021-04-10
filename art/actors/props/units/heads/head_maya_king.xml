@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+    <group>
+    <variant frequency="1" name="Head 1">
+      <mesh>props/new/head_longhair.dae</mesh>
+    </variant>
+  </group>
+  <group>
+   <variant frequency="1" name="ta">
+      <textures><texture file="props/head/maya_king_1.png" name="baseTex"/></textures>
+   </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

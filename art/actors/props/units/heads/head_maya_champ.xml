@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+    <group>
+    <variant frequency="1" name="Head 1">
+      <mesh>props/new/head_longhair.dae</mesh>
+    </variant>
+   <variant frequency="1" name="Head 2">
+      <mesh>props/heads/head_mayan.dae</mesh>
+     </variant>
+	<variant frequency="1" name="Head 3">
+      <mesh>props/heads/head_mayan_b.dae</mesh>
+     </variant>
+     <variant frequency="1" name="Head 4">
+      <mesh>props/heads/head_mayan_2.dae</mesh>
+     </variant>
+  </group>
+  <group>
+	 <variant frequency="1" name="texture a">
+      <textures>
+         <texture file="props/head/maya_champ_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+	    <variant frequency="1" name="texture b">
+      <textures>
+         <texture file="props/head/maya_champ_b.png" name="baseTex"/>
+      </textures>
+     </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_wallset">
+  <Identity>
+    <Civ>itza</Civ>
+    <SpecificName>Qincha</SpecificName>
+  </Identity>
+  <WallSet>
+    <Templates>
+      <Tower>structures/itza/wall_tower</Tower>
+      <Gate>structures/itza/wall_gate</Gate>
+      <WallLong>structures/itza/wall_long</WallLong>
+      <WallMedium>structures/itza/wall_medium</WallMedium>
+      <WallShort>structures/itza/wall_short</WallShort>
+    </Templates>
+    <MaxTowerOverlap>0.90</MaxTowerOverlap>
+    <MinTowerOverlap>0.05</MinTowerOverlap>
+  </WallSet>
+</Entity>

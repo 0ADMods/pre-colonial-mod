@@ -1,0 +1,92 @@
+﻿{
+	"Code": "itza",
+	"Culture": "mayas",
+	"Name": "Itza",
+	"Emblem": "session/portraits/emblems/emblem_itza.png",
+	"History": " The Kingdowm Maya posclassic.",
+	"Music":[
+
+		],
+	"Factions":
+	[],
+	"CivBonuses":
+	[
+		{
+			"Name": "Traditional Tactics.",
+			"History": "Mayas soldiers favored melee and wore light armor.",
+			"Description": "Mayas melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
+		}
+	],
+	"TeamBonuses":
+	[],
+	"Structures":
+	[
+		{
+			"Name":"Ball Court",
+			"Class":"SB",
+			"Emblem":"",
+			"History":".",
+			"Requirements":".",
+			"Phase":"City",
+			"Special":"."
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/itza/wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/itza/civil_centre"
+		},
+		{
+			"Template": "units/itza/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "structures/mex/water_well"
+		},
+		{
+			"Template": "units/itza/infantry_swordsman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/itza/infantry_javelineer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/itza/infantry_spearman_b",
+			"Count": 1
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+		"1 Jaguar",
+		"King Snake"
+		
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_cavalry": "units/itza/infantry_spearman_b",
+		"skirmish/units/default_infantry_ranged_b": "units/itza/infantry_javelineer_b",
+	 "skirmish/units/default_infantry_melee_b": "units/itza/infantry_swordsman_b",
+	 "skirmish/structures/default_house_10": "structures/{civ}/house",
+	 "skirmish/units/default_ship_trireme":"units/itza/ship_bireme"
+	},
+	"SelectableInGameSetup": true
+}
