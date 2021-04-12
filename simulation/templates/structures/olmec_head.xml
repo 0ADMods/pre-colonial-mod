@@ -59,7 +59,7 @@
   </Sound>
   <TerritoryDecay disable=""/>
   <VisualActor>
-    <Actor>structures/olmec_head.xml</Actor>
+    <Actor>structures/map_objects/olmec_head.xml</Actor>
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
   </VisualActor>
 </Entity>
