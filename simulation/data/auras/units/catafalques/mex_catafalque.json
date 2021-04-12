@@ -1,0 +1,11 @@
+{
+	"type": "range",
+	"radius": 80,
+	"affects": ["Worker"],
+	"modifications": [
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.15 }
+	],
+	"auraName": "Idol of Tlaloc",
+	"auraDescription": "Tlaloc is here to encouraging commerce and agriculture.\nWorkers +15% gather speed.",
+	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png"
+}

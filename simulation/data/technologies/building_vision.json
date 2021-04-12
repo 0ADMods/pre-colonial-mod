@@ -1,7 +1,7 @@
 {
 	"genericName": "Bird Vision",
 	"description": "Buildings gain longer vision for scouting.",
-	"cost": { "food": 100, "wood": 100, "stone": 100, "metal": 100 },
+	"cost": { "food": 100, "wood": 100, "stone": 100, "metal": 100, "water" : 0 },
 	"requirements": { "tech": "phase_city" },
 	"icon": "pigeon.png",
 	"researchTime": 40,
