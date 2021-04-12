@@ -47,9 +47,15 @@
   "Name": "Yucatan(3)",
   "PlayerData": [
     null,
-    {},
-    {},
-    {}
+    {
+      "Name": "Player 1"
+    },
+    {
+      "Name": "Player 2"
+    },
+    {
+      "Name": "Player 3"
+    }
   ],
   "Preview": "yucatan.png",
   "RevealMap": false,

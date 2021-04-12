@@ -44,36 +44,13 @@
   "Keywords": [],
   "LockTeams": false,
   "Name": "Haiti",
-  "PlayerData": [
+   "PlayerData": [
+    null,
     {
-      "Civ": "mex",
-      "StartingCamera": {
-        "Position": {
-          "x": 1747.73,
-          "y": 434.087,
-          "z": 981.188
-        },
-        "Rotation": {
-          "x": 35,
-          "y": -26.186,
-          "z": 0.00000285426
-        }
-      }
+      "Name": "Player 1"
     },
     {
-      "Civ": "zapo",
-      "StartingCamera": {
-        "Position": {
-          "x": 311.08,
-          "y": 440.162,
-          "z": 964.104
-        },
-        "Rotation": {
-          "x": 35,
-          "y": 0,
-          "z": 0
-        }
-      }
+      "Name": "Player 2"
     }
   ],
   "Preview": "",
