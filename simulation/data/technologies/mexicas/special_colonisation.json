@@ -1,7 +1,7 @@
 {
 	"genericName": "Colonization",
 	"description": "Mexicas established many trading centers as colonies.",
-	"cost": { "food": 0, "wood": 500, "stone": 500, "metal": 500, "water": 75 },
+	"cost": { "food": 0, "wood": 500, "stone": 500, "metal": 500 },
 	"requirements": { "all": [{ "tech": "phase_town" }, { "civ": "cart" }] },
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "political_face.png",

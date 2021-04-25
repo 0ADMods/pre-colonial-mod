@@ -46,9 +46,6 @@
 			"Count": 4
 		},
 		{
-			"Template": "structures/mex/water_well"
-		},
-		{
 			"Template": "units/itza/infantry_swordsman_b",
 			"Count": 2
 		},

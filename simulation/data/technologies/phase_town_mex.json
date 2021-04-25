@@ -4,7 +4,7 @@
 		"mex": "Altepetl"
 	},
 	"description": "Advances from a small village to a bustling town, ready to expand rapidly. This is the Athenian town phase, where metal gathering rates are boosted because of the 'Chinampas' bonus.",
-	"cost": { "food": 500, "wood": 500, "stone": 0, "metal": 0, "water" : 124 },
+	"cost": { "food": 500, "wood": 500, "stone": 0, "metal": 0},
 	"requirements": {
 		"entity": {
 			"class": "Village",

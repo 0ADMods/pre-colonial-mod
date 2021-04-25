@@ -9,7 +9,6 @@
     <Resources>
       <food>300</food>
       <metal>120</metal>
-      <water>50</water>
     </Resources>
   </Cost>
   <Identity>

@@ -57,9 +57,6 @@
 			"Template": "structures/zapo/civil_centre"
 		},
 		{
-			"Template": "structures/zapo/water_well"
-		},
-		{
 			"Template": "units/zapo/support_female_citizen",
 			"Count": 4
 		},

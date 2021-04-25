@@ -4,7 +4,7 @@
 		"mex": "Megalópolis"
 	},
 	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Athenian city phase, where food gathering rates are boosted because of the 'Chinampas' bonus, also you have stone gathering boosted.",
-	"cost": { "food": 0, "wood": 750, "stone": 750, "metal": 0, "water":75 },
+	"cost": { "food": 0, "wood": 750, "stone": 750, "metal": 0 },
 	"requirements": {
 		"entity": {
 			"class": "Town",

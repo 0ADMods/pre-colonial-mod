@@ -1,7 +1,7 @@
 {
 	"genericName": "Carrier Pigeons",
 	"description": "Outposts gain longer vision for scouting.",
-	"cost": { "food": 150, "wood": 0, "stone": 0, "metal": 0, "water" : 0 },
+	"cost": { "food": 150, "wood": 0, "stone": 0, "metal": 0},
 	"requirements": { "tech": "phase_village" },
 	"icon": "pigeon.png",
 	"researchTime": 40,
