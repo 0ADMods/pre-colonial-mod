@@ -3,8 +3,7 @@
   <Cost>
     <BuildTime>35</BuildTime>
     <Resources>
-      <food>90</food>
-      <water>5</water>
+      <food>70</food>
     </Resources>
   </Cost>
   <UnitAI>
