@@ -13,4 +13,7 @@
     <BarHeight>0.5</BarHeight>
     <HeightOffset>10.0</HeightOffset>
   </StatusBars>
+  <ResourceSupply>
+    <Amount>100</Amount>
+  </ResourceSupply>
 </Entity>
