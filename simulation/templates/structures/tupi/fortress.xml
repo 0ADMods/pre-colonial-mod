@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_military_fortress">
-    <Footprint>
-    <Square width="34.0" depth="34.0"/>
-    <Height>8.0</Height>
+  <Footprint>
+    <Square width="40.0" depth="40.0"/>
+    <Height>12.0</Height>
   </Footprint>
-  <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
-  </Health>
   <Identity>
     <Civ>tupi</Civ>
-    <SpecificName>Pukara</SpecificName>
+    <GenericName>Military Colony</GenericName>
+    <Classes datatype="tokens">Colony Defensive GarrisonFortress</Classes>
+    <SpecificName>Aldeia fortificada</SpecificName>
+    <History>25.</History>
+    <Tooltip>Aldeia fortificada.</Tooltip>
   </Identity>
   <Obstruction>
-    <Static width="32.0" depth="32.0"/>
+    <Static width="36.0" depth="36.0"/> 
   </Obstruction>
-  <Sound>
-    <SoundGroups>
-      <select>interface/select/building/sel_broch.xml</select>
-      <constructed>interface/complete/building/complete_broch.xml</constructed>
-    </SoundGroups>
-  </Sound>
+  <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_maceman_b
+      units/{civ}/infantry_archer_b
+      units/{civ}/support_female_citizen_archer
+    </Entities>
+  </ProductionQueue>
   <VisualActor>
-    <Actor>structures/incas/inca_fortress.xml</Actor>
+    <Actor>structures/tupis/f_a.xml</Actor>
     <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
   </VisualActor>
-  <WallPiece>
-    <Length>28</Length>
-  </WallPiece>
 </Entity>

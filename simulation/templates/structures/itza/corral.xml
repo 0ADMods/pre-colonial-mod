@@ -19,7 +19,7 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/itzas/corral.xml</Actor>
+    <Actor>structures/mexicas/corral.xml</Actor>
     <FoundationActor>structures/fndn_3x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

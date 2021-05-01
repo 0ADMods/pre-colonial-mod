@@ -8,7 +8,6 @@
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
-       <prop actor="props/special/eyecandy/campfire.xml" attachpoint="f"/>
       <prop actor="structures/tupis/oca_prop_principal.xml" attachpoint="root"/> 
       </props>
       <textures>
