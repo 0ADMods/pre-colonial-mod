@@ -15,8 +15,13 @@
     <Static width="10.0" depth="14.0"/>
   </Obstruction>
   <ProductionQueue>
-    <Technologies datatype="tokens">
-    </Technologies>
+    <Entities datatype="tokens">
+      gaia/fauna_turkey_trainable
+      -gaia/fauna_goat_trainable
+      -gaia/fauna_sheep_trainable
+      -gaia/fauna_pig_trainable
+      -gaia/fauna_cattle_cow_trainable
+    </Entities>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/hopis/corral.xml</Actor>
