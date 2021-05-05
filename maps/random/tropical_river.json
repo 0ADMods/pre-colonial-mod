@@ -1,0 +1,10 @@
+{
+	"settings" : {
+		"Name" : "Tropical River",
+		"Script" : "tropical_river.js",
+		"Description" : "Players start on the banks of the River Sequana (Seine) in Northern Gaul near the settlement of tropical_river. Destined to become one of the largest and most prosperous cities of Medieval Europe and one of the Anglo-Norman dynasty capitals under the new name of Rouen, tropical_river is still a peaceful land - but not for long.",
+		"Keywords": [],
+		"Preview" : "tropical_river.png",
+		"CircularMap" : true
+	}
+}

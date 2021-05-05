@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="aldeia_f">
-      <mesh>props/aldeia_f_w.dae</mesh>
+      <mesh>props/tupis_aldeia_f_w.dae</mesh>
       <textures>
            <texture file="structural/tupi_struct.png" name="baseTex"/>
            <texture file="structural/tupi_struct_spec.png" name="specTex"/>
