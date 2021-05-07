@@ -21,9 +21,6 @@
     <Tooltip>Gather fresh water from this</Tooltip>
     <Icon>structures/water_well.png</Icon>
   </Identity>
-  <Loot>
-    <water>50</water>
-  </Loot>
   <Minimap>
     <Color r="119" g="82" b="46"/>
   </Minimap>
