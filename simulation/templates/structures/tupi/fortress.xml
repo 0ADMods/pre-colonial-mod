@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>tupi</Civ>
-    <GenericName>Military Colony</GenericName>
+    <GenericName>Aldeia Fortificada</GenericName>
     <Classes datatype="tokens">Colony Defensive GarrisonFortress</Classes>
     <SpecificName>Aldeia fortificada</SpecificName>
     <History>25.</History>
@@ -23,7 +23,7 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/tupis/f_a.xml</Actor>
+    <Actor>structures/tupis/aldeia_f.xml</Actor>
     <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
   </VisualActor>
 </Entity>

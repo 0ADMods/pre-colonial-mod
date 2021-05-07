@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_javelineer">
+  <Identity>
+    <Civ>itza</Civ>
+    <SelectionGroupName>units/maya_champion_infantry_javelinist</SelectionGroupName>
+    <GenericName>Javalinist warrior</GenericName>
+    <SpecificName>Hul'che Bate</SpecificName>
+    <Icon>units/zapo_infantry_javelinist.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/itzas/infantry_javelinist_c.xml</Actor>
+  </VisualActor>
+</Entity>

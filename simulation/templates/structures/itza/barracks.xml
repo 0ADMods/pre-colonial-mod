@@ -26,7 +26,9 @@
     <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
-      units/{civ}/infantry_axeman_b 
+      units/{civ}/infantry_maceman_b 
+      units/{civ}/champion_infantry_javelineer
+      
     </Entities>
   </ProductionQueue>
   <VisualActor>
