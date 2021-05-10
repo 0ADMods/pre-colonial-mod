@@ -7,11 +7,12 @@
    <Cost>
     <Resources>
       <wood>200</wood>
-      <metal>100</metal>
+      <metal>150</metal>
     </Resources>
   </Cost>
   <Identity>
     <Civ>inca</Civ>
+    <Phenotype>female</Phenotype>
     <GenericName>Priestess of the Sun</GenericName>
     <SpecificName>Acclas</SpecificName>
     <VisibleClasses datatype="tokens">Acclas</VisibleClasses>

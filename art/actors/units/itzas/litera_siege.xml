@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actor version="1">
+  <group>
+    <variant>
+      <mesh>structural/litera_maya.dae</mesh>
+      <props>
+        <prop actor="units/maya/infantry_carregador.xml" attachpoint="carr_1"/>
+        <prop actor="units/maya/infantry_carregador.xml" attachpoint="carr_2"/>
+        <prop actor="units/maya/infantry_carregador.xml" attachpoint="carr_3"/>
+        <prop actor="units/maya/infantry_carregador.xml" attachpoint="carr_4"/>
+      </props>
+      <textures>
+        <texture file="structural/hele_siege.dds" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant file="biped/base_litera.xml">
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
+      <props>
+        <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
+         <prop actor="props/units/helmets/maya_band.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  </group>
+   <group>
+     <variant frequency="1" name="a">
+      <textures>
+        <texture file="skeletal/maya_isl_a_1.png" name="baseTex"/>
+        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+	<variant frequency="1" name="b">
+      <textures>
+	    <texture file="skeletal/maya_isl_a_2.png" name="baseTex"/>
+        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    	<variant frequency="1" name="c">
+      <textures>
+	    <texture file="skeletal/maya_isl_a_3.png" name="baseTex"/>
+        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant file="biped/base_litera.xml"/>
+  </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant file="biped/build.xml"/>
+    <variant file="biped/death_infantry.xml"/>
+  </group>
+  <material>player_trans.xml</material>
+</actor>
