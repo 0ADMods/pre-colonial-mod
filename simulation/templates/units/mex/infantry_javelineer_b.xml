@@ -3,7 +3,6 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
-       structures/tupi/aterrado
     </Entities>
   </Builder>
   <Identity>
