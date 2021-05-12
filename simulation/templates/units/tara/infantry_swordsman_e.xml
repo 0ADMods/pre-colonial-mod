@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/tara/infantry_swordsman_a">
+  <Identity>
+    <SpecificName>Cuāuhpilli</SpecificName>
+    <GenericName>Eagle Warrior</GenericName>
+    <Icon>units/tara/infantry_swordsman_e.png</Icon>
+    <Rank>Elite</Rank>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/tarascans/infantry_swordsman_e.xml</Actor>
+  </VisualActor>
+</Entity>

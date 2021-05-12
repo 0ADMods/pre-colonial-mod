@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Identity>
+    <Civ>tara</Civ>
+    <GenericName>Nobre Uacúsecha Warrior</GenericName>
+    <SpecificName>Quangáriecha Uacúsecha</SpecificName>
+    <SelectionGroupName>units/tara/champion_infantry_swordsman</SelectionGroupName>
+    <Icon>units/mex/champion_swordsman.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/tarascans/infantry_swordsman_c.xml</Actor>
+  </VisualActor>
+</Entity>

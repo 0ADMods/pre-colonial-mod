@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_healer">
+  <Auras datatype="tokens">
+    units/zapo_priest
+    units/elephant_worker
+  </Auras>
+  <Cost>
+    <BuildTime>60</BuildTime>
+    <Resources>
+      <food>300</food>
+      <metal>120</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>tara</Civ>
+    <GenericName>Great Speaker</GenericName>
+    <SpecificName>Cazonci</SpecificName>
+    <Tooltip>Support Unit cant make building build faster. Heal units</Tooltip>
+    <SelectionGroupName>units/tara/champion_healer</SelectionGroupName>
+    <Icon>units/mex/hero_tlatoani.png</Icon>
+    <Rank>Elite</Rank>
+  </Identity>
+  <Promotion disable=""/>
+  <Health>
+    <Max>200</Max>
+  </Health>
+  <UnitMotion>
+    <WalkSpeed>11</WalkSpeed>
+  </UnitMotion>
+  <Vision>
+    <Range>90</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>units/tarascans/hero_support_tlatoani.xml</Actor>
+  </VisualActor>
+</Entity>

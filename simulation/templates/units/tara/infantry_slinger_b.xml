@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_slinger">
+  <Identity>
+    <Civ>tara</Civ>
+    <GenericName>Purépecha Slinger</GenericName>
+    <SpecificName>Guixe Bixeenda</SpecificName>
+    <SelectionGroupName>units/tara_infantry_slinger_b</SelectionGroupName>
+    <Icon>units/tara/infantry_slinger.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/tara/infantry_slinger_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/tarascans/infantry_slinger_b.xml</Actor>
+  </VisualActor>
+</Entity>

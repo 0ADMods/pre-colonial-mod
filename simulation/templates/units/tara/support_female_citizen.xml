@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_female_citizen">
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>tara</Civ>
+    <GenericName>Purépecha Woman</GenericName>
+    <SpecificName></SpecificName>
+    <SelectionGroupName>units/zapo_support_female_citizen</SelectionGroupName>
+    <Icon>units/mex/female_citizen.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/tarascans/female_citizen.xml</Actor>
+  </VisualActor>
+</Entity>

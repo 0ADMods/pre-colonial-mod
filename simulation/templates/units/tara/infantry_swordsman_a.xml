@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/tara/infantry_swordsman_b">
+  <Identity>
+    <SpecificName>Ocēlōpilli</SpecificName>
+    <GenericName>Jaguar Warrior</GenericName>
+    <Icon>units/tara/infantry_swordsman_a.png</Icon>
+    <Rank>Advanced</Rank>
+  </Identity>
+  <Promotion>
+    <Entity>units/tara/infantry_swordsman_e</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/tarascans/infantry_swordsman_a.xml</Actor>
+  </VisualActor>
+</Entity>

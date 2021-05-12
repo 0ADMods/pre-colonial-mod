@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+      <textures>
+        <texture file="structural/tara_struct.png" name="baseTex"/>
+        <texture file="structural/tara_struct_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="axe1">
+      <mesh>props/weapon/axe_purepecha.dae</mesh>
+    </variant>
+  </group>
+  <material>basic_trans_spec.xml</material>
+</actor>

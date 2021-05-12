@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Iberian Ram">
+      <animations>
+        <animation file="mechanical/mex_ram_move.dae" name="Walk" speed="15"/>
+        <animation file="mechanical/mex_ram_move.dae" name="Run" speed="30"/>
+        <animation event="0.3" file="mechanical/mex_ram_attack.dae" name="attack_melee" speed="100"/>
+      </animations>
+      <mesh>structural/mex_siege_ram.dae</mesh>
+      <textures>
+        <texture file="structural/nahua_struct_a.png" name="baseTex"/>
+        <texture file="structural/nahua_struct_a_spec.png" name="specTex"/>
+        <texture file="structural/nahua_struct_a_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant name="death">
+      <props>
+        <prop actor="particle/destruction_dust_small.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>player_trans_parallax_spec.xml</material>
+</actor>

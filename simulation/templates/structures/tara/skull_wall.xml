@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_wall_short">
+  <Auras datatype="tokens">
+    units/zapo_priest
+  </Auras>
+  <Footprint>
+    <Square width="14.0" depth="7.0"/>
+    <Height>9.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>tara</Civ>
+    <SpecificName>Tzompantli</SpecificName>
+    <GenericName>Skull Rack</GenericName>
+    <SelectionGroupName>structures/tara_skull_wall</SelectionGroupName>
+  </Identity>
+  <Obstruction>
+    <Static width="13.0" depth="6.0"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/tarascans/skull_wall.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>12.35</Length>
+  </WallPiece>
+</Entity>
