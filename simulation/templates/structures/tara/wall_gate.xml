@@ -15,7 +15,7 @@
     </Obstructions>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/wall_gate.xml</Actor>
+    <Actor>structures/tarascans/wall_gate.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>34.1</Length>
