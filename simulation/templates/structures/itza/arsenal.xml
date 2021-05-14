@@ -7,6 +7,7 @@
     <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/siege_tower_packed
+      units/{civ}/infantry_incendiary
     </Entities>
   </ProductionQueue>
   <VisualActor>

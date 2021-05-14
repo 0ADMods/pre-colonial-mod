@@ -108,7 +108,7 @@
 		},
 		{
 			"Template": "units/tara/infantry_maceman_b",
-			"Count": 5
+			"Count": 3
 		},
 		{
 			"Template": "units/tara/infantry_archer_b",
@@ -154,6 +154,7 @@
 	{
 		"skirmish/units/default_cavalry": "units/tara/infantry_maceman_b",
 		"skirmish/units/default_infantry_ranged_b": "units/tara/infantry_javelineer_b",
+		"skirmish/units/special_starting_unit": "units/tara/infantry_scoult_archer_b",
 		"skirmish/structures/default_house_10": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true

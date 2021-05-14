@@ -10,6 +10,10 @@
   <Promotion>
     <Entity>units/tara/infantry_archer_a</Entity>
   </Promotion>
+   <UnitMotion>
+    <WalkSpeed op="mul">1.8</WalkSpeed>
+    <RunMultiplier>1.2</RunMultiplier>
+  </UnitMotion>
   <VisualActor>
     <Actor>units/tarascans/infantry_archer_b.xml</Actor>
   </VisualActor>

@@ -10,7 +10,6 @@
       </textures>
       <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
-		<prop actor="props/units/helmets/maya_e.xml" attachpoint="helmet"/>
         <prop actor="props/units/staff.xml" attachpoint="weapon_R"/>
 	  </props>
     </variant>
