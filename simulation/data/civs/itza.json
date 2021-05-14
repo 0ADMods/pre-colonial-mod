@@ -4,9 +4,20 @@
 	"Name": "Itza",
 	"Emblem": "session/portraits/emblems/emblem_itza.png",
 	"History": " The Kingdowm Maya posclassic.",
-	"Music":[
-
-		],
+"Music": [
+		{
+			"File": "Cloud_People.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Old New World.ogg",
+			"Type": "peace"
+		}
+	],
 	"Factions":
 	[],
 	"CivBonuses":
@@ -50,7 +61,7 @@
 			"Count": 2
 		},
 		{
-			"Template": "units/itza/infantry_javelineer_b",
+			"Template": "units/itza/infantry_archer_b",
 			"Count": 2
 		},
 		{
@@ -73,14 +84,20 @@
 	],
 	"AINames":
 	[
-		"1 Jaguar",
+		"Kak U Pacal Kauil",
+		"Kin Cimi",
+		"Ah Muluc Tok",
+		"Wa-ca-wa y", 
+		"Yax Tul", 
+		"Yax Uk Kauil",  
+		"Bolon ti Ahau", 
 		"Chac Xib Chac"
 		
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/itza/infantry_spearman_b",
-		"skirmish/units/default_infantry_ranged_b": "units/itza/infantry_javelineer_b",
+	 "skirmish/units/default_cavalry": "units/itza/infantry_spearman_b",
+	 "skirmish/units/default_infantry_ranged_b": "units/itza/infantry_archer_b",
 	 "skirmish/units/default_infantry_melee_b": "units/itza/infantry_swordsman_b",
 	 "skirmish/structures/default_house_10": "structures/{civ}/house",
 	 "skirmish/units/default_ship_trireme":"units/itza/ship_bireme"

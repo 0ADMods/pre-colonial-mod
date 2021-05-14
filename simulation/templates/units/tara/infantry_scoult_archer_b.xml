@@ -4,15 +4,15 @@
     <Civ>tara</Civ>
     <GenericName>Corredores de Pungarancha</GenericName>
     <SpecificName></SpecificName>
-    <SelectionGroupName>units/tara_infantry_archer_b</SelectionGroupName>
-    <Icon>units/tara/infantry_archer.png</Icon>
+    <SelectionGroupName>units/tara_infantry_archer_pungarancha</SelectionGroupName>
+    <Icon>units/mex/infantry_archer.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/tara/infantry_archer_a</Entity>
+    <Entity>units/tara/infantry_scoult_archer_a</Entity>
   </Promotion>
    <UnitMotion>
-    <WalkSpeed op="mul">1.8</WalkSpeed>
-    <RunMultiplier>1.2</RunMultiplier>
+    <WalkSpeed op="mul">1.7</WalkSpeed>
+    <RunMultiplier>1.1</RunMultiplier>
   </UnitMotion>
   <VisualActor>
     <Actor>units/tarascans/infantry_archer_b.xml</Actor>
