@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>itza</Civ>
+    <GenericName>General</GenericName>
+    <SpecificName>Batab</SpecificName>
+    <Icon>units/mex/champion_spearman.png</Icon>
+    <SelectionGroupName>units/mex/champion_infantry_a</SelectionGroupName>
+  </Identity>
+  <VisualActor>
+    <Actor>units/mexicas/infantry_spearman_c.xml</Actor>
+  </VisualActor>
+</Entity>

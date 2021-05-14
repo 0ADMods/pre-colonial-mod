@@ -5,7 +5,7 @@
     <SelectionGroupName>units/maya_infantry_javelinist_b</SelectionGroupName>
     <GenericName>Javalinist warrior</GenericName>
     <SpecificName>Hul'che Bate</SpecificName>
-    <Icon>units/zapo_infantry_javelinist.png</Icon>
+    <Icon>units/itza/javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/itza/infantry_javelineer_a</Entity>

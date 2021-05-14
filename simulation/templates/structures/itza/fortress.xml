@@ -16,9 +16,9 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}/champion_guaranga_kamayuk
+      units/{civ}/champion_infantry_javalineer
        units/{civ}/mechanical_siege_ram
-       units/{civ}/champion_apusquin_rantin
+       units/{civ}/champion_infantry_spearman
     </Entities>
   </ProductionQueue>
   <Sound>
