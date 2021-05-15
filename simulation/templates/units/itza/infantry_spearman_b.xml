@@ -3,7 +3,7 @@
   <Identity>
     <Civ>itza</Civ>
     <SelectionGroupName>Spearman</SelectionGroupName>
-    <SpecificName>Took' Lom Bate</SpecificName>
+    <SpecificName>Tupiles</SpecificName>
     <Icon>units/itza/spearman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
