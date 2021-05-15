@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_blowgunner">
+   <Attack>
+    <Ranged>
+      <ApplyStatus>
+        <Poisoned>
+          <Interval>2000</Interval>
+          <Damage>
+            <Poison>1.0</Poison>
+          </Damage>
+          <Stackability>Extend</Stackability>
+          <Duration>8000</Duration>
+        </Poisoned>
+      </ApplyStatus>
+    </Ranged>
+  </Attack>
   <Builder>
-    <Rate>1.0</Rate>
+    <Rate>0.5</Rate>
     <Entities datatype="tokens">
       structures/tupi/cisterna
        structures/tupi/aterrado
@@ -16,6 +30,10 @@
   <Promotion>
     <Entity>units/tupi/infantry_blowgunner_a</Entity>
   </Promotion>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.5</WalkSpeed>
+    <RunMultiplier>1.1</RunMultiplier>
+  </UnitMotion>
   <VisualActor>
     <Actor>units/tupis/infantry_blowgunner_b.xml</Actor>
   </VisualActor>

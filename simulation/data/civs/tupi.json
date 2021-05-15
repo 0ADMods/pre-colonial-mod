@@ -86,7 +86,11 @@
 			"Template": "units/tupi/infantry_spearman_b",
 			"Count": 2
 		},
-{
+		{
+			"Template": "units/tupi/infantry_blowgunner_b",
+			"Count": 1
+		},
+       {
 			"Template": "units/tupi/infantry_archer_b",
 			"Count": 2 
 		}
@@ -113,6 +117,7 @@
 		"skirmish/structures/default_house_5": "structures/{civ}/house",
 		"skirmish/units/default_cavalry": "units/tupi/infantry_spearman_b",
 		"skirmish/units/default_infantry_melee_b": "units/tupi/infantry_maceman_b",
+		"skirmish/units/special_starting_unit": "units/tara/infantry_blowgunner_b",
 		"skirmish/units/default_infantry_ranged_b": "units/tupi/infantry_archer_b"
 	},
 	"SelectableInGameSetup": true
