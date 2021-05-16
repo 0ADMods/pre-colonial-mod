@@ -7,7 +7,7 @@
         <animation file="biped/new/zapo_navigator.dae" name="walk" speed="10"/>
         <animation file="biped/new/zapo_navigator.dae" name="idle" speed="1"/>
       </animations>
-      <mesh>skeletal/new/m_naked.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_native_basic.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/zapo_oar.xml" attachpoint="weapon_R"/>

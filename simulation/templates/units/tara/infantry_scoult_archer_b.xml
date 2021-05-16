@@ -11,7 +11,7 @@
     <Entity>units/tara/infantry_scoult_archer_a</Entity>
   </Promotion>
    <UnitMotion>
-    <WalkSpeed op="mul">1.7</WalkSpeed>
+    <WalkSpeed op="mul">1.6</WalkSpeed>
     <RunMultiplier>1.1</RunMultiplier>
   </UnitMotion>
   <VisualActor>

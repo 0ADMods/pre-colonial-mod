@@ -19,6 +19,8 @@
     <ProductionQueue>
     <Entities datatype="tokens">
       gaia/fauna_turkey_trainable
+      units/{civ}/infantry_blowgunner_b
+     units/{civ}/support_female_citizen_archer
     </Entities>
   </ProductionQueue>
   <VisualActor>

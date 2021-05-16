@@ -4,7 +4,7 @@
     <Civ>itza</Civ>
     <SelectionGroupName>units/itza/support_healer_b</SelectionGroupName>
     <GenericName>itza Priest</GenericName>
-    <SpecificName> Aj K'in</SpecificName>
+    <SpecificName>Ahuacán</SpecificName>
     <Icon>units/itza/healer.png</Icon> 
   </Identity> 
   <Promotion>

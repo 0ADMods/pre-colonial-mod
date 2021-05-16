@@ -8,6 +8,6 @@
     <SelectionGroupName>units/mex/champion_infantry_a</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/mexicas/infantry_spearman_c.xml</Actor>
+    <Actor>units/itzas/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>
