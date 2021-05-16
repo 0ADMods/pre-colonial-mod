@@ -7,7 +7,7 @@
     </Resources>
   </Cost>
   <UnitAI>
-    <NaturalBehaviour>domestic</NaturalBehaviour>
+    <DefaultStance>passive</DefaultStance>
   </UnitAI>
   <Visibility>
     <RetainInFog>false</RetainInFog>

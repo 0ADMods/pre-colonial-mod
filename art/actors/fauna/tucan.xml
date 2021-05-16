@@ -10,7 +10,7 @@
       </animations>
       <mesh>skeletal/tucan.dae</mesh>
       <textures>
-         <texture file="skeletal/flora_tucan.png" name="baseTex"/>
+         <texture file="skeletal/fauna_tucan.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
