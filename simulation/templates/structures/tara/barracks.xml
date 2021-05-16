@@ -20,6 +20,13 @@
     <Tooltip>Train purepecha citizen-soldiers. Research improvements for purepecha units.</Tooltip>
     <Icon>structures/meso_barracks.png</Icon>
   </Identity>
+    <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_axeman_b
+    </Entities>
+    <Technologies datatype="tokens">
+    </Technologies>
+  </ProductionQueue>
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
   </Obstruction>

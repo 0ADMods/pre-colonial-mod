@@ -9,12 +9,17 @@
    <group>
     <variant frequency="1" name="shield_a">
       <textures>
-        <texture file="props/shield/otomi_shield_a.png" name="baseTex"/>
+        <texture file="props/shield/tara_shield_a.png" name="baseTex"/>
       </textures>
     </variant>
   <variant frequency="1" name="shield_b">
       <textures>
-      <texture file="props/shield/otomi_shield_b.png" name="baseTex"/>
+      <texture file="props/shield/tara_shield_b.png" name="baseTex"/>
+      </textures>
+    </variant>
+      <variant frequency="1" name="shield_c">
+      <textures>
+      <texture file="props/shield/tara_shield_c.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

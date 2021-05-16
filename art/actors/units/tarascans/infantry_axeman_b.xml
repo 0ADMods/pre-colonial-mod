@@ -7,7 +7,7 @@
       <props>
         <prop actor="props/units/heads/head_purepecha.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/helmet_pure_b.xml" attachpoint="head"/>
-        <prop actor="props/units/weapons/inca_axe.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/axe_basic_purepecha.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>
