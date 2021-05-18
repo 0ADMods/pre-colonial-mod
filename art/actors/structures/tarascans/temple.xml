@@ -6,6 +6,8 @@
       <mesh>structural/tara_temple.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
+        <prop actor="props/structures/tara_banner.xml" attachpoint="ban_t1"/>
+        <prop actor="props/structures/tara_banner.xml" attachpoint="ban_t2"/>
       </props>
       <textures>
         <texture file="structural/tara_struct.png" name="baseTex"/>

@@ -2,19 +2,8 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Scout_Tower">
-      <animations>
-        <animation event="0.5" load="0" name="attack_ranged" speed="100"/>
-      </animations>
-      <mesh>structural/tara_cc.dae</mesh>
+    <variant frequency="1" name="base">
       <props>
-        <prop actor="props/structures/decals/dirt_6x6.xml" attachpoint="root"/>
-        <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
-        <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
-        <prop actor="props/structures/tara_banner.xml" attachpoint="ban_1"/>
-        <prop actor="props/structures/tara_banner.xml" attachpoint="ban_2"/>
-        <prop actor="props/structures/tara_banner.xml" attachpoint="ban_3"/>
-        <prop actor="props/structures/tara_banner.xml" attachpoint="ban_4"/>
       </props>
       <textures>
         <texture file="structural/tara_struct.png" name="baseTex"/>
@@ -24,12 +13,13 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="ungarrisoned"/>
-    <variant name="garrisoned">
-      <props>
-        <prop actor="props/special/common/garrison_flag_mex.xml" attachpoint="garrisoned"/>
-      </props>
+    <variant frequency="1" name="wall_long">
+      <mesh>props/tara_bannner.dae</mesh>
     </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="ungarrisoned"/>
+    <variant name="garrisoned"/>
   </group>
   <group>
     <variant frequency="1" name="alive"/>
