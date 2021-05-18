@@ -19,7 +19,7 @@
   <ResourceSupply>
     <KillBeforeGather>false</KillBeforeGather>
     <Amount>Infinity</Amount>
-    <Type>water.fall</Type>
+    <Type>water.clean</Type>
     <MaxGatherers>25</MaxGatherers>
     <DiminishingReturns>0.90</DiminishingReturns>
   </ResourceSupply>
