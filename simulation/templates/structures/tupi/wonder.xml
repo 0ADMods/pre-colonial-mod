@@ -7,7 +7,7 @@
   <GarrisonHolder disable=""/>
   <Identity>
     <Civ>tupi</Civ>
-    <SpecificName>Coricancha</SpecificName>
+    <SpecificName></SpecificName>
   </Identity>
   <Obstruction>
     <Static width="60.0" depth="30.0"/>
