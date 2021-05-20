@@ -14,12 +14,6 @@
         <texture file="props/tupi_props.png" name="baseTex"/>
       </textures>
     </variant>
-        <variant frequency="100" name="Base3">
-      <mesh>props/helmet/tupi_cocar_3.dae</mesh>
-      <textures>
-        <texture file="props/tupi_props.png" name="baseTex"/>
-      </textures>
-    </variant>
   </group>
-  <material>basic_trans.xml</material>
+  <material>player_trans.xml</material>
 </actor>
