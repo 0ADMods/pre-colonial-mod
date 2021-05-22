@@ -2,23 +2,32 @@
 <Entity parent="template_unit_infantry_ranged">
   <Attack>
     <Ranged>
-      <AttackName>Blowgunner</AttackName>
+     <ApplyStatus>
+        <Poisoned>
+          <Interval>2000</Interval>
+          <Damage>
+            <Poison>1</Poison>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>9000</Duration>
+        </Poisoned>
+      </ApplyStatus>
+      <AttackName></AttackName>
       <Damage>
-        <Hack>0</Hack>
-        <Pierce>16.0</Pierce>
-        <Crush>0</Crush>
+        <Pierce>7.0</Pierce>
+        <Crush>1.1</Crush>
       </Damage>
-      <MaxRange>18.0</MaxRange>
-      <MinRange>5.0</MinRange>
-      <PrepareTime>3000</PrepareTime>
-      <RepeatTime>2000</RepeatTime>
+      <MaxRange>30</MaxRange>
+      <PrepareTime>950</PrepareTime>
+      <RepeatTime>1650</RepeatTime>
       <Projectile>
-        <Speed>100.0</Speed>
-        <Gravity>50.50</Gravity>
-        <Spread>1.0</Spread>
+        <Speed>90</Speed>
+        <Spread>1</Spread>
+        <Gravity>45</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
       </Projectile>
-        <RestrictedClasses datatype="tokens">Gates Structure</RestrictedClasses>
-      <PreferredClasses datatype="tokens">Organic</PreferredClasses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Ranged>
   </Attack>
   <Cost>
@@ -27,7 +36,7 @@
     </Resources>
   </Cost>
   <Identity>
-    <VisibleClasses datatype="tokens">Javelinist</VisibleClasses>
+    <VisibleClasses datatype="tokens">Blowgunner</VisibleClasses>
     <GenericName>Skirmisher</GenericName>
   </Identity>
   <Loot>
