@@ -11,8 +11,6 @@
       units/{civ}/infantry_scoult_archer_b
       units/{civ}/hero_cazonci
     </Entities>
-    <Technologies datatype="tokens">
-    </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/tarascans/civic_center.xml</Actor>

@@ -99,7 +99,6 @@
 	 "skirmish/units/default_cavalry": "units/itza/infantry_spearman_b",
 	 "skirmish/units/default_infantry_ranged_b": "units/itza/infantry_archer_b",
 	 "skirmish/units/default_infantry_melee_b": "units/itza/infantry_swordsman_b",
-	 "skirmish/structures/default_house_10": "structures/{civ}/house",
 	 "skirmish/units/default_ship_trireme":"units/itza/ship_bireme"
 	},
 	"SelectableInGameSetup": true
