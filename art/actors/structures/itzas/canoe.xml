@@ -4,13 +4,13 @@
   <float/>
   <group>
     <variant>
-      <mesh>structural/canoe_1.dae</mesh>
+      <mesh>structural/canoe_nativo_basic.dae</mesh>
       <props>
-		<prop actor="units/itzas/canoe_navigator.xml" attachpoint="1"/>	   
-        <prop actor="props/structures/ptolemies/fishing_boat_basket.xml" attachpoint="basket1"/>
+  <prop actor="units/itzas/canoe_navigator.xml" attachpoint="fisherman"/>    
+        <prop actor="props/structures/ptolemies/fishing_boat_basket.xml" attachpoint="basket"/>
       </props>
       <textures>
-        <texture file="structural/itzas_struct.png" name="baseTex"/>
+        <texture file="structural/itzas_struct.png" name="baseTex" />
       </textures>
     </variant>
   </group>

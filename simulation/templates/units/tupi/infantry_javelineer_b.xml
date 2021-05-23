@@ -10,7 +10,7 @@
   <Identity>
     <Civ>tupi</Civ>
     <SelectionGroupName>units/tupi_infantry_javelineer_b</SelectionGroupName>
-    <GenericName>Javalinist warrior</GenericName>
+    <GenericName>Javalinist Omagua Warrior</GenericName>
     <Icon>units/inca_javelinist.png</Icon>
   </Identity>
   <Promotion>

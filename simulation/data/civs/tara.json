@@ -21,71 +21,31 @@
 	"Factions":
 	[
 		{
-			"Name": "taraica",
+			"Name": "Tarascans",
 			"Description": ".",
 			"Technologies":
 			[
-				{
-					"Name": "aq",
-					"History": "aq",
-					"Description": "aq" 
-				}
+
 			],
 			"Heroes":
 			[
-				{
-					"Name": "Tenoch",
-					"Class": "Infantry Swordsman",
-					"Armament": "",
-					"Emblem": "",
-					"History": "Was a ruler of the taraicas during the fourteenth century during the Aztec nomads travels from Aztlan to Tenochtitlan."
-				}
 			] 
 		} 
 	],
 	"CivBonuses":
 	[
-		{
-			"Name": "Xochiyáoyotl",
-			"History": "taraica soldiers favored melee and wore light armor.",
-			"Description": "taraica melee infantry have +1.6 walk speed and do +2 pierce damage at the cost of 2 pierce armor level."
-		},
-		{
-			"Name" : "Advanced Agriculture",
-			"History" : "The taraicas were good farmers.",
-			"Description" : "Boost  food gathering in all phases"
-		}
 	],
 	"TeamBonuses":
 	[],
 	"Structures":
 	[
 		{
-			"Name": "Ball Court",
-			"Class": "SB",
-			"Emblem": "",
-			"History": "A Mesoamerican ballcourt is a large masonry structure of a type used in Mesoamerica for over 2,700 years to play the Mesoamerican ballgame, particularly the hip-ball version of the ballgame. More than 1,300 ballcourts have been identified, 60% in the last 20 years alone.",
-			"Requirements": "House,Civic Centre",
-			"Phase": "City",
-			"Special": "."
 		},
 		{
-		 	"Name":"Tēlpochcalli",
-		 	"Class":"SB",
-		 	"Emblem":"",
-		 	"History":"Tēlpochcalli (Nahuatl: house of the young men), were centers where Aztec youth were educated, from age 15, to serve their community and for war. These youth schools were located in each district or calpulli.",
-		 	"Requirements": "House,Temple,Ball Court",
-		 	"Phase":"Town",
-		 	"Special" : "."
+
 		},
 		{
-			"Name":"Calmecac",
-			"Class":"",
-			"Emblem":"",
-			"History":"The Calmecac House of lineage, was a school for the sons of Aztec nobility (pīpiltin) in the Late Postclassic period of Mesoamerican history, where they would receive rigorous religious and military training. The two main primary sources for information on the calmecac and telpochcalli are in Bernardino de Sahagún's Florentine Codex of the General History of the Things of New Spain (Books III, VI, and VIII) and part 3 of the Codex Mendoza.Although the calmecac has been characterized as for elites only, Sahagun's account says that at times commoners, macehualtin were assigned to the calmecac as well and trained for the priesthood",
-			"Requirements":"Civic Centre,Temple,Barracks,Fortress",
-			"Phase":"City",
-			"Special":"."
+
 		}
 	],
 	"WallSets":
@@ -151,7 +111,6 @@
 		"skirmish/units/default_cavalry": "units/tara/infantry_maceman_b",
 		"skirmish/units/default_infantry_ranged_b": "units/tara/infantry_javelineer_b",
 		"skirmish/units/special_starting_unit": "units/tara/infantry_scoult_archer_b",
-		"skirmish/structures/default_house_10": "structures/{civ}/house",
 		"skirmish/units/default_cavalry": "units/itza/infantry_spearman_b",
 	    "skirmish/units/default_ship_trireme":"units/itza/ship_bireme"
 	},
