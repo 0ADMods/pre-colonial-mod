@@ -8,7 +8,7 @@
     <Max>5</Max>
   </Health>
   <Identity>
-    <GenericName>Trukey</GenericName>
+    <GenericName>Turkey</GenericName>
     <SpecificName>Huaxolotl</SpecificName>
     <Tooltip>Mesoamerican domestic bird.</Tooltip>
     <Icon>gaia/fauna_turkey.png</Icon>
@@ -20,7 +20,7 @@
     <Anchor>upright</Anchor>
   </Position>
   <ResourceSupply>
-    <Max>40</Max>
+    <Max>50</Max>
     <MaxGatherers>5</MaxGatherers>
   </ResourceSupply>
   <Sound>

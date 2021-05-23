@@ -1,0 +1,14 @@
+{
+	"genericName": "Special Colonisation",
+	"description": "Buildings gain longer vision for scouting.",
+	"cost": { "food": 100, "wood": 100, "stone": 100, "metal": 100 },
+	"requirements": { "tech": "phase_city" },
+	"icon": "pigeon.png",
+	"researchTime": 40,
+	"tooltip": "Buildings +70% vision range.",
+	"modifications": [
+		{ "value": "Vision/Range", "multiply": 1.7 }
+	],
+	"affects": ["Structure"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

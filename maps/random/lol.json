@@ -1,0 +1,10 @@
+{
+	"settings" : {
+		"Name" : "A",
+		"Script" : "spc_one.js",
+		"Description" : "A!.",
+		"Keywords": ["hidden"],
+		"Preview" : "tropical_river.png",
+		"CircularMap" : true
+	}
+}
