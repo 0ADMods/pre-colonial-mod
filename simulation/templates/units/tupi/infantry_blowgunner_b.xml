@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_blowgunner">
-   <Attack>
-    <Ranged>
-      <ApplyStatus>
-        <Poisoned>
-          <Interval>2000</Interval>
-          <Damage>
-            <Poison>1.0</Poison>
-          </Damage>
-          <Stackability>Extend</Stackability>
-          <Duration>8000</Duration>
-        </Poisoned>
-      </ApplyStatus>
-    </Ranged>
-  </Attack>
   <Builder>
     <Rate>0.5</Rate>
     <Entities datatype="tokens">

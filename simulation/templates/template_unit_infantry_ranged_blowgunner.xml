@@ -12,7 +12,7 @@
           <Duration>9000</Duration>
         </Poisoned>
       </ApplyStatus>
-      <AttackName></AttackName>
+      <AttackName>Blowgunner</AttackName>
       <Damage>
         <Pierce>7.0</Pierce>
         <Crush>1.1</Crush>
