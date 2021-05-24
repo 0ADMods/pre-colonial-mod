@@ -4,7 +4,7 @@
     <Civ>hopi</Civ>
     <GenericName>Hopi Spearman</GenericName>
     <SelectionGroupName>units/zapo_infantry_spearman_b</SelectionGroupName>
-    <Icon>units/zapo/infantry_spearman.png</Icon>
+    <Icon>units/zapo_infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/hopi/infantry_spearman_a</Entity>

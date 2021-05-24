@@ -22,7 +22,7 @@
     <Height>3.0</Height>
   </Footprint>
   <Identity>
-    <Civ>itza</Civ>
+    <Civ>maya</Civ>
     <SpecificName>Battering Ram</SpecificName>
     <Icon>units/inca_mechanical_siege_ram.png</Icon>
   </Identity>

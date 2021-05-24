@@ -5,7 +5,7 @@
     <variant file="biped/base_archer_ready.xml">
       <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
-        <prop actor="props/units/heads/head_inca_basic.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/head_mixtec.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/bow_bamboo_long.xml" attachpoint="weapon_bow"/>
         <prop actor="props/units/helmets/cocar.xml" attachpoint="helmet"/>
@@ -14,7 +14,6 @@
       </props>
       <textures>
         <texture file="skeletal/amazonia.png" name="baseTex"/>
-        <texture file="skeletal/amazonia_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
@@ -25,5 +24,5 @@
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/death_infantry.xml"/>
   </group>
-  <material>player_trans_spec.xml</material>
+  <material>player_trans.xml</material>
 </actor>

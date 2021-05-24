@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_fishing">
   <Identity>
-    <Civ>tupi</Civ>
+    <Civ>omag</Civ>
     <SpecificName>Ploîon Halieutikón</SpecificName>
     <Icon>units/ptol_ship_fishing.png</Icon>
   </Identity>
