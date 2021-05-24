@@ -9,7 +9,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/inca/infantry_slinger_b</SelectionGroupName>
-    <GenericName>Inca Slinger</GenericName>
+    <GenericName>Quíchua Slinger</GenericName>
     <SpecificName>Auca Runa apay Huaraca</SpecificName>
     <Icon>units/inca_slinger.png</Icon>
   </Identity>

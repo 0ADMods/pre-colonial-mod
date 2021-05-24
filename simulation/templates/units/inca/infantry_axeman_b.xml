@@ -9,7 +9,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/inca/infantry_axeman_b</SelectionGroupName>
-    <GenericName>Inca axeman</GenericName>
+    <GenericName>Quíchua Axeman</GenericName>
     <SpecificName>Auca Runa apay Chictana</SpecificName>
     <Icon>units/inca_axeman.png</Icon>
   </Identity>

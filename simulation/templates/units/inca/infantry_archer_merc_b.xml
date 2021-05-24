@@ -10,8 +10,8 @@
     <Civ>inca</Civ>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <SelectionGroupName>units/inca_infantry_archer_merc_b</SelectionGroupName>
-    <GenericName>Machiguenga Archer</GenericName>
-    <SpecificName>Wisa Machiguenga</SpecificName>
+    <GenericName>Ashaninka Archer</GenericName>
+    <SpecificName>Wisa Ashaninka</SpecificName>
     <Icon>units/inca_merc_2.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>

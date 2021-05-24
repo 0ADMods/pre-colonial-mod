@@ -9,7 +9,7 @@
   <Identity>
     <Civ>tupi</Civ>
     <SpecificName>Kunhã</SpecificName>
-    <GenericName>tupi Woman</GenericName>
+    <GenericName>Tupi Woman</GenericName>
     <Icon>units/ptol_support_female_citizen.png</Icon>
     <SelectionGroupName>units/tupi/support_female_citizen</SelectionGroupName>
   </Identity>

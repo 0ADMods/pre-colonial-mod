@@ -9,7 +9,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/inca/infantry_pikeman_b</SelectionGroupName>
-    <GenericName>Inca pikeman</GenericName>
+    <GenericName>Quíchua Pikeman</GenericName>
     <SpecificName>Auca Runa paga Turpuna</SpecificName>
     <Icon>units/inca_pikeman.png</Icon>
   </Identity>

@@ -9,7 +9,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/inca/infantry_javelineer_b</SelectionGroupName>
-    <GenericName>Inca javallinist</GenericName>
+    <GenericName>Quíchua Javallineer</GenericName>
     <RequiredTechnology>phase_city</RequiredTechnology>
     <SpecificName>Auca Runa apay Antañauichi</SpecificName>
     <Icon>units/inca_javelinist.png</Icon>

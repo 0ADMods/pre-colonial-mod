@@ -9,7 +9,7 @@
   <Identity>
     <Civ>inca</Civ>
     <SelectionGroupName>units/inca/infantry_spearman_b</SelectionGroupName>
-    <GenericName>Inca spearman</GenericName>
+    <GenericName>Quíchua Spearman</GenericName>
     <SpecificName>Auca Runa paga Suchuc Chuqui</SpecificName>
     <Icon>units/inca_spearman.png</Icon>
   </Identity>
