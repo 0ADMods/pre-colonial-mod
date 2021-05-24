@@ -8,7 +8,7 @@
     <Civ>itza</Civ>
     <GenericName>Trading Ship</GenericName>
     <SpecificName>Jukuub' Konol</SpecificName>
-    <Icon>units/zapo_ship_canoe_merchant.png</Icon>
+    <Icon>units/zapo/ship_canoe_merchant.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/itzas/canoe_merchant.xml</Actor>

@@ -5,7 +5,7 @@
     <SelectionGroupName>units/maya_champion_infantry_javelinist</SelectionGroupName>
     <GenericName>General de guerra</GenericName>
     <SpecificName>Nacom</SpecificName>
-    <Icon>units/zapo_infantry_javelinist.png</Icon>
+    <Icon>units/zapo/infantry_javelinist.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/itzas/infantry_javelinist_c.xml</Actor>

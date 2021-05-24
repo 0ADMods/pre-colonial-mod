@@ -44,7 +44,7 @@
     <SpecificName>Tilo'm Bate</SpecificName>
         <RequiredTechnology>phase_city</RequiredTechnology>
     <Tooltip>siege</Tooltip>
-    <Icon>units/maya_fire.png</Icon>
+    <Icon>units/itza/fire.png</Icon>
   </Identity>
     <Health>
     <Max>100</Max>

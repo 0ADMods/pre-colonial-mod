@@ -66,7 +66,7 @@
 		"tree5": "gaia/tree/strangler",
 		"fruitBush": "gaia/fruit/berry_01",
 		"chicken": "gaia/fauna_turkey",
-		"mainHuntableAnimal": "gaia/fauna_turkey",
+		"mainHuntableAnimal": "gaia/fauna_tapir",
 		"fish": "gaia/fish/generic",
 		"secondaryHuntableAnimal": "gaia/fauna_jaguar",
 		"stoneLarge": "gaia/rock/tropical_large",

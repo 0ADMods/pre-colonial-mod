@@ -1,0 +1,95 @@
+{
+	"Description": {
+		"Title": "Jungle",
+		"Description": "Explore the mysterious jungle."
+	},
+	"Environment": {
+		"Water": {
+			"WaterBody": {
+				"Color": { "r": 0.584, "g": 0.824, "b": 0.929 },
+				"Tint": { "r": 0.569, "g": 0.965, "b": 0.945 },
+				"Murkiness": 0.35,
+				"Waviness": 1.5
+			}
+		},
+		"Fog": {
+			"FogThickness": 0.4,
+			"FogFactor": 0.005
+		},
+		"Postproc": {
+			"PostprocEffect": "hdr",
+			"Contrast": 1.17,
+			"Saturation": 1.24,
+			"Bloom": 0.08
+		}
+	},
+	"Terrains": {
+		"mainTerrain": [
+			"tropic_grass_c",
+			"tropic_grass_c",
+			"tropic_grass_c",
+			"tropic_grass_c",
+			"tropic_grass_plants",
+			"tropic_plants",
+			"tropic_plants_b"
+		],
+		"forestFloor1": "tropic_plants_c",
+		"forestFloor2": "tropic_plants_c",
+		"cliff": [
+			"tropic_cliff_a",
+			"tropic_cliff_a",
+			"tropic_cliff_a",
+			"tropic_cliff_a_plants"
+		],
+		"tier1Terrain": "tropic_grass_c",
+		"tier2Terrain": "tropic_grass_plants",
+		"tier3Terrain": "tropic_plants",
+		"tier4Terrain": "tropic_plants_b",
+		"hill": [
+			"tropic_cliff_grass"
+		],
+		"dirt": [
+			"tropic_dirt_a",
+			"tropic_dirt_a_plants"
+		],
+		"road": "tropic_citytile_a",
+		"roadWild": "tropic_citytile_plants",
+		"shoreBlend": "temp_mud_plants",
+		"shore": "tropic_beach_dry_plants",
+		"water": "tropic_beach_dry"
+	},
+	"Gaia": {
+		"tree1": "gaia/tree/banyan",
+		"tree2": "gaia/tree/tropic_rainforest",
+		"tree3": "gaia/tree/palm_areca",
+		"tree4": "gaia/tree/palm_tropic",
+		"tree5": "gaia/tree/strangler",
+		"fruitBush": "gaia/fruit/berry_01",
+		"chicken": "gaia/fauna_turkey",
+		"mainHuntableAnimal": "gaia/fauna_tapir",
+		"fish": "gaia/fish/generic",
+		"secondaryHuntableAnimal": "gaia/fauna_jaguar",
+		"stoneLarge": "gaia/rock/tropical_large",
+		"stoneSmall": "gaia/rock/tropical_small",
+		"metalLarge": "gaia/ore/tropical_large",
+		"metalSmall": "gaia/ore/tropical_small"
+	},
+	"Decoratives": {
+		"grass": "actor|props/flora/plant_tropic_a.xml",
+		"grassShort": "actor|props/flora/plant_lg.xml",
+		"reeds": "actor|props/flora/reeds_pond_lush_b.xml",
+		"lillies": "actor|props/flora/water_lillies.xml",
+		"rockLarge": "actor|geology/stone_granite_large.xml",
+		"rockMedium": "actor|geology/stone_granite_med.xml",
+		"bushMedium": "actor|props/flora/plant_tropic_large.xml",
+		"bushSmall": "actor|props/flora/plant_tropic_large.xml",
+		"tree": "actor|flora/trees/tropic_forest_biome_tree.xml"
+	},
+	"ResourceCounts": {
+		"trees": {
+			"min": 4000,
+			"max": 8000,
+			"forestProbability": 0.75
+		}
+	}
+}

@@ -14,7 +14,7 @@
     <Pickup>true</Pickup>
   </GarrisonHolder>
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>itza</Civ>
     <SpecificName>Jukuub' Tok' pakal</SpecificName>
     <Icon>units/rome_ship_bireme.png</Icon>
   </Identity>
