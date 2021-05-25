@@ -5,7 +5,7 @@
     <GenericName>Maceman Warrior</GenericName>
     <SpecificName>B'aat Bate</SpecificName>
     <SelectionGroupName>units/itza/infantry_maceman_b</SelectionGroupName>
-    <Icon>units/itza/axeman.png</Icon>
+    <Icon>units/itza/maceman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/itza/infantry_maceman_a</Entity>

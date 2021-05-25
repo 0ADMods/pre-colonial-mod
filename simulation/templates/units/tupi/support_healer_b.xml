@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_healer">
   <Identity>
-    <Civ>omag</Civ>
+    <Civ>tupi</Civ>
     <SelectionGroupName>units/omag_support_healer_b</SelectionGroupName>
     <GenericName>Tupi Priest</GenericName>
     <SpecificName>Paîé</SpecificName>
     <Icon>units/omag_healer.png</Icon> 
   </Identity> 
   <Promotion>
-    <Entity>units/tupi/support_healer_a</Entity>
+    <Entity>units/tupi/paje</Entity>
   </Promotion> 
   <VisualActor>
     <Actor>units/tupis/healer.xml</Actor>

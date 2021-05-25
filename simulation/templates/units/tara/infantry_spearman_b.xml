@@ -5,7 +5,7 @@
     <GenericName>Purépecha Spearman</GenericName>
     <SpecificName></SpecificName>
     <SelectionGroupName>units/tara_infantry_spearman_b</SelectionGroupName>
-    <Icon>units/mex/infantry_spearman.png</Icon>
+    <Icon>units/tara/spearman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>

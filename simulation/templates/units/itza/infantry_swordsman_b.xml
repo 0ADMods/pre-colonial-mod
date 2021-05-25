@@ -5,7 +5,7 @@
     <GenericName>Swordsman Warrior</GenericName>
     <SpecificName>B'aat Bate</SpecificName>
     <SelectionGroupName>units/mex/infantry_swordsman_b</SelectionGroupName>
-    <Icon>units/mex/infantry_swordsman.png</Icon>
+    <Icon>units/mex/swordsman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/itza/infantry_swordsman_a</Entity>

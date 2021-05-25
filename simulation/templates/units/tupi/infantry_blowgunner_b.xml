@@ -11,7 +11,7 @@
     <Civ>tupi</Civ>
     <GenericName>Blowgunner Hunter</GenericName>
     <SpecificName>Zarabatana</SpecificName>
-    <Icon>units/blowgunner.png</Icon>
+    <Icon>units/itza/blowgunner.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tupi/infantry_blowgunner_a</Entity>

@@ -5,7 +5,7 @@
     <GenericName>Purépecha Slinger</GenericName>
     <SpecificName>Guixe Bixeenda</SpecificName>
     <SelectionGroupName>units/tara_infantry_slinger_b</SelectionGroupName>
-    <Icon>units/tara/infantry_slinger.png</Icon>
+    <Icon>units/mex/infantry_slinger.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tara/infantry_slinger_a</Entity>

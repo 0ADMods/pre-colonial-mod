@@ -17,7 +17,7 @@
     <Civ>tupi</Civ>
     <GenericName>Barracks</GenericName>
     <SpecificName>Awaqanakuy wasi</SpecificName>
-    <Icon>structures/pers_barracks.png</Icon>
+    <Icon>structures/meso_barracks.png</Icon>
     <VisibleClasses datatype="tokens">Village Barracks Blacksmith</VisibleClasses>
   </Identity>
   <Obstruction>

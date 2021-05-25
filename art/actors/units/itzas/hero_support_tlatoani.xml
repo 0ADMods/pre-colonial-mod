@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+      <animations>
+        <animation file="biped/lider_warcray.dae" name="heal" speed="70"/>
+        <animation file="biped/lider_warcray.dae" name="build" speed="70"/>
+        <animation file="biped/lider_idle_1.dae"  name="idle" speed="70"/>
+        <animation file="biped/lider_walk.dae"    name="walk" speed="10"/>
+        <animation file="biped/lider_walk.dae"    name="run" speed="25"/>
+        <animation file="biped/infantry/death_a.dae" name="Death" id="death1" speed="60"/>
+        <animation file="biped/infantry/death_b.dae" name="Death" id="death2" speed="60"/>
+      </animations>
+      <mesh>skeletal/new/m_cotton_laincloth.dae</mesh>
+      <props>
+        <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
+         <prop actor="props/units/helmets/helmet_maya_nobre.xml" attachpoint="helmet"/>
+        <prop actor="props/units/weapons/tlatoani_spear.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/capes/tlatoani_cape.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="skeletal/mesoamerican_villager_m_basic.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

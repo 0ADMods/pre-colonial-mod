@@ -32,7 +32,7 @@
     <SelectionGroupName>units/zapo_infantry_maceman_b</SelectionGroupName>
     <GenericName>Tacape Warrior</GenericName>
     <SpecificName>tacape guarinim</SpecificName>
-    <Icon>units/inca_maceman.png</Icon>
+    <Icon>units/tupi/tacape.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tupi/infantry_maceman_a</Entity>

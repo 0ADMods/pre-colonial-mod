@@ -12,7 +12,7 @@
     <Civ>itza</Civ>
     <SpecificName>ixik</SpecificName>
     <GenericName>itza Woman</GenericName>
-    <Icon>units/ptol_support_female_citizen.png</Icon>
+    <Icon>units/itza/woman.png</Icon>
     <SelectionGroupName>units/itza/support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>

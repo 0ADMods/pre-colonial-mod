@@ -6,7 +6,7 @@
     <VisibleClasses datatype="tokens">Hunterblowgunner</VisibleClasses>
     <GenericName>Maya blowgunner hunter</GenericName>
     <SpecificName>A'nab</SpecificName>
-    <Icon>units/maya_blowgunner.png</Icon>
+    <Icon>units/itza/blowgunner.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <TrainingRestrictions>

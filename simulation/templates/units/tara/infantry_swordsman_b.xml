@@ -5,7 +5,7 @@
     <GenericName>Macuahuitl Purépecha</GenericName>
     <SpecificName>Macuahuitl Macehualli</SpecificName>
     <SelectionGroupName>units/tara/infantry_swordsman_b</SelectionGroupName>
-    <Icon>units/mex/infantry_swordsman.png</Icon>
+    <Icon>units/tara/swordsman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>

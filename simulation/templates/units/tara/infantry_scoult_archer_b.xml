@@ -19,7 +19,7 @@
     <GenericName>Corredores de Pungarancha</GenericName>
     <SpecificName></SpecificName>
     <SelectionGroupName>units/tara_infantry_archer_pungarancha</SelectionGroupName>
-    <Icon>units/mex/infantry_archer.png</Icon>
+    <Icon>units/tara/archer_runner.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tara/infantry_scoult_archer_a</Entity>

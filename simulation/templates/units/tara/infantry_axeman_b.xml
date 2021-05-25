@@ -5,7 +5,7 @@
     <GenericName>Axeman Purépecha</GenericName>
     <SpecificName></SpecificName>
     <SelectionGroupName>units/tara/infantry_axeman_b</SelectionGroupName>
-    <Icon>units/mex/infantry_axeman.png</Icon>
+    <Icon>units/tara/axeman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tara/infantry_axeman_a</Entity>

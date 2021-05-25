@@ -11,7 +11,7 @@
     <Civ>tupi</Civ>
     <SelectionGroupName>units/tupi_infantry_javelineer_b</SelectionGroupName>
     <GenericName>Javalinist Omagua Warrior</GenericName>
-    <Icon>units/inca_javelinist.png</Icon>
+    <Icon>units/tupi/blowgunner.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/tupi/infantry_javelineer_a</Entity>
