@@ -6,8 +6,6 @@
             <mesh>structural/tupis_aldeia_f.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_9x9.xml" attachpoint="root"/>
-	   <prop actor="props/structures/aldeia_f_d.xml" attachpoint="root"/>
-	    <prop actor="props/structures/aldeia_f_p.xml" attachpoint="root"/>
         <prop actor="props/structures/aldeia_f_w.xml" attachpoint="root"/>
         <prop actor="structures/tupis/ocara.xml" attachpoint="root"/>  
       </props>
