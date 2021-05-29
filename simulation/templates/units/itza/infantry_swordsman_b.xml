@@ -4,7 +4,7 @@
     <Civ>itza</Civ>
     <GenericName>Swordsman Warrior</GenericName>
     <SpecificName>B'aat Bate</SpecificName>
-    <SelectionGroupName>units/mex/infantry_swordsman_b</SelectionGroupName>
+    <SelectionGroupName>units/mex/infantry_swordsman</SelectionGroupName>
     <Icon>units/mex/swordsman.png</Icon>
   </Identity>
   <Promotion>
