@@ -8,7 +8,7 @@
 	"requirements": {
 		"entity": {
 			"class": "Town",
-			"number": 4
+			"number": 5
 		}
 	},
 	"requirementsTooltip": "Requires 4 Town Structures.",
