@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_archer">
+   <Attack>
+    <Ranged>
+     <ApplyStatus>
+        <Burning>
+          <Interval>5000</Interval>
+          <Damage>
+            <Fire>2</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>9000</Duration>
+        </Burning>
+      </ApplyStatus>
+    </Ranged>
+  </Attack>
   <Identity>
     <Civ>tara</Civ>
     <GenericName>Corredores de Pungarancha</GenericName>
@@ -8,32 +22,21 @@
     <Icon>units/tara/archer_runner.png</Icon>
   </Identity>
   <Promotion disable=""/>
-    <ResourceGatherer>
-    <MaxDistance>2.0</MaxDistance>
-    <BaseSpeed>1.0</BaseSpeed>
-    <Rates>
-      <food.meat>5</food.meat>
-    </Rates>
-    <Capacities>
-      <food>20</food>
-    </Capacities>
-  </ResourceGatherer>
    <UnitMotion>
     <WalkSpeed op="mul">1.6</WalkSpeed>
     <RunMultiplier>1.1</RunMultiplier>
   </UnitMotion>
   <Upgrade>
-    <UseFireArrows>
-      <Entity>units/tara/infantry_scoult_archer_fire</Entity>
-      <Tooltip>Switch fire arrows (anti-building).</Tooltip>
-    <RequiredTechnology></RequiredTechnology>
+    <UseNormalArrows>
+      <Entity>units/tara/infantry_scoult_archer_b</Entity>
+      <Tooltip>Switch normal arrows.</Tooltip>
       <Cost>
         <wood>5</wood>
       </Cost>
       <Time>10</Time>
-    </UseFireArrows>
+    </UseNormalArrows>
   </Upgrade>
   <VisualActor>
-    <Actor>units/tarascans/infantry_archer_b.xml</Actor>
+    <Actor>units/tarascans/infantry_archer_fire.xml</Actor>
   </VisualActor>
 </Entity>

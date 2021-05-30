@@ -7,7 +7,6 @@
       <props>
         <prop actor="props/units/heads/head_purepecha.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/helmet_pure_b.xml" attachpoint="head"/>
-        <prop actor="props/units/helmets/helmet_pure_dec_1.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/bow_bamboo_long.xml" attachpoint="weapon_L"/>
         <prop actor="props/units/quiver_back_bamboo.xml" attachpoint="back"/>
       </props>
@@ -32,7 +31,7 @@
   </group>
   <group>
     <variant frequency="100" name="Idle"/>
-    <variant file="biped/attack_ranged_archer.xml">
+    <variant file="biped/attack_ranged_archer_fire.xml">
       <props>
         <prop actor="props/units/weapons/bow_bamboo_long.xml" attachpoint="weapon_L"/>
       </props>
