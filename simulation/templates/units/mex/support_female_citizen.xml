@@ -3,6 +3,7 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
+      structures/mex/ball_court
     </Entities>
   </Builder>
   <Identity>

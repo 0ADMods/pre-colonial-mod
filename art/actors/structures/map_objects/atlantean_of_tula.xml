@@ -10,7 +10,7 @@
       <textures>
         <texture file="structural/tula_statue.png" name="baseTex"/>
         <texture file="structural/ao/tula_statue_ao.png" name="specTex"/>
-        <texture file="structural/tula_statue_normal.png" name="normTex"/>
+        <texture file="structural/tula_statue_norm.png" name="normTex"/>
         <texture file="structural/ao/tula_statue_ao.png" name="aoTex"/>
       </textures>
     </variant>
