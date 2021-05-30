@@ -11,7 +11,7 @@
     <SelectionGroupName>units/infantry_champion</SelectionGroupName>
     <GenericName>Champion Warrior</GenericName>
     <SpecificName>Nauru</SpecificName>
-    <Icon>units/omag_axeman.png</Icon>
+    <Icon>units/itza/axeman.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/tupis/infantry_maceman_c.xml</Actor>
