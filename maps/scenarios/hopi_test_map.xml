@@ -72,193 +72,193 @@
 ]]></ScriptSettings>
 	<Entities>
 		<Entity uid="150">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1010" z="510"/>
 			<Orientation y="2.26214"/>
 		</Entity>
 		<Entity uid="151">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="990" z="510"/>
 			<Orientation y="5.13073"/>
 		</Entity>
 		<Entity uid="152">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="986" z="502"/>
 			<Orientation y="4.5663"/>
 		</Entity>
 		<Entity uid="153">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="986" z="494"/>
 			<Orientation y="2.26917"/>
 		</Entity>
 		<Entity uid="154">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="986" z="486"/>
 			<Orientation y="0.30892"/>
 		</Entity>
 		<Entity uid="155">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="990" z="486"/>
 			<Orientation y="3.82944"/>
 		</Entity>
 		<Entity uid="156">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="998" z="482"/>
 			<Orientation y="0.831"/>
 		</Entity>
 		<Entity uid="157">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1010" z="482"/>
 			<Orientation y="0.52448"/>
 		</Entity>
 		<Entity uid="158">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1010" z="486"/>
 			<Orientation y="5.16872"/>
 		</Entity>
 		<Entity uid="159">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1014" z="486"/>
 			<Orientation y="4.62105"/>
 		</Entity>
 		<Entity uid="160">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1014" z="494"/>
 			<Orientation y="2.58053"/>
 		</Entity>
 		<Entity uid="161">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1014" z="498"/>
 			<Orientation y="6.23708"/>
 		</Entity>
 		<Entity uid="162">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1014" z="502"/>
 			<Orientation y="4.8489"/>
 		</Entity>
 		<Entity uid="163">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1014" z="506"/>
 			<Orientation y="2.7847"/>
 		</Entity>
 		<Entity uid="164">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="994" z="506"/>
 			<Orientation y="1.26652"/>
 		</Entity>
 		<Entity uid="165">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="998" z="506"/>
 			<Orientation y="0.30652"/>
 		</Entity>
 		<Entity uid="166">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1002" z="506"/>
 			<Orientation y="4.2265"/>
 		</Entity>
 		<Entity uid="167">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="990" z="494"/>
 			<Orientation y="4.71731"/>
 		</Entity>
 		<Entity uid="168">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="990" z="498"/>
 			<Orientation y="3.86023"/>
 		</Entity>
 		<Entity uid="169">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="994" z="486"/>
 			<Orientation y="3.61857"/>
 		</Entity>
 		<Entity uid="170">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1002" z="486"/>
 			<Orientation y="1.01902"/>
 		</Entity>
 		<Entity uid="171">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1006" z="490"/>
 			<Orientation y="3.49427"/>
 		</Entity>
 		<Entity uid="172">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1010" z="490"/>
 			<Orientation y="6.17382"/>
 		</Entity>
 		<Entity uid="173">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1010" z="494"/>
 			<Orientation y="2.1844"/>
 		</Entity>
 		<Entity uid="174">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1006" z="502"/>
 			<Orientation y="4.1903"/>
 		</Entity>
 		<Entity uid="175">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="998" z="502"/>
 			<Orientation y="5.04134"/>
 		</Entity>
 		<Entity uid="176">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1002" z="502"/>
 			<Orientation y="0.56963"/>
 		</Entity>
 		<Entity uid="177">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="994" z="498"/>
 			<Orientation y="2.53545"/>
 		</Entity>
 		<Entity uid="178">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="998" z="498"/>
 			<Orientation y="0.61019"/>
 		</Entity>
 		<Entity uid="179">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="998" z="490"/>
 			<Orientation y="3.15481"/>
 		</Entity>
 		<Entity uid="180">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="998" z="494"/>
 			<Orientation y="2.14504"/>
 		</Entity>
 		<Entity uid="181">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1002" z="490"/>
 			<Orientation y="3.85409"/>
@@ -274,283 +274,283 @@
 			<Orientation y="-0.52375"/>
 		</Entity>
 		<Entity uid="184">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1114" z="842"/>
 			<Orientation y="3.09862"/>
 		</Entity>
 		<Entity uid="185">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="842"/>
 			<Orientation y="4.74154"/>
 		</Entity>
 		<Entity uid="186">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1110" z="842"/>
 			<Orientation y="1.36872"/>
 		</Entity>
 		<Entity uid="187">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1106" z="830"/>
 			<Orientation y="0.83211"/>
 		</Entity>
 		<Entity uid="188">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1106" z="834"/>
 			<Orientation y="5.95136"/>
 		</Entity>
 		<Entity uid="189">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1106" z="826"/>
 			<Orientation y="6.12797"/>
 		</Entity>
 		<Entity uid="190">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1106" z="822"/>
 			<Orientation y="4.92457"/>
 		</Entity>
 		<Entity uid="191">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1110" z="814"/>
 			<Orientation y="4.22677"/>
 		</Entity>
 		<Entity uid="192">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1118" z="814"/>
 			<Orientation y="4.6715"/>
 		</Entity>
 		<Entity uid="193">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1122" z="814"/>
 			<Orientation y="4.18441"/>
 		</Entity>
 		<Entity uid="194">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1126" z="814"/>
 			<Orientation y="0.91001"/>
 		</Entity>
 		<Entity uid="195">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="814"/>
 			<Orientation y="4.60428"/>
 		</Entity>
 		<Entity uid="196">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="818"/>
 			<Orientation y="1.71991"/>
 		</Entity>
 		<Entity uid="197">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1134" z="818"/>
 			<Orientation y="0.31249"/>
 		</Entity>
 		<Entity uid="198">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1134" z="822"/>
 			<Orientation y="6.08863"/>
 		</Entity>
 		<Entity uid="199">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1134" z="826"/>
 			<Orientation y="3.89364"/>
 		</Entity>
 		<Entity uid="200">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1134" z="830"/>
 			<Orientation y="3.438"/>
 		</Entity>
 		<Entity uid="201">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1134" z="834"/>
 			<Orientation y="5.34385"/>
 		</Entity>
 		<Entity uid="202">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1134" z="838"/>
 			<Orientation y="5.75637"/>
 		</Entity>
 		<Entity uid="203">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="838"/>
 			<Orientation y="1.16025"/>
 		</Entity>
 		<Entity uid="204">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1114" z="838"/>
 			<Orientation y="4.07787"/>
 		</Entity>
 		<Entity uid="205">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1122" z="838"/>
 			<Orientation y="4.4018"/>
 		</Entity>
 		<Entity uid="206">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1126" z="838"/>
 			<Orientation y="3.03035"/>
 		</Entity>
 		<Entity uid="207">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1110" z="834"/>
 			<Orientation y="0.58687"/>
 		</Entity>
 		<Entity uid="208">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1114" z="834"/>
 			<Orientation y="2.30594"/>
 		</Entity>
 		<Entity uid="209">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1110" z="826"/>
 			<Orientation y="3.34343"/>
 		</Entity>
 		<Entity uid="210">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1110" z="830"/>
 			<Orientation y="3.65622"/>
 		</Entity>
 		<Entity uid="211">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1110" z="822"/>
 			<Orientation y="1.9427"/>
 		</Entity>
 		<Entity uid="212">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1114" z="818"/>
 			<Orientation y="2.12528"/>
 		</Entity>
 		<Entity uid="213">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1118" z="818"/>
 			<Orientation y="2.29389"/>
 		</Entity>
 		<Entity uid="214">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1122" z="818"/>
 			<Orientation y="2.41382"/>
 		</Entity>
 		<Entity uid="215">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1126" z="818"/>
 			<Orientation y="1.11406"/>
 		</Entity>
 		<Entity uid="216">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1126" z="822"/>
 			<Orientation y="4.33776"/>
 		</Entity>
 		<Entity uid="217">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="822"/>
 			<Orientation y="6.18076"/>
 		</Entity>
 		<Entity uid="218">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="826"/>
 			<Orientation y="1.89393"/>
 		</Entity>
 		<Entity uid="219">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="830"/>
 			<Orientation y="4.27677"/>
 		</Entity>
 		<Entity uid="220">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1130" z="834"/>
 			<Orientation y="5.97817"/>
 		</Entity>
 		<Entity uid="221">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1118" z="834"/>
 			<Orientation y="1.6627"/>
 		</Entity>
 		<Entity uid="222">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1122" z="834"/>
 			<Orientation y="5.32657"/>
 		</Entity>
 		<Entity uid="223">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1114" z="830"/>
 			<Orientation y="3.36965"/>
 		</Entity>
 		<Entity uid="224">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1118" z="830"/>
 			<Orientation y="4.8482"/>
 		</Entity>
 		<Entity uid="225">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1114" z="826"/>
 			<Orientation y="4.86828"/>
 		</Entity>
 		<Entity uid="226">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1118" z="822"/>
 			<Orientation y="4.25771"/>
 		</Entity>
 		<Entity uid="227">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1118" z="826"/>
 			<Orientation y="0.01885"/>
 		</Entity>
 		<Entity uid="228">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1122" z="822"/>
 			<Orientation y="0.42624"/>
 		</Entity>
 		<Entity uid="229">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1126" z="826"/>
 			<Orientation y="5.68191"/>
 		</Entity>
 		<Entity uid="230">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1122" z="830"/>
 			<Orientation y="4.7803"/>
@@ -576,295 +576,295 @@
 			<Orientation y="-1.40168"/>
 		</Entity>
 		<Entity uid="235">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="902" z="1122"/>
 			<Orientation y="5.40593"/>
 		</Entity>
 		<Entity uid="236">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="906" z="1122"/>
 			<Orientation y="3.53061"/>
 		</Entity>
 		<Entity uid="237">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="910" z="1122"/>
 			<Orientation y="2.10998"/>
 		</Entity>
 		<Entity uid="238">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="910" z="1126"/>
 			<Orientation y="2.14397"/>
 		</Entity>
 		<Entity uid="239">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="914" z="1122"/>
 			<Orientation y="1.53808"/>
 		</Entity>
 		<Entity uid="240">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="898" z="1122"/>
 			<Orientation y="1.044"/>
 		</Entity>
 		<Entity uid="241">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="894" z="1110"/>
 			<Orientation y="2.86477"/>
 		</Entity>
 		<Entity uid="242">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="894" z="1114"/>
 			<Orientation y="1.41788"/>
 		</Entity>
 		<Entity uid="243">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="894" z="1106"/>
 			<Orientation y="3.41181"/>
 		</Entity>
 		<Entity uid="244">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="894" z="1102"/>
 			<Orientation y="4.27614"/>
 		</Entity>
 		<Entity uid="245">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="894" z="1098"/>
 			<Orientation y="2.16697"/>
 		</Entity>
 		<Entity uid="246">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="898" z="1094"/>
 			<Orientation y="5.76462"/>
 		</Entity>
 		<Entity uid="247">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="898" z="1098"/>
 			<Orientation y="2.93679"/>
 		</Entity>
 		<Entity uid="248">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="902" z="1094"/>
 			<Orientation y="1.39716"/>
 		</Entity>
 		<Entity uid="249">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="906" z="1094"/>
 			<Orientation y="3.6159"/>
 		</Entity>
 		<Entity uid="250">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="910" z="1094"/>
 			<Orientation y="0.55929"/>
 		</Entity>
 		<Entity uid="251">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="918" z="1094"/>
 			<Orientation y="6.07142"/>
 		</Entity>
 		<Entity uid="252">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="918" z="1098"/>
 			<Orientation y="4.274"/>
 		</Entity>
 		<Entity uid="253">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="922" z="1098"/>
 			<Orientation y="2.05974"/>
 		</Entity>
 		<Entity uid="254">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="922" z="1102"/>
 			<Orientation y="5.22226"/>
 		</Entity>
 		<Entity uid="255">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="922" z="1106"/>
 			<Orientation y="5.3913"/>
 		</Entity>
 		<Entity uid="256">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="922" z="1110"/>
 			<Orientation y="2.94646"/>
 		</Entity>
 		<Entity uid="257">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="922" z="1114"/>
 			<Orientation y="5.69314"/>
 		</Entity>
 		<Entity uid="258">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="922" z="1118"/>
 			<Orientation y="4.3676"/>
 		</Entity>
 		<Entity uid="259">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="918" z="1118"/>
 			<Orientation y="5.74337"/>
 		</Entity>
 		<Entity uid="260">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="902" z="1118"/>
 			<Orientation y="4.85613"/>
 		</Entity>
 		<Entity uid="261">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="906" z="1118"/>
 			<Orientation y="0.1254"/>
 		</Entity>
 		<Entity uid="262">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="910" z="1118"/>
 			<Orientation y="2.1845"/>
 		</Entity>
 		<Entity uid="263">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="914" z="1118"/>
 			<Orientation y="4.30536"/>
 		</Entity>
 		<Entity uid="264">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="898" z="1114"/>
 			<Orientation y="2.2597"/>
 		</Entity>
 		<Entity uid="265">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="902" z="1114"/>
 			<Orientation y="2.64472"/>
 		</Entity>
 		<Entity uid="266">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="898" z="1106"/>
 			<Orientation y="5.31347"/>
 		</Entity>
 		<Entity uid="267">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="898" z="1110"/>
 			<Orientation y="5.0108"/>
 		</Entity>
 		<Entity uid="268">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="902" z="1098"/>
 			<Orientation y="0.45351"/>
 		</Entity>
 		<Entity uid="269">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="906" z="1098"/>
 			<Orientation y="0.3729"/>
 		</Entity>
 		<Entity uid="270">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="914" z="1098"/>
 			<Orientation y="1.93662"/>
 		</Entity>
 		<Entity uid="271">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="914" z="1102"/>
 			<Orientation y="1.12575"/>
 		</Entity>
 		<Entity uid="272">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="918" z="1106"/>
 			<Orientation y="0.22068"/>
 		</Entity>
 		<Entity uid="273">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="918" z="1114"/>
 			<Orientation y="2.79888"/>
 		</Entity>
 		<Entity uid="274">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="906" z="1114"/>
 			<Orientation y="0.24592"/>
 		</Entity>
 		<Entity uid="275">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="902" z="1110"/>
 			<Orientation y="0.09433"/>
 		</Entity>
 		<Entity uid="276">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="906" z="1110"/>
 			<Orientation y="1.87114"/>
 		</Entity>
 		<Entity uid="277">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="902" z="1106"/>
 			<Orientation y="5.14365"/>
 		</Entity>
 		<Entity uid="278">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="906" z="1102"/>
 			<Orientation y="0.14403"/>
 		</Entity>
 		<Entity uid="279">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="906" z="1106"/>
 			<Orientation y="0.51252"/>
 		</Entity>
 		<Entity uid="280">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="910" z="1106"/>
 			<Orientation y="2.08776"/>
 		</Entity>
 		<Entity uid="281">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="914" z="1106"/>
 			<Orientation y="4.13357"/>
 		</Entity>
 		<Entity uid="282">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="914" z="1110"/>
 			<Orientation y="6.17043"/>
 		</Entity>
 		<Entity uid="283">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="910" z="1110"/>
 			<Orientation y="6.09246"/>
@@ -880,241 +880,241 @@
 			<Orientation y="-1.61464"/>
 		</Entity>
 		<Entity uid="286">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="502" z="1182"/>
 			<Orientation y="1.70948"/>
 		</Entity>
 		<Entity uid="287">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="506" z="1186"/>
 			<Orientation y="2.56539"/>
 		</Entity>
 		<Entity uid="288">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="510" z="1182"/>
 			<Orientation y="1.72445"/>
 		</Entity>
 		<Entity uid="289">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="514" z="1182"/>
 			<Orientation y="5.94526"/>
 		</Entity>
 		<Entity uid="290">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="494" z="1182"/>
 			<Orientation y="3.22176"/>
 		</Entity>
 		<Entity uid="291">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="490" z="1178"/>
 			<Orientation y="0.21943"/>
 		</Entity>
 		<Entity uid="292">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="494" z="1178"/>
 			<Orientation y="0.37188"/>
 		</Entity>
 		<Entity uid="293">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="490" z="1170"/>
 			<Orientation y="2.18058"/>
 		</Entity>
 		<Entity uid="294">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="490" z="1166"/>
 			<Orientation y="0.34913"/>
 		</Entity>
 		<Entity uid="295">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="490" z="1162"/>
 			<Orientation y="3.92325"/>
 		</Entity>
 		<Entity uid="296">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="494" z="1158"/>
 			<Orientation y="1.02356"/>
 		</Entity>
 		<Entity uid="297">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="502" z="1154"/>
 			<Orientation y="3.88697"/>
 		</Entity>
 		<Entity uid="298">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="506" z="1154"/>
 			<Orientation y="4.18248"/>
 		</Entity>
 		<Entity uid="299">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="510" z="1154"/>
 			<Orientation y="4.53882"/>
 		</Entity>
 		<Entity uid="300">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="518" z="1162"/>
 			<Orientation y="2.41257"/>
 		</Entity>
 		<Entity uid="301">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="518" z="1166"/>
 			<Orientation y="5.42872"/>
 		</Entity>
 		<Entity uid="302">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="518" z="1170"/>
 			<Orientation y="4.86864"/>
 		</Entity>
 		<Entity uid="303">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="518" z="1174"/>
 			<Orientation y="6.05564"/>
 		</Entity>
 		<Entity uid="304">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="514" z="1178"/>
 			<Orientation y="1.76442"/>
 		</Entity>
 		<Entity uid="305">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="502" z="1178"/>
 			<Orientation y="3.49405"/>
 		</Entity>
 		<Entity uid="306">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="506" z="1178"/>
 			<Orientation y="6.00112"/>
 		</Entity>
 		<Entity uid="307">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="498" z="1174"/>
 			<Orientation y="0.19973"/>
 		</Entity>
 		<Entity uid="308">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="494" z="1170"/>
 			<Orientation y="0.02477"/>
 		</Entity>
 		<Entity uid="309">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="494" z="1162"/>
 			<Orientation y="5.75733"/>
 		</Entity>
 		<Entity uid="310">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="498" z="1158"/>
 			<Orientation y="5.55338"/>
 		</Entity>
 		<Entity uid="311">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="498" z="1162"/>
 			<Orientation y="5.5493"/>
 		</Entity>
 		<Entity uid="312">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="502" z="1158"/>
 			<Orientation y="5.59473"/>
 		</Entity>
 		<Entity uid="313">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="510" z="1158"/>
 			<Orientation y="0.66971"/>
 		</Entity>
 		<Entity uid="314">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="510" z="1162"/>
 			<Orientation y="2.59165"/>
 		</Entity>
 		<Entity uid="315">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="514" z="1162"/>
 			<Orientation y="2.34015"/>
 		</Entity>
 		<Entity uid="316">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="514" z="1166"/>
 			<Orientation y="2.08884"/>
 		</Entity>
 		<Entity uid="317">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="514" z="1174"/>
 			<Orientation y="0.25979"/>
 		</Entity>
 		<Entity uid="318">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="510" z="1174"/>
 			<Orientation y="2.01423"/>
 		</Entity>
 		<Entity uid="319">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="498" z="1170"/>
 			<Orientation y="2.5189"/>
 		</Entity>
 		<Entity uid="320">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="502" z="1170"/>
 			<Orientation y="4.51085"/>
 		</Entity>
 		<Entity uid="321">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="502" z="1162"/>
 			<Orientation y="4.18718"/>
 		</Entity>
 		<Entity uid="322">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="502" z="1166"/>
 			<Orientation y="5.43717"/>
 		</Entity>
 		<Entity uid="323">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="506" z="1162"/>
 			<Orientation y="2.75998"/>
 		</Entity>
 		<Entity uid="324">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="510" z="1166"/>
 			<Orientation y="0.70952"/>
 		</Entity>
 		<Entity uid="325">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="506" z="1170"/>
 			<Orientation y="5.74637"/>
@@ -1130,247 +1130,247 @@
 			<Orientation y="-4.41037"/>
 		</Entity>
 		<Entity uid="328">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="270" z="986"/>
 			<Orientation y="0.82776"/>
 		</Entity>
 		<Entity uid="329">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="274" z="986"/>
 			<Orientation y="1.6805"/>
 		</Entity>
 		<Entity uid="330">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="278" z="986"/>
 			<Orientation y="2.25878"/>
 		</Entity>
 		<Entity uid="331">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="278" z="990"/>
 			<Orientation y="3.12153"/>
 		</Entity>
 		<Entity uid="332">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="282" z="986"/>
 			<Orientation y="5.95061"/>
 		</Entity>
 		<Entity uid="333">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="286" z="986"/>
 			<Orientation y="5.88938"/>
 		</Entity>
 		<Entity uid="334">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="266" z="986"/>
 			<Orientation y="1.60497"/>
 		</Entity>
 		<Entity uid="335">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="266" z="982"/>
 			<Orientation y="4.87563"/>
 		</Entity>
 		<Entity uid="336">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="262" z="974"/>
 			<Orientation y="2.93454"/>
 		</Entity>
 		<Entity uid="337">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="262" z="978"/>
 			<Orientation y="3.71521"/>
 		</Entity>
 		<Entity uid="338">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="262" z="970"/>
 			<Orientation y="1.29297"/>
 		</Entity>
 		<Entity uid="339">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="262" z="966"/>
 			<Orientation y="4.42635"/>
 		</Entity>
 		<Entity uid="340">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="262" z="962"/>
 			<Orientation y="0.23433"/>
 		</Entity>
 		<Entity uid="341">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="270" z="958"/>
 			<Orientation y="5.78501"/>
 		</Entity>
 		<Entity uid="342">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="278" z="958"/>
 			<Orientation y="5.78867"/>
 		</Entity>
 		<Entity uid="343">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="286" z="958"/>
 			<Orientation y="3.20548"/>
 		</Entity>
 		<Entity uid="344">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="286" z="962"/>
 			<Orientation y="4.23433"/>
 		</Entity>
 		<Entity uid="345">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="290" z="962"/>
 			<Orientation y="1.34852"/>
 		</Entity>
 		<Entity uid="346">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="290" z="966"/>
 			<Orientation y="0.29793"/>
 		</Entity>
 		<Entity uid="347">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="290" z="970"/>
 			<Orientation y="0.83831"/>
 		</Entity>
 		<Entity uid="348">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="290" z="974"/>
 			<Orientation y="4.71857"/>
 		</Entity>
 		<Entity uid="349">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="290" z="982"/>
 			<Orientation y="5.76145"/>
 		</Entity>
 		<Entity uid="350">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="286" z="982"/>
 			<Orientation y="1.54497"/>
 		</Entity>
 		<Entity uid="351">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="270" z="982"/>
 			<Orientation y="3.19542"/>
 		</Entity>
 		<Entity uid="352">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="278" z="982"/>
 			<Orientation y="5.2288"/>
 		</Entity>
 		<Entity uid="353">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="266" z="974"/>
 			<Orientation y="1.588"/>
 		</Entity>
 		<Entity uid="354">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="266" z="966"/>
 			<Orientation y="5.14081"/>
 		</Entity>
 		<Entity uid="355">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="270" z="962"/>
 			<Orientation y="3.81408"/>
 		</Entity>
 		<Entity uid="356">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="274" z="962"/>
 			<Orientation y="1.36997"/>
 		</Entity>
 		<Entity uid="357">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="278" z="962"/>
 			<Orientation y="4.83274"/>
 		</Entity>
 		<Entity uid="358">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="282" z="962"/>
 			<Orientation y="3.73122"/>
 		</Entity>
 		<Entity uid="359">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="286" z="966"/>
 			<Orientation y="2.42325"/>
 		</Entity>
 		<Entity uid="360">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="286" z="970"/>
 			<Orientation y="0.67904"/>
 		</Entity>
 		<Entity uid="361">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="286" z="974"/>
 			<Orientation y="0.28748"/>
 		</Entity>
 		<Entity uid="362">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="282" z="978"/>
 			<Orientation y="5.57078"/>
 		</Entity>
 		<Entity uid="363">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="270" z="974"/>
 			<Orientation y="3.83713"/>
 		</Entity>
 		<Entity uid="364">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="274" z="966"/>
 			<Orientation y="3.0327"/>
 		</Entity>
 		<Entity uid="365">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="274" z="970"/>
 			<Orientation y="3.06121"/>
 		</Entity>
 		<Entity uid="366">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="278" z="966"/>
 			<Orientation y="1.29714"/>
 		</Entity>
 		<Entity uid="367">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="282" z="970"/>
 			<Orientation y="2.41787"/>
 		</Entity>
 		<Entity uid="368">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="278" z="974"/>
 			<Orientation y="2.25452"/>
@@ -1401,229 +1401,229 @@
 			<Orientation y="-0.90432"/>
 		</Entity>
 		<Entity uid="374">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="230" z="642"/>
 			<Orientation y="1.6048"/>
 		</Entity>
 		<Entity uid="375">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="242" z="642"/>
 			<Orientation y="2.72138"/>
 		</Entity>
 		<Entity uid="376">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="226" z="642"/>
 			<Orientation y="2.61092"/>
 		</Entity>
 		<Entity uid="377">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="222" z="638"/>
 			<Orientation y="2.4573"/>
 		</Entity>
 		<Entity uid="378">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="222" z="634"/>
 			<Orientation y="1.5957"/>
 		</Entity>
 		<Entity uid="379">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="222" z="622"/>
 			<Orientation y="1.83541"/>
 		</Entity>
 		<Entity uid="380">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="226" z="614"/>
 			<Orientation y="1.18815"/>
 		</Entity>
 		<Entity uid="381">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="230" z="614"/>
 			<Orientation y="1.32883"/>
 		</Entity>
 		<Entity uid="382">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="238" z="614"/>
 			<Orientation y="4.62761"/>
 		</Entity>
 		<Entity uid="383">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="242" z="614"/>
 			<Orientation y="4.32743"/>
 		</Entity>
 		<Entity uid="384">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="246" z="614"/>
 			<Orientation y="1.44693"/>
 		</Entity>
 		<Entity uid="385">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="246" z="618"/>
 			<Orientation y="4.79096"/>
 		</Entity>
 		<Entity uid="386">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="250" z="618"/>
 			<Orientation y="5.76384"/>
 		</Entity>
 		<Entity uid="387">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="250" z="622"/>
 			<Orientation y="5.54015"/>
 		</Entity>
 		<Entity uid="388">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="230" z="638"/>
 			<Orientation y="5.51288"/>
 		</Entity>
 		<Entity uid="389">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="234" z="638"/>
 			<Orientation y="2.04854"/>
 		</Entity>
 		<Entity uid="390">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="238" z="638"/>
 			<Orientation y="3.73238"/>
 		</Entity>
 		<Entity uid="391">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="242" z="638"/>
 			<Orientation y="1.89051"/>
 		</Entity>
 		<Entity uid="392">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="226" z="634"/>
 			<Orientation y="6.02852"/>
 		</Entity>
 		<Entity uid="393">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="230" z="634"/>
 			<Orientation y="1.78528"/>
 		</Entity>
 		<Entity uid="394">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="226" z="626"/>
 			<Orientation y="4.23356"/>
 		</Entity>
 		<Entity uid="395">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="226" z="630"/>
 			<Orientation y="3.4606"/>
 		</Entity>
 		<Entity uid="396">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="234" z="618"/>
 			<Orientation y="0.00606"/>
 		</Entity>
 		<Entity uid="397">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="238" z="618"/>
 			<Orientation y="3.19295"/>
 		</Entity>
 		<Entity uid="398">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="242" z="618"/>
 			<Orientation y="0.95034"/>
 		</Entity>
 		<Entity uid="399">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="242" z="622"/>
 			<Orientation y="0.45308"/>
 		</Entity>
 		<Entity uid="400">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="246" z="622"/>
 			<Orientation y="3.26726"/>
 		</Entity>
 		<Entity uid="401">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="246" z="626"/>
 			<Orientation y="3.02375"/>
 		</Entity>
 		<Entity uid="402">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="246" z="630"/>
 			<Orientation y="3.01766"/>
 		</Entity>
 		<Entity uid="403">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="246" z="634"/>
 			<Orientation y="5.5738"/>
 		</Entity>
 		<Entity uid="404">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="238" z="634"/>
 			<Orientation y="4.27675"/>
 		</Entity>
 		<Entity uid="405">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="230" z="630"/>
 			<Orientation y="5.70171"/>
 		</Entity>
 		<Entity uid="406">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="234" z="630"/>
 			<Orientation y="5.43622"/>
 		</Entity>
 		<Entity uid="407">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="234" z="622"/>
 			<Orientation y="5.69642"/>
 		</Entity>
 		<Entity uid="408">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="238" z="622"/>
 			<Orientation y="2.66051"/>
 		</Entity>
 		<Entity uid="409">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="238" z="626"/>
 			<Orientation y="5.74216"/>
 		</Entity>
 		<Entity uid="410">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="242" z="630"/>
 			<Orientation y="3.94906"/>
 		</Entity>
 		<Entity uid="411">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="238" z="630"/>
 			<Orientation y="2.44721"/>
@@ -1639,235 +1639,235 @@
 			<Orientation y="-0.49833"/>
 		</Entity>
 		<Entity uid="414">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="426" z="366"/>
 			<Orientation y="2.4617"/>
 		</Entity>
 		<Entity uid="415">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="430" z="366"/>
 			<Orientation y="2.26697"/>
 		</Entity>
 		<Entity uid="416">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="434" z="366"/>
 			<Orientation y="0.29029"/>
 		</Entity>
 		<Entity uid="417">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="434" z="370"/>
 			<Orientation y="1.78568"/>
 		</Entity>
 		<Entity uid="418">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="438" z="366"/>
 			<Orientation y="4.7883"/>
 		</Entity>
 		<Entity uid="419">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="442" z="366"/>
 			<Orientation y="6.07607"/>
 		</Entity>
 		<Entity uid="420">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="418" z="362"/>
 			<Orientation y="5.50335"/>
 		</Entity>
 		<Entity uid="421">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="422" z="362"/>
 			<Orientation y="1.04865"/>
 		</Entity>
 		<Entity uid="422">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="418" z="354"/>
 			<Orientation y="3.08136"/>
 		</Entity>
 		<Entity uid="423">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="418" z="358"/>
 			<Orientation y="5.86442"/>
 		</Entity>
 		<Entity uid="424">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="418" z="350"/>
 			<Orientation y="6.0817"/>
 		</Entity>
 		<Entity uid="425">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="418" z="342"/>
 			<Orientation y="5.13886"/>
 		</Entity>
 		<Entity uid="426">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="422" z="338"/>
 			<Orientation y="1.25116"/>
 		</Entity>
 		<Entity uid="427">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="426" z="338"/>
 			<Orientation y="4.6482"/>
 		</Entity>
 		<Entity uid="428">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="430" z="338"/>
 			<Orientation y="4.63807"/>
 		</Entity>
 		<Entity uid="429">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="434" z="338"/>
 			<Orientation y="0.17655"/>
 		</Entity>
 		<Entity uid="430">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="442" z="342"/>
 			<Orientation y="3.9458"/>
 		</Entity>
 		<Entity uid="431">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="446" z="346"/>
 			<Orientation y="1.00853"/>
 		</Entity>
 		<Entity uid="432">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="446" z="350"/>
 			<Orientation y="3.57915"/>
 		</Entity>
 		<Entity uid="433">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="446" z="354"/>
 			<Orientation y="5.56992"/>
 		</Entity>
 		<Entity uid="434">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="438" z="362"/>
 			<Orientation y="0.56754"/>
 		</Entity>
 		<Entity uid="435">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="422" z="358"/>
 			<Orientation y="2.79133"/>
 		</Entity>
 		<Entity uid="436">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="422" z="350"/>
 			<Orientation y="2.93995"/>
 		</Entity>
 		<Entity uid="437">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="426" z="342"/>
 			<Orientation y="2.98377"/>
 		</Entity>
 		<Entity uid="438">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="426" z="346"/>
 			<Orientation y="2.64905"/>
 		</Entity>
 		<Entity uid="439">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="430" z="342"/>
 			<Orientation y="1.63567"/>
 		</Entity>
 		<Entity uid="440">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="438" z="342"/>
 			<Orientation y="0.76853"/>
 		</Entity>
 		<Entity uid="441">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="442" z="346"/>
 			<Orientation y="2.72555"/>
 		</Entity>
 		<Entity uid="442">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="442" z="354"/>
 			<Orientation y="2.16901"/>
 		</Entity>
 		<Entity uid="443">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="442" z="358"/>
 			<Orientation y="0.8573"/>
 		</Entity>
 		<Entity uid="444">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="438" z="358"/>
 			<Orientation y="0.52956"/>
 		</Entity>
 		<Entity uid="445">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="430" z="358"/>
 			<Orientation y="0.5455"/>
 		</Entity>
 		<Entity uid="446">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="434" z="358"/>
 			<Orientation y="2.31234"/>
 		</Entity>
 		<Entity uid="447">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="426" z="354"/>
 			<Orientation y="3.5964"/>
 		</Entity>
 		<Entity uid="448">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="430" z="354"/>
 			<Orientation y="5.16437"/>
 		</Entity>
 		<Entity uid="449">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="430" z="350"/>
 			<Orientation y="1.1576"/>
 		</Entity>
 		<Entity uid="450">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="438" z="350"/>
 			<Orientation y="4.57433"/>
 		</Entity>
 		<Entity uid="451">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="438" z="354"/>
 			<Orientation y="0.65061"/>
 		</Entity>
 		<Entity uid="452">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="434" z="354"/>
 			<Orientation y="1.08027"/>
@@ -1893,271 +1893,271 @@
 			<Orientation y="-1.01334"/>
 		</Entity>
 		<Entity uid="457">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="698" z="306"/>
 			<Orientation y="1.41613"/>
 		</Entity>
 		<Entity uid="458">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="706" z="310"/>
 			<Orientation y="0.91099"/>
 		</Entity>
 		<Entity uid="459">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="710" z="306"/>
 			<Orientation y="1.5535"/>
 		</Entity>
 		<Entity uid="460">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="694" z="306"/>
 			<Orientation y="3.69912"/>
 		</Entity>
 		<Entity uid="461">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="690" z="302"/>
 			<Orientation y="0.6237"/>
 		</Entity>
 		<Entity uid="462">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="694" z="302"/>
 			<Orientation y="2.4898"/>
 		</Entity>
 		<Entity uid="463">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="690" z="294"/>
 			<Orientation y="3.5769"/>
 		</Entity>
 		<Entity uid="464">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="690" z="290"/>
 			<Orientation y="1.71163"/>
 		</Entity>
 		<Entity uid="465">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="690" z="286"/>
 			<Orientation y="0.62"/>
 		</Entity>
 		<Entity uid="466">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="690" z="282"/>
 			<Orientation y="1.22941"/>
 		</Entity>
 		<Entity uid="467">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="694" z="278"/>
 			<Orientation y="3.16797"/>
 		</Entity>
 		<Entity uid="468">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="694" z="282"/>
 			<Orientation y="2.06617"/>
 		</Entity>
 		<Entity uid="469">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="698" z="278"/>
 			<Orientation y="4.18537"/>
 		</Entity>
 		<Entity uid="470">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="702" z="278"/>
 			<Orientation y="3.14258"/>
 		</Entity>
 		<Entity uid="471">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="706" z="278"/>
 			<Orientation y="1.7448"/>
 		</Entity>
 		<Entity uid="472">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="710" z="278"/>
 			<Orientation y="1.96418"/>
 		</Entity>
 		<Entity uid="473">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="714" z="282"/>
 			<Orientation y="4.50696"/>
 		</Entity>
 		<Entity uid="474">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="718" z="286"/>
 			<Orientation y="5.69632"/>
 		</Entity>
 		<Entity uid="475">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="718" z="290"/>
 			<Orientation y="3.50792"/>
 		</Entity>
 		<Entity uid="476">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="718" z="294"/>
 			<Orientation y="0.51003"/>
 		</Entity>
 		<Entity uid="477">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="718" z="302"/>
 			<Orientation y="4.0967"/>
 		</Entity>
 		<Entity uid="478">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="698" z="302"/>
 			<Orientation y="2.40046"/>
 		</Entity>
 		<Entity uid="479">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="702" z="302"/>
 			<Orientation y="2.87992"/>
 		</Entity>
 		<Entity uid="480">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="706" z="302"/>
 			<Orientation y="3.5382"/>
 		</Entity>
 		<Entity uid="481">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="710" z="302"/>
 			<Orientation y="6.18667"/>
 		</Entity>
 		<Entity uid="482">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="694" z="298"/>
 			<Orientation y="2.3233"/>
 		</Entity>
 		<Entity uid="483">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="694" z="290"/>
 			<Orientation y="1.53705"/>
 		</Entity>
 		<Entity uid="484">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="698" z="282"/>
 			<Orientation y="5.17737"/>
 		</Entity>
 		<Entity uid="485">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="702" z="282"/>
 			<Orientation y="0.26693"/>
 		</Entity>
 		<Entity uid="486">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="706" z="282"/>
 			<Orientation y="2.76558"/>
 		</Entity>
 		<Entity uid="487">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="714" z="286"/>
 			<Orientation y="1.52796"/>
 		</Entity>
 		<Entity uid="488">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="714" z="290"/>
 			<Orientation y="2.38598"/>
 		</Entity>
 		<Entity uid="489">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="714" z="294"/>
 			<Orientation y="5.30872"/>
 		</Entity>
 		<Entity uid="490">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="714" z="298"/>
 			<Orientation y="0.89043"/>
 		</Entity>
 		<Entity uid="491">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="710" z="298"/>
 			<Orientation y="4.37616"/>
 		</Entity>
 		<Entity uid="492">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="702" z="298"/>
 			<Orientation y="3.26008"/>
 		</Entity>
 		<Entity uid="493">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="706" z="298"/>
 			<Orientation y="2.05918"/>
 		</Entity>
 		<Entity uid="494">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="698" z="294"/>
 			<Orientation y="4.14081"/>
 		</Entity>
 		<Entity uid="495">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="702" z="294"/>
 			<Orientation y="5.36025"/>
 		</Entity>
 		<Entity uid="496">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="698" z="290"/>
 			<Orientation y="5.98531"/>
 		</Entity>
 		<Entity uid="497">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="702" z="286"/>
 			<Orientation y="3.3189"/>
 		</Entity>
 		<Entity uid="498">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="706" z="286"/>
 			<Orientation y="4.57499"/>
 		</Entity>
 		<Entity uid="499">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="706" z="290"/>
 			<Orientation y="0.98314"/>
 		</Entity>
 		<Entity uid="500">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="710" z="290"/>
 			<Orientation y="0.77445"/>
 		</Entity>
 		<Entity uid="501">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="710" z="294"/>
 			<Orientation y="6.1266"/>
@@ -2204,13 +2204,13 @@
 			<Orientation y="-0.65105"/>
 		</Entity>
 		<Entity uid="520">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1026.0611" z="336.30237"/>
 			<Orientation y="-2.8227"/>
 		</Entity>
 		<Entity uid="521">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1020.34174" z="324.71747"/>
 			<Orientation y="-2.89203"/>
@@ -2232,43 +2232,43 @@
 			<Orientation y="-4.40354"/>
 		</Entity>
 		<Entity uid="525">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="952.15137" z="348.02515"/>
 			<Orientation y="0.84778"/>
 		</Entity>
 		<Entity uid="526">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="980.8332" z="343.95942"/>
 			<Orientation y="-4.07984"/>
 		</Entity>
 		<Entity uid="527">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1048.91663" z="380.61957"/>
 			<Orientation y="-2.86884"/>
 		</Entity>
 		<Entity uid="528">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1049.35572" z="362.58082"/>
 			<Orientation y="1.25661"/>
 		</Entity>
 		<Entity uid="529">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1045.73212" z="364.46485"/>
 			<Orientation y="0.19439"/>
 		</Entity>
 		<Entity uid="530">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1053.886" z="361.08936"/>
 			<Orientation y="-3.03142"/>
 		</Entity>
 		<Entity uid="531">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1060.30866" z="372.57984"/>
 			<Orientation y="-3.94257"/>
@@ -2290,13 +2290,13 @@
 			<Orientation y="1.09345"/>
 		</Entity>
 		<Entity uid="555">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1132.88758" z="811.15516"/>
 			<Orientation y="-0.9988"/>
 		</Entity>
 		<Entity uid="556">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1146.46442" z="786.59137"/>
 			<Orientation y="-0.72136"/>
@@ -2318,43 +2318,43 @@
 			<Orientation y="-3.16642"/>
 		</Entity>
 		<Entity uid="560">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1129.94282" z="678.09192"/>
 			<Orientation y="-0.4272"/>
 		</Entity>
 		<Entity uid="561">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1129.11713" z="701.404"/>
 			<Orientation y="-3.32331"/>
 		</Entity>
 		<Entity uid="562">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1022.7801" z="756.31543"/>
 			<Orientation y="-3.00545"/>
 		</Entity>
 		<Entity uid="563">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1036.56012" z="764.30085"/>
 			<Orientation y="0.59354"/>
 		</Entity>
 		<Entity uid="564">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1020.35206" z="761.14496"/>
 			<Orientation y="-2.988"/>
 		</Entity>
 		<Entity uid="565">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1033.3006" z="760.41803"/>
 			<Orientation y="-1.36837"/>
 		</Entity>
 		<Entity uid="566">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="1029.25684" z="750.81183"/>
 			<Orientation y="-1.42971"/>
@@ -2376,13 +2376,13 @@
 			<Orientation y="0.21648"/>
 		</Entity>
 		<Entity uid="616">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="793.59064" z="980.05158"/>
 			<Orientation y="-4.49321"/>
 		</Entity>
 		<Entity uid="617">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="796.10584" z="988.849"/>
 			<Orientation y="-4.26705"/>
@@ -2404,43 +2404,43 @@
 			<Orientation y="-3.72312"/>
 		</Entity>
 		<Entity uid="621">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="823.46631" z="1085.1731"/>
 			<Orientation y="-3.66271"/>
 		</Entity>
 		<Entity uid="622">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="830.61506" z="1068.03895"/>
 			<Orientation y="-1.2004"/>
 		</Entity>
 		<Entity uid="623">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="923.83954" z="997.96253"/>
 			<Orientation y="-2.15772"/>
 		</Entity>
 		<Entity uid="624">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="919.87165" z="984.44599"/>
 			<Orientation y="-1.29955"/>
 		</Entity>
 		<Entity uid="625">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="919.27131" z="995.6678"/>
 			<Orientation y="1.56102"/>
 		</Entity>
 		<Entity uid="626">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="917.08307" z="989.47284"/>
 			<Orientation y="0.00777"/>
 		</Entity>
 		<Entity uid="627">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="915.17634" z="1002.76636"/>
 			<Orientation y="1.44758"/>
@@ -2462,13 +2462,13 @@
 			<Orientation y="-1.90011"/>
 		</Entity>
 		<Entity uid="651">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="460.14167" z="1022.34571"/>
 			<Orientation y="1.15792"/>
 		</Entity>
 		<Entity uid="652">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="471.91291" z="1020.27118"/>
 			<Orientation y="0.04351"/>
@@ -2490,43 +2490,43 @@
 			<Orientation y="0.35531"/>
 		</Entity>
 		<Entity uid="656">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="460.84668" z="1067.60761"/>
 			<Orientation y="1.40308"/>
 		</Entity>
 		<Entity uid="657">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="467.12928" z="1071.38788"/>
 			<Orientation y="-1.85492"/>
 		</Entity>
 		<Entity uid="658">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="588.06324" z="1055.18323"/>
 			<Orientation y="1.32229"/>
 		</Entity>
 		<Entity uid="659">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="580.87861" z="1057.76447"/>
 			<Orientation y="-4.47779"/>
 		</Entity>
 		<Entity uid="660">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="570.74964" z="1055.03083"/>
 			<Orientation y="0.52881"/>
 		</Entity>
 		<Entity uid="661">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="584.89814" z="1050.06836"/>
 			<Orientation y="-2.46493"/>
 		</Entity>
 		<Entity uid="662">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="570.65241" z="1059.08893"/>
 			<Orientation y="-0.59411"/>
@@ -2548,13 +2548,13 @@
 			<Orientation y="-0.7756"/>
 		</Entity>
 		<Entity uid="686">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="249.92365" z="792.52002"/>
 			<Orientation y="0.42107"/>
 		</Entity>
 		<Entity uid="687">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="233.85047" z="811.995"/>
 			<Orientation y="-1.24549"/>
@@ -2576,43 +2576,43 @@
 			<Orientation y="-2.64211"/>
 		</Entity>
 		<Entity uid="691">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="179.45807" z="851.70063"/>
 			<Orientation y="0.37975"/>
 		</Entity>
 		<Entity uid="692">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="192.01703" z="856.3949"/>
 			<Orientation y="0.33997"/>
 		</Entity>
 		<Entity uid="693">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="313.82306" z="883.02985"/>
 			<Orientation y="-3.29067"/>
 		</Entity>
 		<Entity uid="694">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="305.58484" z="881.14533"/>
 			<Orientation y="-3.92109"/>
 		</Entity>
 		<Entity uid="695">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="306.56019" z="895.89783"/>
 			<Orientation y="-1.34127"/>
 		</Entity>
 		<Entity uid="696">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="301.56257" z="885.03882"/>
 			<Orientation y="-1.3841"/>
 		</Entity>
 		<Entity uid="697">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="316.70203" z="895.32203"/>
 			<Orientation y="-0.90969"/>
@@ -2634,13 +2634,13 @@
 			<Orientation y="-4.05161"/>
 		</Entity>
 		<Entity uid="721">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="285.15644" z="483.21583"/>
 			<Orientation y="-1.17798"/>
 		</Entity>
 		<Entity uid="722">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="264.09931" z="473.8512"/>
 			<Orientation y="-1.45418"/>
@@ -2662,43 +2662,43 @@
 			<Orientation y="-3.65465"/>
 		</Entity>
 		<Entity uid="726">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="192.29413" z="451.48481"/>
 			<Orientation y="-0.84972"/>
 		</Entity>
 		<Entity uid="727">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="189.46265" z="474.1576"/>
 			<Orientation y="-3.43366"/>
 		</Entity>
 		<Entity uid="728">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="234.84449" z="506.14405"/>
 			<Orientation y="-3.84726"/>
 		</Entity>
 		<Entity uid="729">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="246.15735" z="505.19654"/>
 			<Orientation y="-4.05875"/>
 		</Entity>
 		<Entity uid="730">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="239.1449" z="513.57856"/>
 			<Orientation y="0.87955"/>
 		</Entity>
 		<Entity uid="731">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="234.18506" z="497.79743"/>
 			<Orientation y="-1.8574"/>
 		</Entity>
 		<Entity uid="732">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="241.03644" z="498.74372"/>
 			<Orientation y="1.31124"/>
@@ -2720,13 +2720,13 @@
 			<Orientation y="-0.09684"/>
 		</Entity>
 		<Entity uid="756">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="372.5904" z="324.54596"/>
 			<Orientation y="1.24604"/>
 		</Entity>
 		<Entity uid="757">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="378.01685" z="352.17621"/>
 			<Orientation y="-1.15046"/>
@@ -2748,43 +2748,43 @@
 			<Orientation y="-4.38958"/>
 		</Entity>
 		<Entity uid="761">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="473.193" z="321.69922"/>
 			<Orientation y="0.42762"/>
 		</Entity>
 		<Entity uid="762">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="475.70264" z="297.96753"/>
 			<Orientation y="-4.00335"/>
 		</Entity>
 		<Entity uid="763">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="392.74982" z="221.27552"/>
 			<Orientation y="1.11666"/>
 		</Entity>
 		<Entity uid="764">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="390.76606" z="210.12653"/>
 			<Orientation y="-1.24881"/>
 		</Entity>
 		<Entity uid="765">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="400.44751" z="211.0605"/>
 			<Orientation y="-2.47196"/>
 		</Entity>
 		<Entity uid="766">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="387.79371" z="214.76954"/>
 			<Orientation y="-0.8132"/>
 		</Entity>
 		<Entity uid="767">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="396.3125" z="224.10047"/>
 			<Orientation y="-1.33947"/>
@@ -2806,13 +2806,13 @@
 			<Orientation y="-4.6981"/>
 		</Entity>
 		<Entity uid="791">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="714.23951" z="149.74213"/>
 			<Orientation y="-1.64994"/>
 		</Entity>
 		<Entity uid="792">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="703.15595" z="125.15625"/>
 			<Orientation y="0.11243"/>
@@ -2834,43 +2834,43 @@
 			<Orientation y="-1.11342"/>
 		</Entity>
 		<Entity uid="796">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="680.95698" z="231.34559"/>
 			<Orientation y="-2.50016"/>
 		</Entity>
 		<Entity uid="797">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="670.31495" z="213.84693"/>
 			<Orientation y="0.71027"/>
 		</Entity>
 		<Entity uid="798">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="771.65558" z="161.97779"/>
 			<Orientation y="-2.88964"/>
 		</Entity>
 		<Entity uid="799">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="777.82764" z="171.51716"/>
 			<Orientation y="-2.15642"/>
 		</Entity>
 		<Entity uid="800">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="774.94251" z="157.29175"/>
 			<Orientation y="-3.2069"/>
 		</Entity>
 		<Entity uid="801">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="781.90943" z="164.11072"/>
 			<Orientation y="-3.52164"/>
 		</Entity>
 		<Entity uid="802">
-			<Template>gaia/flora_bush_grapes</Template>
+			<Template>gaia/fruit/grapes</Template>
 			<Player>0</Player>
 			<Position x="773.20856" z="177.41767"/>
 			<Orientation y="-3.2144"/>
@@ -2888,13 +2888,13 @@
 			<Orientation y="0.46303"/>
 		</Entity>
 		<Entity uid="2034">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="569.96296" z="338.94202"/>
 			<Orientation y="-3.99111"/>
 		</Entity>
 		<Entity uid="2035">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="569.46534" z="334.4579"/>
 			<Orientation y="-1.21361"/>
@@ -2916,13 +2916,13 @@
 			<Orientation y="-1.24514"/>
 		</Entity>
 		<Entity uid="2039">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="854.51056" z="80.62403"/>
 			<Orientation y="0.16146"/>
 		</Entity>
 		<Entity uid="2040">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="863.71375" z="78.123"/>
 			<Orientation y="-4.15778"/>
@@ -2949,19 +2949,19 @@
 			<Orientation y="-1.916"/>
 		</Entity>
 		<Entity uid="2045">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1020.39289" z="946.80945"/>
 			<Orientation y="-2.11812"/>
 		</Entity>
 		<Entity uid="2046">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1038.03815" z="945.08997"/>
 			<Orientation y="-3.1032"/>
 		</Entity>
 		<Entity uid="2047">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1028.53644" z="965.91041"/>
 			<Orientation y="-0.69303"/>
@@ -2988,13 +2988,13 @@
 			<Orientation y="0.9163"/>
 		</Entity>
 		<Entity uid="2052">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="391.65491" z="462.79267"/>
 			<Orientation y="-1.07547"/>
 		</Entity>
 		<Entity uid="2053">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="409.9737" z="462.64826"/>
 			<Orientation y="0.54288"/>
@@ -3021,7 +3021,7 @@
 			<Orientation y="-3.06438"/>
 		</Entity>
 		<Entity uid="2058">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="479.93671" z="919.54938"/>
 			<Orientation y="-2.20852"/>
@@ -3038,7 +3038,7 @@
 			<Orientation y="-3.17058"/>
 		</Entity>
 		<Entity uid="2061">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1212.55561" z="430.68995"/>
 			<Orientation y="1.1349"/>
@@ -3060,13 +3060,13 @@
 			<Orientation y="-2.63903"/>
 		</Entity>
 		<Entity uid="2065">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="1167.14399" z="482.65406"/>
 			<Orientation y="-0.69298"/>
 		</Entity>
 		<Entity uid="2066">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="1180.05414" z="489.73182"/>
 			<Orientation y="0.18573"/>
@@ -3088,19 +3088,19 @@
 			<Orientation y="1.42656"/>
 		</Entity>
 		<Entity uid="2070">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="107.72645" z="702.3006"/>
 			<Orientation y="-0.48121"/>
 		</Entity>
 		<Entity uid="2071">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="96.92682" z="702.90894"/>
 			<Orientation y="-0.26734"/>
 		</Entity>
 		<Entity uid="2072">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="105.19574" z="717.33399"/>
 			<Orientation y="0.3077"/>
@@ -3127,19 +3127,19 @@
 			<Orientation y="-1.34656"/>
 		</Entity>
 		<Entity uid="2077">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="523.9087" z="107.88471"/>
 			<Orientation y="-3.25245"/>
 		</Entity>
 		<Entity uid="2078">
-			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Template>gaia/tree/cretan_date_palm_short</Template>
 			<Player>0</Player>
 			<Position x="520.008" z="103.55555"/>
 			<Orientation y="-1.96604"/>
 		</Entity>
 		<Entity uid="2079">
-			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
 			<Position x="525.08387" z="117.71735"/>
 			<Orientation y="0.28151"/>
@@ -5654,854 +5654,854 @@
 			<Actor seed="41833"/>
 		</Entity>
 		<Entity uid="2590">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="620.96485" z="412.61667"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="23557"/>
 		</Entity>
 		<Entity uid="2591">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="626.47522" z="401.78794"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="19413"/>
 		</Entity>
 		<Entity uid="2592">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="611.72193" z="396.25516"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46624"/>
 		</Entity>
 		<Entity uid="2593">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="596.59961" z="407.72571"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="6417"/>
 		</Entity>
 		<Entity uid="2594">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="567.88141" z="412.4636"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22614"/>
 		</Entity>
 		<Entity uid="2595">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="585.39173" z="419.73795"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="3518"/>
 		</Entity>
 		<Entity uid="2596">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="542.57831" z="425.06275"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="215"/>
 		</Entity>
 		<Entity uid="2597">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="522.34272" z="420.6631"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15528"/>
 		</Entity>
 		<Entity uid="2598">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="503.51206" z="452.40378"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35090"/>
 		</Entity>
 		<Entity uid="2599">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="524.71924" z="439.82886"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35264"/>
 		</Entity>
 		<Entity uid="2600">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="506.87241" z="433.35389"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="10485"/>
 		</Entity>
 		<Entity uid="2601">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="477.58851" z="464.06302"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="3378"/>
 		</Entity>
 		<Entity uid="2602">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="494.55497" z="468.75977"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2993"/>
 		</Entity>
 		<Entity uid="2603">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="487.23035" z="452.23542"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="42569"/>
 		</Entity>
 		<Entity uid="2604">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="451.41529" z="484.99772"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="19821"/>
 		</Entity>
 		<Entity uid="2605">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="467.04429" z="482.04773"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64769"/>
 		</Entity>
 		<Entity uid="2606">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="461.58021" z="511.49747"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="16604"/>
 		</Entity>
 		<Entity uid="2607">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="436.38663" z="501.81782"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="58311"/>
 		</Entity>
 		<Entity uid="2608">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="435.31199" z="538.21436"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59"/>
 		</Entity>
 		<Entity uid="2609">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="418.85697" z="533.05176"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="60217"/>
 		</Entity>
 		<Entity uid="2610">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="420.41947" z="572.83478"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="49535"/>
 		</Entity>
 		<Entity uid="2611">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="406.63343" z="552.41791"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26492"/>
 		</Entity>
 		<Entity uid="2612">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="396.16376" z="594.37879"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5379"/>
 		</Entity>
 		<Entity uid="2613">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="408.19083" z="586.66346"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="9598"/>
 		</Entity>
 		<Entity uid="2614">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="424.88901" z="550.36768"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20869"/>
 		</Entity>
 		<Entity uid="2615">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="407.17582" z="535.25062"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="1938"/>
 		</Entity>
 		<Entity uid="2616">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="421.1883" z="515.56513"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51201"/>
 		</Entity>
 		<Entity uid="2617">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="402.82596" z="619.27662"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="37260"/>
 		</Entity>
 		<Entity uid="2618">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="388.75251" z="628.99384"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="36107"/>
 		</Entity>
 		<Entity uid="2619">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="390.32401" z="656.11683"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="28917"/>
 		</Entity>
 		<Entity uid="2620">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="375.85141" z="669.27021"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2229"/>
 		</Entity>
 		<Entity uid="2621">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="374.45994" z="638.9065"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="21034"/>
 		</Entity>
 		<Entity uid="2622">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="397.07206" z="639.06141"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="9265"/>
 		</Entity>
 		<Entity uid="2623">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="393.55716" z="674.20765"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="48079"/>
 		</Entity>
 		<Entity uid="2624">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="388.13736" z="665.10767"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="27330"/>
 		</Entity>
 		<Entity uid="2625">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="373.89673" z="654.12397"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20257"/>
 		</Entity>
 		<Entity uid="2626">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="396.07029" z="711.43793"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="49601"/>
 		</Entity>
 		<Entity uid="2627">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="397.94745" z="730.34424"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="24465"/>
 		</Entity>
 		<Entity uid="2628">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="383.9188" z="730.66657"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="43842"/>
 		</Entity>
 		<Entity uid="2629">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="380.98014" z="714.1808"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14540"/>
 		</Entity>
 		<Entity uid="2630">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="389.21094" z="687.58936"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="48554"/>
 		</Entity>
 		<Entity uid="2631">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="370.03586" z="700.89527"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="50610"/>
 		</Entity>
 		<Entity uid="2632">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="428.66724" z="749.05884"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5846"/>
 		</Entity>
 		<Entity uid="2633">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="405.82605" z="755.01813"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59618"/>
 		</Entity>
 		<Entity uid="2634">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="418.53736" z="734.39435"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44547"/>
 		</Entity>
 		<Entity uid="2635">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="421.38251" z="779.51862"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44394"/>
 		</Entity>
 		<Entity uid="2636">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="461.36933" z="806.6438"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31103"/>
 		</Entity>
 		<Entity uid="2637">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="462.0196" z="785.1211"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="49931"/>
 		</Entity>
 		<Entity uid="2638">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="436.22065" z="799.37879"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5089"/>
 		</Entity>
 		<Entity uid="2639">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="487.17109" z="819.79474"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51323"/>
 		</Entity>
 		<Entity uid="2640">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="508.2356" z="812.33326"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51326"/>
 		</Entity>
 		<Entity uid="2641">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="525.88282" z="822.53364"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="30982"/>
 		</Entity>
 		<Entity uid="2642">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="506.99701" z="838.14136"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46759"/>
 		</Entity>
 		<Entity uid="2643">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="564.77027" z="842.74738"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="27272"/>
 		</Entity>
 		<Entity uid="2644">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="594.30652" z="836.04395"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="33288"/>
 		</Entity>
 		<Entity uid="2645">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="591.40186" z="823.4809"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31700"/>
 		</Entity>
 		<Entity uid="2646">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="572.6714" z="830.02143"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="30557"/>
 		</Entity>
 		<Entity uid="2647">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="546.5395" z="841.86701"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45113"/>
 		</Entity>
 		<Entity uid="2648">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="640.57923" z="826.62006"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="4205"/>
 		</Entity>
 		<Entity uid="2649">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="681.61927" z="816.1927"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="27552"/>
 		</Entity>
 		<Entity uid="2650">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="750.3595" z="789.3022"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64945"/>
 		</Entity>
 		<Entity uid="2651">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="783.72352" z="777.86976"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="40887"/>
 		</Entity>
 		<Entity uid="2652">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="829.62952" z="739.99848"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="9756"/>
 		</Entity>
 		<Entity uid="2653">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="847.81836" z="709.3902"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39857"/>
 		</Entity>
 		<Entity uid="2654">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="870.99659" z="670.849"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54737"/>
 		</Entity>
 		<Entity uid="2655">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="858.28895" z="618.05793"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="16598"/>
 		</Entity>
 		<Entity uid="2656">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="846.05054" z="606.4405"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35817"/>
 		</Entity>
 		<Entity uid="2657">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="841.46265" z="587.79896"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="32090"/>
 		</Entity>
 		<Entity uid="2658">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="841.6991" z="542.64002"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59025"/>
 		</Entity>
 		<Entity uid="2659">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="843.18421" z="525.71937"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="32645"/>
 		</Entity>
 		<Entity uid="2660">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="811.49299" z="518.81153"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45721"/>
 		</Entity>
 		<Entity uid="2661">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="795.45173" z="516.68226"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59701"/>
 		</Entity>
 		<Entity uid="2662">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="783.61255" z="509.24927"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20600"/>
 		</Entity>
 		<Entity uid="2663">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="790.8042" z="487.9473"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46745"/>
 		</Entity>
 		<Entity uid="2664">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="794.6167" z="467.45038"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="3273"/>
 		</Entity>
 		<Entity uid="2665">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="787.34375" z="462.79191"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5478"/>
 		</Entity>
 		<Entity uid="2666">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="759.82221" z="469.03251"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="60369"/>
 		</Entity>
 		<Entity uid="2667">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="739.65711" z="470.02482"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22994"/>
 		</Entity>
 		<Entity uid="2668">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="733.67115" z="453.4698"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="4133"/>
 		</Entity>
 		<Entity uid="2669">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="718.00647" z="422.6207"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="21772"/>
 		</Entity>
 		<Entity uid="2670">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="712.1764" z="409.81763"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="52283"/>
 		</Entity>
 		<Entity uid="2671">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="705.3672" z="406.29114"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="13323"/>
 		</Entity>
 		<Entity uid="2672">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="690.57886" z="403.03303"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20530"/>
 		</Entity>
 		<Entity uid="2673">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="656.35425" z="415.16761"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2494"/>
 		</Entity>
 		<Entity uid="2674">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="611.32398" z="846.29395"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="61321"/>
 		</Entity>
 		<Entity uid="2675">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="628.62311" z="823.99823"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22946"/>
 		</Entity>
 		<Entity uid="2676">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="613.86652" z="819.57337"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65467"/>
 		</Entity>
 		<Entity uid="2677">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="550.86481" z="819.41315"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39380"/>
 		</Entity>
 		<Entity uid="2678">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="525.06897" z="845.61683"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56217"/>
 		</Entity>
 		<Entity uid="2679">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="662.03754" z="833.85804"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15281"/>
 		</Entity>
 		<Entity uid="2680">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="663.5835" z="817.8985"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="11689"/>
 		</Entity>
 		<Entity uid="2681">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="698.47535" z="806.70179"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20564"/>
 		</Entity>
 		<Entity uid="2682">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="716.03357" z="805.19568"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="19786"/>
 		</Entity>
 		<Entity uid="2683">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="742.16358" z="805.36438"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="38632"/>
 		</Entity>
 		<Entity uid="2684">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="766.12323" z="798.4886"/>
 			<Orientation y="1.73671"/>
 			<Actor seed="46452"/>
 		</Entity>
 		<Entity uid="2685">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="804.17292" z="787.02588"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8519"/>
 		</Entity>
 		<Entity uid="2686">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="815.30115" z="764.51673"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="38186"/>
 		</Entity>
 		<Entity uid="2687">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="795.38392" z="765.06647"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2402"/>
 		</Entity>
 		<Entity uid="2688">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="823.14393" z="757.96198"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="62026"/>
 		</Entity>
 		<Entity uid="2689">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="811.86896" z="751.28162"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41244"/>
 		</Entity>
 		<Entity uid="2690">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="825.62696" z="727.30237"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="32181"/>
 		</Entity>
 		<Entity uid="2691">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="841.12171" z="710.40522"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="47093"/>
 		</Entity>
 		<Entity uid="2692">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="846.39026" z="702.38398"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="20071"/>
 		</Entity>
 		<Entity uid="2693">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="854.14777" z="688.43384"/>
 			<Orientation y="2.93314"/>
 			<Actor seed="42384"/>
 		</Entity>
 		<Entity uid="2694">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="854.51282" z="672.21113"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8128"/>
 		</Entity>
 		<Entity uid="2695">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="869.94178" z="695.86323"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17924"/>
 		</Entity>
 		<Entity uid="2696">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="874.54371" z="650.65424"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="3241"/>
 		</Entity>
 		<Entity uid="2697">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="861.44428" z="646.7627"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="1447"/>
 		</Entity>
 		<Entity uid="2698">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="858.64814" z="632.73255"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="55994"/>
 		</Entity>
 		<Entity uid="2699">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="857.91718" z="624.05695"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45626"/>
 		</Entity>
 		<Entity uid="2700">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="855.25513" z="617.8888"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54055"/>
 		</Entity>
 		<Entity uid="2701">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="849.9004" z="616.51203"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="9611"/>
 		</Entity>
 		<Entity uid="2702">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="880.92774" z="632.63892"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2848"/>
 		</Entity>
 		<Entity uid="2703">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="881.70472" z="616.24189"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="34486"/>
 		</Entity>
 		<Entity uid="2704">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="880.5268" z="609.66572"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22047"/>
 		</Entity>
 		<Entity uid="2705">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="875.22394" z="603.1225"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39411"/>
 		</Entity>
 		<Entity uid="2706">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="872.93451" z="593.80237"/>
 			<Orientation y="-2.49546"/>
 			<Actor seed="39582"/>
 		</Entity>
 		<Entity uid="2707">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="865.93616" z="584.88324"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14165"/>
 		</Entity>
 		<Entity uid="2708">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="859.1631" z="575.69196"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="29643"/>
 		</Entity>
 		<Entity uid="2709">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="856.29859" z="575.26545"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17490"/>
 		</Entity>
 		<Entity uid="2710">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="844.4621" z="578.4715"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51037"/>
 		</Entity>
 		<Entity uid="2711">
-			<Template>gaia/flora_tree_oak</Template>
+			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
 			<Position x="839.00831" z="571.52839"/>
 			<Orientation y="2.35621"/>

@@ -32,7 +32,7 @@
 		"road": "desert_city_tile_pers_dirt"
 	},
 	"Gaia": {
-		"tree1": "gaia/flora_tree_palo_verde",
+		"tree1": "gaia/tree/palo_verde",
 		"fruitBush": "gaia/flora_cactus_nopal",
 		"mainHuntableAnimal": "gaia/fauna_deer",
 		"secondaryHuntableAnimal": "gaia/fauna_tapir",
