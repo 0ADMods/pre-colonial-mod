@@ -18,7 +18,7 @@
     <GenericName>Barracks</GenericName>
     <SpecificName>Awaqanakuy wasi</SpecificName>
     <Tooltip>Train incas citizen-soldiers. Research improvements for Mayan units.</Tooltip>
-    <Icon>structures/pers_barracks.png</Icon>
+    <Icon>structures/barracks.png</Icon>
   </Identity>
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
