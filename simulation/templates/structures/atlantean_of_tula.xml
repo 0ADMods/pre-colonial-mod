@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure">
   <Auras datatype="tokens">
-    structures/olmec_head
+    structures/monument_attack
   </Auras>
   <BuildRestrictions>
     <Category>Monument</Category>
@@ -10,21 +10,22 @@
       <MinDistance>150</MinDistance>
     </Distance>
   </BuildRestrictions>
-  <Capturable disable=""/>
+  <Capturable>
+    <CapturePoints>2500</CapturePoints>
+    <RegenRate>0.5</RegenRate>
+    <GarrisonRegenRate>5.0</GarrisonRegenRate>
+  </Capturable>
   <Cost>
     <BuildTime>120</BuildTime>
     <Resources>
-      <stone>140</stone>
+      <stone>240</stone>
     </Resources>
   </Cost>
   <Footprint>
     <Square width="8.0" depth="8.0"/>
     <Height>8.0</Height>
   </Footprint>
-  <Health>
-    <Max>1200</Max>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_2x2</SpawnEntityOnDeath>
-  </Health>
+  <Health disable=""/>
   <Identity>
     <Civ>gaia</Civ>
     <GenericName>Massive Atlantean Statue</GenericName>

@@ -1,0 +1,25 @@
+{
+	"genericName": "Quilted Body Armor",
+	"specificName": {
+		"athen": "Spolas",
+		"mace": "Spolas",
+		"ptol": "Spolas",
+		"sele": "Spolas",
+		"spart": "Spolas"
+	},
+	"description": "Body armor made from quilted wool, linen, cotton, or leather.",
+	"cost": {
+		"food": 400,
+		"metal": 400
+	},
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "armor_leather.png",
+	"researchTime": 40,
+	"tooltip": "Soldiers +1 hack resistance.",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 }
+	],
+	"affects": ["Soldier"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

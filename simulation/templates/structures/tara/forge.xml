@@ -3,7 +3,7 @@
   <Identity>
     <Civ>tara</Civ>
     <SpecificName>ch’ayal ch’ich’</SpecificName>
-    <GenericName>Weapon Workshop</GenericName>
+    <GenericName>Weapon Forge</GenericName>
   </Identity>
   <ProductionQueue>
     <BatchTimeModifier>0.8</BatchTimeModifier>

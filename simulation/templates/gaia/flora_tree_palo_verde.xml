@@ -3,6 +3,12 @@
   <Identity>
     <SpecificName>Palo Verde</SpecificName>
   </Identity>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Max>300</Max>
+    <Type>wood.tree</Type>
+    <MaxGatherers>8</MaxGatherers>
+  </ResourceSupply>
   <VisualActor>
     <Actor>gaia/trees/palo_verde.xml</Actor>
   </VisualActor>

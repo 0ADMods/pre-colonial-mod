@@ -3,6 +3,12 @@
   <Identity>
     <Icon>gaia/flora_bush_berry.png</Icon>
   </Identity>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Max>530</Max>
+    <Type>food.fruit</Type>
+    <MaxGatherers>8</MaxGatherers>
+  </ResourceSupply>
   <VisualActor>
     <Actor>gaia/flora/cactus_stenocerus_small.xml</Actor>
   </VisualActor>
