@@ -1,0 +1,10 @@
+{
+	"type": "player",
+	"affects": ["Player"],
+	"modifications": [
+		{ "value": "Player/MaxPopulation", "add": 20 }
+	],
+	"auraName": "Capital Settlers",
+	"auraDescription": "+20 maximum population limit.",
+	"stackable": true
+}

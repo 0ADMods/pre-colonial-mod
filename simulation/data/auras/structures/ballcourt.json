@@ -2,9 +2,12 @@
 	"type": "global",
 	"affects": ["Structure"],
 	"modifications": [
-		{ "value": "TerritoryInfluence/Radius", "multiply": 1.2 }
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.2 },
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.2 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.2 }
 	],
-	"auraDescription": "Structures +20% territory influence radius.",
+	"auraDescription": "Structures +20% territory influence radius and 20% attack value.",
 	"auraName": "Ball Game",
 	"stackable": true
 }

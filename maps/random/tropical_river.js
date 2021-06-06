@@ -21,7 +21,7 @@ Engine.LoadLibrary("rmgen-common");
 Engine.LoadLibrary("rmgen2");
 Engine.LoadLibrary("rmbiome");
 
-setBiome("generic/tropic");
+setBiome("generic/american_maps/jungle");
 
 g_Terrains.mainTerrain = "new_alpine_grass_d";
 g_Terrains.forestFloor1 = "tropic_grass_d";

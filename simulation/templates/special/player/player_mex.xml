@@ -2,5 +2,6 @@
 <Entity parent="special/player/player">
   <Auras datatype="tokens">
     teambonuses/mex_player_teambonus
+    bonuses/mex_player_bonus
   </Auras>
 </Entity>
