@@ -1,9 +1,9 @@
 {
-	"genericName": "Trilobate Arrowheads",
-	"description": "Arrowheads with three lobes instead of two inflict larger wounds.",
+	"genericName": "Projectile Weapons",
+	"description": ".",
 	"cost": {
 		"wood": 900,
-		"metal": 600
+		"stone": 600
 	},
 	"supersedes": "soldier_wood_attack_ranged_01",
 	"requirements": { "tech": "phase_city" },

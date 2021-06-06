@@ -1,5 +1,5 @@
 {
-	"genericName": "Laminated Linen Body Armor",
+	"genericName": "Tanned Cotton",
 	"specificName": {
 		"athen": "Linothōrax",
 		"mace": "Linothōrax",
@@ -10,7 +10,7 @@
 	"description": "Body armor made from laminated linen.",
 	"cost": {
 		"food": 600,
-		"metal": 600
+		"wood": 600
 	},
 	"supersedes": "soldier_cotton_resistance_hack_01",
 	"requirements": { "tech": "phase_city" },

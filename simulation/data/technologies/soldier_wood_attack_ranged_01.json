@@ -1,14 +1,14 @@
 {
-	"genericName": "Iron Arrowheads",
-	"description": "Projectile points made of iron enable missiles to penetrate deeper.",
+	"genericName": "Obsidian Arrowheads",
+	"description": "Projectile points made of obsidian enable missiles to penetrate deeper.",
 	"cost": {
 		"wood": 600,
-		"metal": 400
+		"stone": 400
 	},
 	"requirements": { "tech": "phase_town" },
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "arrow.png",
-	"researchTime": 40,
+	"researchTime": 30,
 	"tooltip": "Soldiers +15% ranged attack damage.",
 	"modifications": [
 		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15 },

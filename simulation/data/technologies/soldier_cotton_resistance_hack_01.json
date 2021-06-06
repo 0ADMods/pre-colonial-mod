@@ -1,5 +1,5 @@
 {
-	"genericName": "Quilted Body Armor",
+	"genericName": "Cotton Body Armor",
 	"specificName": {
 		"athen": "Spolas",
 		"mace": "Spolas",
@@ -7,10 +7,10 @@
 		"sele": "Spolas",
 		"spart": "Spolas"
 	},
-	"description": "Body armor made from quilted wool, linen, cotton, or leather.",
+	"description": "Body armor made from quilted cotton.",
 	"cost": {
 		"food": 400,
-		"metal": 400
+		"wood": 400
 	},
 	"requirements": { "tech": "phase_town" },
 	"requirementsTooltip": "Unlocked in Town Phase.",
