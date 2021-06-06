@@ -1,0 +1,15 @@
+{
+    "code": "water",
+    "name": "Water",
+    "description": "Harvest from lakes, water wells, waterfalls, or cenotes.",
+    "order": 1,
+    "subtypes": {
+      "clean": "Clean Water",
+      "fruit": "Fruit Water",
+      "dirty": "Dirty Water",
+      "ice": "Ice Water"
+    },
+    "properties": ["tributable"],
+    "truePrice": 100,
+    "aiAnalysisInfluenceGroup": "ignore"
+  }

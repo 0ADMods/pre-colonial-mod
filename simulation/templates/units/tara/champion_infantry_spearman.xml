@@ -2,7 +2,7 @@
 <Entity parent="template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>tara</Civ>
-    <GenericName>Capitão de Esquadrão</GenericName>
+    <GenericName>Squadron Captain</GenericName>
     <SpecificName>Quangári</SpecificName>
     <Icon>units/mex/champion_spearman.png</Icon>
     <SelectionGroupName>units/tara/champion_infantry_a</SelectionGroupName>

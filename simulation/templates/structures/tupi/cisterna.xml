@@ -29,7 +29,8 @@
   </ProductionQueue>
   <ResourceTrickle>
     <Rates>
-      <food>5.0</food>  
+      <food>5.0</food>
+      <water>1.0</water> 
     </Rates>
     <Interval>10000</Interval>
   </ResourceTrickle>

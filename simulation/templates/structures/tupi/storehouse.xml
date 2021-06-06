@@ -10,6 +10,12 @@
     <Civ>tupi</Civ>
     <SpecificName>Pirwa</SpecificName>
   </Identity>
+  <ResourceTrickle>
+    <Rates>
+      <water>1.0</water> 
+    </Rates>
+    <Interval>10000</Interval>
+  </ResourceTrickle>
   <Obstruction>
     <Static width="10.0" depth="10.0"/>
   </Obstruction>
