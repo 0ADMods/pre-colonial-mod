@@ -7,12 +7,6 @@
     <Civ>inca</Civ>
     <SpecificName>Churana wasi</SpecificName>
   </Identity>
-  <ResourceTrickle>
-    <Rates>
-      <water>1.0</water> 
-    </Rates>
-    <Interval>10000</Interval>
-  </ResourceTrickle>
   <Obstruction>
     <Static width="16.0" depth="16.0"/>
   </Obstruction>

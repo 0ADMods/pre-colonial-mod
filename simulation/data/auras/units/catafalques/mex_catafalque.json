@@ -3,7 +3,9 @@
 	"radius": 80,
 	"affects": ["Worker"],
 	"modifications": [
-		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.15 }
+		{ "value": "ResourceGatherer/food.fruit", "multiply": 1.15 },
+		{ "value": "ResourceGatherer/food.grain", "multiply": 1.15 },
+		{ "value": "ResourceGatherer/food.fish", "multiply": 1.15 }
 	],
 	"auraName": "Idol of Tlaloc",
 	"auraDescription": "Tlaloc is here to encouraging commerce and agriculture.\nWorkers +15% gather speed.",

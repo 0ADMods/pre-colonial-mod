@@ -10,49 +10,44 @@
         </variant>
     </group>
     <group>
-        <variant name="waypoint_persians">
-            <textures>
-                <texture file="props/banner_persian.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_hellenes">
-            <textures>
-                <texture file="props/banner_greek.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_celts">
-            <textures>
-                <texture file="props/banner_celt.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_carthaginians">
-            <textures>
-                <texture file="props/banner_carthage.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_iberians">
-            <textures>
-                <texture file="props/banner_iberians.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_romans">
-            <textures>
-                <texture file="props/banner_romans.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_spartans">
-            <textures>
-                <texture file="props/banner_spartans.png" name="baseTex"/>
-            </textures>
-        </variant>
-        <variant name="waypoint_macedonians">
-            <textures>
-                <texture file="props/banner_macedonians.png" name="baseTex"/>
-            </textures>
-        </variant>
         <variant name="waypoint_inca">
             <textures>
                 <texture file="props/banner_inca.png" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_mexicas">
+            <textures>
+                <texture file="props/banner_mex" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_hopi">
+            <textures>
+                <texture file="props/banner_hopi" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_itza">
+            <textures>
+                <texture file="props/banner_itza" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_tarascans">
+            <textures>
+                <texture file="props/banner_tara" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_toltecs">
+            <textures>
+                <texture file="props/banner_tolt" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_tupi">
+            <textures>
+                <texture file="props/banner_tupi" name="baseTex"/>
+            </textures>
+        </variant>
+        <variant name="waypoint_zapotecs">
+            <textures>
+                <texture file="props/banner_zapo" name="baseTex"/>
             </textures>
         </variant>
     </group>

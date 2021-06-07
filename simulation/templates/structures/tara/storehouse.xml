@@ -8,12 +8,6 @@
     <Civ>tara</Civ>  
     <SpecificName>Tlapiacalli</SpecificName>
   </Identity>
-  <ResourceTrickle>
-    <Rates>
-      <water>1.0</water> 
-    </Rates>
-    <Interval>10000</Interval>
-  </ResourceTrickle>
   <Obstruction>
     <Static width="15.0" depth="15.0"/>
   </Obstruction>

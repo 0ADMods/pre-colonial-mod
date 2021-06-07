@@ -1,0 +1,19 @@
+{
+	"genericName": "Aqueducts",
+	"description": "Increases water trickle rates for structures.",
+	"cost": {
+		"wood": 400,
+		"metal": 200
+	},
+	"supersedes": "gather_hydric_waterstack",
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "aqueduct.png",
+	"researchTime": 50,
+	"tooltip": "Storehouse +25% water trickle rate.",
+	"modifications": [
+		{ "value": "ResourceTrickle/Rates/water.clean", "multiply": 1.25 }
+	],
+	"affects": ["Storehouse"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}
