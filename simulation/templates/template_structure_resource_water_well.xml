@@ -33,7 +33,7 @@
   <RallyPoint disable=""/>
    <ResourceTrickle>
     <Rates>
-      <water>25.0</water>
+      <water>35.0</water>
     </Rates>
     <Interval>10000</Interval>
   </ResourceTrickle>

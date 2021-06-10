@@ -15,7 +15,7 @@
     <GenericName>Monarch</GenericName>
     <Tooltip>Heal units</Tooltip>
     <SelectionGroupName>units/zapo/champion_healer</SelectionGroupName>
-    <Icon>units/mex_hero_tlatoani.png</Icon>
+     <Icon>units/mex/hero_tlatoani.png</Icon>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>

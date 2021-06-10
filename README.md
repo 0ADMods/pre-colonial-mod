@@ -7,6 +7,10 @@ https://github.com/0ADMods/pre-colonial-mod/issues/13
 
 The America Acient Empires mod time piriod is 900 to 1520
 
+## Note
+
+The scenario maps are not working(all 0 AD civs are deleted in this mod)
+
 ## Download
 
 You can clone the github project to test this mod.
