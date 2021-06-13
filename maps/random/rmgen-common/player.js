@@ -251,7 +251,7 @@ function placePlayerBaseChicken(args)
 				new SimpleGroup(
 					[
 						new SimpleObject(
-							get("template", "gaia/fauna_chicken"),
+							get("template", "gaia/fauna_turkey"),
 							get("minGroupCount", 5),
 							get("maxGroupCount", 5),
 							get("minGroupDistance", 0),
@@ -348,6 +348,11 @@ function placePlayerBaseMines(args)
 	}
 
 	error("Could not place mines for player " + args.playerID);
+}
+
+function placePlayerBaseTrees(args)
+{
+	let [get, basePosition, baseResourceConstraint] = getPlayerBaseArgs(args);
 }
 
 function placePlayerBaseTrees(args)
