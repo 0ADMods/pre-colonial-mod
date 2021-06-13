@@ -61,9 +61,9 @@
   </ResourceDropsite>
   <ResourceTrickle>
     <Rates>
-      <water>1.0</water> 
+      <water>5.0</water> 
     </Rates>
-    <Interval>10000</Interval>
+    <Interval>20000</Interval>
   </ResourceTrickle>
   <Sound>
     <SoundGroups>
