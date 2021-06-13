@@ -1,5 +1,5 @@
 {
-	"affects": ["Worker"],
+	"affects": ["Builder"],
 	"auraDescription": "Workers +25% build rate.",
 	"auraName": "Huey Tlatoani",
 	"modifications": [

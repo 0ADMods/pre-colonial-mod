@@ -27,8 +27,8 @@
   </Footprint>
   <Health disable=""/>
   <Identity>
-    <Civ>gaia</Civ>
-    <GenericName>Massive Atlantean Statue</GenericName>
+    <Civ>toltec</Civ>
+    <GenericName>Massive Toltec Statue</GenericName>
     <Classes datatype="tokens">CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Monument Town</VisibleClasses>
     <Icon>structures/iberian_bull.png</Icon>
