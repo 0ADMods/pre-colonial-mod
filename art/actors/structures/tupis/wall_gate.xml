@@ -17,17 +17,11 @@
   <group>
     <variant frequency="1" name="wall_long">
       <mesh>structural/tupis_wall_gate.dae</mesh>
-      <textures>
-        <texture file="structural/ao/tupis_wall_gate_AO.png" name="aoTex"/>
-      </textures>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="ungarrisoned"/>
     <variant name="garrisoned">
-      <props>
-        <prop actor="props/special/common/garrison_flag_tupis.xml" attachpoint="garrisoned"/>
-      </props>
     </variant>
   </group>
   <group>
