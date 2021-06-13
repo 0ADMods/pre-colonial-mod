@@ -13,9 +13,6 @@
   <group>
     <variant frequency="1" name="wall_med">
       <mesh>structural/tupis_wall_med.dae</mesh>
-      <textures>
-        <texture file="structural/ao/tupis_wall_med_AO.png" name="aoTex"/>
-      </textures>
     </variant>
   </group>
   <group>
