@@ -19,7 +19,8 @@
 	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +50% territory influence radius. Structures +9 capture points regeneration rate per garrisoned unit.",
 	"modifications": [
 		{ "value": "Capturable/GarrisonRegenRate", "add": 9, "affects": "Structure" },
-		{ "value": "TerritoryInfluence/Radius", "multiply": 1.5, "affects": "CivCentre" }
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.5, "affects": "CivCentre" },
+		{ "value": "ResourceTrickle/Rates/water.clean", "multiply": 2,"affects": "CivCenter"}
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
 }

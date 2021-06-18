@@ -23,7 +23,8 @@
 		{ "value": "ProductionQueue/BatchTimeModifier", "multiply": 0.75, "affects" : "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.3, "affects": "CivCentre" },
 		{ "value": "Health/Max", "multiply": 1.2, "affects": "Citizen Soldier" },
-		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" }
+		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
+		{ "value": "ResourceTrickle/Rates/water.clean", "multiply": 2,"affects": "CivCenter"}
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
 }

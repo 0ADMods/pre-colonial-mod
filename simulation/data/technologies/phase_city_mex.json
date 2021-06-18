@@ -5,7 +5,7 @@
 	"requirements": {
 		"entity": {
 			"class": "Town",
-			"number": 3
+			"number": 5
 		}
 	},
 	"requirementsTooltip": "Requires 4 Town Structures.",
@@ -23,7 +23,8 @@
 		{ "value": "ProductionQueue/BatchTimeModifier", "add": -1.1, "affects" : "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.5, "affects": "CivCentre" },
 		{ "value": "Health/Max", "multiply": 1.1, "affects": "Citizen Soldier" },
-		{ "value": "Capturable/GarrisonRegenRate", "add": 9, "affects": "Structure" }
+		{ "value": "Capturable/GarrisonRegenRate", "add": 9, "affects": "Structure" },
+		{ "value": "ResourceTrickle/Rates/water.clean", "multiply": 2,"affects": "CivCenter"}
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
 }
