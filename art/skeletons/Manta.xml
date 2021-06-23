@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skeletons>
+  <standard_skeleton title="Manta" id="Manta">
+    <bone name="root">
+      <bone name="spine1">
+        <bone name="spine2">
+          <bone name="spine3">
+            <bone name="spine4">
+              <bone name="tail1">
+                <bone name="tail2">
+                  <bone name="tail3">
+                    <bone name="tail4" />
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="upper_flipper_left">
+          <bone name="uperarm_flipper_left">
+            <bone name="forearm_flipper_left">
+              <bone name="flipper_hand_left">
+                <bone name="flipper_finger_left" />
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="head" />
+        <bone name="upper_flipper_right">
+          <bone name="uperarm_flipper_right">
+            <bone name="forearm_flipper_right">
+              <bone name="flipper_hand_right">
+                <bone name="flipper_finger_right" />
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Mantabirostris" />
+  </standard_skeleton>
+  <skeleton title="Manta" target="Manta">
+    <identifier>
+      <root>root</root>
+    </identifier>
+    <bone name="root">
+      <target>root</target>
+      <bone name="spine1">
+        <target>spine1</target>
+        <bone name="spine2">
+          <target>spine2</target>
+          <bone name="spine3">
+            <target>spine3</target>
+            <bone name="spine4">
+              <target>spine4</target>
+              <bone name="tail1">
+                <target>tail1</target>
+                <bone name="tail2">
+                  <target>tail2</target>
+                  <bone name="tail3">
+                    <target>tail3</target>
+                    <bone name="tail4">
+                      <target>tail4</target>
+                    </bone>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="upper_flipper_left">
+          <target>upper_flipper_left</target>
+          <bone name="uperarm_flipper_left">
+            <target>uperarm_flipper_left</target>
+            <bone name="forearm_flipper_left">
+              <target>forearm_flipper_left</target>
+              <bone name="flipper_hand_left">
+                <target>flipper_hand_left</target>
+                <bone name="flipper_finger_left">
+                  <target>flipper_finger_left</target>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="head">
+          <target>head</target>
+        </bone>
+        <bone name="upper_flipper_right">
+          <target>upper_flipper_right</target>
+          <bone name="uperarm_flipper_right">
+            <target>uperarm_flipper_right</target>
+            <bone name="forearm_flipper_right">
+              <target>forearm_flipper_right</target>
+              <bone name="flipper_hand_right">
+                <target>flipper_hand_right</target>
+                <bone name="flipper_finger_right">
+                  <target>flipper_finger_right</target>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Mantabirostris">
+      <target>Mantabirostris</target>
+    </bone>
+  </skeleton>
+</skeletons>
