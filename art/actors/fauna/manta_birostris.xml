@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="100" name="Mesh">
+      <animations>
+        <animation file="other/manta_birostris_walk.dae" name="idle" speed="60"/>
+        <animation file="other/manta_birostris_walk.dae" name="walk" speed="5"/>
+        <animation file="other/manta_birostris_run.dae" name="run" speed="10"/>
+      </animations>
+      <mesh>skeletal/manta_birostris.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="texture">
+      <textures><texture file="skeletal/manta_birostris.png" name="baseTex"/></textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant name="death">
+      <props>
+        <prop actor="props/units/blood_whale.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+</actor>

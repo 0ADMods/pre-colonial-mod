@@ -10,6 +10,6 @@
     <MaxGatherers>8</MaxGatherers>
   </ResourceSupply>
   <VisualActor>
-    <Actor>gaia/trees/palo_verde.xml</Actor>
+    <Actor>flora/trees/palo_verde.xml</Actor>
   </VisualActor>
 </Entity>
