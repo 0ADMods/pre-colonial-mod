@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <float/>
+  <group>
+    <variant>
+      <mesh>skeletal/golden_eagle.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant name="hawk a">
+      <textures>
+        <texture file="skeletal/fauna_golden_eagle.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>
