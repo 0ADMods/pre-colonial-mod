@@ -1,0 +1,12 @@
+{
+    "code": "captive",
+    "name": "Captive",
+    "description": "Military Nahua units can get this resource from other units.",
+    "order": 7,
+    "subtypes": {
+      "humanCaptive": "Human Captive"
+    },
+    "properties": ["tributable"],
+    "truePrice": 100,
+    "aiAnalysisInfluenceGroup": "ignore"
+  }
