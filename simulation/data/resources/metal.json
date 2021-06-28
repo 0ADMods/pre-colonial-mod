@@ -1,0 +1,14 @@
+{
+	"code": "metal",
+	"name": "Metal",
+	"description": "Mine from metal mines or quarries.",
+	"notcivs":["hopi","tupi"],
+	"order": 4,
+	"subtypes": {
+		"ore": "Ore",
+		"ruins": "Ruins"
+	},
+	"properties": ["barterable", "tradable", "tributable"],
+	"truePrice": 100,
+	"aiAnalysisInfluenceGroup": "sparse"
+}

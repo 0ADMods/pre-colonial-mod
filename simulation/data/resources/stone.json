@@ -1,0 +1,14 @@
+{
+	"code": "stone",
+	"name": "Stone",
+	"description": "Mine from rocks, stone quarries or ruins.",
+	"notcivs":["tupi"],
+	"order": 3,
+	"subtypes": {
+		"rock": "Rock",
+		"ruins": "Ruins"
+	},
+	"properties": ["barterable", "tradable", "tributable"],
+	"truePrice": 100,
+	"aiAnalysisInfluenceGroup": "sparse"
+}
