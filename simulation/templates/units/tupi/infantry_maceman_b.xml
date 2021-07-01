@@ -23,7 +23,7 @@
   </Builder>
   <Cost>
     <Resources>
-      <stone>10</stone>
+      <stone>0</stone>
       <metal>0</metal>
     </Resources>
   </Cost>

@@ -14,6 +14,12 @@
       </ApplyStatus>
     </Ranged>
   </Attack>
+   <Cost>
+    <Resources>
+      <food>10</food>
+      <prestigegoods>25</prestigegoods>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>tupi</Civ>
     <GenericName>Warrior Archer Fire</GenericName>

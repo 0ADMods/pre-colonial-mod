@@ -4,6 +4,12 @@
     <Territory>own ally neutral</Territory>
     <PlacementType>shore</PlacementType>
   </BuildRestrictions>
+  <Cost>
+    <Resources>
+      <stone>0</stone>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
   <Footprint replace="">
     <Circle radius="17"/>
     <Height>8.0</Height>

@@ -3,7 +3,8 @@
   <Cost>
     <Resources>
       <wood>100</wood>
-      <stone>150</stone>
+      <stone>0</stone>
+      <metal>0</metal>
     </Resources>
   </Cost>
   <Footprint>

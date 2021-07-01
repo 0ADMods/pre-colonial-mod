@@ -11,7 +11,7 @@
     <Resources>
       <food>50</food>
       <wood>25</wood>
-     <stone>25</stone>
+     <stone>0</stone>
     </Resources>
   </Cost>
   <Identity>

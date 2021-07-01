@@ -5,6 +5,12 @@
     <PlacementType>shore</PlacementType>
     <Category>cisterna</Category>
   </BuildRestrictions>
+  <Cost>
+    <Resources>
+      <stone>0</stone>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
   <Footprint>
     <Square width="17.0" depth="17.0"/>
     <Height>8.0</Height>

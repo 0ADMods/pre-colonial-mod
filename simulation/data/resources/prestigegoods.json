@@ -1,0 +1,13 @@
+{
+    "code": "prestigegoods",
+    "name": "Prestige goods",
+    "description": "Prestige goods.",
+    "civs":["tupi"],
+    "order": 8,
+    "subtypes": {
+      "prestigegoods": "prestige goods"
+    },
+    "properties": ["tributable"],
+    "truePrice": 100,
+    "aiAnalysisInfluenceGroup": "ignore"
+  }

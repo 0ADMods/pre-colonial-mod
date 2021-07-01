@@ -3,7 +3,7 @@
   <Cost>
     <Resources>
       <food>10</food>
-      <metal>50</metal>
+      <prestigegoods>25</prestigegoods>
     </Resources>
   </Cost>
   <Identity>

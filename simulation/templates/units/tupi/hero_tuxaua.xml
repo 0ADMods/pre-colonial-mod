@@ -3,6 +3,12 @@
   <Auras datatype="tokens">
       units/heroes/inca_hero_capac_yupanqui
   </Auras>
+   <Cost>
+    <Resources>
+      <food>10</food>
+      <prestigegoods>25</prestigegoods>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>tupi</Civ>
     <SelectionGroupName>units/infantry_champion</SelectionGroupName>
