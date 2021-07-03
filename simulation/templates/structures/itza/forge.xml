@@ -6,7 +6,8 @@
   </Footprint>
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Nina Wasi</SpecificName>
+    <GenericName>Armeiro</GenericName>
+    <SpecificName>K'al pibil</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/itzas/blacksmith.xml</Actor>

@@ -15,7 +15,8 @@
   </Health>
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Qhapana</SpecificName>
+    <GenericName>Temple</GenericName>
+    <SpecificName>Pib naah</SpecificName>
   </Identity>
   <Loot>
     <wood>60</wood>

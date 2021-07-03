@@ -2,7 +2,8 @@
 <Entity parent="template_structure_special_theater">
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Ball court</SpecificName>
+    <GenericName>Ballcourt</GenericName>
+    <SpecificName>Pitzil</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
   </Identity>
   <VisualActor>

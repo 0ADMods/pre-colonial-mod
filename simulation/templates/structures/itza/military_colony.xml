@@ -7,7 +7,6 @@
   <Identity>
     <Civ>itza</Civ>
     <GenericName>Military Colony</GenericName>
-	<SpecificName>Tambo</SpecificName>
      <VisibleClasses datatype="tokens">Tambo</VisibleClasses>
   </Identity>
   <Obstruction>

@@ -6,7 +6,8 @@
   </Footprint>
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Bibliothēkē</SpecificName>
+    <GenericName>observatory</GenericName>
+    <SpecificName>K'inob</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="24.0" depth="24.0"/>

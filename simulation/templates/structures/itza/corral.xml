@@ -5,6 +5,8 @@
   </Footprint>
   <Identity>
     <Civ>itza</Civ>
+    <GenericName>Corral</GenericName>
+    <SpecificName>Kúuchil</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="10.0" depth="19.0"/>

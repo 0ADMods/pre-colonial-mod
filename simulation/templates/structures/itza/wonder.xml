@@ -9,7 +9,8 @@
   </Footprint>
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Coricancha</SpecificName>
+    <GenericName>Marvel</GenericName>
+    <SpecificName>Noj witz</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="60.0" depth="30.0"/>

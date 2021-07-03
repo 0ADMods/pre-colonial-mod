@@ -5,7 +5,8 @@
   </Footprint>
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Churana wasi</SpecificName>
+    <GenericName>Storehouse</GenericName>
+    <SpecificName>Ta’ak</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="16.0" depth="16.0"/>

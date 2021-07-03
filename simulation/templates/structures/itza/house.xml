@@ -5,7 +5,8 @@
   </Footprint>
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Wasi</SpecificName>
+    <GenericName>House</GenericName>
+    <SpecificName>Otooch</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="16.0" depth="10.0"/>

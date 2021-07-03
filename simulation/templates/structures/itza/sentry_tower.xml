@@ -2,7 +2,7 @@
 <Entity parent="template_structure_defensive_tower_sentry">
   <Identity>
     <Civ>itza</Civ>
-    <SpecificName>Pucara jark'akuy</SpecificName>
+    <SpecificName>ichnal</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/itzas/wooden_tower.xml</Actor>
