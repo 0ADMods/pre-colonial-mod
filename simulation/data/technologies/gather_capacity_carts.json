@@ -1,7 +1,7 @@
 {
 	"genericName": "Horse-drawn Carts",
 	"description": "Workers use horse-drawn carts. Increases shuttling capacity for all resources.",
-	"cost": { "food": 1000, "wood": 1000, "stone": 0, "metal": 0},
+	"cost": { "water": 0, "food": 1000, "wood": 1000, "stone": 0, "metal": 0},
 	"supersedes": "gather_capacity_wheelbarrow",
 	"requirements": { "tech": "phase_city" },
 	"requirementsTooltip": "Unlocked in City Phase.",

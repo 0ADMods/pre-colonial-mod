@@ -59,6 +59,9 @@
 			"Template": "structures/tara/civil_centre"
 		},
 		{
+			"Template" : "structures/water_well"
+		},
+		{
 			"Template":"units/tara/support_female_citizen",
 			"Count":5
 		},

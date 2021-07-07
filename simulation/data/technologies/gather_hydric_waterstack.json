@@ -1,6 +1,6 @@
 {
 	"genericName": "Water Stack",
-	"description": "Increases water trickle rates for structures.",
+	"description": "Increases water trickle rates for storehouse and wells.",
 	"cost": {
 		"wood": 600,
 		"metal": 300
@@ -14,6 +14,6 @@
 	"modifications": [
 		{ "value": "ResourceTrickle/Rates/water.clean", "multiply": 1.25 }
 	],
-	"affects": ["Storehouse"],
+	"affects": ["Storehouse","Well"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

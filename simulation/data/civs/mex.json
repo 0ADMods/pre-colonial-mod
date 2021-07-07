@@ -117,6 +117,9 @@
 			"Template": "structures/mex/civil_centre"
 		},
 		{
+			"Template" : "structures/water_well"
+		},
+		{
 			"Template":"units/mex/support_female_citizen",
 			"Count":5
 		},

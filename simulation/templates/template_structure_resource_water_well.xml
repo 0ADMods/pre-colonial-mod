@@ -18,7 +18,7 @@
   <Identity>
     <GenericName>Water Well</GenericName>
     <VisibleClasses datatype="tokens">Well</VisibleClasses>
-    <Tooltip>Gather fresh water from this</Tooltip>
+    <Tooltip>Tricle fresh water from this building</Tooltip>
     <Icon>structures/water_well.png</Icon>
   </Identity>
   <Minimap>
@@ -31,11 +31,11 @@
   </Obstruction>
   <ProductionQueue disable=""/>
   <RallyPoint disable=""/>
-   <ResourceTrickle>
+    <ResourceTrickle>
     <Rates>
-      <water>35.0</water>
+      <water>25.0</water> 
     </Rates>
-    <Interval>10000</Interval>
+    <Interval>20000</Interval>
   </ResourceTrickle>
   <Sound>
     <SoundGroups>
