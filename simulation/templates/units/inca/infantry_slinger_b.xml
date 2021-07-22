@@ -4,6 +4,8 @@
     <Entities datatype="tokens">
       structures/inca/military_colony
       structures/inca/kancha
+      structures/water_well
+      structures/inca/cistern
     </Entities>
   </Builder>
   <Identity>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_spearman">
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+      structures/tolt/ball_court
+      structures/water_well
+      structures/tolt/cistern
+      structures/tolt/statue_of_tula
+    </Entities>
+  </Builder>
   <Identity>
     <Civ>tolt</Civ>
     <GenericName>Toltec Spearman</GenericName>

@@ -2,7 +2,7 @@
 <Entity parent="template_structure_military_dock">
   <Cost>
     <Resources>
-      <stone>0</stone>
+      <stone>120</stone>
       <metal>0</metal>
     </Resources>
   </Cost>

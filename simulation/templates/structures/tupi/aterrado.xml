@@ -6,8 +6,7 @@
   </BuildRestrictions>
   <Cost>
     <Resources>
-      <stone>0</stone>
-      <metal>0</metal>
+      <stone>650</stone>
     </Resources>
   </Cost>
   <Footprint replace="">

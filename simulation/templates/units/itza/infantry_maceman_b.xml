@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_maceman">
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+      structures/itza/ball_court
+      structures/water_well
+      structures/itza/cistern
+    </Entities>
+  </Builder>
   <Identity>
     <Civ>itza</Civ>
     <GenericName>Maceman Warrior</GenericName>

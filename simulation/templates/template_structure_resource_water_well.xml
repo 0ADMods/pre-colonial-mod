@@ -3,8 +3,8 @@
   <Cost>
     <BuildTime>50</BuildTime>
     <Resources>
-      <wood>100</wood>
-      <stone>200</stone>
+      <wood>10</wood>
+      <stone>50</stone>
     </Resources>
   </Cost>
   <Footprint>
@@ -39,8 +39,8 @@
   </ResourceTrickle>
   <Sound>
     <SoundGroups>
-      <select>interface/select/building/sel_field.xml</select>
-      <constructed>interface/complete/building/complete_field.xml</constructed>
+      <select>interface/select/building/sel_water_well.xml</select>
+      <constructed>interface/complete/building/complete_water_well.xml</constructed>
     </SoundGroups>
   </Sound>
   <StatusBars>

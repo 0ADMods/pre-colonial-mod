@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit">
+  <Identity>
+    <Classes datatype="tokens">Human Organic</Classes>
+    <VisibleClasses datatype="tokens">Support</VisibleClasses>
+    <GenericName>Support</GenericName>
+  </Identity>
+  <Minimap>
+    <Type>support</Type>
+  </Minimap>
+  <Position>
+    <Anchor>upright</Anchor>
+  </Position>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>1</Hack>
+        <Pierce>1</Pierce>
+        <Crush>1</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Sound>
+    <SoundGroups>
+      <order_garrison>voice/{lang}/civ/civ_{phenotype}_garrison.xml</order_garrison>
+      <order_gather>voice/{lang}/civ/civ_{phenotype}_gather.xml</order_gather>
+      <order_walk>voice/{lang}/civ/civ_{phenotype}_walk.xml</order_walk>
+      <select>voice/{lang}/civ/civ_{phenotype}_select.xml</select>
+      <walk>actor/human/movement/walk.xml</walk>
+      <run>actor/human/movement/run.xml</run>
+      <death>actor/human/death/{phenotype}_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <UnitAI>
+    <DefaultStance>passive</DefaultStance>
+  </UnitAI>
+</Entity>

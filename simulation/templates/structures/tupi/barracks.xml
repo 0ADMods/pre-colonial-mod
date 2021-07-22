@@ -3,7 +3,7 @@
   <Cost>
     <Resources>
       <wood>100</wood>
-      <stone>0</stone>
+      <stone>50</stone>
       <metal>0</metal>
     </Resources>
   </Cost>
