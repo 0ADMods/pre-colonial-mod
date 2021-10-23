@@ -8,6 +8,13 @@
     <GenericName>Cactus</GenericName>
     <Tooltip>Gather water from this cactus.</Tooltip>
   </Identity>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Max>1500</Max>
+    <Type>water.fruit</Type>
+    <MaxGatherers>5</MaxGatherers>
+    <DiminishingReturns>0.90</DiminishingReturns>
+  </ResourceSupply>
   <StatusBars>
     <BarWidth>3.0</BarWidth>
     <BarHeight>0.5</BarHeight>

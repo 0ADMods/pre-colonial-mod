@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_resource_water_well">
+  <Identity>
+    <Civ>zapo</Civ>
+    <GenericName>Water Well</GenericName>
+  </Identity>
+  <Obstruction>
+    <Static width="18.0" depth="16.0"/>
+  </Obstruction>
+  <Health>
+    <Max>1000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
+  </Health>
+  <VisualActor>
+    <Actor>structures/water_well.xml</Actor>
+  </VisualActor>
+</Entity>

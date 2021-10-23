@@ -1,0 +1,201 @@
+{
+	"Code": "tlax",
+	"Culture": "tlaxcalan",
+	"Name": "Tlaxcalans",
+	"Emblem": "session/portraits/emblems/emblem_tlaxcalan.png",
+	"History": ".",
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"Factions":
+	[
+		{
+			"Name": "Tlaxcalans",
+			"Description": ".",
+			"Technologies":
+			[
+				{
+					"Name": "aq",
+					"History": "aq",
+					"Description": "aq" 
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "Tenoch",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Was a ruler of the Mexicas during the fourteenth century during the Aztec nomads travels from Aztlan to Tenochtitlan."
+				},
+				{
+					"Name": "Ācamāpichtli",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Acamapichtli was the first tlatoani of the Mexicas, and founder of the Mexica imperial dynasty.He became ruler in 1375 and reigned for 19 years." 
+				},
+				{
+					"Name": "Itzcōhuātl",
+					"Class": "Infantry Swordsman",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Itzcoatl was the fourth Tlatoani of Tenochtitlan, and firts Huey Tlatoani ruling from 1427 to 1440, the period when the Mexica threw off the domination of the Tepanecs and laid the foundations for the eventual Triple Alliance."					
+				}
+			] 
+		} 
+	],
+	"CivBonuses":
+	[
+		{
+			"Name": "Xochiyáoyotl",
+			"History": "Mexica soldiers favored melee and wore light armor.",
+			"Description": "Mexica melee infantry have +1.6 walk speed and do +2 pierce damage at the cost of 2 pierce armor level."
+		},
+		{
+			"Name" : "Advanced Agriculture",
+			"History" : "The Mexicas were good farmers.",
+			"Description" : "Boost  food gathering in all phases"
+		}
+	],
+	"TeamBonuses":
+	[],
+	"Structures":
+	[
+		{
+			"Name": "Ball Court",
+			"Class": "SB",
+			"Emblem": "",
+			"History": "A Mesoamerican ballcourt is a large masonry structure of a type used in Mesoamerica for over 2,700 years to play the Mesoamerican ballgame, particularly the hip-ball version of the ballgame. More than 1,300 ballcourts have been identified, 60% in the last 20 years alone.",
+			"Requirements": "House,Civic Centre",
+			"Phase": "City",
+			"Special": "."
+		},
+		{
+		 	"Name":"Tēlpochcalli",
+		 	"Class":"SB",
+		 	"Emblem":"",
+		 	"History":"Tēlpochcalli (Nahuatl: house of the young men), were centers where Aztec youth were educated, from age 15, to serve their community and for war. These youth schools were located in each district or calpulli.",
+		 	"Requirements": "House,Temple,Ball Court",
+		 	"Phase":"Town",
+		 	"Special" : "."
+		},
+		{
+			"Name":"Calmecac",
+			"Class":"",
+			"Emblem":"",
+			"History":"The Calmecac House of lineage, was a school for the sons of Aztec nobility (pīpiltin) in the Late Postclassic period of Mesoamerican history, where they would receive rigorous religious and military training. The two main primary sources for information on the calmecac and telpochcalli are in Bernardino de Sahagún's Florentine Codex of the General History of the Things of New Spain (Books III, VI, and VIII) and part 3 of the Codex Mendoza.Although the calmecac has been characterized as for elites only, Sahagun's account says that at times commoners, macehualtin were assigned to the calmecac as well and trained for the priesthood",
+			"Requirements":"Civic Centre,Temple,Barracks,Fortress",
+			"Phase":"City",
+			"Special":"."
+		},
+        {
+            "Name":"Hill Fortress",
+			"Class":"",
+			"Emblem":"",
+			"History":"A Stone fortress",
+			"Requirements":"Civic Centre,Temple,Barracks,Fortress",
+			"Phase":"City",
+			"Special":"."
+        }
+	],
+	"WallSets":
+	[
+		"structures/wallset_palisade",
+		"structures/tlax/wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/tlax/civil_centre"
+		},
+		{
+			"Template" : "structures/water_well"
+		},
+		{
+			"Template":"units/tlax/support_female_citizen",
+			"Count":5
+		},
+		{
+			"Template": "units/tlax/infantry_swordsman_b",
+			"Count": 5
+		},
+		{
+			"Template": "units/tlax/infantry_archer_b",
+			"Count": 5
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+		"Culhuateantlicuanez",
+		"Atexacalihuehue",
+		"Patzinteuntli",
+		"Cocotzin",
+		"Teixtlacohuatzin",
+		"Umacatzin",
+		"Tlehuexolotzin",
+		"Cucuitacatl",
+		"Papatotl",
+		"Culhuateyohualminqui",
+		"Xohuatecuhtlimemelec",
+		"Tlacomihuatzin",
+		"Macatzin",
+		"Maxicatzin",
+		"Tianquitztlatohuatzin",
+		"Xayamachan",
+		"Xayamachan Teotlapam",
+		"Tepolohuatecuhtli",
+		"Zozoe",
+		"Atlahua",
+		"Aztahuatlacaztalli",
+		"Huitlalotecuhtli",
+		"Xayacamachan",
+		"Xicotencatl",
+		"Axayacatzin",
+		"Mizquitl",
+		"Timatecutli",
+		"Taxcayohua",
+		"Coahuatzintecuhtli",
+		"Quuetzahuitzin Zacancatzin",
+		"Iyactzin Teohuatecuhtli",
+		"Citlalpopocatzin",
+		"Tlalentzin Temilotzin"
+
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_cavalry": "units/tlax/infantry_swordsman_b",
+		"skirmish/units/default_infantry_ranged_b": "units/tlax/infantry_javelineer_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}

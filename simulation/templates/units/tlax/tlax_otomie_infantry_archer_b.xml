@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_archer">
+  <Cost>
+    <BuildTime>60</BuildTime>
+    <Population>0</Population>
+  </Cost>
+  <Identity>
+    <Civ>tlax</Civ>
+    <GenericName>Otomie Archer</GenericName>
+    <SpecificName>k’iäqbal ch’ab</SpecificName>
+    <SelectionGroupName>units/zapo_infantry_archer_b</SelectionGroupName>
+    <Icon>units/zapo_infantry_archer.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/zapotecs/infantry_archer_b.xml</Actor>
+  </VisualActor>
+</Entity>
