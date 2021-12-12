@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skeletons>
+  <standard_skeleton title="Deer new" id="Deer_new">
+    <bone name="root" />
+    <bone name="center">
+      <bone name="tails">
+        <bone name="tail1">
+          <bone name="tail2">
+            <bone name="tail3" />
+          </bone>
+        </bone>
+      </bone>
+      <bone name="back">
+        <bone name="pelvis_r">
+          <bone name="femur_r">
+            <bone name="ball_joint_r">
+              <bone name="perone_r">
+                <bone name="foot_r">
+                  <bone name="back_hoof_r" />
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="body">
+          <bone name="humerus_r">
+            <bone name="radius_r">
+              <bone name="metacarpus_r">
+                <bone name="metatarsus_r">
+                  <bone name="front_hoof_r" />
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+          <bone name="cheast">
+            <bone name="neck_a">
+              <bone name="neck_b">
+                <bone name="neck_c">
+                  <bone name="neck_d">
+                    <bone name="neck_e">
+                      <bone name="neck_f">
+                        <bone name="head" />
+                      </bone>
+                    </bone>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+          <bone name="humerus_l">
+            <bone name="radius_l">
+              <bone name="metacarpus_l">
+                <bone name="metatarsus_l">
+                  <bone name="front_hoof_l" />
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="pelvis_l">
+          <bone name="femur_l">
+            <bone name="ball_joint_l">
+              <bone name="perone_l">
+                <bone name="foot_l">
+                  <bone name="back_hoof_l" />
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Antilope" />
+  </standard_skeleton>
+  <skeleton title="Deer new" target="Deer_new">
+    <identifier>
+      <root>root</root>
+    </identifier>
+    <bone name="root">
+      <target>root</target>
+    </bone>
+    <bone name="center">
+      <target>center</target>
+      <bone name="tails">
+        <target>tails</target>
+        <bone name="tail1">
+          <target>tail1</target>
+          <bone name="tail2">
+            <target>tail2</target>
+            <bone name="tail3">
+              <target>tail3</target>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+      <bone name="back">
+        <target>back</target>
+        <bone name="pelvis_r">
+          <target>pelvis_r</target>
+          <bone name="femur_r">
+            <target>femur_r</target>
+            <bone name="ball_joint_r">
+              <target>ball_joint_r</target>
+              <bone name="perone_r">
+                <target>perone_r</target>
+                <bone name="foot_r">
+                  <target>foot_r</target>
+                  <bone name="back_hoof_r">
+                    <target>back_hoof_r</target>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="body">
+          <target>body</target>
+          <bone name="humerus_r">
+            <target>humerus_r</target>
+            <bone name="radius_r">
+              <target>radius_r</target>
+              <bone name="metacarpus_r">
+                <target>metacarpus_r</target>
+                <bone name="metatarsus_r">
+                  <target>metatarsus_r</target>
+                  <bone name="front_hoof_r">
+                    <target>front_hoof_r</target>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+          <bone name="cheast">
+            <target>cheast</target>
+            <bone name="neck_a">
+              <target>neck_a</target>
+              <bone name="neck_b">
+                <target>neck_b</target>
+                <bone name="neck_c">
+                  <target>neck_c</target>
+                  <bone name="neck_d">
+                    <target>neck_d</target>
+                    <bone name="neck_e">
+                      <target>neck_e</target>
+                      <bone name="neck_f">
+                        <target>neck_f</target>
+                        <bone name="head">
+                          <target>head</target>
+                        </bone>
+                      </bone>
+                    </bone>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+          <bone name="humerus_l">
+            <target>humerus_l</target>
+            <bone name="radius_l">
+              <target>radius_l</target>
+              <bone name="metacarpus_l">
+                <target>metacarpus_l</target>
+                <bone name="metatarsus_l">
+                  <target>metatarsus_l</target>
+                  <bone name="front_hoof_l">
+                    <target>front_hoof_l</target>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+        <bone name="pelvis_l">
+          <target>pelvis_l</target>
+          <bone name="femur_l">
+            <target>femur_l</target>
+            <bone name="ball_joint_l">
+              <target>ball_joint_l</target>
+              <bone name="perone_l">
+                <target>perone_l</target>
+                <bone name="foot_l">
+                  <target>foot_l</target>
+                  <bone name="back_hoof_l">
+                    <target>back_hoof_l</target>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="Antilope">
+      <target>Antilope</target>
+    </bone>
+  </skeleton>
+</skeletons>
