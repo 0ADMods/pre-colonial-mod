@@ -36,11 +36,11 @@
   <Loot>
     <wood>50</wood>
   </Loot>
-  <ProductionQueue>
+  <Researcher>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Technologies datatype="tokens">
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <RallyPoint disable=""/>
   <ResourceDropsite>
     <Types>food wood stone metal</Types>

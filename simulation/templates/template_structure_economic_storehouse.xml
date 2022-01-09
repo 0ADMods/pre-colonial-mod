@@ -35,7 +35,7 @@
   <Obstruction>
     <Static width="13.0" depth="13.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Researcher>
     <Technologies datatype="tokens">
       gather_lumbering_ironaxes
       gather_lumbering_strongeraxes
@@ -53,7 +53,7 @@
       gather_hydric_waterstack
       gather_hydric_aqueducts
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <RallyPoint disable=""/>
   <ResourceDropsite>
     <Types>wood stone metal</Types>

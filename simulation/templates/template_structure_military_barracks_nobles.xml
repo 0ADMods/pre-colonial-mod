@@ -26,17 +26,19 @@
   <Obstruction>
     <Static width="17.0" depth="17.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_spearman
       units/{civ}/champion_infantry_swordsman
       units/{civ}/champion_infantry_archer
     </Entities>
+  </Trainer>
+  <Researcher>
     <Technologies datatype="tokens">
       mexicas/xochiyaoyotl
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_barracks.xml</select>

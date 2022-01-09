@@ -4,17 +4,19 @@
     <Civ>mex</Civ>
     <SpecificName>Altepenepantla</SpecificName>
   </Identity>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_archer_b
       units/{civ}/infantry_slinger_b
       units/{civ}/hero_tlatoani
     </Entities>
+  </Trainer>
+  <Researcher>
     <Technologies datatype="tokens">
       mexicas/special_colonisation
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <VisualActor>
     <Actor>structures/mexicas/civic_center.xml</Actor>
   </VisualActor>

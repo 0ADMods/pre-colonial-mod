@@ -4,6 +4,6 @@
 	"label": "Americas Ancient Empires",
 	"url": "https://github.com/0ADMods/precolonialmod",
 	"description": "adds 12 civilizations to 0 A.D.",
-	"dependencies": ["0ad=0.0.25"],
+	"dependencies": ["0ad=0.0.26"],
 	"type": ["Factions","Replace Factions","Maps Mod","Gameplay"]
 }

@@ -33,7 +33,7 @@
   <Obstruction>
     <Static width="17.0" depth="17.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Researcher>
     <Technologies datatype="tokens">
       soldier_wood_attack_melee_01
       soldier_wood_attack_melee_02
@@ -45,7 +45,7 @@
       soldier_wicker_resistance_pierce_02
       archer_stone_attack_spread
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_forge.xml</select>

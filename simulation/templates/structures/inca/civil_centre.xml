@@ -10,7 +10,7 @@
   <Obstruction>
     <Static width="25.0" depth="25.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_slinger_b
       units/{civ}/infantry_macerman_b
@@ -19,12 +19,14 @@
       units/{civ}/hero_capac_yupanqui
       units/{civ}/infantry_chaski
     </Entities>
+  </Trainer>
+  <Researcher>
     <Technologies datatype="tokens">
       incas/tocapu
       incas/quipus_and_yupana
       incas/mitmas
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <VisualActor>
     <Actor>structures/incas/inca_kallanka.xml</Actor>
     <FoundationActor>structures/fndn_7x8.xml</FoundationActor>

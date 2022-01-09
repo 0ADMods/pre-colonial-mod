@@ -10,13 +10,13 @@
   <Obstruction>
     <Static width="28.0" depth="28.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_javalineer_b
       units/{civ}/infantry_swordsman_b
       units/{civ}/hero_halach_winik
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/itzas/cc.xml</Actor>
     <FoundationActor>structures/fndn_7x8.xml</FoundationActor>

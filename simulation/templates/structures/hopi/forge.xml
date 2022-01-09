@@ -5,9 +5,9 @@
     <SpecificName>ch’ayal ch’ich’</SpecificName>
     <GenericName>Weapon Workshop</GenericName>
   </Identity>
-  <ProductionQueue>
+  <Researcher>
     <BatchTimeModifier>0.8</BatchTimeModifier>
-  </ProductionQueue>
+  </Researcher>
   <VisualActor>
     <Actor>structures/hopis/weapon_works.xml</Actor>
   </VisualActor>

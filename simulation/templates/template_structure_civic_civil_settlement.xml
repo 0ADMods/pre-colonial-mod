@@ -45,7 +45,8 @@
   <Population>
     <Bonus>20</Bonus>
   </Population>
-  <ProductionQueue disable=""/>
+  <Trainer disable=""/>
+  <Researcher disable=""/>
   <Resistance>
     <Entity>
       <Damage>

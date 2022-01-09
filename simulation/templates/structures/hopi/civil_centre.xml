@@ -14,13 +14,13 @@
     <Civ>hopi</Civ>
     <SpecificName>Altepenepantla</SpecificName>
   </Identity>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_archer_b
       units/{civ}/infantry_slinger_b
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/hopis/civic_center.xml</Actor>
   </VisualActor>

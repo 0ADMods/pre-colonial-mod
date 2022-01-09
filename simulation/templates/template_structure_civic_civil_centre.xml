@@ -90,11 +90,13 @@
   <Population>
     <Bonus>20</Bonus>
   </Population>
-  <ProductionQueue>
+  <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/support_female_citizen
     </Entities>
+  </Trainer>
+  <Researcher>
     <Technologies datatype="tokens">
       phase_town_{civ}
       phase_city_{civ}
@@ -106,7 +108,7 @@
       hoplite_tradition
       hellenistic_metropolis
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <Resistance>
     <Entity>
       <Damage>

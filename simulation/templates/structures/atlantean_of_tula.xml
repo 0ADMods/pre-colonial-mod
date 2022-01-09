@@ -39,7 +39,8 @@
   <Obstruction>
     <Static width="6.0" depth="6.0"/>
   </Obstruction>
-  <ProductionQueue disable=""/>
+  <Trainer disable=""/>
+  <Researcher disable=""/>
   <RallyPoint disable=""/>
   <Resistance>
     <Entity>
