@@ -25,14 +25,14 @@
   <Obstruction>
     <Static width="17.0" depth="17.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       -gaia/fauna_goat_trainable
       -gaia/fauna_sheep_trainable
       -gaia/fauna_pig_trainable
       -gaia/fauna_cattle_cow_trainable
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <ResourceTrickle>
     <Rates>
       <food>5.0</food>

@@ -27,14 +27,14 @@
    <Population>
     <Bonus>5</Bonus>
   </Population>
-    <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_javelinist_b
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_maceman_b
       units/{civ}/infantry_archer_b
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/tupis/barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>

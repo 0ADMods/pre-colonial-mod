@@ -30,17 +30,19 @@
     <Floating>true</Floating>
     <FloatDepth>0.0</FloatDepth>
   </Position>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
       units/{civ}/ship_fishing
       units/{civ}/ship_merchant
       units/{civ}/ship_bireme
     </Entities>
+  </Trainer>
+  <Researcher>
     <Technologies datatype="tokens">
       -phase_town_{civ}
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <RallyPointRenderer>
     <LinePassabilityClass>ship</LinePassabilityClass>
   </RallyPointRenderer>

@@ -79,17 +79,6 @@
     <FloatDepth>0</FloatDepth>
     <TurnRate>6</TurnRate>
   </Position>
-  <ProductionQueue>
-    <BatchTimeModifier>1.0</BatchTimeModifier>
-    <TechCostMultiplier>
-      <food>1.0</food>
-      <wood>1.0</wood>
-      <stone>1.0</stone>
-      <metal>1.0</metal>
-      <water>1.0</water>
-      <time>1.0</time>
-    </TechCostMultiplier>
-  </ProductionQueue>
   <RallyPoint/>
   <RallyPointRenderer>
     <MarkerTemplate>special/rallypoint</MarkerTemplate>
