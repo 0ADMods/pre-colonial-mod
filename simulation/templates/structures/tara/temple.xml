@@ -14,11 +14,11 @@
   <Obstruction>
     <Static width="21" depth="22"/>
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/champion_healer
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/tarascans/temple.xml</Actor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>

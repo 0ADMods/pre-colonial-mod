@@ -75,9 +75,6 @@
 			"Template": "structures/tupi/civil_centre"
 		},
 		{
-			"Template" : "structures/water_well"
-		},
-		{
 			"Template": "units/tupi/support_female_citizen",
 			"Count": 4
 		},

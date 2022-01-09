@@ -3,9 +3,6 @@
   <Identity>
     <Civ>tara</Civ>
   </Identity>
-  <ProductionQueue>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
-  </ProductionQueue>
   <VisualActor>
     <Actor>structures/tarascans/wooden_tower.xml</Actor>
   </VisualActor>

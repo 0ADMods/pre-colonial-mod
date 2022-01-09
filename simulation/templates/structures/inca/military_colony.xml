@@ -13,7 +13,7 @@
   <Obstruction>
     <Static width="36.0" depth="36.0"/> 
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_maceman_b
       units/{civ}/infantry_maceman_merc_b
@@ -21,7 +21,7 @@
       units/{civ}/infantry_maceman2_merc_b
       units/{civ}/infantry_chaski
     </Entities>
-  </ProductionQueue>
+  </Trainer>
     <TrainingRestrictions>
     <Category>Tambo</Category>
   </TrainingRestrictions>

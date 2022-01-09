@@ -9,7 +9,7 @@
   </Identity>
   <ResourceTrickle>
     <Rates>
-      <water>1.0</water> 
+      <!--<water>1.0</water>--> 
     </Rates>
     <Interval>10000</Interval>
   </ResourceTrickle>

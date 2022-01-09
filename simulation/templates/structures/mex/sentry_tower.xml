@@ -3,9 +3,6 @@
   <Identity>
     <Civ>mex</Civ>
   </Identity>
-  <ProductionQueue>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
-  </ProductionQueue>
   <VisualActor>
     <Actor>structures/mexicas/wooden_tower.xml</Actor>
   </VisualActor>

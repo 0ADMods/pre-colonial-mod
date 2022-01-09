@@ -4,12 +4,12 @@
     <Civ>itza</Civ>
     <SpecificName>Miletucerdon</SpecificName>
   </Identity>
-    <ProductionQueue>
+    <Trainer>
     <Entities datatype="tokens">
       units/{civ}/siege_tower_packed
       units/{civ}/infantry_incendiary
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/zapotecs/workshop.xml</Actor>
   </VisualActor>

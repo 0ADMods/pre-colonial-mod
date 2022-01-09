@@ -20,12 +20,11 @@
     <Tooltip>Train Mexica citizen-soldiers. Research improvements for Mexica units.</Tooltip>
     <Icon>structures/meso_barracks.png</Icon>
   </Identity>
-  <ProductionQueue>
-     <BatchTimeModifier>0.5</BatchTimeModifier>
+  <Trainer>
      <Technologies datatype="tokens">
 	mexicas/xochiyaoyotl   
      </Technologies>
-  </ProductionQueue>
+  </Trainer>
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
   </Obstruction>

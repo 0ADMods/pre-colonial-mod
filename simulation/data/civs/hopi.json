@@ -66,9 +66,6 @@
 			"Template": "structures/hopi/civil_centre"
 		},
 		{
-			"Template" : "structures/water_well"
-		},
-		{
 			"Template": "units/hopi/support_female_citizen",
 			"Count": 4
 		},

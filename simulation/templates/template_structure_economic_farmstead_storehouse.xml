@@ -36,11 +36,6 @@
   <Loot>
     <wood>50</wood>
   </Loot>
-  <Researcher>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
-    <Technologies datatype="tokens">
-    </Technologies>
-  </Researcher>
   <RallyPoint disable=""/>
   <ResourceDropsite>
     <Types>food wood stone metal</Types>

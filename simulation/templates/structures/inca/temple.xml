@@ -24,11 +24,11 @@
   <Obstruction>
     <Static width="24.5" depth="24.5"/>
   </Obstruction>
-    <ProductionQueue>
+    <Trainer>
     <Entities datatype="tokens">
       units/{civ}/support_acclas
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/incas/inca_ushnu.xml</Actor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>

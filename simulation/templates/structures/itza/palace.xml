@@ -32,11 +32,10 @@
   <Obstruction>
     <Static width="36.0" depth="12.0"/>
   </Obstruction>
-  <ProductionQueue>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
+  <Trainer>
     <Entities datatype="tokens">
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_broch.xml</select>

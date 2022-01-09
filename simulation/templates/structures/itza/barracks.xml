@@ -23,13 +23,13 @@
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
   </Obstruction>
-    <ProductionQueue>
+    <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_maceman_b 
       units/{civ}/champion_infantry_javelineer
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/itzas/barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>

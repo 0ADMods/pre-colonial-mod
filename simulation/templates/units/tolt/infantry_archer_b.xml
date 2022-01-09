@@ -4,8 +4,6 @@
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
       structures/tolt/ball_court
-      structures/water_well
-      structures/tolt/cistern
       structures/tolt/statue_of_tula
     </Entities>
   </Builder>

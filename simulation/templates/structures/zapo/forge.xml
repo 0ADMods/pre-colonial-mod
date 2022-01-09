@@ -4,9 +4,6 @@
     <Civ>zapo</Civ>
     <SpecificName>ch’ayal ch’ich’</SpecificName>
   </Identity>
-  <Researcher>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
-  </Researcher>
   <VisualActor>
     <Actor>structures/zapotecs/blacksmith.xml</Actor>
   </VisualActor>

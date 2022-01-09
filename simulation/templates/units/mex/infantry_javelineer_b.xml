@@ -4,8 +4,6 @@
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
       structures/mex/ball_court
-      structures/water_well
-      structures/mex/cistern
     </Entities>
   </Builder>
   <Identity>

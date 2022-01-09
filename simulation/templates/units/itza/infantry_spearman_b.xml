@@ -4,8 +4,6 @@
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
       structures/itza/ball_court
-      structures/water_well
-      structures/itza/cistern
     </Entities>
   </Builder>
   <Identity>
@@ -22,5 +20,3 @@
     <Actor>units/itzas/infantry_spearman_b.xml</Actor>
   </VisualActor>
 </Entity>
-
-

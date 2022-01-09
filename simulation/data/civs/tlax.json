@@ -126,9 +126,6 @@
 			"Template": "structures/tlax/civil_centre"
 		},
 		{
-			"Template" : "structures/water_well"
-		},
-		{
 			"Template":"units/tlax/support_female_citizen",
 			"Count":5
 		},

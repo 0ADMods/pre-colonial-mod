@@ -14,14 +14,14 @@
    <Population>
     <Bonus op="add">2</Bonus>
   </Population>
-    <ProductionQueue>
+    <Trainer>
     <Entities datatype="tokens">
       -units/{civ}/support_female_citizen_house
       units/{civ}/support_female_citizen
       units/{civ}/infantry_slinger_b
       units/{civ}/infantry_macerman_b
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/incas/inca_house_comunal.xml</Actor>
   </VisualActor>

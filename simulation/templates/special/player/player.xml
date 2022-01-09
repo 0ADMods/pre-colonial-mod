@@ -65,14 +65,14 @@
         <wood>1.0</wood>
         <stone>1.0</stone>
         <metal>1.0</metal>
-        <water>1.0</water>
+        <!--<water>1.0</water>-->
       </Buy>
       <Sell>
         <food>1.0</food>
         <wood>1.0</wood>
         <stone>1.0</stone>
         <metal>1.0</metal>
-        <water>1.0</water>
+        <!--<water>1.0</water>-->
       </Sell>
     </BarterMultiplier>
     <SharedLosTech>unlock_shared_los</SharedLosTech>
@@ -85,7 +85,7 @@
       <wood>0.0</wood>
       <stone>0.0</stone>
       <metal>0.0</metal>
-      <water>0.0</water>
+      <!--<water>0.0</water>-->
     </Rates>
     <Interval>1000</Interval>
   </ResourceTrickle>

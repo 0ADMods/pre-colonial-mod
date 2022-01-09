@@ -53,9 +53,6 @@
 			"Template": "structures/itza/civil_centre"
 		},
 		{
-			"Template" : "structures/water_well"
-		},
-		{
 			"Template": "units/itza/support_female_citizen",
 			"Count": 4
 		},

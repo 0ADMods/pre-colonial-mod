@@ -27,7 +27,6 @@
     <Static width="17.0" depth="17.0"/>
   </Obstruction>
   <Trainer>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_spearman
       units/{civ}/champion_infantry_swordsman
