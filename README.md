@@ -1,11 +1,11 @@
-# The America Acient Empires - 0 A.D. Civilization Mod
+# The America Ancient Empires - 0 A.D. Civilization Mod
 
-The America Acient Empires mod adds new civilizations,maps and a new resource to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) .
+The America Ancient Empires mod adds new civilizations,maps and a new resource to the free and open source real-time strategy game [0 A.D.](https://play0ad.com/) .
 The following civilizations are added by the mod:
 
 https://github.com/0ADMods/pre-colonial-mod/issues/13
 
-The America Acient Empires mod time piriod is 900 to 1520
+The America Ancient Empires mod time period is 900 to 1520
 
 ## Note
 
@@ -23,7 +23,7 @@ See https://trac.wildfiregames.com/wiki/Modding_Guide#Howtoinstallmods
 
 ## Contributing
 
-We could always use another helping hand with this project. There are several ways to help and contribute to the America Acient Empires mod:
+We could always use another helping hand with this project. There are several ways to help and contribute to the America Ancient Empires mod:
 
 - Download, install and play the mod.
 - Promote the Terra Magna mod by telling friends about it, create game play videos or write a blog article about it.
@@ -54,7 +54,7 @@ We are currently in the process of makeing the new factions.
 
 To report a problem in with the mod you can open a new issue in our [Github repository](https://github.com/0ADMods/pre-colonial) or create a new post in our [forum](https://wildfiregames.com/forum/index.php?/forum/1-game-modification/).
 
-If you experience any problems with the main game open a new ticket in: trac.wildfiregames.com/. Please, search for potential duplicates before creating a new ticked.
+If you experience any problems with the main game open a new ticket in: trac.wildfiregames.com/. Please, search for potential duplicates before creating a new ticket.
 
 ### Credits:
 asterix also known as  tomasmatys <br />
