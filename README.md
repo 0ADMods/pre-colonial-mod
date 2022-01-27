@@ -38,7 +38,7 @@ We could always use another helping hand with this project. There are several wa
 - Help with the development.
 - Test new releases and report your findings.
 
-Feel free to ask any questions about helping and contributing in our [forum](https://wildfiregames.com/forum/index.php?/forum/1-game-modification/). If you are uncomfortable to ask in English ask in your language. 0 A.D. has an international community and will most likely be able to help you to translate your question.
+Feel free to ask any questions about helping and contributing in our [forum](https://wildfiregames.com/forum/forum/436-council-of-modders/). If you are uncomfortable to ask in English ask in your language. 0 A.D. has an international community and will most likely be able to help you to translate your question.
 
 ### Tasks
 
