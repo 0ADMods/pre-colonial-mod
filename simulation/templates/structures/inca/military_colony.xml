@@ -7,8 +7,8 @@
   <Identity>
     <Civ>inca</Civ>
     <GenericName>Military Colony</GenericName>
-	<SpecificName>Tambo</SpecificName>
-     <VisibleClasses datatype="tokens">Tambo</VisibleClasses>
+	  <SpecificName>Tambo</SpecificName>
+    <Classes datatype="tokens">Tambo</Classes>
   </Identity>
   <Obstruction>
     <Static width="36.0" depth="36.0"/> 
@@ -22,7 +22,7 @@
       units/{civ}/infantry_chaski
     </Entities>
   </Trainer>
-    <TrainingRestrictions>
+  <TrainingRestrictions>
     <Category>Tambo</Category>
   </TrainingRestrictions>
   <VisualActor>

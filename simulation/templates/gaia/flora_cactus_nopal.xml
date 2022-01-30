@@ -12,6 +12,6 @@
     <MaxGatherers>8</MaxGatherers>
   </ResourceSupply>
   <VisualActor>
-    <Actor>gaia/flora/nopal.xml</Actor>
+    <Actor>flora/nopal.xml</Actor>
   </VisualActor>
 </Entity>

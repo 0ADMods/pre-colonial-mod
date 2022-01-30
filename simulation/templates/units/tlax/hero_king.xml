@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_healer">
-  <Auras datatype="tokens">
-    units/zapo_priest
-  </Auras>
   <Cost>
     <BuildTime>60</BuildTime>
     <Resources>
@@ -11,7 +8,7 @@
     </Resources>
   </Cost>
   <Identity>
-    <Civ>zapo</Civ>
+    <Civ>tlax</Civ>
     <GenericName>Monarch</GenericName>
     <Tooltip>Heal units</Tooltip>
     <SelectionGroupName>units/zapo/champion_healer</SelectionGroupName>

@@ -3,12 +3,12 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
-      structures/zapo/ball_court
+      structures/tlax/ball_court
     </Entities>
   </Builder>
   <Identity>
     <Civ>tlax</Civ>
-    <GenericName>ZTlaxcalan Spearman</GenericName>
+    <GenericName>Tlaxcalan Spearman</GenericName>
     <SpecificName>Zapoteca Bate'ch’o’jinel</SpecificName>
     <SelectionGroupName>units/zapo/infantry_spearman_b</SelectionGroupName>
     <Icon>units/zapo/infantry_spearman.png</Icon>

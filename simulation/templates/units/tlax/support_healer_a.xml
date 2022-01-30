@@ -4,6 +4,6 @@
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/zapo/support_healer_e</Entity>
+    <Entity>units/tlax/support_healer_e</Entity>
   </Promotion>
 </Entity>

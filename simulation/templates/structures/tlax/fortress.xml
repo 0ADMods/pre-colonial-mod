@@ -5,12 +5,12 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Civ>zapo</Civ>
+    <Civ>tlax</Civ>
     <SpecificName>Nukuch naj</SpecificName>
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
-      units/zapo/hero_king
+      units/tlax/hero_king
     </Entities>
   </Trainer>
   <Obstruction>

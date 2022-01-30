@@ -5,8 +5,8 @@
     <Height>9.0</Height>
   </Footprint>
   <Identity>
-    <Civ>zapo</Civ>
-    <SelectionGroupName>structures/zapo_wallset_stone</SelectionGroupName>
+    <Civ>tlax</Civ>
+    <SelectionGroupName>structures/tlax_wallset_stone</SelectionGroupName>
     <SpecificName>Pak’</SpecificName>
   </Identity>
   <Obstruction>

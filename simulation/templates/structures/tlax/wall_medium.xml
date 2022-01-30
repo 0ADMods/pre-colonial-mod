@@ -5,8 +5,8 @@
     <Height>9.0</Height>
   </Footprint>
   <Identity>
-    <Civ>zapo</Civ>
-    <SelectionGroupName>structures/zapo_wallset_stone</SelectionGroupName>
+    <Civ>tlax</Civ>
+    <SelectionGroupName>structures/tlax_wallset_stone</SelectionGroupName>
   </Identity>
   <Obstruction>
     <Static width="24.0" depth="6.0"/>

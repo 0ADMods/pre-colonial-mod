@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_resource_field">
   <Identity>
-    <Civ>zapo</Civ>
+    <Civ>tlax</Civ>
     <SpecificName>Rudxiiba Binii Xuba</SpecificName>
   </Identity>
   <VisualActor>

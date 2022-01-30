@@ -10,6 +10,6 @@
     <MaxGatherers>8</MaxGatherers>
   </ResourceSupply>
   <VisualActor>
-    <Actor>gaia/flora/cactus_stenocerus_small.xml</Actor>
+    <Actor>flora/cactus_stenocerus_small.xml</Actor>
   </VisualActor>
 </Entity>

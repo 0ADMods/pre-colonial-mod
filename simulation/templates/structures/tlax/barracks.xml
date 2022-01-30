@@ -14,6 +14,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
   <Identity>
+    <Civ>tlax</Civ>
     <GenericName>Barracks</GenericName>
     <SpecificName>Naj Ba’ate’il</SpecificName>
     <Tooltip>Train Zapotec citizen-soldiers. Research improvements for Zapotec units.</Tooltip>

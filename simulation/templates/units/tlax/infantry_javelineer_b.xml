@@ -3,12 +3,12 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
-      structures/zapo/ball_court
+      structures/tlax/ball_court
     </Entities>
   </Builder>
   <Identity>
     <Civ>tlax</Civ>
-    <GenericName>Tlax Hunter</GenericName>
+    <GenericName>Hunter</GenericName>
     <SpecificName>Tzapotēcatl Atlatl</SpecificName>
     <SelectionGroupName>units/zapo/infantry_javelinist_b</SelectionGroupName>
     <Icon>units/zapo/infantry_javelinist.png</Icon>

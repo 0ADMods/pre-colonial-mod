@@ -1,0 +1,19 @@
+{
+	"genericName": "Stone Structures",
+	"description": ".",
+	"icon": "parade_of_daphne.png",
+    "cost": { "food": 0, "wood": 500, "stone": 500, "metal": 0 },
+	"modifications": [
+		{
+			"value": "Cost/BuildTime",
+			"add": 5.0
+		},
+		{
+			"value": "Builder/Rate",
+			"add": 5.0
+		}
+	],
+	"affects": [
+		"Structures"
+	]
+}
