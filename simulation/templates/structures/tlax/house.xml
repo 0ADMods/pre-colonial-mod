@@ -12,6 +12,6 @@
     <Static width="13.0" depth="13.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/house.xml</Actor>
+    <Actor>structures/tarascans/house.xml</Actor>
   </VisualActor>
 </Entity>

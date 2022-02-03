@@ -4,6 +4,9 @@
     <Square width="10.0" depth="10.0"/>
     <Height>18.0</Height>
   </Footprint>
+  <Health>
+    <Max>1500</Max>
+  </Health>
   <Identity>
     <Civ>tlax</Civ>
     <SpecificName>Áantaj kiaqte’</SpecificName>
@@ -13,6 +16,6 @@
   </Obstruction>
   <VisualActor>
     <FoundationActor>structures/carthaginians/fndn_defense_tower.xml</FoundationActor>
-    <Actor>structures/zapotecs/scout_tower.xml</Actor>
+    <Actor>structures/tarascans/scout_tower.xml</Actor>
   </VisualActor>
 </Entity>

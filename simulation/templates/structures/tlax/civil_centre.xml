@@ -11,12 +11,7 @@
       units/{civ}/infantry_javelineer_b
     </Entities>
   </Trainer>
-  <Researcher>
-    tlaxcala/tlaxcalan_structures
-    tlaxcala/adobe_structures
-    tlaxcala/stone_structures
-  </Researcher>
   <VisualActor>
-    <Actor>structures/zapotecs/civic_center.xml</Actor>
+    <Actor>structures/tarascans/civic_center.xml</Actor>
   </VisualActor>
 </Entity>

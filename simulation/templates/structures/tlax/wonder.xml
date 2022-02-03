@@ -22,6 +22,6 @@
   </StatusBars>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/zapotecs/wonder.xml</Actor>
+    <Actor>structures/tarascans/wonder.xml</Actor>
   </VisualActor>
 </Entity>

@@ -4,6 +4,10 @@
     <Square width="38.5" depth="7.0"/>
     <Height>9.0</Height>
   </Footprint>
+  <Health>
+    <Max>5000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_wall_tower</SpawnEntityOnDeath>
+  </Health>
   <Identity>
     <Civ>tlax</Civ>
     <SelectionGroupName>structures/tlax_wallset_stone</SelectionGroupName>
@@ -13,7 +17,7 @@
     <Static width="37.0" depth="6.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/wall_long.xml</Actor>
+    <Actor>structures/tarascans/wall_long.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>34.2</Length>

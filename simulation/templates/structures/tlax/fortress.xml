@@ -4,20 +4,31 @@
     <Square width="30.0" depth="32.0"/>
     <Height>8.0</Height>
   </Footprint>
+  <Health>
+    <Max>7500</Max>
+  </Health>
   <Identity>
     <Civ>tlax</Civ>
     <SpecificName>Nukuch naj</SpecificName>
+    <GenericName>Frontier Fortress</GenericName>
+    <Tooltip>Frotress with more hp,good in defending the frontier.Can train military units and villagers</Tooltip>
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
       units/tlax/hero_king
+      units/tlax/infantry_archer_b
+      units/tlax/infantry_javelineer_b
+      units/tlax/infantry_slinger_b
+      units/tlax/infantry_spearman_b
+      units/tlax/infantry_swordsman_b
+      units/{civ}/support_female_citizen
     </Entities>
   </Trainer>
   <Obstruction>
     <Static width="26.0" depth="28.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/zapotecs/fortress.xml</Actor>
+    <Actor>structures/tlaxcalans/fortress.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>23.2</Length>
