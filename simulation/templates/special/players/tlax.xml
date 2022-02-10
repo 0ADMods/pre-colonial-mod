@@ -4,4 +4,15 @@
     teambonuses/mex_player_teambonus
     bonuses/mex_player_bonus
   </Auras>
+  <Identity>
+    <Civ>tlax</Civ>
+    <GenericName>Tlaxcalans</GenericName>
+    <History>.</History>
+    <Icon>emblems/emblem_tlaxcalan.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations>
+  </Player>
 </Entity>

@@ -1,69 +1,8 @@
 {
 	"Code": "tupi",
 	"Culture": "Tupi omagua",
-	"Name": "Tupi (Omagua)",
-	"Emblem": "session/portraits/emblems/tupi.png",
-	"History": "Also known as the Omagua, Umana and Kambeba, the Cambeba are an indigenous people in Brazil's Amazon basin. The Cambeba were a populous, organized society in the late Pre-Columbian era whose population suffered steep decline in the early years of the Columbian Exchange. The Spanish explorer Francisco de Orellana traversed the Amazon River during the 16th century and reported densely populated regions running hundreds of kilometers along the river. These populations left no lasting monuments, possibly because they used local wood as their construction material as stone was not locally available.",
-	"Music":[
-		],
-	"Factions":
-	[
-		{
-			"Name": "tupi",
-			"Description": "",
-			"Technologies":
-			[
-				{
-					"Name": "",
-					"History": "",
-					"Description": ""
-				},
-				{
-					"Name": "",
-					"History": "",
-					"Description": ""
-				}
-			],
-			"Heroes":
-			[
-				{
-					"Name": "",
-					"Class": "",
-					"Armament": "",
-					"Emblem": "",
-					"History": ""
-				}
-			]
-		}
-	],
-	"CivBonuses":
-	[
-		{
-			"Name": "",
-			"History": "",
-			"Description": ""
-		}
-	],
-	"TeamBonuses":
-	[
-		{
-			"Name": "",
-			"History": "",
-			"Description": ""
-		}
-	],
-	"Structures":
-	[
-		{
-			"Name": "",
-			"Class": "",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": "",
-			"Phase": "",
-			"Special": ""
-		}
-	],
+	"Music":[],
+	"CivBonuses":[],
 	"WallSets":
 	[
 		"other/wallset_palisade",

@@ -1,80 +1,14 @@
 ﻿{
 	"Code": "inca",
 	"Culture": "inca",
-	"Name": "Tawantinsuyu(Incas)",
-	"Emblem": "session/portraits/emblems/emblem_inca.png",
-	"History": "The Inca Empire (Quechua: Tawantinsuyu, lit. four parts together), also known as the Incan Empire and the Inka Empire, was the largest empire in pre-Columbian America. The administrative, political and military center of the empire was in the city of Cusco. The Inca civilization arose from the Peruvian highlands sometime in the early 13th century. Its last stronghold was conquered by the Spanish in 1572.",
 	"Music":[
 			{"File":"Harvest_Festival.ogg", "Type":"peace"},
 			{"File":"Forging_a_City-State.ogg", "Type":"peace"},
 			{"File":"Highland_Mist.ogg", "Type":"peace"},
 			{"File":"The_Hellespont.ogg", "Type":"peace"}
 		],
-	"Factions":
-	[
-		{
-			"Name": "Incas",
-			"Description": "The inhabitants of south american.",
-			"Technologies":
-			[
-				{
-					"Name": "aq",
-					"History": "aq",
-					"Description": "aq" 
-				}
-			],
-			"Heroes":
-			[
-				{
-					"Name": "Sapa Inca Capac Yupanqui",
-					"Class": "Infantry Swordsman",
-					"Armament": "",
-					"Emblem": "",
-					"History": "(Quechua Qhapaq Yupanki Inka, splendid accountant Inca) was the fifth Sapa Inca of the Kingdom of Cusco (beginning around CE 1320) and the last of the Hurin dynasty."
-				},
-				{
-					"Name": "Sapa Inca Pachacutec",
-					"Class": "Infantry Axeman",
-					"Armament": "",
-					"Emblem": "",
-					"History": "(Quechua: Pachakutiq Inka Yupanki) was the ninth Sapa Inca (1418–1471/1472) of the Kingdom of Cusco which he transformed into the Inca Empire (Quechua: Tawantinsuyu). Most archaeologists now believe that the famous Inca site of Machu Picchu was built as an estate for Pachacuti." 
-				},
-				{
-					"Name": "Sapa Inca Sinchi Roca",
-					"Class": "Infantry Axeman",
-					"Armament": "",
-					"Emblem": "",
-					"History": "Sinchi Ruq'a Inka (Quechua for valorous generous Inca) was the second Sapa Inca of the Kingdom of Cusco (beginning around 1230 CE, though as early as 1105 CE according to some) and a member of the Hurin dynasty (first dynasty)."					
-				}
-			] 
-		} 
-	],
 	"CivBonuses":
-	[
-		{
-			
-		}
-	],
-	"TeamBonuses":
-	[
-		{
-			"Name": "Andes mines",
-			"History": "",
-			"Description": "Allied Citizen Infantry -30% metal."
-		}
-	],
-	"Structures":
-	[
-		{
-			"Name": "",
-			"Class": "",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": "",
-			"Phase": "",
-			"Special": ""
-		}
-	],
+	[],
 	"WallSets":
 	[
 		"other/wallset_palisade",

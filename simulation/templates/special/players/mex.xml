@@ -4,4 +4,15 @@
     teambonuses/mex_player_teambonus
     bonuses/mex_player_bonus
   </Auras>
+  <Identity>
+    <Civ>mex</Civ>
+    <GenericName>Mexicas</GenericName>
+    <History>.</History>
+    <Icon>emblems/emblem_mexica.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations>
+  </Player>
 </Entity>

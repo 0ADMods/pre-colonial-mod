@@ -1,10 +1,8 @@
 ﻿{
 	"Code": "tara",
 	"Culture": "Purepecha",
-	"Name": "Tarascans",
-	"Emblem": "session/portraits/emblems/emblem_tarascan.png",
-	"History":"The Tarascan state was a state in pre-Columbian Mexico, roughly covering the geographic area of the present-day Mexican state of Michoacán, parts of Jalisco, and Guanajuato. At the time of the Spanish conquest, it was the second-largest state in Mesoamerica.The state was constituted of a network of tributary systems and gradually became increasingly centralized, under the control of the ruler of the state called the cazonci. The Tarascan capital was located at Tzintzuntzan on the banks of Lake Pátzcuaro, and, according to Purépecha oral tradition was founded by the first cazonci Tariácuri and dominated by his lineage, the Uacúsecha (Eagles in Purépecha language); however the largest city may have been Angamuco",
-"Music": [
+	"Music": 
+	[
 		{
 			"File": "Cloud_People.ogg",
 			"Type": "peace"
@@ -18,36 +16,7 @@
 			"Type": "peace"
 		}
 	],
-	"Factions":
-	[
-		{
-			"Name": "Tarascans",
-			"Description": ".",
-			"Technologies":
-			[
-
-			],
-			"Heroes":
-			[
-			] 
-		} 
-	],
-	"CivBonuses":
-	[
-	],
-	"TeamBonuses":
-	[],
-	"Structures":
-	[
-		{
-		},
-		{
-
-		},
-		{
-
-		}
-	],
+	"CivBonuses":[],
 	"WallSets":
 	[
 		"structures/wallset_palisade",
@@ -108,11 +77,9 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/tara/infantry_maceman_b",
+		"skirmish/units/default_cavalry": "units/tara/infantry_swordsman_b",
 		"skirmish/units/default_infantry_ranged_b": "units/tara/infantry_javelineer_b",
-		"skirmish/units/special_starting_unit": "units/tara/infantry_scoult_archer_b",
-		"skirmish/units/default_cavalry": "units/itza/infantry_spearman_b",
-	    "skirmish/units/default_ship_trireme":"units/itza/ship_bireme"
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true
 }

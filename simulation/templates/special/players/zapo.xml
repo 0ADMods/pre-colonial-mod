@@ -3,4 +3,15 @@
   <Auras datatype="tokens">
     teambonuses/zapo_player_teambonus
   </Auras>
+  <Identity>
+    <Civ>zapo</Civ>
+    <GenericName>Zapotecs</GenericName>
+    <History>.</History>
+    <Icon>emblems/emblem_zapotecs.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations>
+  </Player>
 </Entity>

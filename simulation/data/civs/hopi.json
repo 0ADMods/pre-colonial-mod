@@ -1,67 +1,34 @@
 ﻿{
 	"Code": "hopi",
 	"Culture": "pueblo",
-	"Name": "Hopis",
-	"Emblem": "session/portraits/emblems/emblem_hopis.png",
-	"History": "The pueblo Hopis.",
 	"Music": [
-		{
-			"File": "Harvest_Festival.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Forging_a_City-State.ogg",
-			"Type": "peace"
-		},
 		{
 			"File": "Highland_Mist.ogg",
 			"Type": "peace"
 		},
 		{
-			"File": "The_Hellespont.ogg",
+			"File": "Water's_Edge.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Celtic_Pride.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Cisalpine_Gaul.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Celtica.ogg",
 			"Type": "peace"
 		}
 	],
-	"Factions":
-	[],
-	"CivBonuses":
-	[
-		{
-			"Name": "Traditional Tactics.",
-			"History": "Zapotec soldiers favored melee and wore light armor.",
-			"Description": "Zapotec melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
-		}
-	],
-	"TeamBonuses":
-	[],
-	"Structures":
-	[
-		{
-			"Name": "Pueblo",
-			"Class": "SB",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": ".",
-			"Phase": "City",
-			"Special": "Trickle water, remplace the civic centre and water well."
-		},
-		{
-			"Name" : "Block Room",
-			"Class" : "SB",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": "Town Phase.",
-			"Phase": "Town",
-			"Special": "Big House, give to you 25 population space."
-		}
-	],
-	"WallSets":
-	[
+	"CivBonuses": [],
+	"WallSets": [
 		"structures/wallset_palisade",
-		"structures/inca/wallset_stone"
+		"structures/hopi/wallset_stone"
 	],
-	"StartEntities":
-	[
+	"StartEntities": [
 		{
 			"Template": "structures/hopi/civil_centre"
 		},
@@ -70,40 +37,34 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/hopi/infantry_archer_b",
+			"Template": "units/hopi/infantry_spearman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/hopi/infantry_spearman_b",
-			"Count": 3
+			"Template": "units/hopi/infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/hopi/cavalry_javelineer_b",
+			"Count": 1
 		}
 	],
-	"Formations":
-	[
-		"special/formations/null",
-		"special/formations/box",
-		"special/formations/column_closed",
-		"special/formations/line_closed",
-		"special/formations/column_open",
-		"special/formations/line_open",
-		"special/formations/flank",
-		"special/formations/skirmish",
-		"special/formations/wedge",
-		"special/formations/battle_line"
+	"AINames": [
+		"Karatakos",
+		"Kunobelinos",
+		"Boudicca",
+		"Prasutagus",
+		"Venutius",
+		"Cogidubnus",
+		"Commius",
+		"Comux",
+		"Adminius",
+		"Dubnovellaunus",
+		"Vosenius"
 	],
-	"AINames":
-	[
-		"Ozomatli",
-		"Huijatoo",
-		"Zaachila",
-		"Cosijoeza",
-		"Cocijopij"
-	],
-	"SkirmishReplacements":
-	{
-		"skirmish/units/default_cavalry": "units/hopi/infantry_archer_b",
-		"skirmish/units/default_infantry_ranged_b": "units/zapo/infantry_javelineer_b",
-		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	"SkirmishReplacements": {
+		"skirmish/units/default_infantry_ranged_b": "units/hopi/infantry_slinger_b",
+		"skirmish/structures/default_house_5": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true
 }

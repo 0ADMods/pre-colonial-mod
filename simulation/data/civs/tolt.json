@@ -1,9 +1,6 @@
 ﻿{
 	"Code": "tolt",
 	"Culture": "texcoco",
-	"Name": "Toltecs",
-	"Emblem": "session/portraits/emblems/emblem_toltecs.png",
-	"History": "The Toltec culture (ca. 900-1168 CE) is a Mesoamerican culture that ruled a state center in Tula,Hidalgo.Toltecs as their intellectual and cultural predecessors and described Toltec culture emanating from Tōllān",
 	"Music": [
 		{
 			"File": "Harvest_Festival.ogg",
@@ -22,60 +19,12 @@
 			"Type": "peace"
 		}
 	],
-	"Factions":
-	[
-		{
-			"Name": "Toltecs",
-			"Description": ".",
-			"Technologies":
-			[
-				{
-					"Name": "aq",
-					"History": "aq",
-					"Description": "aq" 
-				}
-			],
-			"Heroes":
-			[
-				{
-					"Name": "Ce Acatl Topiltzin Quetzalcoatl",
-					"Class": "Infantry Lancer",
-					"Armament": "",
-					"Emblem": "",
-					"History": "The real Quetzalcoatl."
-				}
-			] 
-		} 
-	],
 	"CivBonuses":
 	[
 		{
 			"Name": " Toltecayotl",
 			"History": "Toltecayotl is a Nahuatl word derived from toltecatl which as used by the Nahuas to refer to the members of the Toltec civilization that preceded them in the basin of Mexico, as well as a generalized meaning of artisan.",
 			"Description": "10% Stone Gather rate."
-		}
-	],
-	"TeamBonuses":
-	[],
-	"Structures":
-	[
-		{
-			"Name": "Ball Court",
-			"Class": "SB",
-			"Emblem": "",
-			"History": "A Mesoamerican ballcourt is a large masonry structure of a type used in Mesoamerica for over 2,700 years to play the Mesoamerican ballgame, particularly the hip-ball version of the ballgame. More than 1,300 ballcourts have been identified, 60% in the last 20 years alone.",
-			"Requirements": "House,Civic Centre",
-			"Phase": "City",
-			"Special": "."
-		},
-		{
-			"Name": "Atlantean Statue",
-			"Class": "",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": "",
-			"Phase": "",
-			"Special": "Defensive Aura - Gives all Toltec units and buildings within vision range of the monument a 10-15% attack boost. Build Limit: Only 10 may be built per map."
 		}
 	],
 	"WallSets":

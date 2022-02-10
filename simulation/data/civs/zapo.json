@@ -1,9 +1,6 @@
 ﻿{
 	"Code": "zapo",
 	"Culture": "zapo",
-	"Name": "Zapotecs",
-	"Emblem": "session/portraits/emblems/emblem_zapotecs.png",
-	"History": "The Be'ena'a(The Cloud People) was an indigenous pre-Columbian civilization that flourished in the Valley of Oaxaca in Mesoamerica. this culture originated at least 2,500 years ago.",
 	"Music": [
 		{
 			"File": "Harvest_Festival.ogg",
@@ -22,28 +19,12 @@
 			"Type": "peace"
 		}
 	],
-	"Factions":
-	[],
 	"CivBonuses":
 	[
 		{
 			"Name": "Traditional Tactics.",
 			"History": "Zapotec soldiers favored melee and wore light armor.",
 			"Description": "Zapotec melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
-		}
-	],
-	"TeamBonuses":
-	[],
-	"Structures":
-	[
-		{
-			"Name": "Ball Court",
-			"Class": "SB",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": ".",
-			"Phase": "City",
-			"Special": "."
 		}
 	],
 	"WallSets":

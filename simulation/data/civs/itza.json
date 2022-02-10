@@ -1,10 +1,8 @@
 ﻿{
 	"Code": "itza",
 	"Culture": "mayas",
-	"Name": "Itza",
-	"Emblem": "session/portraits/emblems/emblem_itza.png",
-	"History": " In 1175 The League began to disintegrate. A Cocom man named Ceel Cauich Ah was thrown into the cenote of Chichen Itza. The cenote is a deep hole filled with water. It is 15 meters from the ground to the water, and the walls are very steep. It is considered an entrance to the afterlife, and it is almost impossible to climb out. But Ceel managed to climb out. He proclaimed himself Ajaw, a spiritual and political leader. He also renamed himself Hunac Ceel Cauich. The Itzas did not recognize his authority. Ceel gathered many followers from Mayapan and the Cocom region. In 1194 Hunac Ceel Cauich declared war on Chac Chac Xib, one of four rulers of Chichén Itzá. The other three brothers were Sac Xib Chac, Chac Ek Yuuan and Hun Yuuan Chac (also called uooh Puc). Itzáes finally migrated to Tayasal, an island on Lake Peten Itza, in 1194.",
-"Music": [
+	"Music": 
+	[
 		{
 			"File": "Cloud_People.ogg",
 			"Type": "peace"
@@ -18,30 +16,7 @@
 			"Type": "peace"
 		}
 	],
-	"Factions":
-	[],
-	"CivBonuses":
-	[
-		{
-			"Name": "Traditional Tactics.",
-			"History": "Mayas soldiers favored melee and wore light armor.",
-			"Description": "Mayas melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
-		}
-	],
-	"TeamBonuses":
-	[],
-	"Structures":
-	[
-		{
-			"Name":"Ball Court",
-			"Class":"SB",
-			"Emblem":"",
-			"History":".",
-			"Requirements":".",
-			"Phase":"City",
-			"Special":"."
-		}
-	],
+	"CivBonuses":[],
 	"WallSets":
 	[
 		"other/wallset_palisade",

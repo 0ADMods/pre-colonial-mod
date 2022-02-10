@@ -3,4 +3,15 @@
   <Auras datatype="tokens">
     teambonuses/hopi_player_teambonus
   </Auras>
+  <Identity>
+    <Civ>hopi</Civ>
+    <GenericName>Hopis</GenericName>
+    <History>.</History>
+    <Icon>emblems/emblem_hopis.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations>
+  </Player>
 </Entity>
