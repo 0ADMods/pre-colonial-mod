@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_embassy">
+  <Footprint>
+    <Square width="16.0" depth="10.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>tlax</Civ>
+    <GenericName>Otomie Mercenary Barracks</GenericName>
+    <Icon>structures/embassy_celtic.png</Icon>
+  </Identity>
+  <Obstruction>
+    <Static width="16.0" depth="10.0"/>
+  </Obstruction>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{native}/otomie_infantry_archer
+      units/{native}/otomie_infantry_maceman
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/tlaxcalans/otomie_merc_barracks.xml</Actor>
+  </VisualActor>
+</Entity>

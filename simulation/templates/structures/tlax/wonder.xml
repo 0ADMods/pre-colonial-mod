@@ -1,17 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_wonder">
+  <Attack>
+    <Ranged>
+      <AttackName>Bolt</AttackName>
+      <Damage>
+        <Pierce>100</Pierce>
+        <Crush>100</Crush>
+        <Hack>50</Hack>
+      </Damage>
+      <MaxRange>90</MaxRange>
+      <MinRange>3</MinRange>
+      <PrepareTime>150</PrepareTime>
+      <RepeatTime>400</RepeatTime>
+      <Projectile>
+        <Speed>150</Speed>
+        <Spread>1</Spread>
+        <Gravity>9.81</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
+        <ImpactActorName>props/units/weapons/tower_artillery_projectile_impact.xml</ImpactActorName>
+        <ImpactAnimationLifetime>0.1</ImpactAnimationLifetime>
+      </Projectile>
+    </Ranged>
+  </Attack>
+  <BuildingAI>
+    <DefaultArrowCount>10</DefaultArrowCount>
+    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
+  </BuildingAI>
   <Footprint replace="">
     <Square width="45.0" depth="45.0"/>
     <Height>14.0</Height>
   </Footprint>
   <Health>
-    <Max>4400</Max>
+    <Max>6400</Max>
   </Health>
   <Identity>
     <Civ>tlax</Civ>
-    <GenericName>Marvel</GenericName>
-    <SpecificName>Yoo Danibaan</SpecificName>
+    <GenericName>Defence Marvel</GenericName>
+    <SpecificName>Fortaleza de Montaña</SpecificName>
+    <Tooltip>Trian infantry and female citizens.Have attack range</Tooltip>
   </Identity>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/support_female_citizen_house
+      units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_archer_b
+      units/{civ}/infantry_javelineer_b
+      units/{civ}/infantry_swordsman_b
+    </Entities>
+  </Trainer>
+  <Sound>
+    <SoundGroups>
+      <attack_ranged>attack/weapon/bow_attack.xml</attack_ranged>
+      <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>
+    </SoundGroups>
+  </Sound>
   <Obstruction>
     <Static width="43.0" depth="43.0"/>
   </Obstruction>
@@ -22,6 +66,6 @@
   </StatusBars>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/tarascans/wonder.xml</Actor>
+    <Actor>structures/tlaxcalans/fortress.xml</Actor>
   </VisualActor>
 </Entity>

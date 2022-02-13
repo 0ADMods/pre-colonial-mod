@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_ranged_archer">
   <Cost>
     <BuildTime>60</BuildTime>
-    <Population>0</Population>
+    <Population>5</Population>
   </Cost>
   <Identity>
     <Civ>tlax</Civ>
