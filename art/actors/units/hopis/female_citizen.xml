@@ -8,7 +8,7 @@
         <prop actor="props/units/heads/new/head_female_dudette_b.xml" attachpoint="head"/>
       </props>
       <textures>
-        <texture file="skeletal/inca_f_1.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_f_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

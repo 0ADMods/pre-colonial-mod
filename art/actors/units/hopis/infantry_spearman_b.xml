@@ -13,17 +13,17 @@
    <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/hopi_loincloth.png" name="baseTex"/>
+        <texture file="skeletal/hopi/hopi_loincloth.png" name="baseTex"/>
       </textures>
     </variant>
 	<variant frequency="1" name="2">
       <textures>
-	    <texture file="skeletal/hopi_b_loincloth.png" name="baseTex"/>
+	    <texture file="skeletal/hopi/hopi_b_loincloth.png" name="baseTex"/>
       </textures>
         </variant>
 	<variant frequency="1" name="3">
       <textures>
-	    <texture file="skeletal/hopi_c_loincloth.png" name="baseTex"/>
+	    <texture file="skeletal/hopi/hopi_c_loincloth.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

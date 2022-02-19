@@ -19,7 +19,19 @@
 			"Type": "peace"
 		}
 	],
-	"CivBonuses":[],
+	"CivBonuses":
+	[
+		{
+			"Name": "Xochiyáoyotl",
+			"History": "Mexica soldiers favored melee and wore light armor.",
+			"Description": "Mexica melee infantry have +1.6 walk speed and do +2 pierce damage at the cost of 2 pierce armor level."
+		},
+		{
+			"Name" : "Advanced Agriculture",
+			"History" : "The Mexicas were good farmers.",
+			"Description" : "Boost  food gathering in all phases"
+		}
+	],
 	"WallSets":
 	[
 		"structures/wallset_palisade",

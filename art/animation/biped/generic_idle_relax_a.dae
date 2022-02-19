@@ -68,7 +68,7 @@
   </library_effects>
   <library_images>
     <image id="villager_isl_a_png" name="villager_isl_a_png">
-      <init_from>/home/saul/.local/share/0ad/mods/pre-colonial-mod/art/textures/skins/skeletal/mex_padded_1a.png</init_from>
+      <init_from>/home/saul/.local/share/0ad/mods/pre-colonial-mod/art/textures/skins/skeletal/mexica/mex_padded_1a.png</init_from>
     </image>
   </library_images>
   <library_materials>

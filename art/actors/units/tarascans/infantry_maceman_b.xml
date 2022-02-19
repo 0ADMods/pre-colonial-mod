@@ -15,17 +15,17 @@
   <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/tara_w_b1.png" name="baseTex"/>
+        <texture file="skeletal/tarascans/tara__w_b1.png" name="baseTex"/>
       </textures>
     </variant>
   <variant frequency="1" name="2">
       <textures>
-      <texture file="skeletal/tara_w_b2.png" name="baseTex"/>
+      <texture file="skeletal/tarascans/tara__w_b2.png" name="baseTex"/>
       </textures>
     </variant>
       <variant frequency="1" name="3">
       <textures>
-      <texture file="skeletal/tara_w_b3.png" name="baseTex"/>
+      <texture file="skeletal/tarascans/tara__w_b3.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

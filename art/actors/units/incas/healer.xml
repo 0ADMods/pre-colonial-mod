@@ -5,7 +5,7 @@
     <variant file="biped/base_healer_male.xml">
       <mesh>skeletal/new/m_dress.dae</mesh>
       <textures>
-        <texture file="skeletal/inca_healer.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_healer.png" name="baseTex"/>
       </textures>
       <props>
         <prop actor="props/units/heads/head_inca_basic.xml" attachpoint="head"/>

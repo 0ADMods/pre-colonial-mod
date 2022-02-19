@@ -10,6 +10,7 @@
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
+      units/{civ}/hero_warchief
       units/{civ}/champion_infantry_spearman
       units/{civ}/champion_infantry_swordsman
       units/{civ}/champion_infantry_archer

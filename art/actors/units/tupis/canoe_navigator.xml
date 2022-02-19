@@ -17,12 +17,12 @@
   <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/tupi_w_1.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi__w_1.png" name="baseTex"/>
       </textures>
     </variant>
 	<variant frequency="1" name="2">
       <textures>
-	    <texture file="skeletal/tupi_w_2.png" name="baseTex"/>
+	    <texture file="skeletal/tupi/tupi__w_2.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

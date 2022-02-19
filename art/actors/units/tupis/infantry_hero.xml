@@ -17,8 +17,8 @@
   <group>
     <variant frequency="100" name="1">
       <textures>
-        <texture file="skeletal/tupi_w_1.png" name="baseTex"/>
-        <texture file="skeletal/tupi_w_spec.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi__w_1.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi__w_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>

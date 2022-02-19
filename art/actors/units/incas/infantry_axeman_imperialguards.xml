@@ -12,7 +12,7 @@
         <prop actor="props/units/helmets/inca_e.xml" attachpoint="helmet"/>
       </props>
       <textures>
-        <texture file="skeletal/inca_w_c_1.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_w_c_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

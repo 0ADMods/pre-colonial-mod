@@ -12,7 +12,7 @@
     <variant frequency="1" name="1">
       <mesh>skeletal/new/f_tunic_short.dae</mesh>
       <textures>
-        <texture file="skeletal/tupi_fem_c.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi__fem_c.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

@@ -16,7 +16,10 @@
 			"Type": "peace"
 		}
 	],
-	"CivBonuses":[],
+	"CivBonuses":
+	[
+
+	],
 	"WallSets":
 	[
 		"other/wallset_palisade",

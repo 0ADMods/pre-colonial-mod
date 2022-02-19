@@ -41,7 +41,7 @@
   </library_effects>
   <library_images>
     <image id="USA_uniform_infantry_pc_png" name="USA_uniform_infantry_pc_png">
-      <init_from>/home/saul/.local/share/0ad/mods/19-A.D/art/textures/skins/skeletal/MEX_charro_A.png</init_from>
+      <init_from>/home/saul/.local/share/0ad/mods/19-A.D/art/textures/skins/skeletal/mexica/mex_charro_A.png</init_from>
     </image>
   </library_images>
   <library_materials>

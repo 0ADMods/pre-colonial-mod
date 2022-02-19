@@ -12,13 +12,13 @@
     <variant frequency="1" name="Skirt-Long_a">
       <mesh>skeletal/new/f_dress.dae</mesh>
       <textures>
-        <texture file="skeletal/inca_f_1.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_f_1.png" name="baseTex"/>
       </textures>
     </variant>
         <variant frequency="1" name="Skirt-Long_b">
       <mesh>skeletal/new/f_dress.dae</mesh>
       <textures>
-        <texture file="skeletal/inca_f_2.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_f_2.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

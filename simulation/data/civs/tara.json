@@ -16,7 +16,14 @@
 			"Type": "peace"
 		}
 	],
-	"CivBonuses":[],
+	"CivBonuses":
+	[
+		{
+			"Name": "Fishing Coast",
+			"History": ".",
+			"Description": "The fishing canoes ara more cheap."
+		}
+	],
 	"WallSets":
 	[
 		"structures/wallset_palisade",

@@ -14,7 +14,7 @@
   <group>
     <variant frequency="100" name="Base">
       <textures>
-        <texture file="skeletal/maya_isl_e_3.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_e_3.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

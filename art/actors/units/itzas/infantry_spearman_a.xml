@@ -15,20 +15,20 @@
   <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/maya_isl_a_1.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+        <texture file="skeletal/maya/maya_isl_a_1.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
 	<variant frequency="1" name="2">
       <textures>
-	    <texture file="skeletal/maya_isl_a_2.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+	    <texture file="skeletal/maya/maya_isl_a_2.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
     	<variant frequency="1" name="3">
       <textures>
-	    <texture file="skeletal/maya_isl_a_3.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+	    <texture file="skeletal/maya/maya_isl_a_3.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>

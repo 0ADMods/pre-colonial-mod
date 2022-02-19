@@ -16,7 +16,7 @@
    <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/inca_h_2.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_h_2.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

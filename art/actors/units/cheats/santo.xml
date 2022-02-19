@@ -8,7 +8,7 @@
         <prop actor="props/units/heads/new/santo_head.xml" attachpoint="head"/>
       </props>
       <textures>
-        <texture file="skeletal/el_santo.png" name="baseTex"/>
+        <texture file="skeletal/other/el_santo.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

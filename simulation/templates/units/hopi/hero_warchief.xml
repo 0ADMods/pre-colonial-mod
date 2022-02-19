@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_archer">
+  <Auras datatype="tokens">
+    units/heroes/kush_hero_amanirenas
+  </Auras>
+  <Identity>
+    <Civ>hopi</Civ>
+    <GenericName>Warchief</GenericName>
+    <Icon>units/kush_hero_amanirenas.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/tarascans/infantry_archer_e.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -8,7 +8,9 @@
 			{"File":"The_Hellespont.ogg", "Type":"peace"}
 		],
 	"CivBonuses":
-	[],
+	[
+		
+	],
 	"WallSets":
 	[
 		"other/wallset_palisade",

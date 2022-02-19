@@ -12,22 +12,22 @@
     <variant frequency="1" name="1">
       <mesh>skeletal/new/f_tunic_short.dae</mesh>
       <textures>
-        <texture file="skeletal/maya_f_1.png" name="baseTex"/>
-        <texture file="skeletal/zapo_support_citizen_female_01_spec.png" name="specTex"/>
+        <texture file="skeletal/maya/maya_f_1.png" name="baseTex"/>
+        <texture file="skeletal/zapotec/zapo__support_citizen_female_01_spec.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="2">
       <mesh>skeletal/new/f_tunic_short.dae</mesh>
       <textures>
-        <texture file="skeletal/maya_f_2.png" name="baseTex"/>
-        <texture file="skeletal/maya_fem_spec.png" name="specTex"/>
+        <texture file="skeletal/maya/maya_f_2.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_fem_spec.png" name="specTex"/>
       </textures>
     </variant>
         <variant frequency="1" name="3">
       <mesh>skeletal/new/f_tunic_short.dae</mesh>
       <textures>
-        <texture file="skeletal/maya_f_3.png" name="baseTex"/>
-        <texture file="skeletal/maya_fem_spec.png" name="specTex"/>
+        <texture file="skeletal/maya/maya_f_3.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_fem_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>

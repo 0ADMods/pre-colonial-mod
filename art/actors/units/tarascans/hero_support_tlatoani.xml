@@ -20,7 +20,7 @@
         <prop actor="props/units/capes/tlatoani_cape.xml" attachpoint="root"/>
       </props>
       <textures>
-        <texture file="skeletal/mesoamerican_villager_m_basic.png" name="baseTex"/>
+        <texture file="skeletal/other/mesoamerican_villager_m_basic.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

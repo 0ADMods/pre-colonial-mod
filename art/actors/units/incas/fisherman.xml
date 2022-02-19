@@ -9,7 +9,7 @@
         <prop actor="props/units/row.xml" attachpoint="weapon_L"/>
       </props>
       <textures>
-        <texture file="skeletal/inca_w_a_1.png" name="baseTex"/>
+        <texture file="skeletal/inca/inca_w_a_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

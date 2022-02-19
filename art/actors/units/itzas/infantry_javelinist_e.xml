@@ -16,32 +16,32 @@
   <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/maya_isl_e_1.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+        <texture file="skeletal/maya/maya_isl_e_1.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
 	<variant frequency="1" name="2">
       <textures>
-	    <texture file="skeletal/maya_isl_e_2.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+	    <texture file="skeletal/maya/maya_isl_e_2.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant> 
     <variant frequency="1" name="3">
       <textures>
-	    <texture file="skeletal/maya_isl_e_3.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+	    <texture file="skeletal/maya/maya_isl_e_3.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant> 
             <variant frequency="1" name="4">
       <textures>
-	    <texture file="skeletal/maya_w_1.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+	    <texture file="skeletal/maya/maya_w_1.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant> 
         <variant frequency="1" name="5">
       <textures>
-	    <texture file="skeletal/maya_w_2.png" name="baseTex"/>
-        <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
+	    <texture file="skeletal/maya/maya_w_2.png" name="baseTex"/>
+        <texture file="skeletal/maya/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant> 
   </group>

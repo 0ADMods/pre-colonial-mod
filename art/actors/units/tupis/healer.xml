@@ -5,7 +5,7 @@
     <variant file="biped/base_healer_male.xml">
       <mesh>skeletal/new/m_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/tupi_h.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi__h.png" name="baseTex"/>
       </textures>
       <props>
         <prop actor="props/units/heads/new/head_native_basic.xml" attachpoint="head"/>

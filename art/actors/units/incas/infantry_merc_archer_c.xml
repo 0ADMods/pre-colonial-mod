@@ -13,7 +13,7 @@
         <prop actor="props/units/weapons/jav_ammo.xml" attachpoint="weapon_L"/> 
       </props>
       <textures>
-        <texture file="skeletal/amazonia.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi_/amazonia.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

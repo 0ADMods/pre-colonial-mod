@@ -14,12 +14,12 @@
    <group>
     <variant frequency="1" name="1">
       <textures>
-        <texture file="skeletal/cost_w_a.png" name="baseTex"/>
+        <texture file="skeletal/inca/cost_w_a.png" name="baseTex"/>
       </textures>
     </variant>
 	<variant frequency="1" name="2">
       <textures>
-	    <texture file="skeletal/cost_w_a.png" name="baseTex"/>
+	    <texture file="skeletal/inca/cost_w_a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
