@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="100" name="base">
+      <animations>
+        <animation file="quadraped/deer_idle_01.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_idle_02.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_idle_03.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_walk_01.dae" name="walk" speed="35"/>
+        <animation file="quadraped/deer_run_01.dae" name="run" speed="15"/>
+        <animation file="quadraped/deer_attack_01.dae" name="attack_melee" speed="20"/>
+      </animations>
+      <mesh>skeletal/pronghorn.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Base-Grey">
+      <textures>
+        <texture file="skeletal/pronghorn_deer.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="normal"/>
+    <variant frequency="0" name="feeding">
+      <animations>
+        <animation file="quadraped/deer_idle_04.dae" name="idle" speed="20"/>
+        <animation file="quadraped/deer_walk_02.dae" name="walk" speed="20"/>
+      </animations>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant name="death">
+      <props>
+        <prop actor="props/units/blood_01.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>default.xml</material>
+</actor>

@@ -12,6 +12,6 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/tarascans/civic_center.xml</Actor>
+    <Actor>structures/tlaxcalans/civic_center.xml</Actor>
   </VisualActor>
 </Entity>

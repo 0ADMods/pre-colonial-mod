@@ -19,7 +19,7 @@
     </Obstructions>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/tarascans/wall_gate.xml</Actor>
+    <Actor>structures/tlaxcalans/wall_gate.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>34.1</Length>

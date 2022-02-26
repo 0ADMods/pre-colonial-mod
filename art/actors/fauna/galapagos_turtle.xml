@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <float/>
+  <group>
+    <variant frequency="100" name="base">
+      <animations>
+        <animation file="quadraped/galapagos_turtle_idle.dae" name="idle" speed="15"/>
+        <animation file="quadraped/galapagos_turtle_walk.dae" name="walk" speed="15"/>
+      </animations>
+      <mesh>skeletal/galapagos_turtle.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant name="Galapagos Turtle">
+      <textures>
+        <texture file="skeletal/galapago_turtle.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

@@ -66,6 +66,6 @@
   </StatusBars>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/tlaxcalans/fortress.xml</Actor>
+    <Actor>structures/tlaxcalans/wonder.xml</Actor>
   </VisualActor>
 </Entity>

@@ -16,7 +16,7 @@
     <Static width="13.0" depth="6.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/tarascans/wall_short.xml</Actor>
+    <Actor>structures/tlaxcalans/wall_short.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>12.35</Length>

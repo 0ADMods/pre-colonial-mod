@@ -20,7 +20,7 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/tarascans/temple.xml</Actor>
+    <Actor>structures/tlaxcalans/temple.xml</Actor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
   </VisualActor>
 </Entity>

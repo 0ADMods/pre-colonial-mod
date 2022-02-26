@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="base">
+      <props>
+        <prop actor="props/structures/decals/rome_corral_mud.xml" attachpoint="root"/>
+        <prop actor="structures/incas/maize_clump.xml" attachpoint="farm_dec_2"/>
+        <prop actor="structures/incas/maize_clump.xml" attachpoint="farm_dec_3"/>
+        <prop actor="props/special/eyecandy/hay_a.xml" attachpoint="farm_dec_1"/>
+      </props>
+      <textures>
+        <texture file="structural/nahua_struct_b.png" name="baseTex"/>
+        <texture file="structural/nahua_struct_b_spec.png" name="specTex"/>
+        <texture file="structural/nahua_struct_b_norm.png" name="normTex"/>
+        <texture file="structural/ao/tara_farm_ao.png" name="aoTex"/>  
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="farmstead">
+      <mesh>structural/tara_farm.dae</mesh>
+      <textures>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="ungarrisoned"/>
+    <variant name="garrisoned">
+      <props>
+        <prop actor="props/special/common/garrison_flag_mex.xml" attachpoint="garrisoned"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="alive"/>
+    <variant name="death">
+      <props>
+        <prop attachpoint="garrisoned"/>
+        <prop actor="particle/destruction_smoke_small.xml" attachpoint="root"/>
+        <prop actor="particle/destruction_dust_small.xml" attachpoint="root"/>
+        <prop actor="particle/destruction_dust_small_gray.xml" attachpoint="root"/>
+        <prop actor="props/structures/decals/dirt_1x1.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>player_trans_ao_parallax_spec.xml</material>
+</actor>

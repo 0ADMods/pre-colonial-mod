@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <group>
+    <variant name="decal_dirt_6x6">
+     <mesh>structural/skull_wall.dae</mesh>
+      <textures>
+        <texture file="structural/skull_wall.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skeletons>
+  <standard_skeleton title="Turtle" id="Turtle">
+    <bone name="root" />
+    <bone name="sheld" />
+    <bone name="neck01">
+      <bone name="neck02">
+        <bone name="neck03">
+          <bone name="neck04">
+            <bone name="neck05">
+              <bone name="neck06">
+                <bone name="neck07">
+                  <bone name="head" />
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="tailRoot">
+      <bone name="tail01">
+        <bone name="tail02">
+          <bone name="tail03">
+            <bone name="tail04" />
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="leftArm">
+      <bone name="leftUperarm">
+        <bone name="leftHand" />
+      </bone>
+    </bone>
+    <bone name="leftLeg">
+      <bone name="LeftFemur">
+        <bone name="LeftFoot" />
+      </bone>
+    </bone>
+    <bone name="rightArm">
+      <bone name="rightUperarm">
+        <bone name="rightHand" />
+      </bone>
+    </bone>
+    <bone name="rightLeg">
+      <bone name="RightFemur">
+        <bone name="RightFoot" />
+      </bone>
+    </bone>
+    <bone name="TortugaDeLasGalapagos" />
+  </standard_skeleton>
+  <skeleton title="Turtle" target="Turtle">
+    <identifier>
+      <root>root</root>
+    </identifier>
+    <bone name="root">
+      <target>root</target>
+    </bone>
+    <bone name="sheld">
+      <target>sheld</target>
+    </bone>
+    <bone name="neck01">
+      <target>neck01</target>
+      <bone name="neck02">
+        <target>neck02</target>
+        <bone name="neck03">
+          <target>neck03</target>
+          <bone name="neck04">
+            <target>neck04</target>
+            <bone name="neck05">
+              <target>neck05</target>
+              <bone name="neck06">
+                <target>neck06</target>
+                <bone name="neck07">
+                  <target>neck07</target>
+                  <bone name="head">
+                    <target>head</target>
+                  </bone>
+                </bone>
+              </bone>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="tailRoot">
+      <target>tailRoot</target>
+      <bone name="tail01">
+        <target>tail01</target>
+        <bone name="tail02">
+          <target>tail02</target>
+          <bone name="tail03">
+            <target>tail03</target>
+            <bone name="tail04">
+              <target>tail04</target>
+            </bone>
+          </bone>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="leftArm">
+      <target>leftArm</target>
+      <bone name="leftUperarm">
+        <target>leftUperarm</target>
+        <bone name="leftHand">
+          <target>leftHand</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="leftLeg">
+      <target>leftLeg</target>
+      <bone name="LeftFemur">
+        <target>LeftFemur</target>
+        <bone name="LeftFoot">
+          <target>LeftFoot</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="rightArm">
+      <target>rightArm</target>
+      <bone name="rightUperarm">
+        <target>rightUperarm</target>
+        <bone name="rightHand">
+          <target>rightHand</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="rightLeg">
+      <target>rightLeg</target>
+      <bone name="RightFemur">
+        <target>RightFemur</target>
+        <bone name="RightFoot">
+          <target>RightFoot</target>
+        </bone>
+      </bone>
+    </bone>
+    <bone name="TortugaDeLasGalapagos">
+      <target>TortugaDeLasGalapagos</target>
+    </bone>
+  </skeleton>
+</skeletons>

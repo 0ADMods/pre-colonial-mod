@@ -5,6 +5,6 @@
     <SpecificName>Miletucerdon</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/zapotecs/workshop.xml</Actor>
+    <Actor>structures/tarascans/workshop.xml</Actor>
   </VisualActor>
 </Entity>
