@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_archer">
+  <Attack>
+    <Ranged>
+      <Damage>
+        <Hack>0.0</Hack>
+        <Pierce>71.0</Pierce>
+        <Crush>0.0</Crush>
+      </Damage>
+      <MaxRange>60</MaxRange>
+      <PrepareTime>640</PrepareTime>
+      <RepeatTime>4000</RepeatTime>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+      <Projectile>
+        <Speed>350.0</Speed>
+        <Spread>5.0</Spread>
+        <ImpactActorName>props/units/weapons/slingrock.xml</ImpactActorName>
+        <ImpactAnimationLifetime>0.1</ImpactAnimationLifetime>
+      </Projectile>
+      <Splash>
+        <Shape>Linear</Shape>
+        <Range>5</Range>
+        <FriendlyFire>true</FriendlyFire>
+        <Damage>
+          <Hack>0.0</Hack>
+          <Pierce>20.0</Pierce>
+          <Crush>0.0</Crush>
+        </Damage>
+      </Splash>
+    </Ranged>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>100</wood>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>175</Max>
+  </Health>
+  <Identity>
+    <Civ>gaia</Civ>
+    <Lang>latin</Lang>
+    <GenericName>Federal Solider</GenericName>
+    <SpecificName>Soldado Federal Porfilista</SpecificName>
+    <Icon>units/mex/infantry_swordsman.png</Icon>
+  </Identity>
+  <Decay>
+    <Active>false</Active>
+    <SinkingAnim>false</SinkingAnim>
+    <DelayTime>30.0</DelayTime>
+    <SinkRate>0.01</SinkRate>
+    <SinkAccel>0.0</SinkAccel>
+  </Decay>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.6</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/cheats/porfiliato_solider.xml</Actor>
+  </VisualActor>
+  <Sound>
+    <SoundGroups>
+      <attack_ranged>attack/weapon/musket.xml</attack_ranged>
+    </SoundGroups>
+  </Sound>
+</Entity>

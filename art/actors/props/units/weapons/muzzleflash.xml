@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="flash">
+      <animations>
+        <animation event=".01" file="other/muzzleflash.dae" load="0" name="attack_ranged" speed="200"/>
+        <animation event="0" file="other/muzzleflash.dae" load="0" name="idle" speed="30"/>
+      </animations>
+      <mesh>skeletal/muzzleflash.dae</mesh>
+      <textures>
+        <texture file="gaia/rock_ocean_1.dds" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="idle"/>
+    <variant name="attack_ranged">
+      <props>
+        <prop actor="particle/muzzleflash.xml" attachpoint="flash"/>
+        <prop actor="particle/muzzleflash_1.xml" attachpoint="flash"/>
+      </props>
+    </variant>
+  </group>
+  <material>basic_trans.xml</material>
+</actor>

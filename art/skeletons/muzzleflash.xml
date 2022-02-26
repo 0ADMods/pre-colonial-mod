@@ -1,0 +1,33 @@
+<skeletons>
+
+	<standard_skeleton title="muzzleflash" id="muzzleflash">
+
+		<bone name="Bone">
+
+			<bone name="prop_flash">
+
+			</bone>
+
+		</bone>
+
+	</standard_skeleton>
+
+
+	<skeleton title="muzzleflash" target="muzzleflash">
+
+		<identifier>
+
+			<root>muzzleflash</root>
+
+		</identifier>
+
+		<bone name="Bone"><target>Bone</target>
+
+			<bone name="Bone"><target>prop_flash</target>
+
+			</bone>
+		</bone>
+
+	</skeleton>
+
+</skeletons>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+      <mesh>skeletal/new/m_pants_sleeves.dae</mesh>
+      <props>
+        <prop actor="props/units/weapons/rifle.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/helmets/porfiliato.xml" attachpoint="helmet"/>
+        <prop actor="props/units/weapons/muzzleflash.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="1">
+      <props>
+        <prop actor="props/units/heads/new/head_celt_2.xml" attachpoint="head"/>
+      </props>
+      <textures>
+        <texture file="skeletal/cheats/porfiliato_solider.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="2">
+      <props>
+        <prop actor="props/units/heads/new/head_iber_basic.xml" attachpoint="head"/>
+      </props>
+      <textures>
+        <texture file="skeletal/cheats/porfiliato_solider.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="3">
+      <props>
+        <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
+      </props>
+      <textures>
+        <texture file="skeletal/cheats/porfiliato_solider.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant file="biped/rifleman_base.xml"/>
+  </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant file="biped/attack_capture.xml"/>
+    <variant file="biped/attack_slaughter.xml"/>
+    <variant file="biped/death_infantry.xml"/>
+  </group>
+  <material>player_trans.xml</material>
+</actor>

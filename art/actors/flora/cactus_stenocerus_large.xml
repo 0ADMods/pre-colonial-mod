@@ -4,7 +4,7 @@
   <group>
     <variant frequency="1" name="cactus">
       <textures>
-        <texture file="gaia/desert_a.png" name="baseTex"/>
+        <texture file="flora/desert_a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

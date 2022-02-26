@@ -1,0 +1,9 @@
+{
+	"Name": "HueHueHue",
+	"Data": {
+		"Action": "createunits",
+		"DefaultParameter": 1,
+		"isNumeric": true,
+		"Templates": ["units/porfiliato_solider"]
+	}
+}

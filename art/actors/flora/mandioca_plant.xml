@@ -4,7 +4,7 @@
   <group>
     <variant frequency="1" name="base">
       <textures>
-        <texture file="gaia/mandioca.png" name="baseTex"/>
+        <texture file="flora/mandioca.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
