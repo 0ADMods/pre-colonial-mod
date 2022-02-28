@@ -11,8 +11,10 @@
     <Bonus>50</Bonus>
   </Population>
   <Identity>
+    <Classes datatype="tokens">HopiCivCentre</Classes>
     <Civ>hopi</Civ>
-    <SpecificName>Altepenepantla</SpecificName>
+    <GenericName>House Block</GenericName>
+    <SpecificName>Pueblo</SpecificName>
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
