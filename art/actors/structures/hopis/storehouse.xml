@@ -17,7 +17,7 @@
     <variant frequency="1" name="storehouse">
       <mesh>structural/storehouse_hopi.dae</mesh>
       <textures>
-        <texture file="structural/ao/storehouse_hopi_ao.png" name="aoTex"/>
+        <texture file="structural/ao/hopi_storehouse_ao.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

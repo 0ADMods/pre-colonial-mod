@@ -26,9 +26,9 @@
 	"CivBonuses": 
 	[
 		{
-			"Name": "Traditional Tactics.",
-			"History": "Zapotec soldiers favored melee and wore light armor.",
-			"Description": "Zapotec melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
+			"Name": "Housing.",
+			"History": ".",
+			"Description": "House adds 15 pop."
 		}
 	],
 	"WallSets": [
@@ -70,7 +70,6 @@
 		"Vosenius"
 	],
 	"SkirmishReplacements": {
-		"skirmish/units/default_infantry_ranged_b": "units/hopi/infantry_slinger_b",
 		"skirmish/structures/default_house_5": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true

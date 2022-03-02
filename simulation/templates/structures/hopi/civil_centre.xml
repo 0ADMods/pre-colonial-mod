@@ -1,5 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_civil_centre">
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+      structures/{civ}/house
+      structures/{civ}/apartment
+      structures/{civ}/storehouse
+      structures/{civ}/farmstead
+      structures/{civ}/corral
+      structures/{civ}/dock
+      structures/{civ}/barracks
+      structures/{civ}/arsenal
+      structures/{civ}/forge
+      structures/{civ}/temple
+      structures/{civ}/market
+      structures/{civ}/outpost
+      structures/{civ}/sentry_tower
+      structures/{civ}/defense_tower
+      structures/{civ}/fortress
+      structures/{civ}/wonder
+    </Entities>
+  </Builder>
   <Cost>
     <BuildTime>600</BuildTime>
     <Resources>

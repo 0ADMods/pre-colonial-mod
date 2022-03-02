@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_house_big">
+  <AutoBuildable>
+    <Rate>1.0</Rate>
+  </AutoBuildable>
   <Identity>
     <Civ>hopi</Civ>
     <SpecificName>Calli</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="13.0" depth="13.0"/>
+    <Static width="15.0" depth="15.0"/>
   </Obstruction>
+  <Population>
+    <Bonus>15</Bonus>
+  </Population>
   <VisualActor>
     <Actor>structures/hopis/house.xml</Actor>
   </VisualActor>

@@ -15,7 +15,7 @@
   <group>
     <variant frequency="100" name="Base">
       <textures>
-        <texture file="skeletal/zapotec/zapo__isl_a.png" name="baseTex"/>
+        <texture file="skeletal/zapotec/zapo_isl_a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

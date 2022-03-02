@@ -17,13 +17,13 @@
     <variant frequency="1" name="house a">
       <mesh>structural/house_a_hopi.dae</mesh>
       <textures>
-        <texture file="structural/ao/house_a_hopi_ao.png" name="aoTex"/>
+        <texture file="structural/ao/hopi_house_a_ao.png" name="aoTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="house b">
       <mesh>structural/house_b_hopi.dae</mesh>
       <textures>
-        <texture file="structural/ao/house_b_hopi_ao.png" name="aoTex"/>
+        <texture file="structural/ao/hopi_house_b_ao.png" name="aoTex"/>
       </textures>
     </variant>
   </group>
