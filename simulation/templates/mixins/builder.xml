@@ -3,6 +3,7 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
+      template_socket_civil_centre
       structures/{civ}/civil_centre
       structures/{civ}/military_colony
       structures/{civ}/house

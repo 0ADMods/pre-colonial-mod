@@ -31,8 +31,10 @@
     </Ranged>
   </Attack>
   <BuildRestrictions>
+    <PlacementType>socket</PlacementType>
     <Territory>own neutral</Territory>
     <Category>CivilCentre</Category>
+    <Sockets datatype="tokens">socket_civil_centre</Sockets>
     <Distance>
       <FromClass>CivilCentre</FromClass>
       <MinDistance>200</MinDistance>
