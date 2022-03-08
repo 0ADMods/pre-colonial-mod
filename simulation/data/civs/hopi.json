@@ -70,7 +70,8 @@
 		"Vosenius"
 	],
 	"SkirmishReplacements": {
-		"skirmish/structures/default_house_5": "structures/{civ}/house"
+		"skirmish/structures/default_house_5": "structures/{civ}/house",
+		"skirmish/units/default_cavalry": "units/cavalry_scout"
 	},
 	"SelectableInGameSetup": true
 }

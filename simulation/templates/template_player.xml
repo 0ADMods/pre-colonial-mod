@@ -68,7 +68,7 @@
     <SpyCostMultiplier>1.0</SpyCostMultiplier>
     <Formations datatype="tokens">
       special/formations/null
-      special/formations/box
+      special/formations/wood_pile
       special/formations/column_closed
       special/formations/line_closed
       special/formations/column_open

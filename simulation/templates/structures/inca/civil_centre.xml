@@ -29,6 +29,5 @@
   </Researcher>
   <VisualActor>
     <Actor>structures/incas/inca_kallanka.xml</Actor>
-    <FoundationActor>structures/fndn_7x8.xml</FoundationActor>
   </VisualActor>
 </Entity>

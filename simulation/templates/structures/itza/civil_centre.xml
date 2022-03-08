@@ -19,6 +19,5 @@
   </Trainer>
   <VisualActor>
     <Actor>structures/itzas/cc.xml</Actor>
-    <FoundationActor>structures/fndn_7x8.xml</FoundationActor>
   </VisualActor>
 </Entity>

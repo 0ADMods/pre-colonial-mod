@@ -45,7 +45,7 @@
 	"Formations":
 	[
 		"special/formations/null",
-		"special/formations/box",
+		"special/formations/wood_pile",
 		"special/formations/column_closed",
 		"special/formations/line_closed",
 		"special/formations/column_open",
@@ -72,7 +72,7 @@
 	],
 	"SkirmishReplacements":
 	{
-	"skirmish/units/default_cavalry": "units/inca/infantry_javelineer_b",
+	"skirmish/units/default_cavalry": "units/cavalry_scout",
 	"skirmish/units/default_infantry_ranged_b": "units/inca/infantry_slinger_b",
 	"skirmish/units/default_infantry_melee_b": "units/inca/infantry_maceman_b",
 	"skirmish/units/special_starting_unit":"units/inca/infantry_chaski",

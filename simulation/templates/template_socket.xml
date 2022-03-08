@@ -41,7 +41,7 @@
     <GenericName>Socket</GenericName>
     <Classes datatype="tokens">socket_civil_centre</Classes>
     <Undeletable>true</Undeletable>
-    <Icon>gaia/special_settlement.png</Icon>
+    <Icon>structures/abandoned_civil_center.png</Icon>
   </Identity>
   <Obstruction>
     <Active>true</Active>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship">
+  <Attack>
+    <Melee>
+      <AttackName>Harpoon</AttackName>
+      <Damage>
+        <Hack>10</Hack>
+      </Damage>
+      <MaxRange>5</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">!SeaCreature</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Cost>
+    <BuildTime>15</BuildTime>
+    <Resources>
+      <wood>50</wood>
+    </Resources>
+  </Cost>
+  <GarrisonHolder>
+    <Max>1</Max>
+  </GarrisonHolder>
+  <Health>
+    <Max>120</Max>
+  </Health>
+  <Identity>
+    <GenericName>Fishing Boat</GenericName>
+    <SelectionGroupName>template_unit_ship_fishing</SelectionGroupName>
+    <Tooltip>Fish the waters for food.</Tooltip>
+    <Classes datatype="tokens">-ConquestCritical</Classes>
+    <VisibleClasses datatype="tokens">FishingBoat</VisibleClasses>
+  </Identity>
+  <Loot>
+    <wood>10</wood>
+  </Loot>
+  <ResourceGatherer>
+    <MaxDistance>6.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <food.fish>1.8</food.fish>
+    </Rates>
+    <Capacities>
+      <food>40</food>
+    </Capacities>
+  </ResourceGatherer>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x256/ellipse.png</MainTexture>
+        <MainTextureMask>128x256/ellipse_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <order_walk>actor/ship/boat_move.xml</order_walk>
+      <order_attack>actor/ship/boat_move.xml</order_attack>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <BarWidth>2.0</BarWidth>
+    <BarHeight>0.333</BarHeight>
+    <HeightOffset>5.0</HeightOffset>
+  </StatusBars>
+  <UnitAI>
+    <DefaultStance>passive</DefaultStance>
+    <CanGuard>false</CanGuard>
+    <CanPatrol>false</CanPatrol>
+  </UnitAI>
+  <UnitMotion>
+    <PassabilityClass>ship-small</PassabilityClass>
+    <WalkSpeed op="mul">1.1</WalkSpeed>
+    <Acceleration op="mul">1.1</Acceleration>
+  </UnitMotion>
+  <Vision>
+    <Range>30</Range>
+  </Vision>
+</Entity>

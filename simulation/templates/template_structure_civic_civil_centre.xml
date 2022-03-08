@@ -149,6 +149,6 @@
     <Range>90</Range>
   </Vision>
   <VisualActor>
-    <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
+    <FoundationActor>structures/settlements/settlement_b.xml</FoundationActor>
   </VisualActor>
 </Entity>

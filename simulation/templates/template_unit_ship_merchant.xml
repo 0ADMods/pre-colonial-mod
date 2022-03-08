@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship">
+  <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <metal>100</metal>
+    </Resources>
+  </Cost>
+  <GarrisonHolder>
+    <Max>15</Max>
+    <List datatype="tokens">Support Cavalry</List>
+  </GarrisonHolder>
+  <Health>
+    <Max>240</Max>
+  </Health>
+  <Identity>
+    <GenericName>Merchantman</GenericName>
+    <SelectionGroupName>template_unit_ship_merchant</SelectionGroupName>
+    <Tooltip>Trade between docks. Garrison a Trader aboard for additional profit (+20% for each garrisoned). Gather profitable aquatic treasures.</Tooltip>
+    <Classes datatype="tokens">-ConquestCritical</Classes>
+    <VisibleClasses datatype="tokens">Trader Bribable</VisibleClasses>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <Loot>
+    <metal>20</metal>
+  </Loot>
+  <Trader>
+    <GainMultiplier>0.75</GainMultiplier>
+    <GarrisonGainMultiplier>0.2</GarrisonGainMultiplier>
+  </Trader>
+  <TreasureCollector>
+    <MaxDistance>12</MaxDistance>
+  </TreasureCollector>
+  <UnitAI>
+    <DefaultStance>passive</DefaultStance>
+    <CanGuard>false</CanGuard>
+    <CanPatrol>false</CanPatrol>
+  </UnitAI>
+  <UnitMotion>
+    <PassabilityClass>ship-small</PassabilityClass>
+    <WalkSpeed op="mul">1.35</WalkSpeed>
+    <Acceleration op="mul">1.6</Acceleration>
+  </UnitMotion>
+  <Vision>
+    <Range>50</Range>
+  </Vision>
+  <VisionSharing>
+    <Bribable>true</Bribable>
+  </VisionSharing>
+</Entity>

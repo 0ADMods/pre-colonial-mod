@@ -54,7 +54,7 @@
 	"Formations":
 	[
 		"special/formations/null",
-		"special/formations/box",
+		"special/formations/wood_pile",
 		"special/formations/column_closed",
 		"special/formations/line_closed",
 		"special/formations/column_open",
@@ -84,7 +84,7 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/tara/infantry_swordsman_b",
+		"skirmish/units/default_cavalry": "units/cavalry_scout",
 		"skirmish/units/default_infantry_ranged_b": "units/tara/infantry_javelineer_b",
 		"skirmish/structures/default_house_10": "structures/{civ}/house"
 	},

@@ -421,17 +421,17 @@ function tryPlaceWall(queued)
 }
 
 /**
- * Updates the bandbox object with new positions and visibility.
- * @returns {array} The coordinates of the vertices of the bandbox.
+ * Updates the bandwood_pile object with new positions and visibility.
+ * @returns {array} The coordinates of the vertices of the bandwood_pile.
  */
-function updateBandbox(bandbox, ev, hidden)
+function updateBandwood_pile(bandwood_pile, ev, hidden)
 {
 	let scale = +Engine.ConfigDB_GetValue("user", "gui.scale");
 	let vMin = Vector2D.min(g_DragStart, ev);
 	let vMax = Vector2D.max(g_DragStart, ev);
 
-	bandbox.size = new GUISize(vMin.x / scale, vMin.y / scale, vMax.x / scale, vMax.y / scale);
-	bandbox.hidden = hidden;
+	bandwood_pile.size = new GUISize(vMin.x / scale, vMin.y / scale, vMax.x / scale, vMax.y / scale);
+	bandwood_pile.hidden = hidden;
 
 	return [vMin.x, vMin.y, vMax.x, vMax.y];
 }
@@ -538,12 +538,12 @@ function handleInputBeforeGui(ev, hoveredObject)
 	switch (inputState)
 	{
 	case INPUT_BANDBOXING:
-		let bandbox = Engine.GetGUIObjectByName("bandbox");
+		let bandwood_pile = Engine.GetGUIObjectByName("bandwood_pile");
 		switch (ev.type)
 		{
 		case "mousemotion":
 		{
-			let rect = updateBandbox(bandbox, ev, false);
+			let rect = updateBandwood_pile(bandwood_pile, ev, false);
 
 			let ents = Engine.PickPlayerEntitiesInRect(rect[0], rect[1], rect[2], rect[3], g_ViewedPlayer);
 			let preferredEntities = getPreferredEntities(ents);
@@ -555,7 +555,7 @@ function handleInputBeforeGui(ev, hoveredObject)
 		case "mousebuttonup":
 			if (ev.button == SDL_BUTTON_LEFT)
 			{
-				let rect = updateBandbox(bandbox, ev, true);
+				let rect = updateBandwood_pile(bandwood_pile, ev, true);
 				let ents = getPreferredEntities(Engine.PickPlayerEntitiesInRect(rect[0], rect[1], rect[2], rect[3], g_ViewedPlayer));
 				g_Selection.setHighlightList([]);
 
@@ -575,7 +575,7 @@ function handleInputBeforeGui(ev, hoveredObject)
 			if (ev.button == SDL_BUTTON_RIGHT)
 			{
 				// Cancel selection.
-				bandbox.hidden = true;
+				bandwood_pile.hidden = true;
 				g_Selection.setHighlightList([]);
 
 				inputState = INPUT_NORMAL;

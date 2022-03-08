@@ -3,7 +3,6 @@
   <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
-      template_socket_civil_centre
       structures/{civ}/civil_centre
       structures/{civ}/military_colony
       structures/{civ}/house
@@ -13,6 +12,7 @@
       structures/{civ}/corral
       structures/{civ}/dock
       structures/{civ}/barracks
+      units/{civ}/siege_ram
       structures/{civ}/arsenal
       structures/{civ}/forge
       structures/{civ}/temple

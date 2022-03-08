@@ -41,7 +41,7 @@
     <GenericName>Socket</GenericName>
     <Classes datatype="tokens">socket_trading_post</Classes>
     <Undeletable>true</Undeletable>
-    <Icon>structures/settlement.png</Icon>
+    <Icon>gaia/special_settlement.png</Icon>
   </Identity>
   <Obstruction>
     <Active>true</Active>
