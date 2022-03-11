@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_female_citizen">
-  <Builder disable=""/>
+  <Builder>
+    <Rate>1.0</Rate>
+    <Entities datatype="tokens">
+      -structures/{civ}/military_colony
+      -structures/{civ}/apartment
+      -structures/{civ}/corral
+      -structures/{civ}/barracks
+      -structures/{civ}/arsenal
+      -structures/{civ}/forge
+      -structures/{civ}/temple
+      -structures/{civ}/defense_tower
+      -structures/{civ}/fortress
+    </Entities>
+  </Builder>
   <Identity>
     <Civ>hopi</Civ>
     <GenericName>Hopi Woman</GenericName>

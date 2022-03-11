@@ -39,14 +39,10 @@
   <Identity>
     <Civ>gaia</Civ>
     <GenericName>Socket</GenericName>
-    <Classes datatype="tokens">socket_trading_post</Classes>
+    <Classes datatype="tokens">socket_farmstead</Classes>
     <Undeletable>true</Undeletable>
-    <Icon>gaia/special_settlement.png</Icon>
+    <Icon>structure/farmstead.png</Icon>
   </Identity>
-  <Minimap>
-    <Type>structure</Type>
-    <Icon size="16.0">trading_post.png</Icon>
-  </Minimap>
   <Obstruction>
     <Active>true</Active>
     <BlockMovement>true</BlockMovement>

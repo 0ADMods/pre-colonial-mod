@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity>
+  <BuildRestrictions>
+    <PlacementType>socket</PlacementType>
+    <Territory>own neutral</Territory>
+    <Category>CivilCentre</Category>
+    <Sockets datatype="tokens">socket_trading_post</Sockets>
+  </BuildRestrictions>
+  <Capturable>
+    <CapturePoints>500</CapturePoints>
+  </Capturable>
+  <Health disable=""/>
+  <Identity>
+    <GenericName>Trading Post</GenericName>
+    <Undeletable>true</Undeletable>
+  </Identity>
+  <Minimap>
+    <Type>structure</Type>
+    <Icon size="16.0">other.png</Icon>
+  </Minimap>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -trader_health
+      -trade_gain_01
+      -trade_gain_02
+      -trade_commercial_treaty
+    </Technologies>
+  </Researcher>
+  <Resistance replace=""/>
+  <TerritoryDecay disable=""/>
+  <TerritoryInfluence disable=""/>
+  <VisualActor>
+    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
+  </VisualActor>
+</Entity>

@@ -43,6 +43,10 @@
     <Undeletable>true</Undeletable>
     <Icon>structures/abandoned_civil_center.png</Icon>
   </Identity>
+  <Minimap>
+    <Type>structure</Type>
+    <Icon size="16.0">civil_centre.png</Icon>
+  </Minimap>
   <Obstruction>
     <Active>true</Active>
     <BlockMovement>true</BlockMovement>

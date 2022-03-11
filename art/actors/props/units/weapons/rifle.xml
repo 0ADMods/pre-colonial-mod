@@ -4,7 +4,9 @@
   <group>
     <variant name="Base">
       <textures>
-        <texture file="props/prop_weap.dds" name="baseTex"/>
+        <texture file="props/mondragon_rifle.png" name="baseTex"/>
+        <texture file="props/mondragon_rifle.png" name="specTex"/>
+        <texture file="props/mondragon_rifle.png" name="normTex"/>
       </textures>
     </variant>
   </group>
@@ -13,5 +15,5 @@
       <mesh>props/rifle.dae</mesh>
     </variant>
   </group>
-  <material>objectcolor.xml</material>
+  <material>player_trans_parallax_spec.xml</material>
 </actor>

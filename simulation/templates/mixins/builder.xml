@@ -17,7 +17,10 @@
       structures/{civ}/forge
       structures/{civ}/temple
       structures/{civ}/market
+      structures/trading_post_celtic
       structures/{civ}/outpost
+      structures/{civ}/wallset_stone
+      structures/wallset_palisade
       structures/{civ}/sentry_tower
       structures/{civ}/defense_tower
       structures/{civ}/fortress

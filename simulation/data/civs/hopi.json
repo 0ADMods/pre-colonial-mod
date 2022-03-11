@@ -3,32 +3,27 @@
 	"Culture": "pueblo",
 	"Music": [
 		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
 			"File": "Highland_Mist.ogg",
 			"Type": "peace"
 		},
 		{
-			"File": "Water's_Edge.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Celtic_Pride.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Cisalpine_Gaul.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Celtica.ogg",
+			"File": "The_Hellespont.ogg",
 			"Type": "peace"
 		}
 	],
-	"CivBonuses": 
-	[
+	"CivBonuses": [
 		{
-			"Name": "Housing.",
-			"History": ".",
-			"Description": "House adds 15 pop."
+			"Name": "Silver Owls",
+			"History": "The mines at Laureion in Attica provided Athens with a wealth of silver from which to mint her famous and highly prized coin, The Athenian Owl.",
+			"Description": "Workers +10% metal gather rate per phase advance."
 		}
 	],
 	"WallSets": [
@@ -50,27 +45,28 @@
 		{
 			"Template": "units/hopi/infantry_slinger_b",
 			"Count": 2
-		},
-		{
-			"Template": "units/hopi/cavalry_javelineer_b",
-			"Count": 1
 		}
 	],
 	"AINames": [
-		"Karatakos",
-		"Kunobelinos",
-		"Boudicca",
-		"Prasutagus",
-		"Venutius",
-		"Cogidubnus",
-		"Commius",
-		"Comux",
-		"Adminius",
-		"Dubnovellaunus",
-		"Vosenius"
+		"Themistocles",
+		"Pericles",
+		"Cimon",
+		"Aristides",
+		"Xenophon",
+		"Hippias",
+		"Cleisthenes",
+		"Thucydides",
+		"Alcibiades",
+		"Miltiades",
+		"Cleon",
+		"Cleophon",
+		"Thrasybulus",
+		"Iphicrates",
+		"Demosthenes"
 	],
 	"SkirmishReplacements": {
-		"skirmish/structures/default_house_5": "structures/{civ}/house",
+		"skirmish/units/default_infantry_ranged_b": "units/hopi/infantry_slinger_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house",
 		"skirmish/units/default_cavalry": "units/cavalry_scout"
 	},
 	"SelectableInGameSetup": true
