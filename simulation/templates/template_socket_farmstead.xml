@@ -38,7 +38,8 @@
   </Health>
   <Identity>
     <Civ>gaia</Civ>
-    <GenericName>Socket</GenericName>
+    <GenericName>Farmstead Socket</GenericName>
+    <Tooltip>Place the Farmstead foundations here.</Tooltip>
     <Classes datatype="tokens">socket_farmstead</Classes>
     <Undeletable>true</Undeletable>
     <Icon>structure/farmstead.png</Icon>

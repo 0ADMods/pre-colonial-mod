@@ -38,9 +38,9 @@
   </Health>
   <Identity>
     <Civ>gaia</Civ>
-    <GenericName>Socket</GenericName>
+    <GenericName>Civic Centre Socket</GenericName>
     <Tooltip>Place the Structure foundations here.</Tooltip>
-    <Classes datatype="tokens">socket_structure</Classes>
+    <Classes datatype="tokens">socket_civil_centre</Classes>
     <Undeletable>true</Undeletable>
     <Icon>structures/abandoned_civil_center.png</Icon>
   </Identity>

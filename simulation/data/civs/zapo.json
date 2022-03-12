@@ -35,7 +35,10 @@
 	"StartEntities":
 	[
 		{
-			"Template": "structures/zapo/civil_centre"
+			"Template": "structures/civic_centre_socket_b"
+		},
+		{
+			"Template": "gaia/treasure/starting_resources"
 		},
 		{
 			"Template": "units/zapo/support_female_citizen",

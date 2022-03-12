@@ -19,7 +19,10 @@
 	"StartEntities":
 	[
 		{
-			"Template": "structures/inca/civil_centre"
+			"Template": "structures/civic_centre_socket_a"
+		},
+		{
+			"Template": "gaia/treasure/starting_resources"
 		},
 		{
 			"Template": "units/inca/support_female_citizen",

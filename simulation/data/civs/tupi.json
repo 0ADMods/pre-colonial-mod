@@ -11,7 +11,10 @@
 	"StartEntities":
 	[
 		{
-			"Template": "structures/tupi/civil_centre"
+			"Template": "structures/civic_centre_socket_a"
+		},
+		{
+			"Template": "gaia/treasure/starting_resources"
 		},
 		{
 			"Template": "units/tupi/support_female_citizen",

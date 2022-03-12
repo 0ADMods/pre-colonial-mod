@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_socket">
-  <Identity>
-    <SpecificName>Settlemnt</SpecificName>
-  </Identity>
+<Entity parent="structures/civic_centre_socket_a">
   <VisualActor>
     <Actor>structures/settlements/settlement_b.xml</Actor>
   </VisualActor>

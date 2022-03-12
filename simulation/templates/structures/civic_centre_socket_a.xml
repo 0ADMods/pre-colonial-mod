@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_socket">
+<Entity parent="template_socket_civic_centre">
   <Identity>
-    <SpecificName>Settlemnt</SpecificName>
+    <GenericName>Civic Center Socket</GenericName>
+    <Tooltip>Place the Civic Center foundations here.</Tooltip>
   </Identity>
   <VisualActor>
     <Actor>structures/settlements/settlement_a.xml</Actor>

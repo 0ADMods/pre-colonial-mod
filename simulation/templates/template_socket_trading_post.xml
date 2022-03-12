@@ -39,6 +39,7 @@
   <Identity>
     <Civ>gaia</Civ>
     <GenericName>Socket</GenericName>
+    <Tooltip>Place the Trading Post foundations here.</Tooltip>
     <Classes datatype="tokens">socket_trading_post</Classes>
     <Undeletable>true</Undeletable>
     <Icon>gaia/special_settlement.png</Icon>
