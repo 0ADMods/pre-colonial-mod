@@ -32,7 +32,7 @@
 	"StartEntities":
 	[
 		{
-			"Template": "structures/civic_centre_socket_a"
+			"Template": "structures/{civ}/civic_centre"
 		},
 		{
 			"Template": "gaia/treasure/starting_resources"

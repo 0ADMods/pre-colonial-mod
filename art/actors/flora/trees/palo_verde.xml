@@ -5,37 +5,37 @@
     <variant frequency="1" name="tree_1">
       <mesh>gaia/oak_tree_a.dae</mesh>
       <textures>
-        <texture file="gaia/oak_tree_a.png" name="baseTex"/>
+        <texture file="flora/oak_tree_a.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tree_2">
       <mesh>gaia/flora/palo_verde_a.dae</mesh>
       <textures>
-        <texture file="gaia/palo_verde.png" name="baseTex"/>
+        <texture file="flora/palo_verde.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tree_1_small">
       <mesh>gaia/oak_tree_a_small.dae</mesh>
       <textures>
-        <texture file="gaia/oak_tree_a.png" name="baseTex"/>
+        <texture file="flora/arucaria.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tree_3">
       <mesh>gaia/oak_tree_a.dae</mesh>
       <textures>
-        <texture file="gaia/oak_tree_b.png" name="baseTex"/>
+        <texture file="flora/arucaria.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tree_4">
       <mesh>gaia/oak_tree_b.dae</mesh>
       <textures>
-        <texture file="gaia/oak_tree_b.png" name="baseTex"/>
+        <texture file="flora/arucaria.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tree_3_small">
       <mesh>gaia/oak_tree_a_small.dae</mesh>
       <textures>
-        <texture file="gaia/oak_tree_b.png" name="baseTex"/>
+        <texture file="gaia/arucaria.png" name="baseTex"/>
       </textures>
     </variant>	
   </group>

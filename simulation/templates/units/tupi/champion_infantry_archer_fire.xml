@@ -17,7 +17,7 @@
    <Cost>
     <Resources>
       <food>10</food>
-      <prestigegoods>25</prestigegoods>
+      <stone>25</stone>
     </Resources>
   </Cost>
   <Identity>
@@ -30,4 +30,3 @@
     <Actor>units/tupis/infantry_archer_cf.xml</Actor>
   </VisualActor>
 </Entity>
-

@@ -15,7 +15,7 @@
     <group>
     <variant frequency="100" name="1">
       <textures>
-        <texture file="skeletal/tupi/tupi__fem_c.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi_fem_c.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

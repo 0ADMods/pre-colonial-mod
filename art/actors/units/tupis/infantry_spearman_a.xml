@@ -15,23 +15,23 @@
   <group>
     <variant frequency="100" name="1">
       <textures>
-        <texture file="skeletal/tupi/tupi__w_1.png" name="baseTex"/>
-        <texture file="skeletal/tupi/tupi__w_spec.png" name="specTex"/>
-        <texture file="skeletal/tupi/tupi__w_norm.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi_w_1.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi_w_spec.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi_w_norm.png" name="specTex"/>
       </textures>
     </variant>
         <variant frequency="100" name="2">
       <textures>
-        <texture file="skeletal/tupi/tupi__w_2.png" name="baseTex"/>
-        <texture file="skeletal/tupi/tupi__w_spec.png" name="specTex"/>
-        <texture file="skeletal/tupi/tupi__w_norm.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi_w_2.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi_w_spec.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi_w_norm.png" name="specTex"/>
       </textures>
     </variant>
         <variant frequency="100" name="3">
       <textures>
-        <texture file="skeletal/tupi/tupi__w_3.png" name="baseTex"/>
-        <texture file="skeletal/tupi/tupi__w_spec.png" name="specTex"/>
-        <texture file="skeletal/tupi/tupi__w_norm.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi_w_3.png" name="baseTex"/>
+        <texture file="skeletal/tupi/tupi_w_spec.png" name="specTex"/>
+        <texture file="skeletal/tupi/tupi_w_norm.png" name="specTex"/>
       </textures>
     </variant>
   </group>

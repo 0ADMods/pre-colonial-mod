@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Mesa Verde">
-      <mesh>structural/wonder_hopi.dae</mesh>
+      <mesh>structural/hopi_wonder.dae</mesh>
       <textures>
         <texture file="structural/hopi_struct.png" name="baseTex"/>
         <texture file="structural/hopi_struct_spec.png" name="specTex"/>
@@ -13,18 +13,9 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="ungarrisoned"/>
-    <variant name="garrisoned">
-      <props>
-        <prop actor="props/special/common/garrison_flag_mex.xml" attachpoint="garrisoned"/>
-      </props>
-    </variant>
-  </group>
-  <group>
     <variant frequency="1" name="alive"/>
     <variant name="death">
       <props>
-        <prop attachpoint="garrisoned"/>
         <prop actor="particle/destruction_smoke_small.xml" attachpoint="root"/>
         <prop actor="particle/destruction_dust_small.xml" attachpoint="root"/>
         <prop actor="particle/destruction_dust_small_gray.xml" attachpoint="root"/>

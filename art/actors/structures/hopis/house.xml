@@ -2,38 +2,19 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="base">
-      <props>
-        <prop actor="props/structures/decals/spart_3x3.xml" attachpoint="root"/>
-      </props>
+    <variant frequency="1" name="Scout_Tower">
+      <mesh>structural/hopi_house_a.dae</mesh>
       <textures>
         <texture file="structural/hopi_struct.png" name="baseTex"/>
         <texture file="structural/hopi_struct_spec.png" name="specTex"/>
         <texture file="structural/hopi_struct_norm.png" name="normTex"/>
-      </textures>
-    </variant>
-  </group>
-  <group>
-    <variant frequency="1" name="house a">
-      <mesh>structural/house_a_hopi.dae</mesh>
-      <textures>
         <texture file="structural/ao/hopi_house_a_ao.png" name="aoTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="house b">
-      <mesh>structural/house_b_hopi.dae</mesh>
-      <textures>
-        <texture file="structural/ao/hopi_house_b_ao.png" name="aoTex"/>
       </textures>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="ungarrisoned"/>
-    <variant name="garrisoned">
-      <props>
-        <prop actor="props/special/common/garrison_flag_mex.xml" attachpoint="garrisoned"/>
-      </props>
-    </variant>
+    <variant frequency="1" name="garrisoned"/>
   </group>
   <group>
     <variant frequency="1" name="alive"/>

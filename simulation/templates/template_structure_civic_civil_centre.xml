@@ -32,10 +32,10 @@
   </Attack>
   <BuildRestrictions>
     <!-- Nota: los soket no estaran en uso, solo cuando vea como hacerlos funcionar.-->
-    <PlacementType>socket</PlacementType>
+    <!--<PlacementType>socket</PlacementType>-->
     <Territory>own neutral</Territory>
     <Category>CivilCentre</Category>
-    <Sockets datatype="tokens">socket_civil_centre</Sockets>
+    <!--<Sockets datatype="tokens">socket_civil_centre</Sockets>-->
     <Distance>
       <FromClass>CivilCentre</FromClass>
       <MinDistance>200</MinDistance>

@@ -15,6 +15,6 @@
     <Static width="27.0" depth="27.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/mexicas/market.xml</Actor>
+    <Actor>structures/tarascans/market.xml</Actor>
   </VisualActor>
 </Entity>

@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Scout_Tower">
-      <mesh>structural/barracks_hopi.dae</mesh>
+      <mesh>structural/hopi_barracks.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
       </props>
@@ -17,11 +17,7 @@
   </group>
   <group>
     <variant frequency="1" name="ungarrisoned"/>
-    <variant name="garrisoned">
-      <props>
-        <prop actor="props/special/common/garrison_flag_mex.xml" attachpoint="garrisoned"/>
-      </props>
-    </variant>
+    <variant frequency="1" name="garrisoned"/>
   </group>
   <group>
     <variant frequency="1" name="alive"/>

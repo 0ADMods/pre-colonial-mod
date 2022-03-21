@@ -20,11 +20,6 @@
 		}
 	],
 	"CivBonuses": [
-		{
-			"Name": "Silver Owls",
-			"History": "The mines at Laureion in Attica provided Athens with a wealth of silver from which to mint her famous and highly prized coin, The Athenian Owl.",
-			"Description": "Workers +10% metal gather rate per phase advance."
-		}
 	],
 	"WallSets": [
 		"structures/wallset_palisade",
@@ -32,7 +27,7 @@
 	],
 	"StartEntities": [
 		{
-			"Template": "structures/civic_centre_socket_a"
+			"Template": "structures/{civ}/civic_centre"
 		},
 		{
 			"Template": "gaia/treasure/starting_resources_hopi"

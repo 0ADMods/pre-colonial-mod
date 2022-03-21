@@ -9,6 +9,6 @@
     <GenericName>Weapon Workshop</GenericName>
   </Identity>
   <VisualActor>
-    <Actor>structures/hopis/weapon_works.xml</Actor>
+    <Actor>structures/tarascans/weapon_works.xml</Actor>
   </VisualActor>
 </Entity>

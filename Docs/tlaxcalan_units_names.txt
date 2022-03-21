@@ -1,6 +1,0 @@
-Archer = Tlaxcallan Tequihua
-Atlat = Tlaxcallan Atlat
-Champion Atlat = Tlapalcoyotl(Red Coyote)
-Champion Fanatic = Tlilticoyotl(Black Coyote)
-Champion Spearman = ?(Tlaxcaltecan Garza Champion)
-Champion Swordman = Xiuhcoyotl(Blue Coyote)

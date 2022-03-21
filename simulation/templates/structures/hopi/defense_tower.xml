@@ -12,7 +12,7 @@
     <SpecificName>Tlapilcoyan</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="9.0" depth="9.0"/>
+    <Static width="15.0" depth="15.0"/>
   </Obstruction>
   <VisualActor>
     <FoundationActor>structures/carthaginians/fndn_defense_tower.xml</FoundationActor>

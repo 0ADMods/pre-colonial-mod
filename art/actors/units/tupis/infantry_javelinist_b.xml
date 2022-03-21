@@ -16,7 +16,7 @@
     <group>
      <variant frequency="100" name="1">
       <textures>
-        <texture file="skeletal/tupi/omagua__w_1.png" name="baseTex"/>
+        <texture file="skeletal/tupi/omagua_w_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

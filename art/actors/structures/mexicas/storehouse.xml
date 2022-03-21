@@ -15,7 +15,7 @@
   </group>
   <group>
     <variant frequency="1" name="storehouse">
-      <mesh>structural/storehouse_mex.dae</mesh>
+      <mesh>structural/mex_storehouse.dae</mesh>
       <textures>
         <texture file="structural/ao/storehouse_mexicas_ao.png" name="aoTex"/>
       </textures>

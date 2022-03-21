@@ -3,9 +3,6 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="base">
-      <props>
-        <prop actor="props/structures/decals/rome_corral_mud.xml" attachpoint="root"/>
-      </props>
       <textures>
         <texture file="structural/hopi_struct.png" name="baseTex"/>
         <texture file="structural/hopi_struct_spec.png" name="specTex"/>
@@ -15,7 +12,7 @@
   </group>
   <group>
     <variant frequency="1" name="farmstead">
-      <mesh>structural/farmstead_hopi.dae</mesh>
+      <mesh>structural/hopi_farmstead.dae</mesh>
       <textures>
         <texture file="structural/ao/hopi_farmstead_ao.png" name="aoTex"/>
       </textures>

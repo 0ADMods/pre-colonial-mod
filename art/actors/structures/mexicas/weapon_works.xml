@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="barracks">
-      <mesh>structural/weapon_workshop_mex.dae</mesh>
+      <mesh>structural/mex_blacksmith.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
       </props>
