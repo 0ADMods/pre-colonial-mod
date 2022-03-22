@@ -6,7 +6,7 @@
       <animations>
         <animation event="0.5" load="0" name="attack_ranged" speed="100"/>
       </animations>
-      <mesh>structural/tara_fortress.dae</mesh>
+      <mesh>structural/tlax_fortress.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_6x6.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
@@ -16,7 +16,7 @@
         <texture file="structural/tlax_struct.png" name="baseTex"/>
         <texture file="structural/tlax_struct_spec.png" name="specTex"/>
         <texture file="structural/tlax_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/tara_fortress_ao.png" name="aoTex"/>
+        <texture file="structural/ao/tlax_fortress_ao.png" name="aoTex"/>
       </textures>
     </variant>
   </group>
